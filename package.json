@@ -1,0 +1,38 @@
+{
+  "name": "autopngtuber-longvideos",
+  "version": "1.0.0",
+  "description": "Generador Autónomo de Videos Narrativos Largos (16:9, 1920x1080) para YouTube",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion bundle",
+    "render": "node scripts/pipeline.js",
+    "render:chapters": "node scripts/render_segments.js",
+    "assemble": "python scripts/assemble_video.py",
+    "tts": "python scripts/tts_engine.py",
+    "tts:force": "python scripts/tts_engine.py --force",
+    "validar": "node scripts/validar_guion.js",
+    "qa": "node scripts/qa_video.js",
+    "capitulos": "node scripts/generar_capitulos.js",
+    "metadata": "node scripts/generar_capitulos.js",
+    "generate:15": "python scripts/generar_15_videos.py",
+    "test": "node tests/test_runner.js"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.242",
+    "@remotion/tailwind": "^4.0.242",
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.242"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.7.2",
+    "zod": "^4.6.7"
+  }
+}

@@ -1,0 +1,3 @@
+<svg width="200" height="200" viewBox="-65 -65 130 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <ellipse cx="0" cy="-4" rx="16" ry="30" fill="#FACC15" stroke="#111827" stroke-width="6"/><path d="M -10 -14 L 10 -14 M -12 -2 L 12 -2 M -10 10 L 10 10 M 0 -28 L 0 18" stroke="#D97706" stroke-width="3"/><path d="M 0 28 C -24 22 -28 -4 -14 -10 C -14 10 -4 22 0 28 Z M 0 28 C 24 22 28 -4 14 -10 C 14 10 4 22 0 28 Z" fill="#22C55E" stroke="#111827" stroke-width="5" stroke-linejoin="round"/>
+</svg>

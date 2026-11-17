@@ -1,0 +1,39 @@
+<svg width="500" height="620" viewBox="-35 -40 470 545" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Efectos festivos de ambiente opcionales -->
+  
+  <!-- Sombra base -->
+  <ellipse cx="200" cy="472" rx="85" ry="14" fill="#E5E7EB" />
+  <!-- Capa trasera si aplica -->
+  
+  <!-- Piernas -->
+  <path d="M 200 330 L 175 395 L 155 460 M 200 330 L 225 395 L 245 460" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Torso -->
+  <path d="M 200 190 L 200 330" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Accesorios de cintura -->
+  
+  <!-- Brazos -->
+  <path d="M 200 218 L 155 245 L 182 195" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 200 218 L 245 245 L 218 195" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Accesorios de cuello delanteros -->
+  
+  <!-- Accesorios de postura -->
+  <path d="M 105 110 Q 95 125 105 140 M 295 110 Q 305 125 295 140 M 130 370 Q 120 390 130 410 M 270 370 Q 280 390 270 410" stroke="#6B7280" stroke-width="5" stroke-linecap="round" fill="none" />
+  <!-- Cabeza, expresion facial y accesorios de cabeza/cara -->
+  <g transform="translate(0, 7) rotate(0, 200, 115)">
+    <circle cx="200" cy="115" r="68" fill="#FFFFFF" stroke="#111827" stroke-width="12" />
+    <path d="M 160 88 L 190 78 M 240 88 L 210 78" stroke="#111827" stroke-width="6" stroke-linecap="round" fill="none" />
+<circle cx="175" cy="103" r="13" fill="#FFFFFF" stroke="#111827" stroke-width="6" />
+<circle cx="175" cy="103" r="3.5" fill="#111827" />
+<circle cx="225" cy="103" r="13" fill="#FFFFFF" stroke="#111827" stroke-width="6" />
+<circle cx="225" cy="103" r="3.5" fill="#111827" />
+<rect x="176" y="130" width="48" height="24" rx="10" fill="#111827" />
+<path d="M 184 134 L 216 134" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" />
+<path d="M 252 76 C 244 90 246 102 252 102 C 258 102 260 90 252 76 Z" fill="#38BDF8" stroke="#111827" stroke-width="3" />
+    
+    
+  </g>
+  <!-- Props integrados en manos y cabeza -->
+  
+  
+  
+</svg>

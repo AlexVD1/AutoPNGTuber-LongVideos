@@ -1,0 +1,407 @@
+{
+  "meta": {
+    "id": "doc_003_velocidad_luz",
+    "slug": "que_pasaria_viajar_velocidad_luz_relatividad",
+    "titulo": "¿Qué Pasaría si Viajaras a la Velocidad de la Luz? La Física de la Relatividad",
+    "premisa": "Si abordaras una nave que acelera progresivamente hacia la velocidad de la luz, el universo entero comenzaría a deformarse, el tiempo se detendría y la masa se volvería infinita.",
+    "gancho": "¿Qué le ocurre al espacio, al tiempo y a tu propio cuerpo cuando te aproximas al límite absoluto del universo?",
+    "categoria": "Science & Technology",
+    "duracionObjetivo": [
+      420,
+      520
+    ],
+    "fps": 30,
+    "dimensiones": {
+      "width": 1920,
+      "height": 1080
+    },
+    "idioma": "es",
+    "voz": "alex.conds.pt",
+    "musicaPrincipal": "bgm/bgm.mp3",
+    "volumenMusica": 0.12,
+    "fuentes": [
+      "Einstein, A. (1905). Zur Elektrodynamik bewegter Körper. Annalen der Physik.",
+      "Taylor, E. F., & Wheeler, J. A. (1992). Spacetime Physics. W. H. Freeman.",
+      "Rindler, W. (2006). Relativity: Special, General, and Cosmological. Oxford University Press."
+    ],
+    "tags": [
+      "relatividad",
+      "velocidad de la luz",
+      "einstein",
+      "fisica",
+      "tiempo",
+      "espacio",
+      "ciencia",
+      "documental"
+    ]
+  },
+  "capitulos": [
+    {
+      "id": "cap_1",
+      "numero": 1,
+      "titulo": "La Barrera Infranqueable de la Naturaleza",
+      "resumen": "El límite de trescientos mil kilómetros por segundo formulado por Maxwell y Einstein.",
+      "escenas": [
+        {
+          "id": 1,
+          "texto": "En la física clásica de Isaac Newton, la velocidad no tenía fronteras: con suficiente combustible y potencia en tus motores, podías acelerar indefinidamente hasta duplicar o triplicar cualquier récord previo.",
+          "tituloVisual": "LA FISICA CLASICA",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "plataforma_tren",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "Isaac Newton",
+            "velocidad",
+            "acelerar indefinidamente"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "analytical"
+        },
+        {
+          "id": 2,
+          "texto": "Pero en mil novecientos cinco, Albert Einstein demostró que el cosmos tiene un velocímetro absoluto grabado en su tejido: trescientos mil kilómetros por segundo. Nada con masa puede alcanzarla jamás, pero acercarse a ella desata fenómenos que desafían toda intuición humana.",
+          "tituloVisual": "300.000 KM/S",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "cabina_nave",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "Albert Einstein",
+            "trescientos mil kilómetros",
+            "velocímetro absoluto"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "eureka",
+          "infografia": {
+            "tipo": "dato_clave",
+            "titulo": "Constante Universal de la Luz (c)",
+            "subtitulo": "Velocidad exacta en el vacío",
+            "valorPrincipal": "299.792",
+            "unidad": "km por segundo",
+            "items": [
+              {
+                "etiqueta": "Vuelta a la Tierra",
+                "valor": "7.5 veces por segundo",
+                "porcentaje": 100,
+                "color": "#38BDF8"
+              },
+              {
+                "etiqueta": "Viaje a la Luna",
+                "valor": "1.28 segundos de trayecto",
+                "porcentaje": 90,
+                "color": "#FFE600"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cap_2",
+      "numero": 2,
+      "titulo": "Al Noventa por Ciento de la Luz: Aberración y Efecto Doppler",
+      "resumen": "La deformación visual del firmamento y el corrimiento al azul.",
+      "escenas": [
+        {
+          "id": 3,
+          "texto": "Imagina que enciendes los motores relativistas de tu nave y alcanzas el noventa por ciento de la velocidad de la luz. Miras por la ventana delantera y el universo ya no se parece a nada que conozcas.",
+          "tituloVisual": "0.9 DE LA LUZ",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "cabina_nave",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_transition.wav",
+          "volumenSfx": 0.22,
+          "palabrasClave": [
+            "motores relativistas",
+            "noventa por ciento",
+            "ventana delantera"
+          ],
+          "poseId": "standing_confident",
+          "expresion": "analytical"
+        },
+        {
+          "id": 4,
+          "texto": "Debido a la aberración de la luz, todas las estrellas situadas a tus lados y detrás de ti parecen curvarse hacia el frente en un túnel de visión en forma de cono. Al mismo tiempo, la luz estelar sufre un corrimiento al azul tan violento que las estrellas se tornan violetas y luego invisibles en rayos X.",
+          "tituloVisual": "EFECTO DOPPLER RELATIVISTA",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "tunel_relativista",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "aberración de la luz",
+            "corrimiento al azul",
+            "rayos X"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "eureka",
+          "infografia": {
+            "tipo": "comparacion",
+            "titulo": "Deformación del Campo Visual",
+            "subtitulo": "Concentración de fotones en la proa",
+            "valorPrincipal": "90° -> 25°",
+            "unidad": "ángulo de visión frontal",
+            "items": [
+              {
+                "etiqueta": "Estrellas traseras",
+                "valor": "Corrimiento al infrarrojo",
+                "porcentaje": 20,
+                "color": "#EF4444"
+              },
+              {
+                "etiqueta": "Estrellas delanteras",
+                "valor": "Comprimidas a rayos gamma",
+                "porcentaje": 100,
+                "color": "#A855F7"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cap_3",
+      "numero": 3,
+      "titulo": "La Contracción del Espacio de Lorentz",
+      "resumen": "La distancia entre galaxias aplastándose físicamente.",
+      "escenas": [
+        {
+          "id": 5,
+          "texto": "Si aumentas la velocidad al noventa y nueve punto nueve por ciento de la luz, entra en juego la contracción de Lorentz: el espacio mismo en la dirección del movimiento se encoge físicamente para ti.",
+          "tituloVisual": "CONTRACCION DE LONGITUD",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "tunel_relativista",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_transition.wav",
+          "volumenSfx": 0.22,
+          "palabrasClave": [
+            "noventa y nueve punto nueve",
+            "contracción de Lorentz",
+            "espacio se encoge"
+          ],
+          "poseId": "standing_confident",
+          "expresion": "analytical"
+        },
+        {
+          "id": 6,
+          "texto": "La distancia entre la Tierra y el centro de nuestra galaxia, que normalmente mide veintiséis mil años luz, se aplana frente a tu proa a tan solo ochocientos años luz. La nave no va más rápido dentro del espacio: el espacio se comprime ante ella.",
+          "tituloVisual": "ESPACIO APLASTADO",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "espacio_profundo",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "veintiséis mil años luz",
+            "ochocientos años luz",
+            "espacio se comprime"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "eureka",
+          "infografia": {
+            "tipo": "dato_clave",
+            "titulo": "Factor de Compresión Espacial",
+            "subtitulo": "A 99.9% de c (Factor Gamma = 22.4)",
+            "valorPrincipal": "22x",
+            "unidad": "reducción de distancia",
+            "items": [
+              {
+                "etiqueta": "Distancia real medida en Tierra",
+                "valor": "26.000 años luz",
+                "porcentaje": 100,
+                "color": "#94A3B8"
+              },
+              {
+                "etiqueta": "Distancia sentida en la nave",
+                "valor": "1.160 años luz",
+                "porcentaje": 5,
+                "color": "#38BDF8"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cap_4",
+      "numero": 4,
+      "titulo": "La Dilatación Extrema del Tiempo",
+      "resumen": "La paradoja del reloj congelado para el viajero interestelar.",
+      "escenas": [
+        {
+          "id": 7,
+          "texto": "Para ti dentro de la nave, tus latidos cardíacos, tu reloj de pulsera y tus pensamientos siguen corriendo con absoluta normalidad. Pero para el resto del universo, te has convertido en una estatua congelada en el tiempo.",
+          "tituloVisual": "RELOJES RELATIVOS",
+          "layout": "primer_plano",
+          "composicionVisual": "primer_plano",
+          "escenario": "cabina_nave",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "latidos cardíacos",
+            "reloj de pulsera",
+            "congelada en el tiempo"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "analytical"
+        },
+        {
+          "id": 8,
+          "texto": "Si viajas durante cinco años de tu tiempo personal a esa velocidad y luego decides frenar y dar la vuelta hacia la Tierra, al aterrizar descubrirás que en nuestro planeta han pasado mil años enteros: civilizaciones enteras habrán desaparecido y serás un arqueólogo del futuro.",
+          "tituloVisual": "UN SALTO DE MIL AÑOS",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "lunar",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "cinco años de tu tiempo",
+            "mil años enteros",
+            "arqueólogo del futuro"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "eureka",
+          "infografia": {
+            "tipo": "comparacion",
+            "titulo": "La Paradoja Temporal Gemelar",
+            "subtitulo": "Reloj de la nave vs Reloj terrestre",
+            "valorPrincipal": "1.000",
+            "unidad": "años en Tierra",
+            "items": [
+              {
+                "etiqueta": "Edad biológica del piloto",
+                "valor": "Envejece solo 5 años",
+                "porcentaje": 1,
+                "color": "#10B981"
+              },
+              {
+                "etiqueta": "Tiempo terrestre transcurrido",
+                "valor": "10 siglos completos",
+                "porcentaje": 100,
+                "color": "#FFE600"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cap_5",
+      "numero": 5,
+      "titulo": "La Masa Infinita y la Energía Inalcanzable",
+      "resumen": "Por qué la ecuación E=mc2 prohíbe alcanzar el 100% de la luz.",
+      "escenas": [
+        {
+          "id": 9,
+          "texto": "¿Por qué no podemos simplemente pisar el acelerador un poco más y alcanzar el cien por ciento exacto de la luz? La respuesta la tiene la famosa ecuación de Einstein: la energía y la masa son dos caras de la misma moneda.",
+          "tituloVisual": "E = MC²",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "laboratorio",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_transition.wav",
+          "volumenSfx": 0.22,
+          "palabrasClave": [
+            "acelerador",
+            "cien por ciento",
+            "energía y masa"
+          ],
+          "poseId": "standing_confident",
+          "expresion": "analytical"
+        },
+        {
+          "id": 10,
+          "texto": "Conforme te aproximas a la velocidad límite, cada julio de energía que inyectas a los motores ya no se traduce en más velocidad, sino que se convierte en masa inercial. Para alcanzar la velocidad de la luz, necesitarías más energía de la que existe en todas las estrellas del universo observable juntas.",
+          "tituloVisual": "ENERGIA INFINITA",
+          "layout": "primer_plano",
+          "composicionVisual": "primer_plano",
+          "escenario": "espacio_profundo",
+          "transicion": "whip_left",
+          "efectosCamara": [
+            "punch"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "masa inercial",
+            "velocidad de la luz",
+            "universo observable"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "shocked"
+        }
+      ]
+    },
+    {
+      "id": "cap_6",
+      "numero": 6,
+      "titulo": "La Vida de un Fotón: El Tiempo Cero",
+      "resumen": "Epílogo sobre las partículas de luz pura que no experimentan el tiempo.",
+      "escenas": [
+        {
+          "id": 11,
+          "texto": "Solo las partículas sin masa, como los fotones de luz, pueden viajar a esta velocidad. Y para un fotón, el tiempo sencillamente no existe: desde su nacimiento en el corazón de una estrella hasta su impacto en tu retina millones de años después, para la luz todo ocurre en un solo instante eterno.",
+          "tituloVisual": "EL INSTANTE ETERNO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "vacio",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_transition.wav",
+          "volumenSfx": 0.22,
+          "palabrasClave": [
+            "fotones de luz",
+            "tiempo no existe",
+            "instante eterno"
+          ],
+          "poseId": "standing_confident",
+          "expresion": "smile_soft"
+        }
+      ]
+    }
+  ]
+}

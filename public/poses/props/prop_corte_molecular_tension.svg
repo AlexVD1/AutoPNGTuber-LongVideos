@@ -1,0 +1,23 @@
+<svg width="200" height="200" viewBox="-65 -65 130 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="scale(1.15)">
+    <circle cx="0" cy="0" r="34" fill="#0F172A" stroke="#111827" stroke-width="6" />
+    <circle cx="0" cy="0" r="32" fill="none" stroke="#0284C7" stroke-width="12" />
+    <circle cx="0" cy="0" r="32" fill="none" stroke="#38BDF8" stroke-width="2" stroke-dasharray="4 3" />
+    <circle cx="0" cy="0" r="18.00" fill="#DC2626" stroke="#111827" stroke-width="3" />
+    <circle cx="0" cy="0" r="10.00" fill="#F97316" />
+    <g transform="rotate(0.00)">
+      <line x1="-16" y1="0" x2="16" y2="0" stroke="#FEF08A" stroke-width="2.5" />
+      <line x1="0" y1="-16" x2="0" y2="16" stroke="#FEF08A" stroke-width="2.5" />
+      <circle cx="-12" cy="0" r="2.5" fill="#FFFFFF" />
+      <circle cx="12" cy="0" r="2.5" fill="#FFFFFF" />
+      <circle cx="0" cy="-12" r="2.5" fill="#FFFFFF" />
+      <circle cx="0" cy="12" r="2.5" fill="#FFFFFF" />
+    </g>
+    <polygon points="0,-28 -4,-23 4,-23" fill="#38BDF8" />
+    <polygon points="0,28 -4,23 4,23" fill="#38BDF8" />
+    <polygon points="-28,0 -23,-4 -23,4" fill="#38BDF8" />
+    <polygon points="28,0 23,-4 23,4" fill="#38BDF8" />
+    <rect x="-44" y="38" width="88" height="12" rx="3" fill="#7C2D12" stroke="#111827" stroke-width="2"/>
+    <text x="0" y="46.5" font-family="'Arial Black', sans-serif" font-size="5" font-weight="900" fill="#FEF08A" text-anchor="middle">ESCUDO EXTERNO VS TENSIÓN NÚCLEO</text>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg width="200" height="200" viewBox="-65 -65 130 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="scale(1.15)">
+    <rect x="-44" y="24" width="88" height="12" rx="2" fill="#334155" stroke="#111827" stroke-width="4" />
+    <g transform="translate(0, 16) scale(0.65)">
+      <path d="M -24 0 C -24 -16 -6 -18 8 -4 C 18 4 28 2 34 -6 C 30 6 20 14 6 14 C -12 14 -24 10 -24 0 Z" fill="#E0F2FE" stroke="#111827" stroke-width="4" />
+      <circle cx="-16" cy="-4" r="6" fill="#FACC15" opacity="0.70" />
+      <line x1="-22" y1="-4" x2="-10" y2="-4" stroke="#FFFFFF" stroke-width="2" />
+      <line x1="-16" y1="-10" x2="-16" y2="2" stroke="#FFFFFF" stroke-width="2" />
+    </g>
+    <g transform="translate(0, -6) rotate(-22)">
+      <rect x="-18" y="-4" width="36" height="24" rx="4" fill="#64748B" stroke="#111827" stroke-width="4.5" />
+      <line x1="-18" y1="2" x2="18" y2="2" stroke="#94A3B8" stroke-width="3" />
+      <path d="M 0 -4 Q 0.00 -32 0 -58" stroke="#B45309" stroke-width="6" fill="none" stroke-linecap="round" />
+    </g>
+    <path d="M -26 12 Q -34 4 -28 -4 M 26 12 Q 34 4 28 -4" stroke="#38BDF8" stroke-width="3" fill="none" stroke-linecap="round" />
+    <rect x="-40" y="-36" width="80" height="12" rx="3" fill="#1E293B" stroke="#111827" stroke-width="2"/>
+    <text x="0" y="-27.5" font-family="'Arial Black', sans-serif" font-size="5.5" font-weight="900" fill="#FDE047" text-anchor="middle">REBOTE COMO TITANIO</text>
+  </g>
+</svg>

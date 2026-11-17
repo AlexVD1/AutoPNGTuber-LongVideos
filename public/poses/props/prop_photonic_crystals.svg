@@ -1,0 +1,27 @@
+<svg width="200" height="200" viewBox="-65 -65 130 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="scale(1.15)">
+    <!-- Tarjeta tecnológica con marco neo-brutalista -->
+    <rect x="-48" y="-46" width="96" height="92" rx="8" fill="#0B1329" stroke="#111827" stroke-width="5"/>
+    <rect x="-44" y="-42" width="88" height="84" rx="5" fill="#0F172A"/>
+
+    <!-- Rótulo superior -->
+    <rect x="-40" y="-39" width="80" height="14" rx="3" fill="#FFE600" stroke="#111827" stroke-width="3"/>
+    <text x="0" y="-29" font-family="'Arial Black', sans-serif" font-weight="900" font-size="7" fill="#111827" text-anchor="middle">RED FOTÓNICA DE GUANINA</text>
+
+    <!-- Rayo de luz solar incidente (blanco + halo amarillo) -->
+    <line x1="-38" y1="-22" x2="-8" y2="-2" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round"/>
+    <line x1="-38" y1="-22" x2="-8" y2="-2" stroke="#FEF08A" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+    <text x="-32" y="-12" font-family="'Arial Black', sans-serif" font-size="5" font-weight="900" fill="#FEF08A">LUZ</text>
+
+    <!-- Matriz de nanocristales activos -->
+    <polygon points="-36.88,-18.5 -33.08,-14 -36.88,-9.5 -40.67,-14" fill="#E0F2FE" stroke="#38BDF8" stroke-width="1.8"/><polygon points="-22.13,-18.5 -18.32,-14 -22.13,-9.5 -25.93,-14" fill="#E0F2FE" stroke="#38BDF8" stroke-width="1.8"/><polygon points="-7.38,-18.5 -3.58,-14 -7.38,-9.5 -11.18,-14" fill="#E0F2FE" stroke="#38BDF8" stroke-width="1.8"/><polygon points="7.38,-18.5 11.18,-14 7.38,-9.5 3.58,-14" fill="#E0F2FE" stroke="#38BDF8" stroke-width="1.8"/><polygon points="22.13,-18.5 25.93,-14 22.13,-9.5 18.32,-14" fill="#E0F2FE" stroke="#38BDF8" stroke-width="1.8"/><polygon points="36.88,-18.5 40.67,-14 36.88,-9.5 33.08,-14" fill="#E0F2FE" stroke="#38BDF8" stroke-width="1.8"/><polygon points="-29.50,-6.5 -25.70,-2 -29.50,2.5 -33.30,-2" fill="#E0F2FE" stroke="#38BDF8" stroke-width="1.8"/><polygon points="-14.75,-6.5 -10.95,-2 -14.75,2.5 -18.55,-2" fill="#E0F2FE" stroke="#38BDF8" stroke-width="1.8"/><polygon points="0.00,-6.5 3.80,-2 0.00,2.5 -3.80,-2" fill="#E0F2FE" stroke="#38BDF8" stroke-width="1.8"/><polygon points="14.75,-6.5 18.55,-2 14.75,2.5 10.95,-2" fill="#E0F2FE" stroke="#38BDF8" stroke-width="1.8"/><polygon points="29.50,-6.5 33.30,-2 29.50,2.5 25.70,-2" fill="#E0F2FE" stroke="#38BDF8" stroke-width="1.8"/><polygon points="44.25,-6.5 48.05,-2 44.25,2.5 40.45,-2" fill="#E0F2FE" stroke="#38BDF8" stroke-width="1.8"/><polygon points="-36.88,5.5 -33.08,10 -36.88,14.5 -40.67,10" fill="#E0F2FE" stroke="#38BDF8" stroke-width="1.8"/><polygon points="-22.13,5.5 -18.32,10 -22.13,14.5 -25.93,10" fill="#E0F2FE" stroke="#38BDF8" stroke-width="1.8"/><polygon points="-7.38,5.5 -3.58,10 -7.38,14.5 -11.18,10" fill="#E0F2FE" stroke="#38BDF8" stroke-width="1.8"/><polygon points="7.38,5.5 11.18,10 7.38,14.5 3.58,10" fill="#E0F2FE" stroke="#38BDF8" stroke-width="1.8"/><polygon points="22.13,5.5 25.93,10 22.13,14.5 18.32,10" fill="#E0F2FE" stroke="#38BDF8" stroke-width="1.8"/><polygon points="36.88,5.5 40.67,10 36.88,14.5 33.08,10" fill="#E0F2FE" stroke="#38BDF8" stroke-width="1.8"/>
+
+    <!-- Onda reflejada con longitud de onda variable según el espaciamiento -->
+    <path d="M -8 -2 Q 4 -8.00 14 -2 Q 24 4.00 36 -16" fill="none" stroke="hsl(105.00, 95%, 55%)" stroke-width="4.5" stroke-linecap="round"/>
+    <circle cx="36" cy="-16" r="4.00" fill="hsl(105.00, 95%, 55%)" opacity="0.6"/>
+
+    <!-- Display digital en tiempo real: Espaciamiento y longitud de onda -->
+    <rect x="-42" y="24" width="84" height="15" rx="3" fill="#1E293B" stroke="#111827" stroke-width="2.5"/>
+    <text x="0" y="34.5" font-family="'Arial Black', sans-serif" font-weight="900" font-size="6.5" fill="hsl(105.00, 95%, 55%)" text-anchor="middle">d = 180nm → AZUL (450nm)</text>
+  </g>
+</svg>

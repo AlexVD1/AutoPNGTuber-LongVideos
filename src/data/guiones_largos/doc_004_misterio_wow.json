@@ -1,0 +1,6517 @@
+{
+  "meta": {
+    "id": "doc_004_senal_wow",
+    "slug": "misterio_senal_wow_1977",
+    "titulo": "El Misterio de la Señal Wow: ¿Qué Escuchamos Realmente en 1977?",
+    "premisa": "En agosto de 1977, un radiotelescopio en Ohio captó una señal de radio treinta veces más potente que el ruido cósmico de fondo. Duró exactamente setenta y dos segundos y jamás volvió a repetirse.",
+    "gancho": "¿Recibimos en 1977 una transmisión extraterrestre que aún no logramos descifrar?",
+    "categoria": "Science & Technology",
+    "duracionObjetivo": [
+      420,
+      500
+    ],
+    "fps": 30,
+    "dimensiones": {
+      "width": 1920,
+      "height": 1080
+    },
+    "idioma": "es",
+    "voz": "alex.conds.pt",
+    "musicaPrincipal": "bgm/bgm.mp3",
+    "volumenMusica": 0.12,
+    "fuentes": [
+      "Ehman, J. R. (1977). The 'Big Ear' Wow! Signal Analysis. Ohio State University.",
+      "Gray, R. H. (2012). The Elusive WOW: Searching for Extraterrestrial Intelligence.",
+      "Paris, A. (2017). Hydrogen Line Observations and the Cometary Hypothesis."
+    ],
+    "tags": [
+      "astronomia",
+      "senal wow",
+      "seti",
+      "universo",
+      "ciencia",
+      "espacio",
+      "radiotelescopio"
+    ]
+  },
+  "capitulos": [
+    {
+      "id": "cap_1",
+      "numero": 1,
+      "titulo": "La Noche del 15 de Agosto de 1977",
+      "resumen": "El radiotelescopio Big Ear y el hallazgo de Jerry Ehman en el papel continuo.",
+      "escenas": [
+        {
+          "id": 1,
+          "texto": "La noche del quince de agosto de mil novecientos setenta y siete, en un rincón apartado de Ohio, un radiotelescopio apodado Big Ear escaneaba pacientemente el firmamento. El observatorio no tenía pantallas a color ni procesadores modernos; todo se registraba mecánicamente sobre rollos de papel continuo mediante una impresora matricial que zumbaba en la penumbra. El joven astrónomo voluntario Jerry Ehman revisaba pilas de datos rutinarios cuando de pronto sus ojos se toparon con algo imposible: una columna vertical de seis caracteres alfanuméricos que rompía por completo la monotonía del ruido cósmico. Incapaz de contener su asombro, tomó un bolígrafo rojo, trazó un círculo tembloroso alrededor de la secuencia y escribió una sola palabra al margen: Guau.",
+          "tituloVisual": "OHIO, 15 DE AGOSTO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "habitacion_noche",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "quince de agosto",
+            "radiotelescopio",
+            "impresora matricial",
+            "Jerry Ehman"
+          ],
+          "poseId": "reading_clipboard",
+          "expresion": "shocked",
+          "duracionSegundos": 38.41,
+          "palabras": [
+            {
+              "palabra": "La",
+              "inicioMs": 0,
+              "finMs": 180
+            },
+            {
+              "palabra": "noche",
+              "inicioMs": 180,
+              "finMs": 420
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 420,
+              "finMs": 600
+            },
+            {
+              "palabra": "quince",
+              "inicioMs": 600,
+              "finMs": 840
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 840,
+              "finMs": 1100
+            },
+            {
+              "palabra": "agosto",
+              "inicioMs": 1100,
+              "finMs": 1360
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1360,
+              "finMs": 1560
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 1560,
+              "finMs": 1707
+            },
+            {
+              "palabra": "novecientos",
+              "inicioMs": 1707,
+              "finMs": 1853
+            },
+            {
+              "palabra": "setenta",
+              "inicioMs": 1853,
+              "finMs": 2000
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 2000,
+              "finMs": 2147
+            },
+            {
+              "palabra": "siete",
+              "inicioMs": 2147,
+              "finMs": 2293
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 2440,
+              "finMs": 2720
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 2720,
+              "finMs": 2840
+            },
+            {
+              "palabra": "rincón",
+              "inicioMs": 2840,
+              "finMs": 3120
+            },
+            {
+              "palabra": "apartado",
+              "inicioMs": 3120,
+              "finMs": 3620
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3620,
+              "finMs": 3780
+            },
+            {
+              "palabra": "Ohio",
+              "inicioMs": 3780,
+              "finMs": 4060
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 4260,
+              "finMs": 4420
+            },
+            {
+              "palabra": "radiotelescopio",
+              "inicioMs": 4540,
+              "finMs": 5180
+            },
+            {
+              "palabra": "apodado",
+              "inicioMs": 5180,
+              "finMs": 5540
+            },
+            {
+              "palabra": "Big",
+              "inicioMs": 5540,
+              "finMs": 5940
+            },
+            {
+              "palabra": "Ear",
+              "inicioMs": 5940,
+              "finMs": 6010
+            },
+            {
+              "palabra": "escaneaba",
+              "inicioMs": 6080,
+              "finMs": 6480
+            },
+            {
+              "palabra": "pacientemente",
+              "inicioMs": 6480,
+              "finMs": 7060
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 7060,
+              "finMs": 7280
+            },
+            {
+              "palabra": "firmamento",
+              "inicioMs": 7280,
+              "finMs": 7820
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 8040,
+              "finMs": 8160
+            },
+            {
+              "palabra": "observatorio",
+              "inicioMs": 8160,
+              "finMs": 8660
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 8660,
+              "finMs": 8800
+            },
+            {
+              "palabra": "tenía",
+              "inicioMs": 8800,
+              "finMs": 9020
+            },
+            {
+              "palabra": "pantallas",
+              "inicioMs": 9020,
+              "finMs": 9440
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 9440,
+              "finMs": 9580
+            },
+            {
+              "palabra": "color",
+              "inicioMs": 9580,
+              "finMs": 9740
+            },
+            {
+              "palabra": "ni",
+              "inicioMs": 9740,
+              "finMs": 9920
+            },
+            {
+              "palabra": "procesadores",
+              "inicioMs": 9920,
+              "finMs": 10420
+            },
+            {
+              "palabra": "modernos",
+              "inicioMs": 10420,
+              "finMs": 11040
+            },
+            {
+              "palabra": "todo",
+              "inicioMs": 11220,
+              "finMs": 11380
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 11380,
+              "finMs": 11540
+            },
+            {
+              "palabra": "registraba",
+              "inicioMs": 11540,
+              "finMs": 12020
+            },
+            {
+              "palabra": "mecánicamente",
+              "inicioMs": 12020,
+              "finMs": 12620
+            },
+            {
+              "palabra": "sobre",
+              "inicioMs": 12620,
+              "finMs": 13040
+            },
+            {
+              "palabra": "rollos",
+              "inicioMs": 13180,
+              "finMs": 13320
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 13320,
+              "finMs": 13480
+            },
+            {
+              "palabra": "papel",
+              "inicioMs": 13480,
+              "finMs": 13640
+            },
+            {
+              "palabra": "continuo",
+              "inicioMs": 13800,
+              "finMs": 14360
+            },
+            {
+              "palabra": "mediante",
+              "inicioMs": 14500,
+              "finMs": 14760
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 14760,
+              "finMs": 14960
+            },
+            {
+              "palabra": "impresora",
+              "inicioMs": 14960,
+              "finMs": 15440
+            },
+            {
+              "palabra": "matricial",
+              "inicioMs": 15440,
+              "finMs": 15960
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 15960,
+              "finMs": 16160
+            },
+            {
+              "palabra": "zumbaba",
+              "inicioMs": 16160,
+              "finMs": 16480
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 16480,
+              "finMs": 16660
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 16660,
+              "finMs": 16720
+            },
+            {
+              "palabra": "penumbra",
+              "inicioMs": 16720,
+              "finMs": 17240
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 17440,
+              "finMs": 17560
+            },
+            {
+              "palabra": "joven",
+              "inicioMs": 17560,
+              "finMs": 17760
+            },
+            {
+              "palabra": "astrónomo",
+              "inicioMs": 17760,
+              "finMs": 18180
+            },
+            {
+              "palabra": "voluntario",
+              "inicioMs": 18180,
+              "finMs": 18740
+            },
+            {
+              "palabra": "Jerry",
+              "inicioMs": 18740,
+              "finMs": 18960
+            },
+            {
+              "palabra": "Ehman",
+              "inicioMs": 18960,
+              "finMs": 19380
+            },
+            {
+              "palabra": "revisaba",
+              "inicioMs": 19380,
+              "finMs": 19880
+            },
+            {
+              "palabra": "pilas",
+              "inicioMs": 19880,
+              "finMs": 20220
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 20220,
+              "finMs": 20320
+            },
+            {
+              "palabra": "datos",
+              "inicioMs": 20320,
+              "finMs": 20500
+            },
+            {
+              "palabra": "rutinarios",
+              "inicioMs": 20500,
+              "finMs": 21080
+            },
+            {
+              "palabra": "cuando",
+              "inicioMs": 21080,
+              "finMs": 21560
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 21560,
+              "finMs": 21720
+            },
+            {
+              "palabra": "pronto",
+              "inicioMs": 21720,
+              "finMs": 21940
+            },
+            {
+              "palabra": "sus",
+              "inicioMs": 21940,
+              "finMs": 22180
+            },
+            {
+              "palabra": "ojos",
+              "inicioMs": 22180,
+              "finMs": 22460
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 22460,
+              "finMs": 22620
+            },
+            {
+              "palabra": "toparon",
+              "inicioMs": 22620,
+              "finMs": 22920
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 22920,
+              "finMs": 23100
+            },
+            {
+              "palabra": "algo",
+              "inicioMs": 23100,
+              "finMs": 23300
+            },
+            {
+              "palabra": "imposible",
+              "inicioMs": 23300,
+              "finMs": 23880
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 24500,
+              "finMs": 24760
+            },
+            {
+              "palabra": "columna",
+              "inicioMs": 24760,
+              "finMs": 25180
+            },
+            {
+              "palabra": "vertical",
+              "inicioMs": 25180,
+              "finMs": 25560
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 25560,
+              "finMs": 25800
+            },
+            {
+              "palabra": "seis",
+              "inicioMs": 25800,
+              "finMs": 25980
+            },
+            {
+              "palabra": "caracteres",
+              "inicioMs": 25980,
+              "finMs": 26560
+            },
+            {
+              "palabra": "alfanuméricos",
+              "inicioMs": 26560,
+              "finMs": 27360
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 27360,
+              "finMs": 27460
+            },
+            {
+              "palabra": "rompía",
+              "inicioMs": 27460,
+              "finMs": 27780
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 27780,
+              "finMs": 27960
+            },
+            {
+              "palabra": "completo",
+              "inicioMs": 27960,
+              "finMs": 28380
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 28380,
+              "finMs": 28580
+            },
+            {
+              "palabra": "monotonía",
+              "inicioMs": 28580,
+              "finMs": 29060
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 29060,
+              "finMs": 29240
+            },
+            {
+              "palabra": "ruido",
+              "inicioMs": 29240,
+              "finMs": 29460
+            },
+            {
+              "palabra": "cósmico",
+              "inicioMs": 29460,
+              "finMs": 30000
+            },
+            {
+              "palabra": "Incapaz",
+              "inicioMs": 30220,
+              "finMs": 30440
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 30440,
+              "finMs": 30600
+            },
+            {
+              "palabra": "contener",
+              "inicioMs": 30600,
+              "finMs": 30960
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 30960,
+              "finMs": 31140
+            },
+            {
+              "palabra": "asombro",
+              "inicioMs": 31140,
+              "finMs": 31580
+            },
+            {
+              "palabra": "tomó",
+              "inicioMs": 31720,
+              "finMs": 31900
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 31900,
+              "finMs": 32020
+            },
+            {
+              "palabra": "bolígrafo",
+              "inicioMs": 32020,
+              "finMs": 32540
+            },
+            {
+              "palabra": "rojo",
+              "inicioMs": 32540,
+              "finMs": 32940
+            },
+            {
+              "palabra": "trazó",
+              "inicioMs": 33300,
+              "finMs": 33520
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 33520,
+              "finMs": 33760
+            },
+            {
+              "palabra": "círculo",
+              "inicioMs": 33760,
+              "finMs": 34200
+            },
+            {
+              "palabra": "tembloroso",
+              "inicioMs": 34200,
+              "finMs": 34760
+            },
+            {
+              "palabra": "alrededor",
+              "inicioMs": 34760,
+              "finMs": 35040
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 35040,
+              "finMs": 35340
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 35340,
+              "finMs": 35420
+            },
+            {
+              "palabra": "secuencia",
+              "inicioMs": 35420,
+              "finMs": 35920
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 35920,
+              "finMs": 36120
+            },
+            {
+              "palabra": "escribió",
+              "inicioMs": 36120,
+              "finMs": 36580
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 36580,
+              "finMs": 36840
+            },
+            {
+              "palabra": "sola",
+              "inicioMs": 36840,
+              "finMs": 37060
+            },
+            {
+              "palabra": "palabra",
+              "inicioMs": 37060,
+              "finMs": 37380
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 37380,
+              "finMs": 37600
+            },
+            {
+              "palabra": "margen",
+              "inicioMs": 37600,
+              "finMs": 37920
+            },
+            {
+              "palabra": "Guau",
+              "inicioMs": 37920,
+              "finMs": 38040
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "texto": "Para entender la conmoción de Ehman hay que mirar cómo registraba el telescopio. Cada carácter en el papel representaba la potencia de la señal recibida en intervalos de doce segundos. Un espacio en blanco era ruido mínimo, los números del uno al nueve medían potencias crecientes, y cuando la intensidad superaba la cifra nueve, el sistema pasaba a letras: la A valía diez, la B once, y así sucesivamente. La señal captada aquella noche no fue un destello errático: comenzó con un seis, escaló suavemente a la letra E, alcanzó la cúspide con una Q y una J, y volvió a descender con un cinco. Había alcanzado una potencia treinta veces superior a cualquier murmullo natural del espacio profundo.",
+          "tituloVisual": "CODIGO 6EQUJ5",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "doce segundos",
+            "escala alfanumérica",
+            "treinta veces",
+            "potencia"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "analytical",
+          "infografia": {
+            "tipo": "dato_clave",
+            "titulo": "Escala de Potencia",
+            "subtitulo": "Secuencia Alfanumérica 6EQUJ5",
+            "valorPrincipal": "30x",
+            "unidad": "sobre el fondo",
+            "items": [
+              {
+                "etiqueta": "Q (Pico máximo)",
+                "valor": "Intensidad 26",
+                "porcentaje": 100,
+                "color": "#FFE600"
+              },
+              {
+                "etiqueta": "Ruido promedio",
+                "valor": "Intensidad 1 a 2",
+                "porcentaje": 8,
+                "color": "#94A3B8"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 35.698,
+          "palabras": [
+            {
+              "palabra": "Para",
+              "inicioMs": 0,
+              "finMs": 220
+            },
+            {
+              "palabra": "entender",
+              "inicioMs": 220,
+              "finMs": 560
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 560,
+              "finMs": 740
+            },
+            {
+              "palabra": "conmoción",
+              "inicioMs": 740,
+              "finMs": 1220
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1220,
+              "finMs": 1420
+            },
+            {
+              "palabra": "Ehman",
+              "inicioMs": 1420,
+              "finMs": 1640
+            },
+            {
+              "palabra": "hay",
+              "inicioMs": 1780,
+              "finMs": 1860
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 1860,
+              "finMs": 1960
+            },
+            {
+              "palabra": "mirar",
+              "inicioMs": 1960,
+              "finMs": 2220
+            },
+            {
+              "palabra": "cómo",
+              "inicioMs": 2220,
+              "finMs": 2540
+            },
+            {
+              "palabra": "registraba",
+              "inicioMs": 2540,
+              "finMs": 3140
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 3140,
+              "finMs": 3320
+            },
+            {
+              "palabra": "telescopio",
+              "inicioMs": 3320,
+              "finMs": 3920
+            },
+            {
+              "palabra": "Cada",
+              "inicioMs": 4100,
+              "finMs": 4300
+            },
+            {
+              "palabra": "carácter",
+              "inicioMs": 4300,
+              "finMs": 4740
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 4740,
+              "finMs": 4860
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 4860,
+              "finMs": 4980
+            },
+            {
+              "palabra": "papel",
+              "inicioMs": 4980,
+              "finMs": 5180
+            },
+            {
+              "palabra": "representaba",
+              "inicioMs": 5180,
+              "finMs": 5860
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5860,
+              "finMs": 6000
+            },
+            {
+              "palabra": "potencia",
+              "inicioMs": 6000,
+              "finMs": 6400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6400,
+              "finMs": 6520
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 6520,
+              "finMs": 6680
+            },
+            {
+              "palabra": "señal",
+              "inicioMs": 6680,
+              "finMs": 7020
+            },
+            {
+              "palabra": "recibida",
+              "inicioMs": 7020,
+              "finMs": 7190
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 7360,
+              "finMs": 7460
+            },
+            {
+              "palabra": "intervalos",
+              "inicioMs": 7460,
+              "finMs": 7940
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 7940,
+              "finMs": 8060
+            },
+            {
+              "palabra": "doce",
+              "inicioMs": 8060,
+              "finMs": 8150
+            },
+            {
+              "palabra": "segundos",
+              "inicioMs": 8240,
+              "finMs": 8700
+            },
+            {
+              "palabra": "Un",
+              "inicioMs": 8960,
+              "finMs": 9060
+            },
+            {
+              "palabra": "espacio",
+              "inicioMs": 9060,
+              "finMs": 9360
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 9360,
+              "finMs": 9580
+            },
+            {
+              "palabra": "blanco",
+              "inicioMs": 9580,
+              "finMs": 9900
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 9900,
+              "finMs": 10000
+            },
+            {
+              "palabra": "ruido",
+              "inicioMs": 10000,
+              "finMs": 10300
+            },
+            {
+              "palabra": "mínimo",
+              "inicioMs": 10300,
+              "finMs": 10600
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 10760,
+              "finMs": 10900
+            },
+            {
+              "palabra": "números",
+              "inicioMs": 10900,
+              "finMs": 11120
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 11120,
+              "finMs": 11320
+            },
+            {
+              "palabra": "uno",
+              "inicioMs": 11320,
+              "finMs": 11420
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 11420,
+              "finMs": 11520
+            },
+            {
+              "palabra": "nueve",
+              "inicioMs": 11620,
+              "finMs": 12020
+            },
+            {
+              "palabra": "medían",
+              "inicioMs": 12020,
+              "finMs": 12400
+            },
+            {
+              "palabra": "potencias",
+              "inicioMs": 12400,
+              "finMs": 12880
+            },
+            {
+              "palabra": "crecientes",
+              "inicioMs": 12880,
+              "finMs": 13660
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 13900,
+              "finMs": 13980
+            },
+            {
+              "palabra": "cuando",
+              "inicioMs": 13980,
+              "finMs": 14180
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 14180,
+              "finMs": 14360
+            },
+            {
+              "palabra": "intensidad",
+              "inicioMs": 14360,
+              "finMs": 14840
+            },
+            {
+              "palabra": "superaba",
+              "inicioMs": 14840,
+              "finMs": 15280
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 15280,
+              "finMs": 15460
+            },
+            {
+              "palabra": "cifra",
+              "inicioMs": 15460,
+              "finMs": 15720
+            },
+            {
+              "palabra": "nueve",
+              "inicioMs": 15720,
+              "finMs": 16010
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 16300,
+              "finMs": 16380
+            },
+            {
+              "palabra": "sistema",
+              "inicioMs": 16380,
+              "finMs": 16680
+            },
+            {
+              "palabra": "pasaba",
+              "inicioMs": 16680,
+              "finMs": 17100
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 17100,
+              "finMs": 17225
+            },
+            {
+              "palabra": "letras",
+              "inicioMs": 17100,
+              "finMs": 17520
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 17780,
+              "finMs": 17860
+            },
+            {
+              "palabra": "A",
+              "inicioMs": 17860,
+              "finMs": 17985
+            },
+            {
+              "palabra": "valía",
+              "inicioMs": 17860,
+              "finMs": 18120
+            },
+            {
+              "palabra": "diez",
+              "inicioMs": 18120,
+              "finMs": 18420
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 18720,
+              "finMs": 18800
+            },
+            {
+              "palabra": "B",
+              "inicioMs": 18800,
+              "finMs": 18920
+            },
+            {
+              "palabra": "once",
+              "inicioMs": 18920,
+              "finMs": 19070
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 19220,
+              "finMs": 19500
+            },
+            {
+              "palabra": "así",
+              "inicioMs": 19500,
+              "finMs": 19740
+            },
+            {
+              "palabra": "sucesivamente",
+              "inicioMs": 19740,
+              "finMs": 20320
+            },
+            {
+              "palabra": "La",
+              "inicioMs": 20760,
+              "finMs": 20840
+            },
+            {
+              "palabra": "señal",
+              "inicioMs": 20840,
+              "finMs": 21120
+            },
+            {
+              "palabra": "captada",
+              "inicioMs": 21120,
+              "finMs": 21440
+            },
+            {
+              "palabra": "aquella",
+              "inicioMs": 21640,
+              "finMs": 21740
+            },
+            {
+              "palabra": "noche",
+              "inicioMs": 21740,
+              "finMs": 21980
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 21980,
+              "finMs": 22140
+            },
+            {
+              "palabra": "fue",
+              "inicioMs": 22140,
+              "finMs": 22300
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 22300,
+              "finMs": 22440
+            },
+            {
+              "palabra": "destello",
+              "inicioMs": 22440,
+              "finMs": 22780
+            },
+            {
+              "palabra": "errático",
+              "inicioMs": 22780,
+              "finMs": 23120
+            },
+            {
+              "palabra": "comenzó",
+              "inicioMs": 23340,
+              "finMs": 23600
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 23600,
+              "finMs": 23760
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 23760,
+              "finMs": 23880
+            },
+            {
+              "palabra": "seis",
+              "inicioMs": 23880,
+              "finMs": 24070
+            },
+            {
+              "palabra": "escaló",
+              "inicioMs": 24260,
+              "finMs": 24460
+            },
+            {
+              "palabra": "suavemente",
+              "inicioMs": 24460,
+              "finMs": 24880
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 24880,
+              "finMs": 25140
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 25140,
+              "finMs": 25200
+            },
+            {
+              "palabra": "letra",
+              "inicioMs": 25200,
+              "finMs": 25560
+            },
+            {
+              "palabra": "E",
+              "inicioMs": 25560,
+              "finMs": 25840
+            },
+            {
+              "palabra": "alcanzó",
+              "inicioMs": 26360,
+              "finMs": 26800
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 26800,
+              "finMs": 26920
+            },
+            {
+              "palabra": "cúspide",
+              "inicioMs": 26920,
+              "finMs": 27360
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 27360,
+              "finMs": 27500
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 27500,
+              "finMs": 27680
+            },
+            {
+              "palabra": "Q",
+              "inicioMs": 27680,
+              "finMs": 27727
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 27727,
+              "finMs": 27773
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 27820,
+              "finMs": 27980
+            },
+            {
+              "palabra": "J",
+              "inicioMs": 27980,
+              "finMs": 28120
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 28260,
+              "finMs": 28500
+            },
+            {
+              "palabra": "volvió",
+              "inicioMs": 28500,
+              "finMs": 28740
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 28740,
+              "finMs": 28860
+            },
+            {
+              "palabra": "descender",
+              "inicioMs": 28860,
+              "finMs": 29140
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 29140,
+              "finMs": 29320
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 29320,
+              "finMs": 29460
+            },
+            {
+              "palabra": "cinco",
+              "inicioMs": 29460,
+              "finMs": 29630
+            },
+            {
+              "palabra": "Había",
+              "inicioMs": 29800,
+              "finMs": 30160
+            },
+            {
+              "palabra": "alcanzado",
+              "inicioMs": 30160,
+              "finMs": 30760
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 30760,
+              "finMs": 30920
+            },
+            {
+              "palabra": "potencia",
+              "inicioMs": 30920,
+              "finMs": 31460
+            },
+            {
+              "palabra": "treinta",
+              "inicioMs": 31460,
+              "finMs": 31840
+            },
+            {
+              "palabra": "veces",
+              "inicioMs": 31840,
+              "finMs": 32180
+            },
+            {
+              "palabra": "superior",
+              "inicioMs": 32180,
+              "finMs": 32680
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 32680,
+              "finMs": 32880
+            },
+            {
+              "palabra": "cualquier",
+              "inicioMs": 32880,
+              "finMs": 33160
+            },
+            {
+              "palabra": "murmullo",
+              "inicioMs": 33160,
+              "finMs": 33740
+            },
+            {
+              "palabra": "natural",
+              "inicioMs": 33740,
+              "finMs": 34040
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 34040,
+              "finMs": 34300
+            },
+            {
+              "palabra": "espacio",
+              "inicioMs": 34300,
+              "finMs": 34660
+            },
+            {
+              "palabra": "profundo",
+              "inicioMs": 34660,
+              "finMs": 35240
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 74.11
+    },
+    {
+      "id": "cap_2",
+      "numero": 2,
+      "titulo": "La Frecuencia Sagrada: 1420 Megahercios",
+      "resumen": "Por qué la señal coincidió con la línea de emisión del hidrógeno neutro.",
+      "escenas": [
+        {
+          "id": 3,
+          "texto": "Lo que verdaderamente heló la sangre de los astrofísicos no fue solo su asombrosa potencia, sino la frecuencia exacta en la que vibraba: mil cuatrocientos veinte megahercios. Dieciocho años antes, en mil novecientos cincuenta y nueve, los físicos Giuseppe Cocconi y Philip Morrison habían publicado un célebre artículo en la revista Nature proponiendo que si una civilización extraterrestre intentara comunicarse con otras especies a través del abismo interestelar, elegiría inevitablemente esa longitud de onda. Es la frecuencia natural a la que oscila el hidrógeno neutro, el elemento químico más abundante y ubicuo del cosmos. Emitir en mil cuatrocientos veinte megahercios era como sintonizar la radio en la única estación común que todo observador inteligente en la galaxia debería conocer.",
+          "tituloVisual": "1420 MEGAHERCIOS",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "mil cuatrocientos veinte",
+            "hidrógeno neutro",
+            "Cocconi y Morrison",
+            "radio interestelar"
+          ],
+          "poseId": "holding_presentation_board",
+          "expresion": "eureka",
+          "infografia": {
+            "tipo": "tarjeta_concepto",
+            "titulo": "El Dial Cósmico",
+            "subtitulo": "Línea de Hidrógeno de 21 Centímetros",
+            "valorPrincipal": "1420.4",
+            "unidad": "MHz",
+            "items": [
+              {
+                "etiqueta": "Elemento",
+                "valor": "Hidrógeno Neutro (H I)",
+                "porcentaje": 100,
+                "color": "#38BDF8"
+              },
+              {
+                "etiqueta": "Propósito SETI",
+                "valor": "Canal Universal de Transmisión",
+                "porcentaje": 95,
+                "color": "#FFE600"
+              }
+            ],
+            "colorAcento": "#38BDF8"
+          },
+          "duracionSegundos": 41.122,
+          "palabras": [
+            {
+              "palabra": "Lo",
+              "inicioMs": 0,
+              "finMs": 200
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 200,
+              "finMs": 340
+            },
+            {
+              "palabra": "verdaderamente",
+              "inicioMs": 340,
+              "finMs": 960
+            },
+            {
+              "palabra": "heló",
+              "inicioMs": 1360,
+              "finMs": 1480
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 1480,
+              "finMs": 1605
+            },
+            {
+              "palabra": "sangre",
+              "inicioMs": 1480,
+              "finMs": 2000
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2000,
+              "finMs": 2100
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 2100,
+              "finMs": 2240
+            },
+            {
+              "palabra": "astrofísicos",
+              "inicioMs": 2240,
+              "finMs": 2960
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 3180,
+              "finMs": 3300
+            },
+            {
+              "palabra": "fue",
+              "inicioMs": 3300,
+              "finMs": 3460
+            },
+            {
+              "palabra": "solo",
+              "inicioMs": 3460,
+              "finMs": 3700
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 3700,
+              "finMs": 3920
+            },
+            {
+              "palabra": "asombrosa",
+              "inicioMs": 3920,
+              "finMs": 4380
+            },
+            {
+              "palabra": "potencia",
+              "inicioMs": 4380,
+              "finMs": 4960
+            },
+            {
+              "palabra": "sino",
+              "inicioMs": 5220,
+              "finMs": 5400
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5400,
+              "finMs": 5580
+            },
+            {
+              "palabra": "frecuencia",
+              "inicioMs": 5580,
+              "finMs": 6120
+            },
+            {
+              "palabra": "exacta",
+              "inicioMs": 6120,
+              "finMs": 6700
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 6700,
+              "finMs": 6880
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 6880,
+              "finMs": 6980
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 6980,
+              "finMs": 7140
+            },
+            {
+              "palabra": "vibraba",
+              "inicioMs": 7140,
+              "finMs": 7580
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 7580,
+              "finMs": 7880
+            },
+            {
+              "palabra": "cuatrocientos",
+              "inicioMs": 7880,
+              "finMs": 8180
+            },
+            {
+              "palabra": "veinte",
+              "inicioMs": 8180,
+              "finMs": 8480
+            },
+            {
+              "palabra": "megahercios",
+              "inicioMs": 8780,
+              "finMs": 9560
+            },
+            {
+              "palabra": "Dieciocho",
+              "inicioMs": 9560,
+              "finMs": 9870
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 10180,
+              "finMs": 10500
+            },
+            {
+              "palabra": "antes",
+              "inicioMs": 10500,
+              "finMs": 10920
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 11640,
+              "finMs": 12060
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 12060,
+              "finMs": 12227
+            },
+            {
+              "palabra": "novecientos",
+              "inicioMs": 12227,
+              "finMs": 12393
+            },
+            {
+              "palabra": "cincuenta",
+              "inicioMs": 12227,
+              "finMs": 12267
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 12227,
+              "finMs": 12287
+            },
+            {
+              "palabra": "nueve",
+              "inicioMs": 12287,
+              "finMs": 12353
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 12420,
+              "finMs": 12440
+            },
+            {
+              "palabra": "físicos",
+              "inicioMs": 12440,
+              "finMs": 12900
+            },
+            {
+              "palabra": "Giuseppe",
+              "inicioMs": 12900,
+              "finMs": 13025
+            },
+            {
+              "palabra": "Cocconi",
+              "inicioMs": 12900,
+              "finMs": 13780
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 13780,
+              "finMs": 13850
+            },
+            {
+              "palabra": "Philip",
+              "inicioMs": 13920,
+              "finMs": 14080
+            },
+            {
+              "palabra": "Morrison",
+              "inicioMs": 14080,
+              "finMs": 14520
+            },
+            {
+              "palabra": "habían",
+              "inicioMs": 14900,
+              "finMs": 15080
+            },
+            {
+              "palabra": "publicado",
+              "inicioMs": 15080,
+              "finMs": 15620
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 15620,
+              "finMs": 15740
+            },
+            {
+              "palabra": "célebre",
+              "inicioMs": 15740,
+              "finMs": 16080
+            },
+            {
+              "palabra": "artículo",
+              "inicioMs": 16080,
+              "finMs": 16460
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 16460,
+              "finMs": 16640
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 16640,
+              "finMs": 16720
+            },
+            {
+              "palabra": "revista",
+              "inicioMs": 16720,
+              "finMs": 17020
+            },
+            {
+              "palabra": "Nature",
+              "inicioMs": 17020,
+              "finMs": 17400
+            },
+            {
+              "palabra": "proponiendo",
+              "inicioMs": 17480,
+              "finMs": 17940
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 17940,
+              "finMs": 18120
+            },
+            {
+              "palabra": "si",
+              "inicioMs": 18120,
+              "finMs": 18280
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 18280,
+              "finMs": 18440
+            },
+            {
+              "palabra": "civilización",
+              "inicioMs": 18440,
+              "finMs": 19000
+            },
+            {
+              "palabra": "extraterrestre",
+              "inicioMs": 19000,
+              "finMs": 19760
+            },
+            {
+              "palabra": "intentara",
+              "inicioMs": 19760,
+              "finMs": 20260
+            },
+            {
+              "palabra": "comunicarse",
+              "inicioMs": 20260,
+              "finMs": 20900
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 20900,
+              "finMs": 21040
+            },
+            {
+              "palabra": "otras",
+              "inicioMs": 21040,
+              "finMs": 21220
+            },
+            {
+              "palabra": "especies",
+              "inicioMs": 21220,
+              "finMs": 21720
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 21720,
+              "finMs": 21840
+            },
+            {
+              "palabra": "través",
+              "inicioMs": 21840,
+              "finMs": 22080
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 22080,
+              "finMs": 22240
+            },
+            {
+              "palabra": "abismo",
+              "inicioMs": 22340,
+              "finMs": 22600
+            },
+            {
+              "palabra": "interestelar",
+              "inicioMs": 22600,
+              "finMs": 23300
+            },
+            {
+              "palabra": "elegiría",
+              "inicioMs": 23480,
+              "finMs": 24000
+            },
+            {
+              "palabra": "inevitablemente",
+              "inicioMs": 24000,
+              "finMs": 24820
+            },
+            {
+              "palabra": "esa",
+              "inicioMs": 24820,
+              "finMs": 25120
+            },
+            {
+              "palabra": "longitud",
+              "inicioMs": 25120,
+              "finMs": 25380
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 25380,
+              "finMs": 25720
+            },
+            {
+              "palabra": "onda",
+              "inicioMs": 25720,
+              "finMs": 26000
+            },
+            {
+              "palabra": "Es",
+              "inicioMs": 26000,
+              "finMs": 26400
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 26800,
+              "finMs": 26900
+            },
+            {
+              "palabra": "frecuencia",
+              "inicioMs": 26900,
+              "finMs": 27400
+            },
+            {
+              "palabra": "natural",
+              "inicioMs": 27400,
+              "finMs": 27760
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 27760,
+              "finMs": 28040
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 28040,
+              "finMs": 28100
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 28100,
+              "finMs": 28220
+            },
+            {
+              "palabra": "oscila",
+              "inicioMs": 28220,
+              "finMs": 28540
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 28540,
+              "finMs": 28660
+            },
+            {
+              "palabra": "hidrógeno",
+              "inicioMs": 28660,
+              "finMs": 29140
+            },
+            {
+              "palabra": "neutro",
+              "inicioMs": 29140,
+              "finMs": 29640
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 29760,
+              "finMs": 29860
+            },
+            {
+              "palabra": "elemento",
+              "inicioMs": 29860,
+              "finMs": 30140
+            },
+            {
+              "palabra": "químico",
+              "inicioMs": 30140,
+              "finMs": 30760
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 30760,
+              "finMs": 31040
+            },
+            {
+              "palabra": "abundante",
+              "inicioMs": 31040,
+              "finMs": 31620
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 31620,
+              "finMs": 31780
+            },
+            {
+              "palabra": "ubicuo",
+              "inicioMs": 31780,
+              "finMs": 32120
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 32120,
+              "finMs": 32280
+            },
+            {
+              "palabra": "cosmos",
+              "inicioMs": 32280,
+              "finMs": 32620
+            },
+            {
+              "palabra": "Emitir",
+              "inicioMs": 32800,
+              "finMs": 33240
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 33240,
+              "finMs": 33380
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 33380,
+              "finMs": 33615
+            },
+            {
+              "palabra": "cuatrocientos",
+              "inicioMs": 33615,
+              "finMs": 33850
+            },
+            {
+              "palabra": "veinte",
+              "inicioMs": 33850,
+              "finMs": 34085
+            },
+            {
+              "palabra": "megahercios",
+              "inicioMs": 34320,
+              "finMs": 35020
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 35020,
+              "finMs": 35340
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 35340,
+              "finMs": 35540
+            },
+            {
+              "palabra": "sintonizar",
+              "inicioMs": 35540,
+              "finMs": 36040
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 36040,
+              "finMs": 36200
+            },
+            {
+              "palabra": "radio",
+              "inicioMs": 36200,
+              "finMs": 36460
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 36460,
+              "finMs": 36600
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 36600,
+              "finMs": 36680
+            },
+            {
+              "palabra": "única",
+              "inicioMs": 36680,
+              "finMs": 36880
+            },
+            {
+              "palabra": "estación",
+              "inicioMs": 36880,
+              "finMs": 37240
+            },
+            {
+              "palabra": "común",
+              "inicioMs": 37240,
+              "finMs": 37580
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 37580,
+              "finMs": 37740
+            },
+            {
+              "palabra": "todo",
+              "inicioMs": 37740,
+              "finMs": 37960
+            },
+            {
+              "palabra": "observador",
+              "inicioMs": 37960,
+              "finMs": 38420
+            },
+            {
+              "palabra": "inteligente",
+              "inicioMs": 38420,
+              "finMs": 39080
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 39300,
+              "finMs": 39400
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 39400,
+              "finMs": 39480
+            },
+            {
+              "palabra": "galaxia",
+              "inicioMs": 39480,
+              "finMs": 39940
+            },
+            {
+              "palabra": "debería",
+              "inicioMs": 39940,
+              "finMs": 40320
+            },
+            {
+              "palabra": "conocer",
+              "inicioMs": 40320,
+              "finMs": 40600
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "texto": "Además, la transmisión era de banda extremadamente estrecha: ocupaba menos de diez kilohercios de ancho de banda. En astrofísica, las fuentes naturales como púlsares, quásares o nubes de gas emiten radiación en un espectro ancho y desordenado; es físicamente imposible que un fenómeno astrofísico conocido concentre tanta energía en un canal tan diminuto sin tecnología detrás. La señal Wow parecía una portadora pura, idéntica a una emisión de radio artificial. Durante setenta y dos segundos, el telescopio escuchó una campana resonar con una pureza electromagnética perfecta, exactamente en el centro del canal sagrado del hidrógeno.",
+          "tituloVisual": "BANDA ESTRECHA",
+          "layout": "split_screen",
+          "composicionVisual": "plano_general",
+          "escenario": "espacio_profundo",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_sci_fi_beep.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "diez kilohercios",
+            "banda estrecha",
+            "portadora pura",
+            "emisión artificial"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "analytical",
+          "duracionSegundos": 34.474,
+          "palabras": [
+            {
+              "palabra": "Además",
+              "inicioMs": 0,
+              "finMs": 380
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 540,
+              "finMs": 600
+            },
+            {
+              "palabra": "transmisión",
+              "inicioMs": 600,
+              "finMs": 1120
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 1120,
+              "finMs": 1420
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1420,
+              "finMs": 1540
+            },
+            {
+              "palabra": "banda",
+              "inicioMs": 1540,
+              "finMs": 1740
+            },
+            {
+              "palabra": "extremadamente",
+              "inicioMs": 1740,
+              "finMs": 2440
+            },
+            {
+              "palabra": "estrecha",
+              "inicioMs": 2440,
+              "finMs": 2980
+            },
+            {
+              "palabra": "ocupaba",
+              "inicioMs": 3120,
+              "finMs": 3460
+            },
+            {
+              "palabra": "menos",
+              "inicioMs": 3460,
+              "finMs": 3740
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3740,
+              "finMs": 3940
+            },
+            {
+              "palabra": "diez",
+              "inicioMs": 3940,
+              "finMs": 4167
+            },
+            {
+              "palabra": "kilohercios",
+              "inicioMs": 4167,
+              "finMs": 4393
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4620,
+              "finMs": 4920
+            },
+            {
+              "palabra": "ancho",
+              "inicioMs": 4920,
+              "finMs": 5140
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5140,
+              "finMs": 5280
+            },
+            {
+              "palabra": "banda",
+              "inicioMs": 5280,
+              "finMs": 5560
+            },
+            {
+              "palabra": "En",
+              "inicioMs": 5900,
+              "finMs": 6060
+            },
+            {
+              "palabra": "astrofísica",
+              "inicioMs": 6060,
+              "finMs": 6680
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 6720,
+              "finMs": 6860
+            },
+            {
+              "palabra": "fuentes",
+              "inicioMs": 6860,
+              "finMs": 7160
+            },
+            {
+              "palabra": "naturales",
+              "inicioMs": 7160,
+              "finMs": 7740
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 7740,
+              "finMs": 7940
+            },
+            {
+              "palabra": "púlsares",
+              "inicioMs": 7940,
+              "finMs": 8460
+            },
+            {
+              "palabra": "quásares",
+              "inicioMs": 8640,
+              "finMs": 8820
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 8820,
+              "finMs": 9100
+            },
+            {
+              "palabra": "nubes",
+              "inicioMs": 9100,
+              "finMs": 9380
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9380,
+              "finMs": 9500
+            },
+            {
+              "palabra": "gas",
+              "inicioMs": 9500,
+              "finMs": 9680
+            },
+            {
+              "palabra": "emiten",
+              "inicioMs": 9680,
+              "finMs": 10160
+            },
+            {
+              "palabra": "radiación",
+              "inicioMs": 10160,
+              "finMs": 10760
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 10760,
+              "finMs": 10980
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 10980,
+              "finMs": 11120
+            },
+            {
+              "palabra": "espectro",
+              "inicioMs": 11120,
+              "finMs": 11620
+            },
+            {
+              "palabra": "ancho",
+              "inicioMs": 11620,
+              "finMs": 11900
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 11900,
+              "finMs": 12020
+            },
+            {
+              "palabra": "desordenado",
+              "inicioMs": 12020,
+              "finMs": 12700
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 12960,
+              "finMs": 13100
+            },
+            {
+              "palabra": "físicamente",
+              "inicioMs": 13100,
+              "finMs": 13480
+            },
+            {
+              "palabra": "imposible",
+              "inicioMs": 13480,
+              "finMs": 14180
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 14180,
+              "finMs": 14360
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 14360,
+              "finMs": 14480
+            },
+            {
+              "palabra": "fenómeno",
+              "inicioMs": 14480,
+              "finMs": 14860
+            },
+            {
+              "palabra": "astrofísico",
+              "inicioMs": 14860,
+              "finMs": 15480
+            },
+            {
+              "palabra": "conocido",
+              "inicioMs": 15480,
+              "finMs": 15940
+            },
+            {
+              "palabra": "concentre",
+              "inicioMs": 15940,
+              "finMs": 16480
+            },
+            {
+              "palabra": "tanta",
+              "inicioMs": 16480,
+              "finMs": 16680
+            },
+            {
+              "palabra": "energía",
+              "inicioMs": 16680,
+              "finMs": 17100
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 17100,
+              "finMs": 17580
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 17580,
+              "finMs": 17700
+            },
+            {
+              "palabra": "canal",
+              "inicioMs": 17700,
+              "finMs": 17940
+            },
+            {
+              "palabra": "tan",
+              "inicioMs": 17940,
+              "finMs": 18220
+            },
+            {
+              "palabra": "diminuto",
+              "inicioMs": 18220,
+              "finMs": 18680
+            },
+            {
+              "palabra": "sin",
+              "inicioMs": 18680,
+              "finMs": 18880
+            },
+            {
+              "palabra": "tecnología",
+              "inicioMs": 18880,
+              "finMs": 19200
+            },
+            {
+              "palabra": "detrás",
+              "inicioMs": 19200,
+              "finMs": 19780
+            },
+            {
+              "palabra": "La",
+              "inicioMs": 20020,
+              "finMs": 20100
+            },
+            {
+              "palabra": "señal",
+              "inicioMs": 20100,
+              "finMs": 20460
+            },
+            {
+              "palabra": "Wow",
+              "inicioMs": 20460,
+              "finMs": 20720
+            },
+            {
+              "palabra": "parecía",
+              "inicioMs": 20720,
+              "finMs": 21160
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 21160,
+              "finMs": 21320
+            },
+            {
+              "palabra": "portadora",
+              "inicioMs": 21320,
+              "finMs": 21800
+            },
+            {
+              "palabra": "pura",
+              "inicioMs": 21800,
+              "finMs": 22260
+            },
+            {
+              "palabra": "idéntica",
+              "inicioMs": 22480,
+              "finMs": 22940
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 22940,
+              "finMs": 23060
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 23060,
+              "finMs": 23200
+            },
+            {
+              "palabra": "emisión",
+              "inicioMs": 23200,
+              "finMs": 23520
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 23520,
+              "finMs": 23700
+            },
+            {
+              "palabra": "radio",
+              "inicioMs": 23700,
+              "finMs": 23900
+            },
+            {
+              "palabra": "artificial",
+              "inicioMs": 23900,
+              "finMs": 24400
+            },
+            {
+              "palabra": "Durante",
+              "inicioMs": 24400,
+              "finMs": 25460
+            },
+            {
+              "palabra": "setenta",
+              "inicioMs": 25460,
+              "finMs": 25575
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 25575,
+              "finMs": 25690
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 25690,
+              "finMs": 25805
+            },
+            {
+              "palabra": "segundos",
+              "inicioMs": 25920,
+              "finMs": 26500
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 26500,
+              "finMs": 26760
+            },
+            {
+              "palabra": "telescopio",
+              "inicioMs": 26760,
+              "finMs": 27240
+            },
+            {
+              "palabra": "escuchó",
+              "inicioMs": 27240,
+              "finMs": 27560
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 27560,
+              "finMs": 27740
+            },
+            {
+              "palabra": "campana",
+              "inicioMs": 27740,
+              "finMs": 28060
+            },
+            {
+              "palabra": "resonar",
+              "inicioMs": 28060,
+              "finMs": 28560
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 28560,
+              "finMs": 28700
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 28700,
+              "finMs": 28860
+            },
+            {
+              "palabra": "pureza",
+              "inicioMs": 28860,
+              "finMs": 29200
+            },
+            {
+              "palabra": "electromagnética",
+              "inicioMs": 29200,
+              "finMs": 29860
+            },
+            {
+              "palabra": "perfecta",
+              "inicioMs": 29860,
+              "finMs": 30940
+            },
+            {
+              "palabra": "exactamente",
+              "inicioMs": 31080,
+              "finMs": 31720
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 31720,
+              "finMs": 32120
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 32120,
+              "finMs": 32240
+            },
+            {
+              "palabra": "centro",
+              "inicioMs": 32240,
+              "finMs": 32540
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 32540,
+              "finMs": 32700
+            },
+            {
+              "palabra": "canal",
+              "inicioMs": 32700,
+              "finMs": 32900
+            },
+            {
+              "palabra": "sagrado",
+              "inicioMs": 32900,
+              "finMs": 33240
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 33240,
+              "finMs": 33460
+            },
+            {
+              "palabra": "hidrógeno",
+              "inicioMs": 33460,
+              "finMs": 33980
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 75.6
+    },
+    {
+      "id": "cap_3",
+      "numero": 3,
+      "titulo": "La Ventana de 72 Segundos",
+      "resumen": "Cómo el movimiento de rotación terrestre definió la forma perfecta de campana.",
+      "escenas": [
+        {
+          "id": 5,
+          "texto": "Muchas personas creen que la señal se apagó repentinamente a los setenta y dos segundos, pero la realidad mecánica del observatorio cuenta una historia aún más fascinante. El radiotelescopio Big Ear era un instrumento fijo: no rotaba para seguir estrellas en el cielo, sino que permanecía inmóvil mientras la rotación de nuestro planeta barría el universo de oeste a este. El campo de visión de la antena tardaba exactamente setenta y dos segundos en cruzar un punto fijo del cielo. Cualquier objeto estelar que emitiera radiación continua entraría en el haz, alcanzaría su punto máximo a los treinta y seis segundos y se desvanecería al salir.",
+          "tituloVisual": "ROTACION DE LA TIERRA",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "espacio_profundo",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "setenta y dos segundos",
+            "rotación terrestre",
+            "antena fija",
+            "Big Ear"
+          ],
+          "poseId": "walking_confidently",
+          "expresion": "analytical",
+          "duracionSegundos": 32.698,
+          "palabras": [
+            {
+              "palabra": "Muchas",
+              "inicioMs": 0,
+              "finMs": 320
+            },
+            {
+              "palabra": "personas",
+              "inicioMs": 320,
+              "finMs": 700
+            },
+            {
+              "palabra": "creen",
+              "inicioMs": 700,
+              "finMs": 1040
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 1040,
+              "finMs": 1140
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 1140,
+              "finMs": 1240
+            },
+            {
+              "palabra": "señal",
+              "inicioMs": 1240,
+              "finMs": 1560
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 1560,
+              "finMs": 1700
+            },
+            {
+              "palabra": "apagó",
+              "inicioMs": 1700,
+              "finMs": 2000
+            },
+            {
+              "palabra": "repentinamente",
+              "inicioMs": 2000,
+              "finMs": 2640
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 2640,
+              "finMs": 2940
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 2940,
+              "finMs": 3040
+            },
+            {
+              "palabra": "setenta",
+              "inicioMs": 3040,
+              "finMs": 3135
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 3135,
+              "finMs": 3230
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 3230,
+              "finMs": 3325
+            },
+            {
+              "palabra": "segundos",
+              "inicioMs": 3420,
+              "finMs": 4100
+            },
+            {
+              "palabra": "pero",
+              "inicioMs": 4360,
+              "finMs": 4500
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 4500,
+              "finMs": 4640
+            },
+            {
+              "palabra": "realidad",
+              "inicioMs": 4640,
+              "finMs": 4940
+            },
+            {
+              "palabra": "mecánica",
+              "inicioMs": 4940,
+              "finMs": 5480
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 5480,
+              "finMs": 5640
+            },
+            {
+              "palabra": "observatorio",
+              "inicioMs": 5640,
+              "finMs": 6240
+            },
+            {
+              "palabra": "cuenta",
+              "inicioMs": 6240,
+              "finMs": 6500
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 6500,
+              "finMs": 6720
+            },
+            {
+              "palabra": "historia",
+              "inicioMs": 6720,
+              "finMs": 7040
+            },
+            {
+              "palabra": "aún",
+              "inicioMs": 7040,
+              "finMs": 7340
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 7340,
+              "finMs": 7560
+            },
+            {
+              "palabra": "fascinante",
+              "inicioMs": 7560,
+              "finMs": 8200
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 8360,
+              "finMs": 8480
+            },
+            {
+              "palabra": "radiotelescopio",
+              "inicioMs": 8660,
+              "finMs": 9300
+            },
+            {
+              "palabra": "Big",
+              "inicioMs": 9300,
+              "finMs": 9700
+            },
+            {
+              "palabra": "Ear",
+              "inicioMs": 9700,
+              "finMs": 9825
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 9700,
+              "finMs": 10020
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 10020,
+              "finMs": 10100
+            },
+            {
+              "palabra": "instrumento",
+              "inicioMs": 10100,
+              "finMs": 10680
+            },
+            {
+              "palabra": "fijo",
+              "inicioMs": 10680,
+              "finMs": 11040
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 11200,
+              "finMs": 11300
+            },
+            {
+              "palabra": "rotaba",
+              "inicioMs": 11300,
+              "finMs": 11640
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 11640,
+              "finMs": 11860
+            },
+            {
+              "palabra": "seguir",
+              "inicioMs": 11860,
+              "finMs": 12100
+            },
+            {
+              "palabra": "estrellas",
+              "inicioMs": 12100,
+              "finMs": 12560
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 12560,
+              "finMs": 12660
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 12660,
+              "finMs": 12780
+            },
+            {
+              "palabra": "cielo",
+              "inicioMs": 12780,
+              "finMs": 13060
+            },
+            {
+              "palabra": "sino",
+              "inicioMs": 13240,
+              "finMs": 13360
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 13360,
+              "finMs": 13520
+            },
+            {
+              "palabra": "permanecía",
+              "inicioMs": 13520,
+              "finMs": 14120
+            },
+            {
+              "palabra": "inmóvil",
+              "inicioMs": 14120,
+              "finMs": 14680
+            },
+            {
+              "palabra": "mientras",
+              "inicioMs": 14680,
+              "finMs": 14980
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 14980,
+              "finMs": 15140
+            },
+            {
+              "palabra": "rotación",
+              "inicioMs": 15140,
+              "finMs": 15580
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15580,
+              "finMs": 15720
+            },
+            {
+              "palabra": "nuestro",
+              "inicioMs": 15720,
+              "finMs": 15900
+            },
+            {
+              "palabra": "planeta",
+              "inicioMs": 15900,
+              "finMs": 16200
+            },
+            {
+              "palabra": "barría",
+              "inicioMs": 16200,
+              "finMs": 16720
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 16720,
+              "finMs": 16940
+            },
+            {
+              "palabra": "universo",
+              "inicioMs": 16940,
+              "finMs": 17240
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17240,
+              "finMs": 17540
+            },
+            {
+              "palabra": "oeste",
+              "inicioMs": 17540,
+              "finMs": 17880
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 17880,
+              "finMs": 18005
+            },
+            {
+              "palabra": "este",
+              "inicioMs": 17880,
+              "finMs": 18400
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 18580,
+              "finMs": 18760
+            },
+            {
+              "palabra": "campo",
+              "inicioMs": 18760,
+              "finMs": 19040
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19040,
+              "finMs": 19220
+            },
+            {
+              "palabra": "visión",
+              "inicioMs": 19220,
+              "finMs": 19580
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19580,
+              "finMs": 19740
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 19740,
+              "finMs": 19840
+            },
+            {
+              "palabra": "antena",
+              "inicioMs": 19840,
+              "finMs": 20200
+            },
+            {
+              "palabra": "tardaba",
+              "inicioMs": 20200,
+              "finMs": 20620
+            },
+            {
+              "palabra": "exactamente",
+              "inicioMs": 20620,
+              "finMs": 21180
+            },
+            {
+              "palabra": "setenta",
+              "inicioMs": 21180,
+              "finMs": 21350
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 21350,
+              "finMs": 21520
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 21520,
+              "finMs": 21690
+            },
+            {
+              "palabra": "segundos",
+              "inicioMs": 21860,
+              "finMs": 22520
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 22520,
+              "finMs": 22740
+            },
+            {
+              "palabra": "cruzar",
+              "inicioMs": 22740,
+              "finMs": 22830
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 22920,
+              "finMs": 23260
+            },
+            {
+              "palabra": "punto",
+              "inicioMs": 23260,
+              "finMs": 23560
+            },
+            {
+              "palabra": "fijo",
+              "inicioMs": 23560,
+              "finMs": 23860
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 23860,
+              "finMs": 24020
+            },
+            {
+              "palabra": "cielo",
+              "inicioMs": 24020,
+              "finMs": 24400
+            },
+            {
+              "palabra": "Cualquier",
+              "inicioMs": 24400,
+              "finMs": 25320
+            },
+            {
+              "palabra": "objeto",
+              "inicioMs": 25320,
+              "finMs": 25540
+            },
+            {
+              "palabra": "estelar",
+              "inicioMs": 25540,
+              "finMs": 26000
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 26000,
+              "finMs": 26180
+            },
+            {
+              "palabra": "emitiera",
+              "inicioMs": 26180,
+              "finMs": 26500
+            },
+            {
+              "palabra": "radiación",
+              "inicioMs": 26640,
+              "finMs": 26920
+            },
+            {
+              "palabra": "continua",
+              "inicioMs": 26920,
+              "finMs": 27400
+            },
+            {
+              "palabra": "entraría",
+              "inicioMs": 27400,
+              "finMs": 27740
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 27740,
+              "finMs": 27840
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 27840,
+              "finMs": 27920
+            },
+            {
+              "palabra": "haz",
+              "inicioMs": 27920,
+              "finMs": 28160
+            },
+            {
+              "palabra": "alcanzaría",
+              "inicioMs": 28400,
+              "finMs": 28880
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 28880,
+              "finMs": 29080
+            },
+            {
+              "palabra": "punto",
+              "inicioMs": 29080,
+              "finMs": 29280
+            },
+            {
+              "palabra": "máximo",
+              "inicioMs": 29280,
+              "finMs": 29700
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 29700,
+              "finMs": 29840
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 29840,
+              "finMs": 29940
+            },
+            {
+              "palabra": "treinta",
+              "inicioMs": 29940,
+              "finMs": 30055
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 30055,
+              "finMs": 30170
+            },
+            {
+              "palabra": "seis",
+              "inicioMs": 30170,
+              "finMs": 30285
+            },
+            {
+              "palabra": "segundos",
+              "inicioMs": 30400,
+              "finMs": 30920
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 30920,
+              "finMs": 31160
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 31160,
+              "finMs": 31260
+            },
+            {
+              "palabra": "desvanecería",
+              "inicioMs": 31260,
+              "finMs": 31880
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 31880,
+              "finMs": 31940
+            },
+            {
+              "palabra": "salir",
+              "inicioMs": 31940,
+              "finMs": 32200
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "texto": "Y eso fue exactamente lo que dibujó la secuencia 6EQUJ5: una curva gaussiana impecable, la huella dactilar geométrica de un haz de radio cruzando una antena fija en la Tierra. Esto demostró dos cosas cruciales: primero, que la fuente no provenía de un avión, un satélite en órbita baja o un transmisor terrestre cercano, los cuales habrían mostrado patrones erráticos o repetitivos; y segundo, que el origen de la señal estaba situado a una distancia infinita en el cielo profundo, en las inmediaciones de la constelación de Sagitario.",
+          "tituloVisual": "CURVA GAUSSIANA",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "curva gaussiana",
+            "Sagitario",
+            "distancia infinita",
+            "huella geométrica"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "eureka",
+          "infografia": {
+            "tipo": "grafico_barras",
+            "titulo": "Perfil Temporal (72s)",
+            "subtitulo": "Coincidencia con el Lóbulo de la Antena",
+            "valorPrincipal": "72s",
+            "unidad": "duración exacta",
+            "items": [
+              {
+                "etiqueta": "Entrada (0-24s)",
+                "valor": "6 a E",
+                "porcentaje": 40,
+                "color": "#38BDF8"
+              },
+              {
+                "etiqueta": "Pico central (36s)",
+                "valor": "Q a U",
+                "porcentaje": 100,
+                "color": "#FFE600"
+              },
+              {
+                "etiqueta": "Salida (48-72s)",
+                "valor": "J a 5",
+                "porcentaje": 45,
+                "color": "#38BDF8"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 28.162,
+          "palabras": [
+            {
+              "palabra": "Y",
+              "inicioMs": 0,
+              "finMs": 180
+            },
+            {
+              "palabra": "eso",
+              "inicioMs": 180,
+              "finMs": 360
+            },
+            {
+              "palabra": "fue",
+              "inicioMs": 360,
+              "finMs": 520
+            },
+            {
+              "palabra": "exactamente",
+              "inicioMs": 520,
+              "finMs": 920
+            },
+            {
+              "palabra": "lo",
+              "inicioMs": 920,
+              "finMs": 1360
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 1360,
+              "finMs": 1500
+            },
+            {
+              "palabra": "dibujó",
+              "inicioMs": 1500,
+              "finMs": 1800
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 1800,
+              "finMs": 1940
+            },
+            {
+              "palabra": "secuencia",
+              "inicioMs": 1940,
+              "finMs": 2400
+            },
+            {
+              "palabra": "6EQUJ5",
+              "inicioMs": 2400,
+              "finMs": 2810
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 3220,
+              "finMs": 3360
+            },
+            {
+              "palabra": "curva",
+              "inicioMs": 3360,
+              "finMs": 3720
+            },
+            {
+              "palabra": "gaussiana",
+              "inicioMs": 3720,
+              "finMs": 4160
+            },
+            {
+              "palabra": "impecable",
+              "inicioMs": 4160,
+              "finMs": 4780
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5220,
+              "finMs": 5380
+            },
+            {
+              "palabra": "huella",
+              "inicioMs": 5380,
+              "finMs": 5720
+            },
+            {
+              "palabra": "dactilar",
+              "inicioMs": 5800,
+              "finMs": 6140
+            },
+            {
+              "palabra": "geométrica",
+              "inicioMs": 6140,
+              "finMs": 6660
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6660,
+              "finMs": 6860
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 6860,
+              "finMs": 7000
+            },
+            {
+              "palabra": "haz",
+              "inicioMs": 7000,
+              "finMs": 7060
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 7120,
+              "finMs": 7260
+            },
+            {
+              "palabra": "radio",
+              "inicioMs": 7260,
+              "finMs": 7460
+            },
+            {
+              "palabra": "cruzando",
+              "inicioMs": 7460,
+              "finMs": 7960
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 7960,
+              "finMs": 8200
+            },
+            {
+              "palabra": "antena",
+              "inicioMs": 8200,
+              "finMs": 8520
+            },
+            {
+              "palabra": "fija",
+              "inicioMs": 8520,
+              "finMs": 8780
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 8780,
+              "finMs": 8860
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 8860,
+              "finMs": 8920
+            },
+            {
+              "palabra": "Tierra",
+              "inicioMs": 8920,
+              "finMs": 9240
+            },
+            {
+              "palabra": "Esto",
+              "inicioMs": 9360,
+              "finMs": 9560
+            },
+            {
+              "palabra": "demostró",
+              "inicioMs": 9560,
+              "finMs": 9960
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 9960,
+              "finMs": 10240
+            },
+            {
+              "palabra": "cosas",
+              "inicioMs": 10240,
+              "finMs": 10480
+            },
+            {
+              "palabra": "cruciales",
+              "inicioMs": 10480,
+              "finMs": 11120
+            },
+            {
+              "palabra": "primero",
+              "inicioMs": 11240,
+              "finMs": 11420
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 11420,
+              "finMs": 11700
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 11700,
+              "finMs": 11840
+            },
+            {
+              "palabra": "fuente",
+              "inicioMs": 11840,
+              "finMs": 12100
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 12100,
+              "finMs": 12280
+            },
+            {
+              "palabra": "provenía",
+              "inicioMs": 12280,
+              "finMs": 12700
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12700,
+              "finMs": 12820
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 12820,
+              "finMs": 12940
+            },
+            {
+              "palabra": "avión",
+              "inicioMs": 12940,
+              "finMs": 13180
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 13360,
+              "finMs": 13480
+            },
+            {
+              "palabra": "satélite",
+              "inicioMs": 13480,
+              "finMs": 13980
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 13980,
+              "finMs": 14050
+            },
+            {
+              "palabra": "órbita",
+              "inicioMs": 14120,
+              "finMs": 14420
+            },
+            {
+              "palabra": "baja",
+              "inicioMs": 14420,
+              "finMs": 14780
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 14780,
+              "finMs": 15020
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 15020,
+              "finMs": 15220
+            },
+            {
+              "palabra": "transmisor",
+              "inicioMs": 15220,
+              "finMs": 15640
+            },
+            {
+              "palabra": "terrestre",
+              "inicioMs": 15640,
+              "finMs": 16100
+            },
+            {
+              "palabra": "cercano",
+              "inicioMs": 16100,
+              "finMs": 16580
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 16720,
+              "finMs": 16800
+            },
+            {
+              "palabra": "cuales",
+              "inicioMs": 16800,
+              "finMs": 17040
+            },
+            {
+              "palabra": "habrían",
+              "inicioMs": 17040,
+              "finMs": 17340
+            },
+            {
+              "palabra": "mostrado",
+              "inicioMs": 17340,
+              "finMs": 17740
+            },
+            {
+              "palabra": "patrones",
+              "inicioMs": 17740,
+              "finMs": 18260
+            },
+            {
+              "palabra": "erráticos",
+              "inicioMs": 18260,
+              "finMs": 18700
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 18700,
+              "finMs": 18860
+            },
+            {
+              "palabra": "repetitivos",
+              "inicioMs": 18860,
+              "finMs": 19500
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 19500,
+              "finMs": 19880
+            },
+            {
+              "palabra": "segundo",
+              "inicioMs": 19880,
+              "finMs": 20340
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 20540,
+              "finMs": 20620
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 20620,
+              "finMs": 20720
+            },
+            {
+              "palabra": "origen",
+              "inicioMs": 20720,
+              "finMs": 21060
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 21060,
+              "finMs": 21140
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 21140,
+              "finMs": 21240
+            },
+            {
+              "palabra": "señal",
+              "inicioMs": 21240,
+              "finMs": 21600
+            },
+            {
+              "palabra": "estaba",
+              "inicioMs": 21600,
+              "finMs": 21920
+            },
+            {
+              "palabra": "situado",
+              "inicioMs": 21920,
+              "finMs": 22380
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 22380,
+              "finMs": 22520
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 22520,
+              "finMs": 22680
+            },
+            {
+              "palabra": "distancia",
+              "inicioMs": 22680,
+              "finMs": 23020
+            },
+            {
+              "palabra": "infinita",
+              "inicioMs": 23020,
+              "finMs": 23660
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 23660,
+              "finMs": 23740
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 23740,
+              "finMs": 23900
+            },
+            {
+              "palabra": "cielo",
+              "inicioMs": 23900,
+              "finMs": 24040
+            },
+            {
+              "palabra": "profundo",
+              "inicioMs": 24040,
+              "finMs": 24580
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 24580,
+              "finMs": 25500
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 25500,
+              "finMs": 25640
+            },
+            {
+              "palabra": "inmediaciones",
+              "inicioMs": 25640,
+              "finMs": 26180
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 26180,
+              "finMs": 26340
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 26340,
+              "finMs": 26440
+            },
+            {
+              "palabra": "constelación",
+              "inicioMs": 26440,
+              "finMs": 27020
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 27020,
+              "finMs": 27145
+            },
+            {
+              "palabra": "Sagitario",
+              "inicioMs": 27020,
+              "finMs": 27700
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 60.86
+    },
+    {
+      "id": "cap_4",
+      "numero": 4,
+      "titulo": "Las Hipótesis Terrestres Descartadas",
+      "resumen": "El análisis minucioso de satélites secretos, aviones y reflejos cometarios.",
+      "escenas": [
+        {
+          "id": 7,
+          "texto": "Durante las décadas posteriores, la comunidad científica intentó desmontar el enigma buscando explicaciones mundanas. ¿Pudo ser un satélite espía soviético o estadounidense? No: en mil novecientos setenta y siete no existía ningún satélite en órbita transmitiendo en esa porción protegida del espectro, ya que los mil cuatrocientos veinte megahercios están reservados por tratados internacionales exclusivamente a la radioastronomía pasiva. Tampoco pudo ser una reflexión en basura espacial, porque ningún objeto orbital permaneció en esa posición durante setenta y dos segundos sin registrarse en los radares de defensa.",
+          "tituloVisual": "ESPECTRO PROTEGIDO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "laboratorio",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "satélite espía",
+            "tratados internacionales",
+            "radioastronomía pasiva",
+            "basura espacial"
+          ],
+          "poseId": "confused_scratch_head",
+          "expresion": "analytical",
+          "duracionSegundos": 32.314,
+          "palabras": [
+            {
+              "palabra": "Durante",
+              "inicioMs": 0,
+              "finMs": 340
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 340,
+              "finMs": 560
+            },
+            {
+              "palabra": "décadas",
+              "inicioMs": 560,
+              "finMs": 860
+            },
+            {
+              "palabra": "posteriores",
+              "inicioMs": 860,
+              "finMs": 1500
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 1660,
+              "finMs": 1700
+            },
+            {
+              "palabra": "comunidad",
+              "inicioMs": 1700,
+              "finMs": 2020
+            },
+            {
+              "palabra": "científica",
+              "inicioMs": 2020,
+              "finMs": 2720
+            },
+            {
+              "palabra": "intentó",
+              "inicioMs": 2720,
+              "finMs": 3100
+            },
+            {
+              "palabra": "desmontar",
+              "inicioMs": 3100,
+              "finMs": 3540
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 3540,
+              "finMs": 3680
+            },
+            {
+              "palabra": "enigma",
+              "inicioMs": 3680,
+              "finMs": 3940
+            },
+            {
+              "palabra": "buscando",
+              "inicioMs": 3940,
+              "finMs": 4300
+            },
+            {
+              "palabra": "explicaciones",
+              "inicioMs": 4300,
+              "finMs": 4880
+            },
+            {
+              "palabra": "mundanas",
+              "inicioMs": 4880,
+              "finMs": 5480
+            },
+            {
+              "palabra": "Pudo",
+              "inicioMs": 5680,
+              "finMs": 5900
+            },
+            {
+              "palabra": "ser",
+              "inicioMs": 5900,
+              "finMs": 6100
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 6100,
+              "finMs": 6260
+            },
+            {
+              "palabra": "satélite",
+              "inicioMs": 6260,
+              "finMs": 6720
+            },
+            {
+              "palabra": "espía",
+              "inicioMs": 6720,
+              "finMs": 6845
+            },
+            {
+              "palabra": "soviético",
+              "inicioMs": 6720,
+              "finMs": 7620
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 7620,
+              "finMs": 7820
+            },
+            {
+              "palabra": "estadounidense",
+              "inicioMs": 7820,
+              "finMs": 8540
+            },
+            {
+              "palabra": "No",
+              "inicioMs": 8740,
+              "finMs": 8840
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 9020,
+              "finMs": 9140
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 9140,
+              "finMs": 9277
+            },
+            {
+              "palabra": "novecientos",
+              "inicioMs": 9277,
+              "finMs": 9413
+            },
+            {
+              "palabra": "setenta",
+              "inicioMs": 9413,
+              "finMs": 9550
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 9550,
+              "finMs": 9687
+            },
+            {
+              "palabra": "siete",
+              "inicioMs": 9687,
+              "finMs": 9823
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 9960,
+              "finMs": 10880
+            },
+            {
+              "palabra": "existía",
+              "inicioMs": 10880,
+              "finMs": 11340
+            },
+            {
+              "palabra": "ningún",
+              "inicioMs": 11340,
+              "finMs": 11620
+            },
+            {
+              "palabra": "satélite",
+              "inicioMs": 11620,
+              "finMs": 12220
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 12220,
+              "finMs": 12360
+            },
+            {
+              "palabra": "órbita",
+              "inicioMs": 12360,
+              "finMs": 12680
+            },
+            {
+              "palabra": "transmitiendo",
+              "inicioMs": 12680,
+              "finMs": 13380
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 13380,
+              "finMs": 13500
+            },
+            {
+              "palabra": "esa",
+              "inicioMs": 13500,
+              "finMs": 13680
+            },
+            {
+              "palabra": "porción",
+              "inicioMs": 13680,
+              "finMs": 14000
+            },
+            {
+              "palabra": "protegida",
+              "inicioMs": 14000,
+              "finMs": 14520
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 14520,
+              "finMs": 14700
+            },
+            {
+              "palabra": "espectro",
+              "inicioMs": 14700,
+              "finMs": 15400
+            },
+            {
+              "palabra": "ya",
+              "inicioMs": 15440,
+              "finMs": 15600
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 15600,
+              "finMs": 15700
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 15700,
+              "finMs": 15840
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 15840,
+              "finMs": 16080
+            },
+            {
+              "palabra": "cuatrocientos",
+              "inicioMs": 16080,
+              "finMs": 16320
+            },
+            {
+              "palabra": "veinte",
+              "inicioMs": 16320,
+              "finMs": 16560
+            },
+            {
+              "palabra": "megahercios",
+              "inicioMs": 16800,
+              "finMs": 17460
+            },
+            {
+              "palabra": "están",
+              "inicioMs": 17460,
+              "finMs": 17800
+            },
+            {
+              "palabra": "reservados",
+              "inicioMs": 17800,
+              "finMs": 18280
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 18280,
+              "finMs": 18500
+            },
+            {
+              "palabra": "tratados",
+              "inicioMs": 18500,
+              "finMs": 18940
+            },
+            {
+              "palabra": "internacionales",
+              "inicioMs": 18940,
+              "finMs": 19860
+            },
+            {
+              "palabra": "exclusivamente",
+              "inicioMs": 19940,
+              "finMs": 20660
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 20660,
+              "finMs": 20900
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 20900,
+              "finMs": 20960
+            },
+            {
+              "palabra": "radioastronomía",
+              "inicioMs": 21200,
+              "finMs": 21700
+            },
+            {
+              "palabra": "pasiva",
+              "inicioMs": 21700,
+              "finMs": 22140
+            },
+            {
+              "palabra": "Tampoco",
+              "inicioMs": 22420,
+              "finMs": 22740
+            },
+            {
+              "palabra": "pudo",
+              "inicioMs": 22740,
+              "finMs": 23040
+            },
+            {
+              "palabra": "ser",
+              "inicioMs": 23040,
+              "finMs": 23200
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 23200,
+              "finMs": 23400
+            },
+            {
+              "palabra": "reflexión",
+              "inicioMs": 23400,
+              "finMs": 23920
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 23920,
+              "finMs": 24200
+            },
+            {
+              "palabra": "basura",
+              "inicioMs": 24200,
+              "finMs": 24520
+            },
+            {
+              "palabra": "espacial",
+              "inicioMs": 24520,
+              "finMs": 25000
+            },
+            {
+              "palabra": "porque",
+              "inicioMs": 25280,
+              "finMs": 25480
+            },
+            {
+              "palabra": "ningún",
+              "inicioMs": 25480,
+              "finMs": 25740
+            },
+            {
+              "palabra": "objeto",
+              "inicioMs": 25740,
+              "finMs": 26120
+            },
+            {
+              "palabra": "orbital",
+              "inicioMs": 26120,
+              "finMs": 26560
+            },
+            {
+              "palabra": "permaneció",
+              "inicioMs": 26560,
+              "finMs": 27120
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 27120,
+              "finMs": 27240
+            },
+            {
+              "palabra": "esa",
+              "inicioMs": 27240,
+              "finMs": 27380
+            },
+            {
+              "palabra": "posición",
+              "inicioMs": 27380,
+              "finMs": 27760
+            },
+            {
+              "palabra": "durante",
+              "inicioMs": 27760,
+              "finMs": 28180
+            },
+            {
+              "palabra": "setenta",
+              "inicioMs": 28180,
+              "finMs": 28355
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 28355,
+              "finMs": 28530
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 28530,
+              "finMs": 28705
+            },
+            {
+              "palabra": "segundos",
+              "inicioMs": 28880,
+              "finMs": 29440
+            },
+            {
+              "palabra": "sin",
+              "inicioMs": 29440,
+              "finMs": 29900
+            },
+            {
+              "palabra": "registrarse",
+              "inicioMs": 29900,
+              "finMs": 30660
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 30660,
+              "finMs": 30820
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 30820,
+              "finMs": 30920
+            },
+            {
+              "palabra": "radares",
+              "inicioMs": 30920,
+              "finMs": 31260
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 31260,
+              "finMs": 31400
+            },
+            {
+              "palabra": "defensa",
+              "inicioMs": 31400,
+              "finMs": 31860
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "texto": "En dos mil diecisiete surgió una teoría que acaparó titulares: el astrónomo Antonio Paris sugirió que dos cometas, desconocidos en mil novecientos setenta y siete, habían cruzado esa región del cielo envueltos en gigantescas nubes de vapor de hidrógeno que pudieron generar la emisión. Sin embargo, los astrónomos del observatorio desestimaron rápidamente la idea: los cometas son fuentes difusas de emisión extraordinariamente débil, incapaces de producir un pulso tan concentrado, potente y de banda estrecha sin detectarse en el segundo receptor que el Big Ear tenía apuntando a la misma zona minutos después.",
+          "tituloVisual": "LA HIPOTESIS COMETARIA",
+          "layout": "split_screen",
+          "composicionVisual": "plano_medio",
+          "escenario": "espacio_profundo",
+          "transicion": "whip_left",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_impact.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "cometas",
+            "Antonio Paris",
+            "nubes de vapor",
+            "segundo receptor"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "talking",
+          "duracionSegundos": 29.338,
+          "palabras": [
+            {
+              "palabra": "En",
+              "inicioMs": 0,
+              "finMs": 220
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 220,
+              "finMs": 405
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 405,
+              "finMs": 590
+            },
+            {
+              "palabra": "diecisiete",
+              "inicioMs": 590,
+              "finMs": 775
+            },
+            {
+              "palabra": "surgió",
+              "inicioMs": 960,
+              "finMs": 1500
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 1500,
+              "finMs": 1640
+            },
+            {
+              "palabra": "teoría",
+              "inicioMs": 1640,
+              "finMs": 1920
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 1920,
+              "finMs": 2060
+            },
+            {
+              "palabra": "acaparó",
+              "inicioMs": 2060,
+              "finMs": 2400
+            },
+            {
+              "palabra": "titulares",
+              "inicioMs": 2400,
+              "finMs": 2840
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 3040,
+              "finMs": 3100
+            },
+            {
+              "palabra": "astrónomo",
+              "inicioMs": 3100,
+              "finMs": 3460
+            },
+            {
+              "palabra": "Antonio",
+              "inicioMs": 3460,
+              "finMs": 3740
+            },
+            {
+              "palabra": "Paris",
+              "inicioMs": 3740,
+              "finMs": 4100
+            },
+            {
+              "palabra": "sugirió",
+              "inicioMs": 4100,
+              "finMs": 4580
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 4580,
+              "finMs": 4720
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 4720,
+              "finMs": 4880
+            },
+            {
+              "palabra": "cometas",
+              "inicioMs": 4880,
+              "finMs": 5440
+            },
+            {
+              "palabra": "desconocidos",
+              "inicioMs": 5800,
+              "finMs": 6280
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 6280,
+              "finMs": 6460
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 6460,
+              "finMs": 6727
+            },
+            {
+              "palabra": "novecientos",
+              "inicioMs": 6727,
+              "finMs": 6993
+            },
+            {
+              "palabra": "setenta",
+              "inicioMs": 6993,
+              "finMs": 7260
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 7260,
+              "finMs": 7527
+            },
+            {
+              "palabra": "siete",
+              "inicioMs": 7527,
+              "finMs": 7793
+            },
+            {
+              "palabra": "habían",
+              "inicioMs": 8060,
+              "finMs": 8200
+            },
+            {
+              "palabra": "cruzado",
+              "inicioMs": 8200,
+              "finMs": 8620
+            },
+            {
+              "palabra": "esa",
+              "inicioMs": 8620,
+              "finMs": 8780
+            },
+            {
+              "palabra": "región",
+              "inicioMs": 8780,
+              "finMs": 9100
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 9100,
+              "finMs": 9320
+            },
+            {
+              "palabra": "cielo",
+              "inicioMs": 9320,
+              "finMs": 9540
+            },
+            {
+              "palabra": "envueltos",
+              "inicioMs": 9800,
+              "finMs": 10060
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 10060,
+              "finMs": 10200
+            },
+            {
+              "palabra": "gigantescas",
+              "inicioMs": 10200,
+              "finMs": 10760
+            },
+            {
+              "palabra": "nubes",
+              "inicioMs": 10760,
+              "finMs": 11080
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11080,
+              "finMs": 11200
+            },
+            {
+              "palabra": "vapor",
+              "inicioMs": 11200,
+              "finMs": 11420
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11420,
+              "finMs": 11620
+            },
+            {
+              "palabra": "hidrógeno",
+              "inicioMs": 11620,
+              "finMs": 12080
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 12080,
+              "finMs": 12220
+            },
+            {
+              "palabra": "pudieron",
+              "inicioMs": 12220,
+              "finMs": 12520
+            },
+            {
+              "palabra": "generar",
+              "inicioMs": 12520,
+              "finMs": 12900
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 12900,
+              "finMs": 13020
+            },
+            {
+              "palabra": "emisión",
+              "inicioMs": 13020,
+              "finMs": 13300
+            },
+            {
+              "palabra": "Sin",
+              "inicioMs": 13620,
+              "finMs": 13720
+            },
+            {
+              "palabra": "embargo",
+              "inicioMs": 13720,
+              "finMs": 13960
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 14100,
+              "finMs": 14200
+            },
+            {
+              "palabra": "astrónomos",
+              "inicioMs": 14200,
+              "finMs": 14720
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 14720,
+              "finMs": 14860
+            },
+            {
+              "palabra": "observatorio",
+              "inicioMs": 14860,
+              "finMs": 15460
+            },
+            {
+              "palabra": "desestimaron",
+              "inicioMs": 15460,
+              "finMs": 16120
+            },
+            {
+              "palabra": "rápidamente",
+              "inicioMs": 16120,
+              "finMs": 16720
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 16720,
+              "finMs": 17000
+            },
+            {
+              "palabra": "idea",
+              "inicioMs": 17000,
+              "finMs": 17180
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 17360,
+              "finMs": 17440
+            },
+            {
+              "palabra": "cometas",
+              "inicioMs": 17440,
+              "finMs": 17820
+            },
+            {
+              "palabra": "son",
+              "inicioMs": 17820,
+              "finMs": 18000
+            },
+            {
+              "palabra": "fuentes",
+              "inicioMs": 18000,
+              "finMs": 18300
+            },
+            {
+              "palabra": "difusas",
+              "inicioMs": 18300,
+              "finMs": 18700
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18700,
+              "finMs": 18880
+            },
+            {
+              "palabra": "emisión",
+              "inicioMs": 18880,
+              "finMs": 19140
+            },
+            {
+              "palabra": "extraordinariamente",
+              "inicioMs": 19140,
+              "finMs": 19960
+            },
+            {
+              "palabra": "débil",
+              "inicioMs": 19960,
+              "finMs": 20480
+            },
+            {
+              "palabra": "incapaces",
+              "inicioMs": 20700,
+              "finMs": 21100
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 21100,
+              "finMs": 21240
+            },
+            {
+              "palabra": "producir",
+              "inicioMs": 21240,
+              "finMs": 21640
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 21640,
+              "finMs": 21800
+            },
+            {
+              "palabra": "pulso",
+              "inicioMs": 21800,
+              "finMs": 22060
+            },
+            {
+              "palabra": "tan",
+              "inicioMs": 22060,
+              "finMs": 22260
+            },
+            {
+              "palabra": "concentrado",
+              "inicioMs": 22260,
+              "finMs": 22920
+            },
+            {
+              "palabra": "potente",
+              "inicioMs": 23260,
+              "finMs": 23560
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 23560,
+              "finMs": 23760
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 23760,
+              "finMs": 23820
+            },
+            {
+              "palabra": "banda",
+              "inicioMs": 23820,
+              "finMs": 23980
+            },
+            {
+              "palabra": "estrecha",
+              "inicioMs": 23980,
+              "finMs": 24520
+            },
+            {
+              "palabra": "sin",
+              "inicioMs": 24520,
+              "finMs": 24700
+            },
+            {
+              "palabra": "detectarse",
+              "inicioMs": 24700,
+              "finMs": 25240
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 25240,
+              "finMs": 25360
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 25360,
+              "finMs": 25480
+            },
+            {
+              "palabra": "segundo",
+              "inicioMs": 25480,
+              "finMs": 25700
+            },
+            {
+              "palabra": "receptor",
+              "inicioMs": 25700,
+              "finMs": 26060
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 26060,
+              "finMs": 26460
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 26460,
+              "finMs": 26580
+            },
+            {
+              "palabra": "Big",
+              "inicioMs": 26580,
+              "finMs": 26667
+            },
+            {
+              "palabra": "Ear",
+              "inicioMs": 26667,
+              "finMs": 26753
+            },
+            {
+              "palabra": "tenía",
+              "inicioMs": 26840,
+              "finMs": 27120
+            },
+            {
+              "palabra": "apuntando",
+              "inicioMs": 27120,
+              "finMs": 27620
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 27620,
+              "finMs": 27700
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 27700,
+              "finMs": 27740
+            },
+            {
+              "palabra": "misma",
+              "inicioMs": 27740,
+              "finMs": 27940
+            },
+            {
+              "palabra": "zona",
+              "inicioMs": 27940,
+              "finMs": 28180
+            },
+            {
+              "palabra": "minutos",
+              "inicioMs": 28180,
+              "finMs": 28520
+            },
+            {
+              "palabra": "después",
+              "inicioMs": 28520,
+              "finMs": 28820
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 61.65
+    },
+    {
+      "id": "cap_5",
+      "numero": 5,
+      "titulo": "El Silencio Ensayado de Sagitario",
+      "resumen": "Las búsquedas posteriores con el telescopio de Arecibo y el Very Large Array.",
+      "escenas": [
+        {
+          "id": 9,
+          "texto": "Si una civilización alienígena nos envió un mensaje, ¿por qué no insistieron? Jerry Ehman y decenas de radioastrónomos apuntaron instrumentos mucho más potentes hacia las mismas coordenadas de Sagitario. El gigantesco radiotelescopio de Arecibo en Puerto Rico y el Very Large Array en Nuevo México escanearon la zona una y otra vez con una sensibilidad miles de veces mayor que la del Big Ear. El resultado fue siempre el mismo: un silencio sepulcral. Ni un solo susurro, ni una variación de tono. Aquella transmisión única pareció desvanecerse en el abismo como un faro que destelló una sola vez y se apagó para siempre.",
+          "tituloVisual": "BUSQUEDA EN ARECIBO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "espacio_profundo",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_sci_fi_beep.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "Arecibo",
+            "Very Large Array",
+            "silencio sepulcral",
+            "coordenadas de Sagitario"
+          ],
+          "poseId": "astronomy_telescope",
+          "expresion": "sad",
+          "duracionSegundos": 32.194,
+          "palabras": [
+            {
+              "palabra": "Si",
+              "inicioMs": 0,
+              "finMs": 240
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 240,
+              "finMs": 440
+            },
+            {
+              "palabra": "civilización",
+              "inicioMs": 440,
+              "finMs": 1040
+            },
+            {
+              "palabra": "alienígena",
+              "inicioMs": 1040,
+              "finMs": 1700
+            },
+            {
+              "palabra": "nos",
+              "inicioMs": 1700,
+              "finMs": 1880
+            },
+            {
+              "palabra": "envió",
+              "inicioMs": 1880,
+              "finMs": 2160
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 2160,
+              "finMs": 2300
+            },
+            {
+              "palabra": "mensaje",
+              "inicioMs": 2300,
+              "finMs": 2720
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 2980,
+              "finMs": 3020
+            },
+            {
+              "palabra": "qué",
+              "inicioMs": 3020,
+              "finMs": 3200
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 3200,
+              "finMs": 3320
+            },
+            {
+              "palabra": "insistieron",
+              "inicioMs": 3320,
+              "finMs": 3920
+            },
+            {
+              "palabra": "Jerry",
+              "inicioMs": 4040,
+              "finMs": 4240
+            },
+            {
+              "palabra": "Ehman",
+              "inicioMs": 4440,
+              "finMs": 4640
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 4640,
+              "finMs": 4880
+            },
+            {
+              "palabra": "decenas",
+              "inicioMs": 4880,
+              "finMs": 5220
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5220,
+              "finMs": 5360
+            },
+            {
+              "palabra": "radioastrónomos",
+              "inicioMs": 5620,
+              "finMs": 6080
+            },
+            {
+              "palabra": "apuntaron",
+              "inicioMs": 6080,
+              "finMs": 6720
+            },
+            {
+              "palabra": "instrumentos",
+              "inicioMs": 6720,
+              "finMs": 7360
+            },
+            {
+              "palabra": "mucho",
+              "inicioMs": 7360,
+              "finMs": 7640
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 7640,
+              "finMs": 7820
+            },
+            {
+              "palabra": "potentes",
+              "inicioMs": 7820,
+              "finMs": 8300
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 8300,
+              "finMs": 8600
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 8600,
+              "finMs": 8780
+            },
+            {
+              "palabra": "mismas",
+              "inicioMs": 8780,
+              "finMs": 9100
+            },
+            {
+              "palabra": "coordenadas",
+              "inicioMs": 9100,
+              "finMs": 9560
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9560,
+              "finMs": 9685
+            },
+            {
+              "palabra": "Sagitario",
+              "inicioMs": 9560,
+              "finMs": 10540
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 10640,
+              "finMs": 10760
+            },
+            {
+              "palabra": "gigantesco",
+              "inicioMs": 10760,
+              "finMs": 11260
+            },
+            {
+              "palabra": "radiotelescopio",
+              "inicioMs": 11460,
+              "finMs": 12020
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12020,
+              "finMs": 12160
+            },
+            {
+              "palabra": "Arecibo",
+              "inicioMs": 12160,
+              "finMs": 12420
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 12420,
+              "finMs": 12560
+            },
+            {
+              "palabra": "Puerto",
+              "inicioMs": 12560,
+              "finMs": 12720
+            },
+            {
+              "palabra": "Rico",
+              "inicioMs": 12720,
+              "finMs": 13080
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 13080,
+              "finMs": 13380
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 13380,
+              "finMs": 13480
+            },
+            {
+              "palabra": "Very",
+              "inicioMs": 13480,
+              "finMs": 13650
+            },
+            {
+              "palabra": "Large",
+              "inicioMs": 13650,
+              "finMs": 13820
+            },
+            {
+              "palabra": "Array",
+              "inicioMs": 13820,
+              "finMs": 13990
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 14160,
+              "finMs": 14280
+            },
+            {
+              "palabra": "Nuevo",
+              "inicioMs": 14280,
+              "finMs": 14440
+            },
+            {
+              "palabra": "México",
+              "inicioMs": 14440,
+              "finMs": 14720
+            },
+            {
+              "palabra": "escanearon",
+              "inicioMs": 14720,
+              "finMs": 15260
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 15260,
+              "finMs": 15440
+            },
+            {
+              "palabra": "zona",
+              "inicioMs": 15440,
+              "finMs": 15660
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 15660,
+              "finMs": 15960
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 15960,
+              "finMs": 16080
+            },
+            {
+              "palabra": "otra",
+              "inicioMs": 16080,
+              "finMs": 16220
+            },
+            {
+              "palabra": "vez",
+              "inicioMs": 16220,
+              "finMs": 16360
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 16360,
+              "finMs": 16540
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 16540,
+              "finMs": 16780
+            },
+            {
+              "palabra": "sensibilidad",
+              "inicioMs": 16940,
+              "finMs": 17380
+            },
+            {
+              "palabra": "miles",
+              "inicioMs": 17380,
+              "finMs": 17840
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17840,
+              "finMs": 18020
+            },
+            {
+              "palabra": "veces",
+              "inicioMs": 18020,
+              "finMs": 18200
+            },
+            {
+              "palabra": "mayor",
+              "inicioMs": 18200,
+              "finMs": 18560
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 18560,
+              "finMs": 18760
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 18760,
+              "finMs": 18840
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 18840,
+              "finMs": 18980
+            },
+            {
+              "palabra": "Big",
+              "inicioMs": 18980,
+              "finMs": 19200
+            },
+            {
+              "palabra": "Ear",
+              "inicioMs": 19200,
+              "finMs": 19540
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 19680,
+              "finMs": 19760
+            },
+            {
+              "palabra": "resultado",
+              "inicioMs": 19760,
+              "finMs": 20100
+            },
+            {
+              "palabra": "fue",
+              "inicioMs": 20100,
+              "finMs": 20320
+            },
+            {
+              "palabra": "siempre",
+              "inicioMs": 20320,
+              "finMs": 20620
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 20620,
+              "finMs": 20745
+            },
+            {
+              "palabra": "mismo",
+              "inicioMs": 20620,
+              "finMs": 21060
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 21180,
+              "finMs": 21320
+            },
+            {
+              "palabra": "silencio",
+              "inicioMs": 21320,
+              "finMs": 21720
+            },
+            {
+              "palabra": "sepulcral",
+              "inicioMs": 21720,
+              "finMs": 22340
+            },
+            {
+              "palabra": "Ni",
+              "inicioMs": 22340,
+              "finMs": 22647
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 22647,
+              "finMs": 22953
+            },
+            {
+              "palabra": "solo",
+              "inicioMs": 23260,
+              "finMs": 23580
+            },
+            {
+              "palabra": "susurro",
+              "inicioMs": 23760,
+              "finMs": 24140
+            },
+            {
+              "palabra": "ni",
+              "inicioMs": 24300,
+              "finMs": 24400
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 24400,
+              "finMs": 24580
+            },
+            {
+              "palabra": "variación",
+              "inicioMs": 24580,
+              "finMs": 25000
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 25000,
+              "finMs": 25200
+            },
+            {
+              "palabra": "tono",
+              "inicioMs": 25200,
+              "finMs": 25500
+            },
+            {
+              "palabra": "Aquella",
+              "inicioMs": 25700,
+              "finMs": 25980
+            },
+            {
+              "palabra": "transmisión",
+              "inicioMs": 25980,
+              "finMs": 26460
+            },
+            {
+              "palabra": "única",
+              "inicioMs": 26460,
+              "finMs": 26920
+            },
+            {
+              "palabra": "pareció",
+              "inicioMs": 26920,
+              "finMs": 27400
+            },
+            {
+              "palabra": "desvanecerse",
+              "inicioMs": 27400,
+              "finMs": 28040
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 28040,
+              "finMs": 28180
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 28180,
+              "finMs": 28240
+            },
+            {
+              "palabra": "abismo",
+              "inicioMs": 28240,
+              "finMs": 28580
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 28580,
+              "finMs": 28840
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 28840,
+              "finMs": 29020
+            },
+            {
+              "palabra": "faro",
+              "inicioMs": 29020,
+              "finMs": 29280
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 29280,
+              "finMs": 29400
+            },
+            {
+              "palabra": "destelló",
+              "inicioMs": 29400,
+              "finMs": 29840
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 29840,
+              "finMs": 30000
+            },
+            {
+              "palabra": "sola",
+              "inicioMs": 30000,
+              "finMs": 30240
+            },
+            {
+              "palabra": "vez",
+              "inicioMs": 30240,
+              "finMs": 30460
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 30460,
+              "finMs": 30660
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 30660,
+              "finMs": 30760
+            },
+            {
+              "palabra": "apagó",
+              "inicioMs": 30760,
+              "finMs": 31080
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 31080,
+              "finMs": 31280
+            },
+            {
+              "palabra": "siempre",
+              "inicioMs": 31280,
+              "finMs": 31700
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "texto": "Una de las explicaciones más inquietantes sugiere el fenómeno del centelleo interestelar o la lente gravitacional transitoria: una señal que viajaba por el cosmos fue amplificada momentáneamente miles de veces al alinearse de forma milimétrica con una nube de plasma o la gravedad de una estrella intermedia. O tal vez, como argumentan los teóricos del programa SETI, no era una transmisión dirigida a nosotros, sino un radar de navegación cósmica o el barrido de un haz emisor rotatorio alienígena que barrió nuestro sistema solar durante poco más de un minuto antes de continuar su viaje hacia la inmensidad.",
+          "tituloVisual": "CENTELLEO O FARO ALIEN",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "espacio_profundo",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "centelleo interestelar",
+            "lente gravitacional",
+            "radar de navegación",
+            "haz rotatorio"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "analytical",
+          "infografia": {
+            "tipo": "comparacion",
+            "titulo": "Modelos Teóricos",
+            "subtitulo": "Naturaleza de la Transmisión",
+            "valorPrincipal": "SETI",
+            "unidad": "candidato #1",
+            "items": [
+              {
+                "etiqueta": "Faro interestelar rotatorio",
+                "valor": "Haz periódico amplio",
+                "porcentaje": 80,
+                "color": "#FFE600"
+              },
+              {
+                "etiqueta": "Centelleo de plasma",
+                "valor": "Amplificación fugaz",
+                "porcentaje": 65,
+                "color": "#38BDF8"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 32.362,
+          "palabras": [
+            {
+              "palabra": "Una",
+              "inicioMs": 0,
+              "finMs": 280
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 280,
+              "finMs": 360
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 360,
+              "finMs": 500
+            },
+            {
+              "palabra": "explicaciones",
+              "inicioMs": 500,
+              "finMs": 1100
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 1100,
+              "finMs": 1440
+            },
+            {
+              "palabra": "inquietantes",
+              "inicioMs": 1440,
+              "finMs": 2060
+            },
+            {
+              "palabra": "sugiere",
+              "inicioMs": 2060,
+              "finMs": 2840
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 2840,
+              "finMs": 3100
+            },
+            {
+              "palabra": "fenómeno",
+              "inicioMs": 3100,
+              "finMs": 3500
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 3500,
+              "finMs": 3700
+            },
+            {
+              "palabra": "centelleo",
+              "inicioMs": 3700,
+              "finMs": 4280
+            },
+            {
+              "palabra": "interestelar",
+              "inicioMs": 4280,
+              "finMs": 5180
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 5180,
+              "finMs": 5320
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5320,
+              "finMs": 5440
+            },
+            {
+              "palabra": "lente",
+              "inicioMs": 5440,
+              "finMs": 5720
+            },
+            {
+              "palabra": "gravitacional",
+              "inicioMs": 5720,
+              "finMs": 6280
+            },
+            {
+              "palabra": "transitoria",
+              "inicioMs": 6280,
+              "finMs": 7100
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 7380,
+              "finMs": 7520
+            },
+            {
+              "palabra": "señal",
+              "inicioMs": 7520,
+              "finMs": 7920
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 7920,
+              "finMs": 8060
+            },
+            {
+              "palabra": "viajaba",
+              "inicioMs": 8060,
+              "finMs": 8400
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 8400,
+              "finMs": 8600
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 8600,
+              "finMs": 8725
+            },
+            {
+              "palabra": "cosmos",
+              "inicioMs": 8600,
+              "finMs": 9040
+            },
+            {
+              "palabra": "fue",
+              "inicioMs": 9040,
+              "finMs": 9300
+            },
+            {
+              "palabra": "amplificada",
+              "inicioMs": 9300,
+              "finMs": 9900
+            },
+            {
+              "palabra": "momentáneamente",
+              "inicioMs": 9900,
+              "finMs": 10760
+            },
+            {
+              "palabra": "miles",
+              "inicioMs": 10760,
+              "finMs": 11100
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11100,
+              "finMs": 11300
+            },
+            {
+              "palabra": "veces",
+              "inicioMs": 11300,
+              "finMs": 11520
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 11520,
+              "finMs": 11700
+            },
+            {
+              "palabra": "alinearse",
+              "inicioMs": 11780,
+              "finMs": 12160
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12160,
+              "finMs": 12300
+            },
+            {
+              "palabra": "forma",
+              "inicioMs": 12300,
+              "finMs": 12540
+            },
+            {
+              "palabra": "milimétrica",
+              "inicioMs": 12540,
+              "finMs": 13100
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 13100,
+              "finMs": 13340
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 13340,
+              "finMs": 13520
+            },
+            {
+              "palabra": "nube",
+              "inicioMs": 13520,
+              "finMs": 13720
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 13720,
+              "finMs": 13860
+            },
+            {
+              "palabra": "plasma",
+              "inicioMs": 13860,
+              "finMs": 14220
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 14220,
+              "finMs": 14620
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 14620,
+              "finMs": 14720
+            },
+            {
+              "palabra": "gravedad",
+              "inicioMs": 14720,
+              "finMs": 15080
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15080,
+              "finMs": 15240
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 15240,
+              "finMs": 15340
+            },
+            {
+              "palabra": "estrella",
+              "inicioMs": 15340,
+              "finMs": 15680
+            },
+            {
+              "palabra": "intermedia",
+              "inicioMs": 15680,
+              "finMs": 16280
+            },
+            {
+              "palabra": "O",
+              "inicioMs": 16500,
+              "finMs": 16580
+            },
+            {
+              "palabra": "tal",
+              "inicioMs": 16580,
+              "finMs": 16780
+            },
+            {
+              "palabra": "vez",
+              "inicioMs": 16780,
+              "finMs": 16960
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 17140,
+              "finMs": 17360
+            },
+            {
+              "palabra": "argumentan",
+              "inicioMs": 17360,
+              "finMs": 17840
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 17840,
+              "finMs": 18000
+            },
+            {
+              "palabra": "teóricos",
+              "inicioMs": 18000,
+              "finMs": 18340
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 18340,
+              "finMs": 18480
+            },
+            {
+              "palabra": "programa",
+              "inicioMs": 18480,
+              "finMs": 18780
+            },
+            {
+              "palabra": "SETI",
+              "inicioMs": 18780,
+              "finMs": 19280
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 19420,
+              "finMs": 19480
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 19480,
+              "finMs": 19640
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 19640,
+              "finMs": 19820
+            },
+            {
+              "palabra": "transmisión",
+              "inicioMs": 19820,
+              "finMs": 20300
+            },
+            {
+              "palabra": "dirigida",
+              "inicioMs": 20300,
+              "finMs": 20700
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 20700,
+              "finMs": 20780
+            },
+            {
+              "palabra": "nosotros",
+              "inicioMs": 20780,
+              "finMs": 21240
+            },
+            {
+              "palabra": "sino",
+              "inicioMs": 21460,
+              "finMs": 21740
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 21740,
+              "finMs": 21940
+            },
+            {
+              "palabra": "radar",
+              "inicioMs": 21940,
+              "finMs": 22100
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22100,
+              "finMs": 22380
+            },
+            {
+              "palabra": "navegación",
+              "inicioMs": 22380,
+              "finMs": 22880
+            },
+            {
+              "palabra": "cósmica",
+              "inicioMs": 22880,
+              "finMs": 23520
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 23520,
+              "finMs": 23700
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 23700,
+              "finMs": 23820
+            },
+            {
+              "palabra": "barrido",
+              "inicioMs": 23820,
+              "finMs": 24140
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 24140,
+              "finMs": 24320
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 24320,
+              "finMs": 24520
+            },
+            {
+              "palabra": "haz",
+              "inicioMs": 24520,
+              "finMs": 24645
+            },
+            {
+              "palabra": "emisor",
+              "inicioMs": 24520,
+              "finMs": 25120
+            },
+            {
+              "palabra": "rotatorio",
+              "inicioMs": 25120,
+              "finMs": 25620
+            },
+            {
+              "palabra": "alienígena",
+              "inicioMs": 25620,
+              "finMs": 26460
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 26460,
+              "finMs": 26660
+            },
+            {
+              "palabra": "barrió",
+              "inicioMs": 26660,
+              "finMs": 26960
+            },
+            {
+              "palabra": "nuestro",
+              "inicioMs": 26960,
+              "finMs": 27160
+            },
+            {
+              "palabra": "sistema",
+              "inicioMs": 27160,
+              "finMs": 27520
+            },
+            {
+              "palabra": "solar",
+              "inicioMs": 27520,
+              "finMs": 27900
+            },
+            {
+              "palabra": "durante",
+              "inicioMs": 27900,
+              "finMs": 28440
+            },
+            {
+              "palabra": "poco",
+              "inicioMs": 28440,
+              "finMs": 28740
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 28740,
+              "finMs": 28960
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 28960,
+              "finMs": 29080
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 29080,
+              "finMs": 29160
+            },
+            {
+              "palabra": "minuto",
+              "inicioMs": 29160,
+              "finMs": 29520
+            },
+            {
+              "palabra": "antes",
+              "inicioMs": 29520,
+              "finMs": 29800
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 29800,
+              "finMs": 29960
+            },
+            {
+              "palabra": "continuar",
+              "inicioMs": 29960,
+              "finMs": 30360
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 30360,
+              "finMs": 30560
+            },
+            {
+              "palabra": "viaje",
+              "inicioMs": 30560,
+              "finMs": 30860
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 30860,
+              "finMs": 31240
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 31240,
+              "finMs": 31400
+            },
+            {
+              "palabra": "inmensidad",
+              "inicioMs": 31400,
+              "finMs": 31900
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 64.56
+    },
+    {
+      "id": "cap_6",
+      "numero": 6,
+      "titulo": "El Eco de una Pregunta Abierta",
+      "resumen": "La herencia del mensaje y nuestro lugar solitario en la galaxia.",
+      "escenas": [
+        {
+          "id": 11,
+          "texto": "Casi medio siglo después, la señal Wow permanece como el candidato más sólido y desconcertante de contacto tecnológico de toda la historia humana. En el año dos mil doce, en el trigésimo quinto aniversario del evento, la humanidad envió una respuesta desde el radiotelescopio de Arecibo: una transmisión compuesta por más de diez mil mensajes de texto y videos de ciudadanos de todo el planeta hacia las coordenadas exactas de donde provino el pulso. Esa respuesta tardará siglos en llegar a su destino, si es que alguna vez alguien está allí para escucharla.",
+          "tituloVisual": "RESPUESTA DESDE ARECIBO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "espacio_profundo",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "medio siglo",
+            "trigésimo quinto aniversario",
+            "diez mil mensajes",
+            "respuesta terrestre"
+          ],
+          "poseId": "standing_curious",
+          "expresion": "hopeful",
+          "duracionSegundos": 26.674,
+          "palabras": [
+            {
+              "palabra": "Casi",
+              "inicioMs": 0,
+              "finMs": 280
+            },
+            {
+              "palabra": "medio",
+              "inicioMs": 280,
+              "finMs": 500
+            },
+            {
+              "palabra": "siglo",
+              "inicioMs": 500,
+              "finMs": 760
+            },
+            {
+              "palabra": "después",
+              "inicioMs": 760,
+              "finMs": 1100
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 1320,
+              "finMs": 1400
+            },
+            {
+              "palabra": "señal",
+              "inicioMs": 1400,
+              "finMs": 1720
+            },
+            {
+              "palabra": "Wow",
+              "inicioMs": 1720,
+              "finMs": 2080
+            },
+            {
+              "palabra": "permanece",
+              "inicioMs": 2080,
+              "finMs": 2600
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 2600,
+              "finMs": 2780
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 2780,
+              "finMs": 2900
+            },
+            {
+              "palabra": "candidato",
+              "inicioMs": 2900,
+              "finMs": 3220
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 3220,
+              "finMs": 3500
+            },
+            {
+              "palabra": "sólido",
+              "inicioMs": 3500,
+              "finMs": 3860
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 3860,
+              "finMs": 3980
+            },
+            {
+              "palabra": "desconcertante",
+              "inicioMs": 3980,
+              "finMs": 4660
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4660,
+              "finMs": 4730
+            },
+            {
+              "palabra": "contacto",
+              "inicioMs": 4800,
+              "finMs": 5220
+            },
+            {
+              "palabra": "tecnológico",
+              "inicioMs": 5220,
+              "finMs": 5860
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5860,
+              "finMs": 5980
+            },
+            {
+              "palabra": "toda",
+              "inicioMs": 5980,
+              "finMs": 6160
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 6160,
+              "finMs": 6260
+            },
+            {
+              "palabra": "historia",
+              "inicioMs": 6260,
+              "finMs": 6420
+            },
+            {
+              "palabra": "humana",
+              "inicioMs": 6420,
+              "finMs": 6860
+            },
+            {
+              "palabra": "En",
+              "inicioMs": 7080,
+              "finMs": 7200
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 7200,
+              "finMs": 7340
+            },
+            {
+              "palabra": "año",
+              "inicioMs": 7340,
+              "finMs": 7540
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 7540,
+              "finMs": 7785
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 7785,
+              "finMs": 8030
+            },
+            {
+              "palabra": "doce",
+              "inicioMs": 8030,
+              "finMs": 8275
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 8520,
+              "finMs": 8580
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 8580,
+              "finMs": 8660
+            },
+            {
+              "palabra": "trigésimo",
+              "inicioMs": 8660,
+              "finMs": 9220
+            },
+            {
+              "palabra": "quinto",
+              "inicioMs": 9220,
+              "finMs": 9560
+            },
+            {
+              "palabra": "aniversario",
+              "inicioMs": 9560,
+              "finMs": 10040
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 10040,
+              "finMs": 10180
+            },
+            {
+              "palabra": "evento",
+              "inicioMs": 10180,
+              "finMs": 10500
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 10660,
+              "finMs": 10720
+            },
+            {
+              "palabra": "humanidad",
+              "inicioMs": 10720,
+              "finMs": 11080
+            },
+            {
+              "palabra": "envió",
+              "inicioMs": 11080,
+              "finMs": 11380
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 11380,
+              "finMs": 11540
+            },
+            {
+              "palabra": "respuesta",
+              "inicioMs": 11540,
+              "finMs": 11860
+            },
+            {
+              "palabra": "desde",
+              "inicioMs": 11860,
+              "finMs": 12260
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 12260,
+              "finMs": 12460
+            },
+            {
+              "palabra": "radiotelescopio",
+              "inicioMs": 12600,
+              "finMs": 13240
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 13240,
+              "finMs": 13360
+            },
+            {
+              "palabra": "Arecibo",
+              "inicioMs": 13360,
+              "finMs": 13760
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 13960,
+              "finMs": 14100
+            },
+            {
+              "palabra": "transmisión",
+              "inicioMs": 14100,
+              "finMs": 14560
+            },
+            {
+              "palabra": "compuesta",
+              "inicioMs": 14560,
+              "finMs": 15020
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 15020,
+              "finMs": 15220
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 15220,
+              "finMs": 15380
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15380,
+              "finMs": 15540
+            },
+            {
+              "palabra": "diez",
+              "inicioMs": 15540,
+              "finMs": 15660
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 15660,
+              "finMs": 15780
+            },
+            {
+              "palabra": "mensajes",
+              "inicioMs": 15900,
+              "finMs": 16340
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 16340,
+              "finMs": 16480
+            },
+            {
+              "palabra": "texto",
+              "inicioMs": 16480,
+              "finMs": 16720
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 16720,
+              "finMs": 16880
+            },
+            {
+              "palabra": "videos",
+              "inicioMs": 16880,
+              "finMs": 17120
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17120,
+              "finMs": 17340
+            },
+            {
+              "palabra": "ciudadanos",
+              "inicioMs": 17340,
+              "finMs": 18100
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18100,
+              "finMs": 18260
+            },
+            {
+              "palabra": "todo",
+              "inicioMs": 18260,
+              "finMs": 18460
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 18460,
+              "finMs": 18600
+            },
+            {
+              "palabra": "planeta",
+              "inicioMs": 18600,
+              "finMs": 18820
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 18820,
+              "finMs": 18950
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 19080,
+              "finMs": 19220
+            },
+            {
+              "palabra": "coordenadas",
+              "inicioMs": 19220,
+              "finMs": 19680
+            },
+            {
+              "palabra": "exactas",
+              "inicioMs": 19680,
+              "finMs": 20220
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 20220,
+              "finMs": 20300
+            },
+            {
+              "palabra": "donde",
+              "inicioMs": 20300,
+              "finMs": 20460
+            },
+            {
+              "palabra": "provino",
+              "inicioMs": 20460,
+              "finMs": 20820
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 20820,
+              "finMs": 20940
+            },
+            {
+              "palabra": "pulso",
+              "inicioMs": 20940,
+              "finMs": 21280
+            },
+            {
+              "palabra": "Esa",
+              "inicioMs": 21540,
+              "finMs": 21720
+            },
+            {
+              "palabra": "respuesta",
+              "inicioMs": 21720,
+              "finMs": 22020
+            },
+            {
+              "palabra": "tardará",
+              "inicioMs": 22020,
+              "finMs": 22580
+            },
+            {
+              "palabra": "siglos",
+              "inicioMs": 22580,
+              "finMs": 22960
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 22960,
+              "finMs": 23140
+            },
+            {
+              "palabra": "llegar",
+              "inicioMs": 23140,
+              "finMs": 23300
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 23300,
+              "finMs": 23400
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 23400,
+              "finMs": 23500
+            },
+            {
+              "palabra": "destino",
+              "inicioMs": 23500,
+              "finMs": 23940
+            },
+            {
+              "palabra": "si",
+              "inicioMs": 23940,
+              "finMs": 24100
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 24100,
+              "finMs": 24200
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 24200,
+              "finMs": 24280
+            },
+            {
+              "palabra": "alguna",
+              "inicioMs": 24280,
+              "finMs": 24500
+            },
+            {
+              "palabra": "vez",
+              "inicioMs": 24500,
+              "finMs": 24680
+            },
+            {
+              "palabra": "alguien",
+              "inicioMs": 24680,
+              "finMs": 25060
+            },
+            {
+              "palabra": "está",
+              "inicioMs": 25060,
+              "finMs": 25360
+            },
+            {
+              "palabra": "allí",
+              "inicioMs": 25360,
+              "finMs": 25500
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 25500,
+              "finMs": 25660
+            },
+            {
+              "palabra": "escucharla",
+              "inicioMs": 25660,
+              "finMs": 26200
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "texto": "Aquella hoja de papel continuo con el círculo rojo de Jerry Ehman descansa hoy en los archivos históricos como un recordatorio poético de nuestra fragilidad. Tal vez fuimos testigos involuntarios del saludo de una civilización lejana que ya no existe, o tal vez el universo nos mostró una anomalía natural que aún no comprendemos. Pero cada vez que miramos hacia la constelación de Sagitario en una noche clara, sabemos que durante setenta y dos segundos de mil novecientos setenta y siete, la Tierra no estuvo del todo sola.",
+          "tituloVisual": "SETENTA Y DOS SEGUNDOS",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "habitacion_noche",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "círculo rojo",
+            "constelación de Sagitario",
+            "setenta y dos segundos",
+            "no estuvimos solos"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "smile_wide",
+          "duracionSegundos": 24.562,
+          "palabras": [
+            {
+              "palabra": "Aquella",
+              "inicioMs": 0,
+              "finMs": 460
+            },
+            {
+              "palabra": "hoja",
+              "inicioMs": 460,
+              "finMs": 680
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 680,
+              "finMs": 780
+            },
+            {
+              "palabra": "papel",
+              "inicioMs": 780,
+              "finMs": 980
+            },
+            {
+              "palabra": "continuo",
+              "inicioMs": 980,
+              "finMs": 1540
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 1540,
+              "finMs": 1620
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 1620,
+              "finMs": 1760
+            },
+            {
+              "palabra": "círculo",
+              "inicioMs": 1760,
+              "finMs": 2060
+            },
+            {
+              "palabra": "rojo",
+              "inicioMs": 2060,
+              "finMs": 2360
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2360,
+              "finMs": 2520
+            },
+            {
+              "palabra": "Jerry",
+              "inicioMs": 2520,
+              "finMs": 2780
+            },
+            {
+              "palabra": "Ehman",
+              "inicioMs": 2780,
+              "finMs": 3040
+            },
+            {
+              "palabra": "descansa",
+              "inicioMs": 3040,
+              "finMs": 3540
+            },
+            {
+              "palabra": "hoy",
+              "inicioMs": 3540,
+              "finMs": 3740
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 3740,
+              "finMs": 3820
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 3820,
+              "finMs": 3920
+            },
+            {
+              "palabra": "archivos",
+              "inicioMs": 3920,
+              "finMs": 4220
+            },
+            {
+              "palabra": "históricos",
+              "inicioMs": 4220,
+              "finMs": 4780
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 4780,
+              "finMs": 4980
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 4980,
+              "finMs": 5120
+            },
+            {
+              "palabra": "recordatorio",
+              "inicioMs": 5120,
+              "finMs": 5640
+            },
+            {
+              "palabra": "poético",
+              "inicioMs": 5640,
+              "finMs": 6140
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6520,
+              "finMs": 6700
+            },
+            {
+              "palabra": "nuestra",
+              "inicioMs": 6700,
+              "finMs": 7000
+            },
+            {
+              "palabra": "fragilidad",
+              "inicioMs": 7000,
+              "finMs": 7540
+            },
+            {
+              "palabra": "Tal",
+              "inicioMs": 7720,
+              "finMs": 7840
+            },
+            {
+              "palabra": "vez",
+              "inicioMs": 7840,
+              "finMs": 7960
+            },
+            {
+              "palabra": "fuimos",
+              "inicioMs": 7960,
+              "finMs": 8300
+            },
+            {
+              "palabra": "testigos",
+              "inicioMs": 8300,
+              "finMs": 8700
+            },
+            {
+              "palabra": "involuntarios",
+              "inicioMs": 8700,
+              "finMs": 9380
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 9380,
+              "finMs": 9580
+            },
+            {
+              "palabra": "saludo",
+              "inicioMs": 9580,
+              "finMs": 9880
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9880,
+              "finMs": 10060
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 10060,
+              "finMs": 10240
+            },
+            {
+              "palabra": "civilización",
+              "inicioMs": 10240,
+              "finMs": 10760
+            },
+            {
+              "palabra": "lejana",
+              "inicioMs": 10760,
+              "finMs": 11180
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 11180,
+              "finMs": 11340
+            },
+            {
+              "palabra": "ya",
+              "inicioMs": 11340,
+              "finMs": 11480
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 11480,
+              "finMs": 11600
+            },
+            {
+              "palabra": "existe",
+              "inicioMs": 11600,
+              "finMs": 11940
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 12120,
+              "finMs": 12200
+            },
+            {
+              "palabra": "tal",
+              "inicioMs": 12200,
+              "finMs": 12320
+            },
+            {
+              "palabra": "vez",
+              "inicioMs": 12320,
+              "finMs": 12440
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 12440,
+              "finMs": 12550
+            },
+            {
+              "palabra": "universo",
+              "inicioMs": 12660,
+              "finMs": 12900
+            },
+            {
+              "palabra": "nos",
+              "inicioMs": 12900,
+              "finMs": 13160
+            },
+            {
+              "palabra": "mostró",
+              "inicioMs": 13160,
+              "finMs": 13440
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 13440,
+              "finMs": 13620
+            },
+            {
+              "palabra": "anomalía",
+              "inicioMs": 13620,
+              "finMs": 14020
+            },
+            {
+              "palabra": "natural",
+              "inicioMs": 14020,
+              "finMs": 14320
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 14320,
+              "finMs": 14620
+            },
+            {
+              "palabra": "aún",
+              "inicioMs": 14620,
+              "finMs": 14780
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 14780,
+              "finMs": 14880
+            },
+            {
+              "palabra": "comprendemos",
+              "inicioMs": 14880,
+              "finMs": 15480
+            },
+            {
+              "palabra": "Pero",
+              "inicioMs": 15720,
+              "finMs": 15860
+            },
+            {
+              "palabra": "cada",
+              "inicioMs": 15860,
+              "finMs": 16080
+            },
+            {
+              "palabra": "vez",
+              "inicioMs": 16080,
+              "finMs": 16240
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 16240,
+              "finMs": 16360
+            },
+            {
+              "palabra": "miramos",
+              "inicioMs": 16360,
+              "finMs": 16700
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 16700,
+              "finMs": 16940
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 16940,
+              "finMs": 17100
+            },
+            {
+              "palabra": "constelación",
+              "inicioMs": 17100,
+              "finMs": 17660
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17660,
+              "finMs": 17785
+            },
+            {
+              "palabra": "Sagitario",
+              "inicioMs": 17660,
+              "finMs": 18340
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 18340,
+              "finMs": 18480
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 18480,
+              "finMs": 18640
+            },
+            {
+              "palabra": "noche",
+              "inicioMs": 18640,
+              "finMs": 18880
+            },
+            {
+              "palabra": "clara",
+              "inicioMs": 18880,
+              "finMs": 19280
+            },
+            {
+              "palabra": "sabemos",
+              "inicioMs": 19500,
+              "finMs": 19760
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 19760,
+              "finMs": 19980
+            },
+            {
+              "palabra": "durante",
+              "inicioMs": 19980,
+              "finMs": 20180
+            },
+            {
+              "palabra": "setenta",
+              "inicioMs": 20180,
+              "finMs": 20340
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 20340,
+              "finMs": 20500
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 20500,
+              "finMs": 20660
+            },
+            {
+              "palabra": "segundos",
+              "inicioMs": 20820,
+              "finMs": 21280
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 21280,
+              "finMs": 21440
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 21440,
+              "finMs": 21607
+            },
+            {
+              "palabra": "novecientos",
+              "inicioMs": 21607,
+              "finMs": 21773
+            },
+            {
+              "palabra": "setenta",
+              "inicioMs": 21773,
+              "finMs": 21940
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 21940,
+              "finMs": 22107
+            },
+            {
+              "palabra": "siete",
+              "inicioMs": 22107,
+              "finMs": 22273
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 22440,
+              "finMs": 22520
+            },
+            {
+              "palabra": "Tierra",
+              "inicioMs": 22520,
+              "finMs": 22760
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 22760,
+              "finMs": 22980
+            },
+            {
+              "palabra": "estuvo",
+              "inicioMs": 22980,
+              "finMs": 23300
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 23300,
+              "finMs": 23440
+            },
+            {
+              "palabra": "todo",
+              "inicioMs": 23440,
+              "finMs": 23660
+            },
+            {
+              "palabra": "sola",
+              "inicioMs": 23660,
+              "finMs": 24060
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 51.24
+    }
+  ]
+}

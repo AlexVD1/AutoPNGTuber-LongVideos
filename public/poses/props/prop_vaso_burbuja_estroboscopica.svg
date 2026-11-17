@@ -1,0 +1,19 @@
+<svg width="200" height="200" viewBox="-65 -65 130 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="scale(1.15)">
+    <rect x="-30" y="-30" width="60" height="64" rx="4" fill="#38BDF8" fill-opacity="0.25" stroke="#111827" stroke-width="4.5" />
+    <path d="M -28 -14 Q 0 -18 28 -14" stroke="#0284C7" stroke-width="2.5" fill="none" />
+    <line x1="-28" y1="-8" x2="-18" y2="-8" stroke="#0284C7" stroke-width="2" />
+    <line x1="-28" y1="4" x2="-18" y2="4" stroke="#0284C7" stroke-width="2" />
+    <line x1="-28" y1="16" x2="-18" y2="16" stroke="#0284C7" stroke-width="2" />
+    <circle cx="0" cy="6" r="10" fill="#E0F2FE" stroke="#111827" stroke-width="3" />
+    <circle cx="0" cy="6" r="6" fill="#FFFFFF" />
+    <g transform="translate(0, 6) rotate(0.00)" opacity="1">
+      <line x1="-24" y1="0" x2="24" y2="0" stroke="#38BDF8" stroke-width="3" stroke-linecap="round" />
+      <line x1="0" y1="-24" x2="0" y2="24" stroke="#38BDF8" stroke-width="3" stroke-linecap="round" />
+      <line x1="-16" y1="-16" x2="16" y2="16" stroke="#FEF08A" stroke-width="2" stroke-linecap="round" />
+      <line x1="-16" y1="16" x2="16" y2="-16" stroke="#FEF08A" stroke-width="2" stroke-linecap="round" />
+    </g>
+    <rect x="-38" y="38" width="76" height="12" rx="3" fill="#0284C7" stroke="#111827" stroke-width="2"/>
+    <text x="0" y="46.5" font-family="'Arial Black', sans-serif" font-size="5.5" font-weight="900" fill="#FFFFFF" text-anchor="middle">SOL EN UN VASO</text>
+  </g>
+</svg>

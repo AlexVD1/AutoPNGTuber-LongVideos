@@ -1,0 +1,35 @@
+<svg width="500" height="620" viewBox="-35 -40 470 545" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Efectos festivos de ambiente opcionales -->
+  
+  <!-- Sombra base -->
+  <ellipse cx="200" cy="472" rx="85" ry="14" fill="#E5E7EB" />
+  <!-- Capa trasera si aplica -->
+  
+  <!-- Piernas -->
+  <path d="M 175 330 L 115 460 M 175 330 L 235 390 L 245 460" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Torso -->
+  <path d="M 218 192 L 175 330" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Accesorios de cintura -->
+  
+  <!-- Brazos -->
+  <path d="M 208 218 L 295 215" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 208 218 L 305 240" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Accesorios de cuello delanteros -->
+  
+  <!-- Accesorios de postura -->
+  
+  <!-- Cabeza, expresion facial y accesorios de cabeza/cara -->
+  <g transform="translate(25, 10) rotate(12, 200, 115)">
+    <circle cx="200" cy="115" r="68" fill="#FFFFFF" stroke="#111827" stroke-width="12" />
+    <path d="M 160 76 L 192 90 M 240 76 L 208 90" stroke="#111827" stroke-width="7" stroke-linecap="round" fill="none" />
+<path d="M 164 106 Q 176 114 188 106 M 212 106 Q 224 114 236 106" stroke="#111827" stroke-width="6" stroke-linecap="round" fill="none" />
+<path d="M 176 145 Q 188 135 200 145 Q 212 155 224 145" stroke="#111827" stroke-width="6" stroke-linecap="round" fill="none" />
+<path d="M 238 58 L 246 68 L 256 60 M 240 76 L 248 66 L 258 74" stroke="#EF4444" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    
+    
+  </g>
+  <!-- Props integrados en manos y cabeza -->
+  
+  
+  
+</svg>

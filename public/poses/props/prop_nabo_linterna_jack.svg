@@ -1,0 +1,26 @@
+<svg width="200" height="200" viewBox="-65 -65 130 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(0 -15) rotate(0.00 0 -45) scale(1.15)">
+    <!-- Cuerda rústica de la que cuelga la linterna -->
+    <path d="M 0 -45 Q 0.00 -20 0 0" stroke="#78350F" stroke-width="4" fill="none" stroke-linecap="round"/>
+
+    <!-- Cuerpo del nabo tallado tradicional -->
+    <g transform="translate(0, 18)">
+      <path d="M -26 -14 C -32 14 -14 36 0 44 C 14 36 32 14 26 -14 C 22 -32 -22 -32 -26 -14 Z" fill="#E2E8F0" stroke="#111827" stroke-width="6" stroke-linejoin="round"/>
+      <!-- Corona violácea natural del tubérculo -->
+      <path d="M -22 -22 Q 0 -32 22 -22" fill="#7E22CE" stroke="#111827" stroke-width="2.5"/>
+
+      <!-- Resplandor ígneo desde el interior tallado -->
+      <circle cx="-10" cy="-2" r="6" fill="#FACC15" stroke="#111827" stroke-width="2.5"/>
+      <circle cx="10" cy="-2" r="6" fill="#FACC15" stroke="#111827" stroke-width="2.5"/>
+      <circle cx="-10" cy="-2" r="3" fill="#DC2626"/>
+      <circle cx="10" cy="-2" r="3" fill="#DC2626"/>
+
+      <!-- Mueca grotesca con flama asomándose -->
+      <path d="M -16 16 L -10 24 L -4 16 L 2 24 L 8 16 L 14 24" stroke="#111827" stroke-width="3.5" stroke-linecap="round" fill="#FEF08A"/>
+      <ellipse cx="0" cy="18" rx="5.00" ry="4" fill="#F97316"/>
+    </g>
+
+    <rect x="-34" y="66" width="68" height="12" rx="3" fill="#1E293B" stroke="#111827" stroke-width="2"/>
+    <text x="0" y="74.5" font-family="'Arial Black', sans-serif" font-size="6" font-weight="900" fill="#FDE047" text-anchor="middle">JACK OF THE LANTERN</text>
+  </g>
+</svg>

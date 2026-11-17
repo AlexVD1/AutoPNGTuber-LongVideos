@@ -1,0 +1,5739 @@
+{
+  "meta": {
+    "id": "doc_006_pozo_kola",
+    "slug": "pozo_superprofundo_kola_infierno_terrestre",
+    "titulo": "El Pozo Superprofundo de Kola: El Agujero más Hondo Excavado por la Humanidad",
+    "premisa": "En 1970 la Unión Soviética inició en el Ártico la perforación más profunda jamás intentada. A doce kilómetros bajo tierra, toparon con roca hirviente que fluía como plástico y agua caliente donde debía reinar la roca seca.",
+    "gancho": "¿Qué encontraron realmente los científicos soviéticos al cavar el agujero más hondo del planeta?",
+    "categoria": "Science & Technology",
+    "duracionObjetivo": [
+      420,
+      500
+    ],
+    "fps": 30,
+    "dimensiones": {
+      "width": 1920,
+      "height": 1080
+    },
+    "idioma": "es",
+    "voz": "alex.conds.pt",
+    "musicaPrincipal": "bgm/bgm.mp3",
+    "volumenMusica": 0.12,
+    "fuentes": [
+      "Kozlovsky, Y. A. (1987). The Superdeep Well of the Kola Peninsula. Springer.",
+      "Smith, C. (1995). Continental Drilling and the Kola Experience.",
+      "Fuchs, K., et al. (1990). Super-Deep Continental Drilling and Deep Geophysical Sounding."
+    ],
+    "tags": [
+      "geologia",
+      "pozo de kola",
+      "tierra",
+      "geofisica",
+      "ciencia",
+      "historia",
+      "documental"
+    ]
+  },
+  "capitulos": [
+    {
+      "id": "cap_1",
+      "numero": 1,
+      "titulo": "La Fiebre Geológica de la Guerra Fría",
+      "resumen": "La carrera secreta hacia el centro de la Tierra en la península de Kola.",
+      "escenas": [
+        {
+          "id": 1,
+          "texto": "Durante el apogeo de la Guerra Fría, la atención del mundo entero estaba hipnotizada por la carrera espacial: satélites en órbita, misiones lunares y sondas rumbo a Venus. Pero bajo el suelo helado de la península de Kola, cerca de la frontera soviética con Noruega, se libraba una batalla científica mucho más silenciosa y brutal: la carrera hacia el interior de nuestro propio planeta. En mayo de mil novecientos setenta, geólogos soviéticos armados con la colosal torre de perforación Uralmash montaron una operación monumental con un único objetivo: perforar la corteza continental terrestre hasta alcanzar el manto superior.",
+          "tituloVisual": "PENINSULA DE KOLA, 1970",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "habitacion_noche",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "Guerra Fría",
+            "península de Kola",
+            "Uralmash",
+            "manto superior"
+          ],
+          "poseId": "walking_confidently",
+          "expresion": "analytical",
+          "duracionSegundos": 30.37,
+          "palabras": [
+            {
+              "palabra": "Durante",
+              "inicioMs": 0,
+              "finMs": 340
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 340,
+              "finMs": 420
+            },
+            {
+              "palabra": "apogeo",
+              "inicioMs": 500,
+              "finMs": 840
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 840,
+              "finMs": 940
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 940,
+              "finMs": 1040
+            },
+            {
+              "palabra": "Guerra",
+              "inicioMs": 1040,
+              "finMs": 1180
+            },
+            {
+              "palabra": "Fría",
+              "inicioMs": 1180,
+              "finMs": 1600
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 1740,
+              "finMs": 1800
+            },
+            {
+              "palabra": "atención",
+              "inicioMs": 1800,
+              "finMs": 2080
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 2080,
+              "finMs": 2320
+            },
+            {
+              "palabra": "mundo",
+              "inicioMs": 2320,
+              "finMs": 2480
+            },
+            {
+              "palabra": "entero",
+              "inicioMs": 2480,
+              "finMs": 2880
+            },
+            {
+              "palabra": "estaba",
+              "inicioMs": 2880,
+              "finMs": 3100
+            },
+            {
+              "palabra": "hipnotizada",
+              "inicioMs": 3100,
+              "finMs": 3600
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 3600,
+              "finMs": 3820
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 3820,
+              "finMs": 3960
+            },
+            {
+              "palabra": "carrera",
+              "inicioMs": 3960,
+              "finMs": 4200
+            },
+            {
+              "palabra": "espacial",
+              "inicioMs": 4200,
+              "finMs": 4640
+            },
+            {
+              "palabra": "satélites",
+              "inicioMs": 4800,
+              "finMs": 5180
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 5180,
+              "finMs": 5380
+            },
+            {
+              "palabra": "órbita",
+              "inicioMs": 5380,
+              "finMs": 5800
+            },
+            {
+              "palabra": "misiones",
+              "inicioMs": 6020,
+              "finMs": 6360
+            },
+            {
+              "palabra": "lunares",
+              "inicioMs": 6360,
+              "finMs": 6700
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 6700,
+              "finMs": 6860
+            },
+            {
+              "palabra": "sondas",
+              "inicioMs": 6860,
+              "finMs": 7260
+            },
+            {
+              "palabra": "rumbo",
+              "inicioMs": 7540,
+              "finMs": 7760
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 7760,
+              "finMs": 7840
+            },
+            {
+              "palabra": "Venus",
+              "inicioMs": 7840,
+              "finMs": 8080
+            },
+            {
+              "palabra": "Pero",
+              "inicioMs": 8340,
+              "finMs": 8480
+            },
+            {
+              "palabra": "bajo",
+              "inicioMs": 8480,
+              "finMs": 8700
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 8700,
+              "finMs": 8880
+            },
+            {
+              "palabra": "suelo",
+              "inicioMs": 8880,
+              "finMs": 9100
+            },
+            {
+              "palabra": "helado",
+              "inicioMs": 9100,
+              "finMs": 9480
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9480,
+              "finMs": 9600
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 9600,
+              "finMs": 9700
+            },
+            {
+              "palabra": "península",
+              "inicioMs": 9700,
+              "finMs": 10140
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 10140,
+              "finMs": 10340
+            },
+            {
+              "palabra": "Kola",
+              "inicioMs": 10340,
+              "finMs": 10580
+            },
+            {
+              "palabra": "cerca",
+              "inicioMs": 10720,
+              "finMs": 10900
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 10900,
+              "finMs": 11060
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 11060,
+              "finMs": 11140
+            },
+            {
+              "palabra": "frontera",
+              "inicioMs": 11140,
+              "finMs": 11480
+            },
+            {
+              "palabra": "soviética",
+              "inicioMs": 11480,
+              "finMs": 11940
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 11940,
+              "finMs": 12200
+            },
+            {
+              "palabra": "Noruega",
+              "inicioMs": 12200,
+              "finMs": 12660
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 13000,
+              "finMs": 13080
+            },
+            {
+              "palabra": "libraba",
+              "inicioMs": 13080,
+              "finMs": 13320
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 13320,
+              "finMs": 13480
+            },
+            {
+              "palabra": "batalla",
+              "inicioMs": 13480,
+              "finMs": 13720
+            },
+            {
+              "palabra": "científica",
+              "inicioMs": 13720,
+              "finMs": 14420
+            },
+            {
+              "palabra": "mucho",
+              "inicioMs": 14420,
+              "finMs": 14660
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 14660,
+              "finMs": 14900
+            },
+            {
+              "palabra": "silenciosa",
+              "inicioMs": 14900,
+              "finMs": 15280
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 15280,
+              "finMs": 15440
+            },
+            {
+              "palabra": "brutal",
+              "inicioMs": 15440,
+              "finMs": 15660
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 15820,
+              "finMs": 15900
+            },
+            {
+              "palabra": "carrera",
+              "inicioMs": 15900,
+              "finMs": 16260
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 16260,
+              "finMs": 16420
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 16420,
+              "finMs": 16540
+            },
+            {
+              "palabra": "interior",
+              "inicioMs": 16540,
+              "finMs": 16840
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 16840,
+              "finMs": 17020
+            },
+            {
+              "palabra": "nuestro",
+              "inicioMs": 17020,
+              "finMs": 17260
+            },
+            {
+              "palabra": "propio",
+              "inicioMs": 17260,
+              "finMs": 17560
+            },
+            {
+              "palabra": "planeta",
+              "inicioMs": 17560,
+              "finMs": 17840
+            },
+            {
+              "palabra": "En",
+              "inicioMs": 18040,
+              "finMs": 18120
+            },
+            {
+              "palabra": "mayo",
+              "inicioMs": 18120,
+              "finMs": 18400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18400,
+              "finMs": 18560
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 18560,
+              "finMs": 18870
+            },
+            {
+              "palabra": "novecientos",
+              "inicioMs": 18870,
+              "finMs": 19180
+            },
+            {
+              "palabra": "setenta",
+              "inicioMs": 19180,
+              "finMs": 19490
+            },
+            {
+              "palabra": "geólogos",
+              "inicioMs": 19800,
+              "finMs": 20340
+            },
+            {
+              "palabra": "soviéticos",
+              "inicioMs": 20340,
+              "finMs": 20800
+            },
+            {
+              "palabra": "armados",
+              "inicioMs": 20800,
+              "finMs": 21260
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 21260,
+              "finMs": 21420
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 21420,
+              "finMs": 21520
+            },
+            {
+              "palabra": "colosal",
+              "inicioMs": 21520,
+              "finMs": 21880
+            },
+            {
+              "palabra": "torre",
+              "inicioMs": 21880,
+              "finMs": 22200
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22200,
+              "finMs": 22340
+            },
+            {
+              "palabra": "perforación",
+              "inicioMs": 22340,
+              "finMs": 22780
+            },
+            {
+              "palabra": "Uralmash",
+              "inicioMs": 22780,
+              "finMs": 23280
+            },
+            {
+              "palabra": "montaron",
+              "inicioMs": 23580,
+              "finMs": 23860
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 23860,
+              "finMs": 24040
+            },
+            {
+              "palabra": "operación",
+              "inicioMs": 24040,
+              "finMs": 24380
+            },
+            {
+              "palabra": "monumental",
+              "inicioMs": 24380,
+              "finMs": 24640
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 24640,
+              "finMs": 25080
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 25080,
+              "finMs": 25180
+            },
+            {
+              "palabra": "único",
+              "inicioMs": 25180,
+              "finMs": 25460
+            },
+            {
+              "palabra": "objetivo",
+              "inicioMs": 25460,
+              "finMs": 25880
+            },
+            {
+              "palabra": "perforar",
+              "inicioMs": 25880,
+              "finMs": 26580
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 26580,
+              "finMs": 26700
+            },
+            {
+              "palabra": "corteza",
+              "inicioMs": 26700,
+              "finMs": 27180
+            },
+            {
+              "palabra": "continental",
+              "inicioMs": 27180,
+              "finMs": 27580
+            },
+            {
+              "palabra": "terrestre",
+              "inicioMs": 27580,
+              "finMs": 28380
+            },
+            {
+              "palabra": "hasta",
+              "inicioMs": 28380,
+              "finMs": 28640
+            },
+            {
+              "palabra": "alcanzar",
+              "inicioMs": 28640,
+              "finMs": 29100
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 29100,
+              "finMs": 29180
+            },
+            {
+              "palabra": "manto",
+              "inicioMs": 29180,
+              "finMs": 29460
+            },
+            {
+              "palabra": "superior",
+              "inicioMs": 29460,
+              "finMs": 29880
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "texto": "Sabemos más sobre la superficie de la Luna o los valles de Marte que sobre lo que yace a apenas veinte kilómetros bajo nuestros propios pies. El proyecto del Pozo Superprofundo de Kola, conocido formalmente como SG-tres, no buscaba petróleo ni gas natural; era un experimento de ciencia pura concebido para comprobar si los modelos teóricos sobre las capas internas de la Tierra eran correctos. La Unión Soviética prometió descender hasta los quince mil metros de profundidad, desafiando presiones aplastantes y temperaturas que desafiaban la resistencia de cualquier aleación metálica conocida.",
+          "tituloVisual": "PROYECTO SG-3",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "veinte kilómetros",
+            "proyecto SG-3",
+            "quince mil metros",
+            "aleación metálica"
+          ],
+          "poseId": "holding_presentation_board",
+          "expresion": "talking",
+          "infografia": {
+            "tipo": "dato_clave",
+            "titulo": "Objetivo de Profundidad",
+            "subtitulo": "La Perforación más Profunda de la Historia",
+            "valorPrincipal": "15.000",
+            "unidad": "metros objetivo",
+            "items": [
+              {
+                "etiqueta": "Récord alcanzado",
+                "valor": "12.262 metros",
+                "porcentaje": 82,
+                "color": "#FFE600"
+              },
+              {
+                "etiqueta": "Fosa de las Marianas",
+                "valor": "10.994 metros",
+                "porcentaje": 73,
+                "color": "#38BDF8"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 31.426,
+          "palabras": [
+            {
+              "palabra": "Sabemos",
+              "inicioMs": 0,
+              "finMs": 400
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 400,
+              "finMs": 640
+            },
+            {
+              "palabra": "sobre",
+              "inicioMs": 640,
+              "finMs": 820
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 820,
+              "finMs": 960
+            },
+            {
+              "palabra": "superficie",
+              "inicioMs": 960,
+              "finMs": 1540
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1540,
+              "finMs": 1660
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 1660,
+              "finMs": 1720
+            },
+            {
+              "palabra": "Luna",
+              "inicioMs": 1720,
+              "finMs": 1980
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 1980,
+              "finMs": 2280
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 2280,
+              "finMs": 2400
+            },
+            {
+              "palabra": "valles",
+              "inicioMs": 2400,
+              "finMs": 2620
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2620,
+              "finMs": 2840
+            },
+            {
+              "palabra": "Marte",
+              "inicioMs": 2840,
+              "finMs": 3220
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 3220,
+              "finMs": 3360
+            },
+            {
+              "palabra": "sobre",
+              "inicioMs": 3360,
+              "finMs": 3600
+            },
+            {
+              "palabra": "lo",
+              "inicioMs": 3600,
+              "finMs": 3760
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 3760,
+              "finMs": 3900
+            },
+            {
+              "palabra": "yace",
+              "inicioMs": 4060,
+              "finMs": 4260
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 4260,
+              "finMs": 4385
+            },
+            {
+              "palabra": "apenas",
+              "inicioMs": 4260,
+              "finMs": 4620
+            },
+            {
+              "palabra": "veinte",
+              "inicioMs": 4620,
+              "finMs": 5180
+            },
+            {
+              "palabra": "kilómetros",
+              "inicioMs": 5180,
+              "finMs": 5620
+            },
+            {
+              "palabra": "bajo",
+              "inicioMs": 5620,
+              "finMs": 5920
+            },
+            {
+              "palabra": "nuestros",
+              "inicioMs": 5920,
+              "finMs": 6240
+            },
+            {
+              "palabra": "propios",
+              "inicioMs": 6240,
+              "finMs": 6780
+            },
+            {
+              "palabra": "pies",
+              "inicioMs": 6780,
+              "finMs": 7280
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 7780,
+              "finMs": 7880
+            },
+            {
+              "palabra": "proyecto",
+              "inicioMs": 7880,
+              "finMs": 8200
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 8200,
+              "finMs": 8500
+            },
+            {
+              "palabra": "Pozo",
+              "inicioMs": 8500,
+              "finMs": 8800
+            },
+            {
+              "palabra": "Superprofundo",
+              "inicioMs": 9120,
+              "finMs": 9600
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9600,
+              "finMs": 9760
+            },
+            {
+              "palabra": "Kola",
+              "inicioMs": 9760,
+              "finMs": 10080
+            },
+            {
+              "palabra": "conocido",
+              "inicioMs": 10220,
+              "finMs": 10600
+            },
+            {
+              "palabra": "formalmente",
+              "inicioMs": 10600,
+              "finMs": 11300
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 11300,
+              "finMs": 11540
+            },
+            {
+              "palabra": "SG-tres",
+              "inicioMs": 11540,
+              "finMs": 11960
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 12380,
+              "finMs": 12440
+            },
+            {
+              "palabra": "buscaba",
+              "inicioMs": 12440,
+              "finMs": 12860
+            },
+            {
+              "palabra": "petróleo",
+              "inicioMs": 12860,
+              "finMs": 13300
+            },
+            {
+              "palabra": "ni",
+              "inicioMs": 13300,
+              "finMs": 13500
+            },
+            {
+              "palabra": "gas",
+              "inicioMs": 13500,
+              "finMs": 13660
+            },
+            {
+              "palabra": "natural",
+              "inicioMs": 13660,
+              "finMs": 14000
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 14240,
+              "finMs": 14360
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 14360,
+              "finMs": 14480
+            },
+            {
+              "palabra": "experimento",
+              "inicioMs": 14480,
+              "finMs": 15100
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15100,
+              "finMs": 15200
+            },
+            {
+              "palabra": "ciencia",
+              "inicioMs": 15200,
+              "finMs": 15540
+            },
+            {
+              "palabra": "pura",
+              "inicioMs": 15540,
+              "finMs": 15940
+            },
+            {
+              "palabra": "concebido",
+              "inicioMs": 16060,
+              "finMs": 16500
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 16500,
+              "finMs": 16720
+            },
+            {
+              "palabra": "comprobar",
+              "inicioMs": 16720,
+              "finMs": 17200
+            },
+            {
+              "palabra": "si",
+              "inicioMs": 17200,
+              "finMs": 17360
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 17360,
+              "finMs": 17520
+            },
+            {
+              "palabra": "modelos",
+              "inicioMs": 17520,
+              "finMs": 17980
+            },
+            {
+              "palabra": "teóricos",
+              "inicioMs": 17980,
+              "finMs": 18480
+            },
+            {
+              "palabra": "sobre",
+              "inicioMs": 18480,
+              "finMs": 18660
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 18660,
+              "finMs": 18880
+            },
+            {
+              "palabra": "capas",
+              "inicioMs": 18880,
+              "finMs": 19180
+            },
+            {
+              "palabra": "internas",
+              "inicioMs": 19180,
+              "finMs": 19640
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19640,
+              "finMs": 19780
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 19780,
+              "finMs": 19900
+            },
+            {
+              "palabra": "Tierra",
+              "inicioMs": 19900,
+              "finMs": 20180
+            },
+            {
+              "palabra": "eran",
+              "inicioMs": 20180,
+              "finMs": 20560
+            },
+            {
+              "palabra": "correctos",
+              "inicioMs": 20560,
+              "finMs": 21220
+            },
+            {
+              "palabra": "La",
+              "inicioMs": 21560,
+              "finMs": 21660
+            },
+            {
+              "palabra": "Unión",
+              "inicioMs": 21660,
+              "finMs": 21900
+            },
+            {
+              "palabra": "Soviética",
+              "inicioMs": 21900,
+              "finMs": 22420
+            },
+            {
+              "palabra": "prometió",
+              "inicioMs": 22420,
+              "finMs": 22920
+            },
+            {
+              "palabra": "descender",
+              "inicioMs": 22920,
+              "finMs": 23300
+            },
+            {
+              "palabra": "hasta",
+              "inicioMs": 23300,
+              "finMs": 23560
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 23560,
+              "finMs": 23700
+            },
+            {
+              "palabra": "quince",
+              "inicioMs": 23700,
+              "finMs": 23960
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 23960,
+              "finMs": 24060
+            },
+            {
+              "palabra": "metros",
+              "inicioMs": 24160,
+              "finMs": 24440
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 24440,
+              "finMs": 24620
+            },
+            {
+              "palabra": "profundidad",
+              "inicioMs": 24620,
+              "finMs": 25160
+            },
+            {
+              "palabra": "desafiando",
+              "inicioMs": 25440,
+              "finMs": 25780
+            },
+            {
+              "palabra": "presiones",
+              "inicioMs": 25780,
+              "finMs": 26200
+            },
+            {
+              "palabra": "aplastantes",
+              "inicioMs": 26200,
+              "finMs": 26800
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 26800,
+              "finMs": 26940
+            },
+            {
+              "palabra": "temperaturas",
+              "inicioMs": 26940,
+              "finMs": 27600
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 27600,
+              "finMs": 27740
+            },
+            {
+              "palabra": "desafiaban",
+              "inicioMs": 27740,
+              "finMs": 28300
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 28300,
+              "finMs": 28440
+            },
+            {
+              "palabra": "resistencia",
+              "inicioMs": 28440,
+              "finMs": 29020
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 29020,
+              "finMs": 29140
+            },
+            {
+              "palabra": "cualquier",
+              "inicioMs": 29140,
+              "finMs": 29440
+            },
+            {
+              "palabra": "aleación",
+              "inicioMs": 29440,
+              "finMs": 29880
+            },
+            {
+              "palabra": "metálica",
+              "inicioMs": 29880,
+              "finMs": 30340
+            },
+            {
+              "palabra": "conocida",
+              "inicioMs": 30340,
+              "finMs": 30960
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 61.8
+    },
+    {
+      "id": "cap_2",
+      "numero": 2,
+      "titulo": "El Taladro que Conquistó el Abismo",
+      "resumen": "La ingeniería extrema de la broca y el peso de doce kilómetros de tubería.",
+      "escenas": [
+        {
+          "id": 3,
+          "texto": "Para penetrar kilómetros de granito compacto, los ingenieros tuvieron que reinventar la tecnología de perforación desde cero. En un pozo convencional, todo el tubo gira desde la superficie; pero a miles de metros, el peso y la fricción de doce kilómetros de acero habrían retorcido la tubería como un fideo húmedo. Diseñaron entonces una turbina especial en la que solo giraba la cabeza de perforación, impulsada por un flujo continuo de lodo a alta presión inyectado desde la superficie. A lo largo de dos décadas se desgastaron miles de cabezales de carburo de tungsteno y diamante.",
+          "tituloVisual": "TURBINA DE LODO",
+          "layout": "split_screen",
+          "composicionVisual": "plano_general",
+          "escenario": "red_subterranea",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_impact.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "carburo de tungsteno",
+            "diamante",
+            "turbina de lodo",
+            "acero retorcido"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "analytical",
+          "duracionSegundos": 30.514,
+          "palabras": [
+            {
+              "palabra": "Para",
+              "inicioMs": 0,
+              "finMs": 220
+            },
+            {
+              "palabra": "penetrar",
+              "inicioMs": 220,
+              "finMs": 580
+            },
+            {
+              "palabra": "kilómetros",
+              "inicioMs": 580,
+              "finMs": 1100
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1100,
+              "finMs": 1300
+            },
+            {
+              "palabra": "granito",
+              "inicioMs": 1300,
+              "finMs": 1680
+            },
+            {
+              "palabra": "compacto",
+              "inicioMs": 1680,
+              "finMs": 2240
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 2300,
+              "finMs": 2420
+            },
+            {
+              "palabra": "ingenieros",
+              "inicioMs": 2420,
+              "finMs": 2840
+            },
+            {
+              "palabra": "tuvieron",
+              "inicioMs": 2840,
+              "finMs": 3220
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 3220,
+              "finMs": 3360
+            },
+            {
+              "palabra": "reinventar",
+              "inicioMs": 3360,
+              "finMs": 3880
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 3880,
+              "finMs": 3980
+            },
+            {
+              "palabra": "tecnología",
+              "inicioMs": 3980,
+              "finMs": 4420
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4420,
+              "finMs": 4640
+            },
+            {
+              "palabra": "perforación",
+              "inicioMs": 4640,
+              "finMs": 5180
+            },
+            {
+              "palabra": "desde",
+              "inicioMs": 5180,
+              "finMs": 5360
+            },
+            {
+              "palabra": "cero",
+              "inicioMs": 5360,
+              "finMs": 5760
+            },
+            {
+              "palabra": "En",
+              "inicioMs": 6040,
+              "finMs": 6180
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 6180,
+              "finMs": 6320
+            },
+            {
+              "palabra": "pozo",
+              "inicioMs": 6320,
+              "finMs": 6620
+            },
+            {
+              "palabra": "convencional",
+              "inicioMs": 6620,
+              "finMs": 7200
+            },
+            {
+              "palabra": "todo",
+              "inicioMs": 7200,
+              "finMs": 7520
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 7520,
+              "finMs": 7600
+            },
+            {
+              "palabra": "tubo",
+              "inicioMs": 7680,
+              "finMs": 7860
+            },
+            {
+              "palabra": "gira",
+              "inicioMs": 7860,
+              "finMs": 8220
+            },
+            {
+              "palabra": "desde",
+              "inicioMs": 8220,
+              "finMs": 8460
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 8460,
+              "finMs": 8600
+            },
+            {
+              "palabra": "superficie",
+              "inicioMs": 8600,
+              "finMs": 9260
+            },
+            {
+              "palabra": "pero",
+              "inicioMs": 9520,
+              "finMs": 9660
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 9660,
+              "finMs": 9760
+            },
+            {
+              "palabra": "miles",
+              "inicioMs": 9760,
+              "finMs": 9980
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9980,
+              "finMs": 10260
+            },
+            {
+              "palabra": "metros",
+              "inicioMs": 10260,
+              "finMs": 10560
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 10760,
+              "finMs": 10880
+            },
+            {
+              "palabra": "peso",
+              "inicioMs": 10880,
+              "finMs": 11160
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 11160,
+              "finMs": 11360
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 11360,
+              "finMs": 11480
+            },
+            {
+              "palabra": "fricción",
+              "inicioMs": 11480,
+              "finMs": 11840
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11840,
+              "finMs": 12020
+            },
+            {
+              "palabra": "doce",
+              "inicioMs": 12020,
+              "finMs": 12130
+            },
+            {
+              "palabra": "kilómetros",
+              "inicioMs": 12240,
+              "finMs": 12660
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12660,
+              "finMs": 12880
+            },
+            {
+              "palabra": "acero",
+              "inicioMs": 12880,
+              "finMs": 13180
+            },
+            {
+              "palabra": "habrían",
+              "inicioMs": 13180,
+              "finMs": 13620
+            },
+            {
+              "palabra": "retorcido",
+              "inicioMs": 13620,
+              "finMs": 14020
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 14020,
+              "finMs": 14200
+            },
+            {
+              "palabra": "tubería",
+              "inicioMs": 14200,
+              "finMs": 14600
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 14600,
+              "finMs": 14840
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 14840,
+              "finMs": 15020
+            },
+            {
+              "palabra": "fideo",
+              "inicioMs": 15020,
+              "finMs": 15340
+            },
+            {
+              "palabra": "húmedo",
+              "inicioMs": 15340,
+              "finMs": 15720
+            },
+            {
+              "palabra": "Diseñaron",
+              "inicioMs": 15960,
+              "finMs": 16480
+            },
+            {
+              "palabra": "entonces",
+              "inicioMs": 16480,
+              "finMs": 16960
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 16960,
+              "finMs": 17220
+            },
+            {
+              "palabra": "turbina",
+              "inicioMs": 17220,
+              "finMs": 17560
+            },
+            {
+              "palabra": "especial",
+              "inicioMs": 17560,
+              "finMs": 18000
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 18000,
+              "finMs": 18300
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 18300,
+              "finMs": 18380
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 18380,
+              "finMs": 18520
+            },
+            {
+              "palabra": "solo",
+              "inicioMs": 18520,
+              "finMs": 18760
+            },
+            {
+              "palabra": "giraba",
+              "inicioMs": 18760,
+              "finMs": 19120
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 19120,
+              "finMs": 19300
+            },
+            {
+              "palabra": "cabeza",
+              "inicioMs": 19300,
+              "finMs": 19500
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19500,
+              "finMs": 19680
+            },
+            {
+              "palabra": "perforación",
+              "inicioMs": 19680,
+              "finMs": 20260
+            },
+            {
+              "palabra": "impulsada",
+              "inicioMs": 20440,
+              "finMs": 20900
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 20900,
+              "finMs": 21100
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 21100,
+              "finMs": 21240
+            },
+            {
+              "palabra": "flujo",
+              "inicioMs": 21240,
+              "finMs": 21540
+            },
+            {
+              "palabra": "continuo",
+              "inicioMs": 21540,
+              "finMs": 22100
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22100,
+              "finMs": 22200
+            },
+            {
+              "palabra": "lodo",
+              "inicioMs": 22200,
+              "finMs": 22540
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 22540,
+              "finMs": 22760
+            },
+            {
+              "palabra": "alta",
+              "inicioMs": 22760,
+              "finMs": 23020
+            },
+            {
+              "palabra": "presión",
+              "inicioMs": 23020,
+              "finMs": 23420
+            },
+            {
+              "palabra": "inyectado",
+              "inicioMs": 23420,
+              "finMs": 23960
+            },
+            {
+              "palabra": "desde",
+              "inicioMs": 23960,
+              "finMs": 24160
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 24160,
+              "finMs": 24320
+            },
+            {
+              "palabra": "superficie",
+              "inicioMs": 24320,
+              "finMs": 24880
+            },
+            {
+              "palabra": "A",
+              "inicioMs": 24880,
+              "finMs": 25640
+            },
+            {
+              "palabra": "lo",
+              "inicioMs": 25640,
+              "finMs": 25720
+            },
+            {
+              "palabra": "largo",
+              "inicioMs": 25720,
+              "finMs": 25960
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 25960,
+              "finMs": 26100
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 26100,
+              "finMs": 26280
+            },
+            {
+              "palabra": "décadas",
+              "inicioMs": 26280,
+              "finMs": 26700
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 26700,
+              "finMs": 26880
+            },
+            {
+              "palabra": "desgastaron",
+              "inicioMs": 26880,
+              "finMs": 27400
+            },
+            {
+              "palabra": "miles",
+              "inicioMs": 27400,
+              "finMs": 27740
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 27740,
+              "finMs": 27940
+            },
+            {
+              "palabra": "cabezales",
+              "inicioMs": 27940,
+              "finMs": 28360
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 28360,
+              "finMs": 28500
+            },
+            {
+              "palabra": "carburo",
+              "inicioMs": 28500,
+              "finMs": 28860
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 28860,
+              "finMs": 29020
+            },
+            {
+              "palabra": "tungsteno",
+              "inicioMs": 29020,
+              "finMs": 29560
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 29560,
+              "finMs": 29600
+            },
+            {
+              "palabra": "diamante",
+              "inicioMs": 29600,
+              "finMs": 30040
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "texto": "Cambiar una sola broca desgastada requería una labor titánica: había que desacoplar y sacar los doce kilómetros de tubería de perforación, sección por sección, reemplazar la punta en la superficie y volver a ensamblar los cientos de tubos hacia el fondo. Cada recambio tardaba días enteros de trabajo ininterrumpido en turnos de veinticuatro horas. Pese a los constantes derrumbes y atascos mecánicos que obligaron a ramificar el pozo en varias ocasiones, en mil novecientos ochenta y nueve la perforación alcanzó los doce mil doscientos sesenta y dos metros de profundidad vertical.",
+          "tituloVisual": "12.262 METROS",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "red_subterranea",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "doce kilómetros de tubería",
+            "sección por sección",
+            "veinticuatro horas",
+            "doce mil doscientos sesenta y dos"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "eureka",
+          "duracionSegundos": 29.962,
+          "palabras": [
+            {
+              "palabra": "Cambiar",
+              "inicioMs": 0,
+              "finMs": 380
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 380,
+              "finMs": 560
+            },
+            {
+              "palabra": "sola",
+              "inicioMs": 560,
+              "finMs": 720
+            },
+            {
+              "palabra": "broca",
+              "inicioMs": 720,
+              "finMs": 1040
+            },
+            {
+              "palabra": "desgastada",
+              "inicioMs": 1040,
+              "finMs": 1540
+            },
+            {
+              "palabra": "requería",
+              "inicioMs": 1540,
+              "finMs": 2000
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 2000,
+              "finMs": 2140
+            },
+            {
+              "palabra": "labor",
+              "inicioMs": 2140,
+              "finMs": 2360
+            },
+            {
+              "palabra": "titánica",
+              "inicioMs": 2360,
+              "finMs": 2940
+            },
+            {
+              "palabra": "había",
+              "inicioMs": 3340,
+              "finMs": 3540
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 3540,
+              "finMs": 3760
+            },
+            {
+              "palabra": "desacoplar",
+              "inicioMs": 3760,
+              "finMs": 4400
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 4400,
+              "finMs": 4600
+            },
+            {
+              "palabra": "sacar",
+              "inicioMs": 4600,
+              "finMs": 4800
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 4800,
+              "finMs": 5040
+            },
+            {
+              "palabra": "doce",
+              "inicioMs": 5040,
+              "finMs": 5200
+            },
+            {
+              "palabra": "kilómetros",
+              "inicioMs": 5360,
+              "finMs": 5800
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5800,
+              "finMs": 6000
+            },
+            {
+              "palabra": "tubería",
+              "inicioMs": 6000,
+              "finMs": 6400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6400,
+              "finMs": 6540
+            },
+            {
+              "palabra": "perforación",
+              "inicioMs": 6540,
+              "finMs": 7200
+            },
+            {
+              "palabra": "sección",
+              "inicioMs": 7360,
+              "finMs": 7700
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 7700,
+              "finMs": 7940
+            },
+            {
+              "palabra": "sección",
+              "inicioMs": 7940,
+              "finMs": 8500
+            },
+            {
+              "palabra": "reemplazar",
+              "inicioMs": 8820,
+              "finMs": 9200
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 9200,
+              "finMs": 9360
+            },
+            {
+              "palabra": "punta",
+              "inicioMs": 9360,
+              "finMs": 9680
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 9680,
+              "finMs": 9760
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 9760,
+              "finMs": 9820
+            },
+            {
+              "palabra": "superficie",
+              "inicioMs": 9820,
+              "finMs": 10500
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 10500,
+              "finMs": 10760
+            },
+            {
+              "palabra": "volver",
+              "inicioMs": 10760,
+              "finMs": 10960
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 10960,
+              "finMs": 11080
+            },
+            {
+              "palabra": "ensamblar",
+              "inicioMs": 11080,
+              "finMs": 11400
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 11400,
+              "finMs": 11600
+            },
+            {
+              "palabra": "cientos",
+              "inicioMs": 11600,
+              "finMs": 11780
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11780,
+              "finMs": 11960
+            },
+            {
+              "palabra": "tubos",
+              "inicioMs": 11960,
+              "finMs": 12240
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 12240,
+              "finMs": 12380
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 12380,
+              "finMs": 12540
+            },
+            {
+              "palabra": "fondo",
+              "inicioMs": 12540,
+              "finMs": 12820
+            },
+            {
+              "palabra": "Cada",
+              "inicioMs": 13020,
+              "finMs": 13180
+            },
+            {
+              "palabra": "recambio",
+              "inicioMs": 13180,
+              "finMs": 13660
+            },
+            {
+              "palabra": "tardaba",
+              "inicioMs": 13660,
+              "finMs": 14080
+            },
+            {
+              "palabra": "días",
+              "inicioMs": 14080,
+              "finMs": 14380
+            },
+            {
+              "palabra": "enteros",
+              "inicioMs": 14380,
+              "finMs": 14800
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14800,
+              "finMs": 14940
+            },
+            {
+              "palabra": "trabajo",
+              "inicioMs": 14940,
+              "finMs": 15220
+            },
+            {
+              "palabra": "ininterrumpido",
+              "inicioMs": 15480,
+              "finMs": 16080
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 16080,
+              "finMs": 16260
+            },
+            {
+              "palabra": "turnos",
+              "inicioMs": 16260,
+              "finMs": 16600
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 16600,
+              "finMs": 16720
+            },
+            {
+              "palabra": "veinticuatro",
+              "inicioMs": 16720,
+              "finMs": 16940
+            },
+            {
+              "palabra": "horas",
+              "inicioMs": 17160,
+              "finMs": 17580
+            },
+            {
+              "palabra": "Pese",
+              "inicioMs": 17820,
+              "finMs": 18020
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 18020,
+              "finMs": 18100
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 18100,
+              "finMs": 18280
+            },
+            {
+              "palabra": "constantes",
+              "inicioMs": 18280,
+              "finMs": 18820
+            },
+            {
+              "palabra": "derrumbes",
+              "inicioMs": 18940,
+              "finMs": 19320
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 19320,
+              "finMs": 19460
+            },
+            {
+              "palabra": "atascos",
+              "inicioMs": 19460,
+              "finMs": 19880
+            },
+            {
+              "palabra": "mecánicos",
+              "inicioMs": 19880,
+              "finMs": 20400
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 20400,
+              "finMs": 20600
+            },
+            {
+              "palabra": "obligaron",
+              "inicioMs": 20600,
+              "finMs": 21020
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 21020,
+              "finMs": 21140
+            },
+            {
+              "palabra": "ramificar",
+              "inicioMs": 21140,
+              "finMs": 21540
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 21540,
+              "finMs": 21760
+            },
+            {
+              "palabra": "pozo",
+              "inicioMs": 21760,
+              "finMs": 22040
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 22040,
+              "finMs": 22180
+            },
+            {
+              "palabra": "varias",
+              "inicioMs": 22180,
+              "finMs": 22400
+            },
+            {
+              "palabra": "ocasiones",
+              "inicioMs": 22400,
+              "finMs": 23040
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 23580,
+              "finMs": 23800
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 23800,
+              "finMs": 23963
+            },
+            {
+              "palabra": "novecientos",
+              "inicioMs": 23963,
+              "finMs": 24127
+            },
+            {
+              "palabra": "ochenta",
+              "inicioMs": 24127,
+              "finMs": 24290
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 24290,
+              "finMs": 24453
+            },
+            {
+              "palabra": "nueve",
+              "inicioMs": 24453,
+              "finMs": 24617
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 24780,
+              "finMs": 25440
+            },
+            {
+              "palabra": "perforación",
+              "inicioMs": 25440,
+              "finMs": 26020
+            },
+            {
+              "palabra": "alcanzó",
+              "inicioMs": 26020,
+              "finMs": 26460
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 26460,
+              "finMs": 26600
+            },
+            {
+              "palabra": "doce",
+              "inicioMs": 26600,
+              "finMs": 26820
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 26820,
+              "finMs": 27040
+            },
+            {
+              "palabra": "doscientos",
+              "inicioMs": 27040,
+              "finMs": 27260
+            },
+            {
+              "palabra": "sesenta",
+              "inicioMs": 27260,
+              "finMs": 27480
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 27480,
+              "finMs": 27700
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 27700,
+              "finMs": 27920
+            },
+            {
+              "palabra": "metros",
+              "inicioMs": 28140,
+              "finMs": 28380
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 28380,
+              "finMs": 28620
+            },
+            {
+              "palabra": "profundidad",
+              "inicioMs": 28620,
+              "finMs": 29080
+            },
+            {
+              "palabra": "vertical",
+              "inicioMs": 29080,
+              "finMs": 29500
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 60.48
+    },
+    {
+      "id": "cap_3",
+      "numero": 3,
+      "titulo": "Las Sorpresas Científicas Bajo la Roca",
+      "resumen": "El agua fósil a altísima presión y la ausencia de la transición de Conrad.",
+      "escenas": [
+        {
+          "id": 5,
+          "texto": "A medida que el pozo descendía, los descubrimientos hicieron pedazos los libros de texto de geología de la época. Todos los científicos esperaban encontrar la llamada discontinuidad de Conrad, una supuesta frontera sísmica donde el granito superficial daría paso a una densa capa de basalto. Para sorpresa de todos, el basalto jamás apareció: la roca continuó siendo granito metamórfico hasta el final. La señal sísmica que los geofísicos interpretaban como un cambio de roca era en realidad un cambio en la porosidad y fractura del propio granito bajo presiones descomunales.",
+          "tituloVisual": "EL MITO DEL BASALTO",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_left",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "discontinuidad de Conrad",
+            "granito metamórfico",
+            "basalto inexistente",
+            "porosidad de la roca"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "analytical",
+          "infografia": {
+            "tipo": "comparacion",
+            "titulo": "Estructura de la Corteza",
+            "subtitulo": "Teoría Previa vs Hallazgo Real de Kola",
+            "valorPrincipal": "Granito",
+            "unidad": "continuo",
+            "items": [
+              {
+                "etiqueta": "Predicción teórica",
+                "valor": "Capa de Basalto a 7 km",
+                "porcentaje": 40,
+                "color": "#94A3B8"
+              },
+              {
+                "etiqueta": "Descubrimiento en Kola",
+                "valor": "Granito fracturado con agua",
+                "porcentaje": 100,
+                "color": "#38BDF8"
+              }
+            ],
+            "colorAcento": "#38BDF8"
+          },
+          "duracionSegundos": 29.77,
+          "palabras": [
+            {
+              "palabra": "A",
+              "inicioMs": 0,
+              "finMs": 200
+            },
+            {
+              "palabra": "medida",
+              "inicioMs": 200,
+              "finMs": 400
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 400,
+              "finMs": 660
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 660,
+              "finMs": 800
+            },
+            {
+              "palabra": "pozo",
+              "inicioMs": 800,
+              "finMs": 1020
+            },
+            {
+              "palabra": "descendía",
+              "inicioMs": 1020,
+              "finMs": 1640
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 1860,
+              "finMs": 1980
+            },
+            {
+              "palabra": "descubrimientos",
+              "inicioMs": 1980,
+              "finMs": 2580
+            },
+            {
+              "palabra": "hicieron",
+              "inicioMs": 2580,
+              "finMs": 2940
+            },
+            {
+              "palabra": "pedazos",
+              "inicioMs": 2940,
+              "finMs": 3380
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 3380,
+              "finMs": 3600
+            },
+            {
+              "palabra": "libros",
+              "inicioMs": 3600,
+              "finMs": 4000
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4000,
+              "finMs": 4080
+            },
+            {
+              "palabra": "texto",
+              "inicioMs": 4080,
+              "finMs": 4340
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4340,
+              "finMs": 4560
+            },
+            {
+              "palabra": "geología",
+              "inicioMs": 4560,
+              "finMs": 4860
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4860,
+              "finMs": 5080
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5080,
+              "finMs": 5200
+            },
+            {
+              "palabra": "época",
+              "inicioMs": 5200,
+              "finMs": 5480
+            },
+            {
+              "palabra": "Todos",
+              "inicioMs": 5680,
+              "finMs": 5820
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 5820,
+              "finMs": 6040
+            },
+            {
+              "palabra": "científicos",
+              "inicioMs": 6040,
+              "finMs": 6660
+            },
+            {
+              "palabra": "esperaban",
+              "inicioMs": 6660,
+              "finMs": 7080
+            },
+            {
+              "palabra": "encontrar",
+              "inicioMs": 7080,
+              "finMs": 7520
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 7520,
+              "finMs": 7740
+            },
+            {
+              "palabra": "llamada",
+              "inicioMs": 7740,
+              "finMs": 8080
+            },
+            {
+              "palabra": "discontinuidad",
+              "inicioMs": 8080,
+              "finMs": 8760
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8760,
+              "finMs": 8940
+            },
+            {
+              "palabra": "Conrad",
+              "inicioMs": 8940,
+              "finMs": 9240
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 9400,
+              "finMs": 9560
+            },
+            {
+              "palabra": "supuesta",
+              "inicioMs": 9560,
+              "finMs": 9980
+            },
+            {
+              "palabra": "frontera",
+              "inicioMs": 9980,
+              "finMs": 10400
+            },
+            {
+              "palabra": "sísmica",
+              "inicioMs": 10400,
+              "finMs": 11000
+            },
+            {
+              "palabra": "donde",
+              "inicioMs": 11160,
+              "finMs": 11320
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 11320,
+              "finMs": 11480
+            },
+            {
+              "palabra": "granito",
+              "inicioMs": 11480,
+              "finMs": 11800
+            },
+            {
+              "palabra": "superficial",
+              "inicioMs": 11800,
+              "finMs": 12380
+            },
+            {
+              "palabra": "daría",
+              "inicioMs": 12380,
+              "finMs": 12820
+            },
+            {
+              "palabra": "paso",
+              "inicioMs": 12820,
+              "finMs": 13040
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 13040,
+              "finMs": 13160
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 13160,
+              "finMs": 13300
+            },
+            {
+              "palabra": "densa",
+              "inicioMs": 13300,
+              "finMs": 13580
+            },
+            {
+              "palabra": "capa",
+              "inicioMs": 13580,
+              "finMs": 13900
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 13900,
+              "finMs": 14000
+            },
+            {
+              "palabra": "basalto",
+              "inicioMs": 14000,
+              "finMs": 14460
+            },
+            {
+              "palabra": "Para",
+              "inicioMs": 14640,
+              "finMs": 14780
+            },
+            {
+              "palabra": "sorpresa",
+              "inicioMs": 14780,
+              "finMs": 15140
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15140,
+              "finMs": 15340
+            },
+            {
+              "palabra": "todos",
+              "inicioMs": 15340,
+              "finMs": 15660
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 15900,
+              "finMs": 16000
+            },
+            {
+              "palabra": "basalto",
+              "inicioMs": 16000,
+              "finMs": 16440
+            },
+            {
+              "palabra": "jamás",
+              "inicioMs": 16440,
+              "finMs": 16760
+            },
+            {
+              "palabra": "apareció",
+              "inicioMs": 16760,
+              "finMs": 17280
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 17420,
+              "finMs": 17480
+            },
+            {
+              "palabra": "roca",
+              "inicioMs": 17480,
+              "finMs": 17740
+            },
+            {
+              "palabra": "continuó",
+              "inicioMs": 17740,
+              "finMs": 18220
+            },
+            {
+              "palabra": "siendo",
+              "inicioMs": 18220,
+              "finMs": 18400
+            },
+            {
+              "palabra": "granito",
+              "inicioMs": 18400,
+              "finMs": 18940
+            },
+            {
+              "palabra": "metamórfico",
+              "inicioMs": 18940,
+              "finMs": 19640
+            },
+            {
+              "palabra": "hasta",
+              "inicioMs": 19640,
+              "finMs": 19820
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 19820,
+              "finMs": 19920
+            },
+            {
+              "palabra": "final",
+              "inicioMs": 19920,
+              "finMs": 20180
+            },
+            {
+              "palabra": "La",
+              "inicioMs": 20440,
+              "finMs": 20520
+            },
+            {
+              "palabra": "señal",
+              "inicioMs": 20520,
+              "finMs": 20820
+            },
+            {
+              "palabra": "sísmica",
+              "inicioMs": 20820,
+              "finMs": 21320
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 21320,
+              "finMs": 21460
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 21460,
+              "finMs": 21620
+            },
+            {
+              "palabra": "geofísicos",
+              "inicioMs": 21620,
+              "finMs": 22140
+            },
+            {
+              "palabra": "interpretaban",
+              "inicioMs": 22140,
+              "finMs": 22820
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 22820,
+              "finMs": 23040
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 23040,
+              "finMs": 23200
+            },
+            {
+              "palabra": "cambio",
+              "inicioMs": 23200,
+              "finMs": 23400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 23400,
+              "finMs": 23580
+            },
+            {
+              "palabra": "roca",
+              "inicioMs": 23580,
+              "finMs": 23880
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 23880,
+              "finMs": 24100
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 24100,
+              "finMs": 24220
+            },
+            {
+              "palabra": "realidad",
+              "inicioMs": 24220,
+              "finMs": 24520
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 24520,
+              "finMs": 24800
+            },
+            {
+              "palabra": "cambio",
+              "inicioMs": 24800,
+              "finMs": 25100
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 25100,
+              "finMs": 25180
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 25180,
+              "finMs": 25260
+            },
+            {
+              "palabra": "porosidad",
+              "inicioMs": 25260,
+              "finMs": 25720
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 25720,
+              "finMs": 25940
+            },
+            {
+              "palabra": "fractura",
+              "inicioMs": 25940,
+              "finMs": 26360
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 26360,
+              "finMs": 26560
+            },
+            {
+              "palabra": "propio",
+              "inicioMs": 26560,
+              "finMs": 27460
+            },
+            {
+              "palabra": "granito",
+              "inicioMs": 27460,
+              "finMs": 27980
+            },
+            {
+              "palabra": "bajo",
+              "inicioMs": 27980,
+              "finMs": 28180
+            },
+            {
+              "palabra": "presiones",
+              "inicioMs": 28180,
+              "finMs": 28580
+            },
+            {
+              "palabra": "descomunales",
+              "inicioMs": 28580,
+              "finMs": 29280
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "texto": "Pero el hallazgo más desconcertante fue encontrar agua líquida libre a más de siete kilómetros de profundidad. La teoría convencional afirmaba que a esas profundidades la roca estaría tan compactada por el peso superior que los poros se sellarían herméticamente. Sin embargo, el agua estaba allí, atrapada en fracturas microscópicas a presiones sobrehumanas. No provenía de la superficie: era agua juvenil que se había originado a partir de átomos de hidrógeno y oxígeno expulsados de los propios minerales y que no tenía forma de escapar a través de la corteza impermeable.",
+          "tituloVisual": "AGUA FOSIL PROFUNDA",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "red_subterranea",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_sci_fi_beep.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "siete kilómetros",
+            "agua juvenil",
+            "fracturas microscópicas",
+            "minerales hidratados"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "eureka",
+          "duracionSegundos": 28.786,
+          "palabras": [
+            {
+              "palabra": "Pero",
+              "inicioMs": 0,
+              "finMs": 240
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 240,
+              "finMs": 380
+            },
+            {
+              "palabra": "hallazgo",
+              "inicioMs": 380,
+              "finMs": 550
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 720,
+              "finMs": 940
+            },
+            {
+              "palabra": "desconcertante",
+              "inicioMs": 940,
+              "finMs": 1680
+            },
+            {
+              "palabra": "fue",
+              "inicioMs": 1680,
+              "finMs": 1960
+            },
+            {
+              "palabra": "encontrar",
+              "inicioMs": 1960,
+              "finMs": 2300
+            },
+            {
+              "palabra": "agua",
+              "inicioMs": 2300,
+              "finMs": 2720
+            },
+            {
+              "palabra": "líquida",
+              "inicioMs": 2720,
+              "finMs": 3160
+            },
+            {
+              "palabra": "libre",
+              "inicioMs": 3160,
+              "finMs": 3460
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 3460,
+              "finMs": 3760
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 3760,
+              "finMs": 3900
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3900,
+              "finMs": 4040
+            },
+            {
+              "palabra": "siete",
+              "inicioMs": 4040,
+              "finMs": 4320
+            },
+            {
+              "palabra": "kilómetros",
+              "inicioMs": 4320,
+              "finMs": 4820
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4820,
+              "finMs": 5040
+            },
+            {
+              "palabra": "profundidad",
+              "inicioMs": 5040,
+              "finMs": 5600
+            },
+            {
+              "palabra": "La",
+              "inicioMs": 5900,
+              "finMs": 5980
+            },
+            {
+              "palabra": "teoría",
+              "inicioMs": 5980,
+              "finMs": 6300
+            },
+            {
+              "palabra": "convencional",
+              "inicioMs": 6300,
+              "finMs": 6840
+            },
+            {
+              "palabra": "afirmaba",
+              "inicioMs": 6840,
+              "finMs": 7320
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 7320,
+              "finMs": 7520
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 7520,
+              "finMs": 7580
+            },
+            {
+              "palabra": "esas",
+              "inicioMs": 7580,
+              "finMs": 7740
+            },
+            {
+              "palabra": "profundidades",
+              "inicioMs": 7740,
+              "finMs": 8360
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 8360,
+              "finMs": 8620
+            },
+            {
+              "palabra": "roca",
+              "inicioMs": 8620,
+              "finMs": 8860
+            },
+            {
+              "palabra": "estaría",
+              "inicioMs": 8860,
+              "finMs": 9200
+            },
+            {
+              "palabra": "tan",
+              "inicioMs": 9200,
+              "finMs": 9420
+            },
+            {
+              "palabra": "compactada",
+              "inicioMs": 9420,
+              "finMs": 9940
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 9940,
+              "finMs": 10120
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 10120,
+              "finMs": 10280
+            },
+            {
+              "palabra": "peso",
+              "inicioMs": 10280,
+              "finMs": 10420
+            },
+            {
+              "palabra": "superior",
+              "inicioMs": 10420,
+              "finMs": 10820
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 10820,
+              "finMs": 11020
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 11020,
+              "finMs": 11200
+            },
+            {
+              "palabra": "poros",
+              "inicioMs": 11200,
+              "finMs": 11480
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 11480,
+              "finMs": 11580
+            },
+            {
+              "palabra": "sellarían",
+              "inicioMs": 11580,
+              "finMs": 12080
+            },
+            {
+              "palabra": "herméticamente",
+              "inicioMs": 12300,
+              "finMs": 12780
+            },
+            {
+              "palabra": "Sin",
+              "inicioMs": 13020,
+              "finMs": 13140
+            },
+            {
+              "palabra": "embargo",
+              "inicioMs": 13140,
+              "finMs": 13400
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 13560,
+              "finMs": 13680
+            },
+            {
+              "palabra": "agua",
+              "inicioMs": 13680,
+              "finMs": 13820
+            },
+            {
+              "palabra": "estaba",
+              "inicioMs": 13820,
+              "finMs": 14080
+            },
+            {
+              "palabra": "allí",
+              "inicioMs": 14080,
+              "finMs": 14400
+            },
+            {
+              "palabra": "atrapada",
+              "inicioMs": 14680,
+              "finMs": 15080
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 15080,
+              "finMs": 15220
+            },
+            {
+              "palabra": "fracturas",
+              "inicioMs": 15220,
+              "finMs": 15640
+            },
+            {
+              "palabra": "microscópicas",
+              "inicioMs": 15640,
+              "finMs": 16440
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 16440,
+              "finMs": 16680
+            },
+            {
+              "palabra": "presiones",
+              "inicioMs": 16680,
+              "finMs": 17040
+            },
+            {
+              "palabra": "sobrehumanas",
+              "inicioMs": 17300,
+              "finMs": 17720
+            },
+            {
+              "palabra": "No",
+              "inicioMs": 18160,
+              "finMs": 18340
+            },
+            {
+              "palabra": "provenía",
+              "inicioMs": 18340,
+              "finMs": 18760
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18760,
+              "finMs": 18920
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 18920,
+              "finMs": 19020
+            },
+            {
+              "palabra": "superficie",
+              "inicioMs": 19020,
+              "finMs": 19740
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 20100,
+              "finMs": 20300
+            },
+            {
+              "palabra": "agua",
+              "inicioMs": 20300,
+              "finMs": 20500
+            },
+            {
+              "palabra": "juvenil",
+              "inicioMs": 20500,
+              "finMs": 20880
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 20880,
+              "finMs": 21060
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 21060,
+              "finMs": 21160
+            },
+            {
+              "palabra": "había",
+              "inicioMs": 21160,
+              "finMs": 21280
+            },
+            {
+              "palabra": "originado",
+              "inicioMs": 21280,
+              "finMs": 21660
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 21660,
+              "finMs": 21720
+            },
+            {
+              "palabra": "partir",
+              "inicioMs": 21720,
+              "finMs": 22000
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22000,
+              "finMs": 22220
+            },
+            {
+              "palabra": "átomos",
+              "inicioMs": 22220,
+              "finMs": 22580
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22580,
+              "finMs": 22740
+            },
+            {
+              "palabra": "hidrógeno",
+              "inicioMs": 22740,
+              "finMs": 23180
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 23180,
+              "finMs": 23320
+            },
+            {
+              "palabra": "oxígeno",
+              "inicioMs": 23320,
+              "finMs": 23820
+            },
+            {
+              "palabra": "expulsados",
+              "inicioMs": 23820,
+              "finMs": 24360
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 24360,
+              "finMs": 24480
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 24480,
+              "finMs": 24600
+            },
+            {
+              "palabra": "propios",
+              "inicioMs": 24600,
+              "finMs": 24880
+            },
+            {
+              "palabra": "minerales",
+              "inicioMs": 24880,
+              "finMs": 25440
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 25440,
+              "finMs": 25700
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 25700,
+              "finMs": 25800
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 25800,
+              "finMs": 25920
+            },
+            {
+              "palabra": "tenía",
+              "inicioMs": 25920,
+              "finMs": 26140
+            },
+            {
+              "palabra": "forma",
+              "inicioMs": 26140,
+              "finMs": 26360
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 26360,
+              "finMs": 26500
+            },
+            {
+              "palabra": "escapar",
+              "inicioMs": 26500,
+              "finMs": 26800
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 26800,
+              "finMs": 26880
+            },
+            {
+              "palabra": "través",
+              "inicioMs": 26880,
+              "finMs": 27120
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 27120,
+              "finMs": 27240
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 27240,
+              "finMs": 27340
+            },
+            {
+              "palabra": "corteza",
+              "inicioMs": 27340,
+              "finMs": 27700
+            },
+            {
+              "palabra": "impermeable",
+              "inicioMs": 27700,
+              "finMs": 28280
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 58.56
+    },
+    {
+      "id": "cap_4",
+      "numero": 4,
+      "titulo": "La Fósiles Microscópicos y el Muro Térmico",
+      "resumen": "Microfósiles a seis kilómetros y el calor que derritió el acero.",
+      "escenas": [
+        {
+          "id": 7,
+          "texto": "A seis mil metros bajo la superficie, los geólogos extrajeron núcleos de roca que contenían microfósiles microscópicos de plancton unicelular intacto que databan de más de dos mil millones de años de antigüedad. Aquellas células primordiales habían sobrevivido a eras de presión geológica extrema envueltas en una matriz mineral protectora, revelando que la biosfera arcaica de la Tierra era mucho más resistente de lo que la ciencia imaginaba.",
+          "tituloVisual": "FOSILES DE 2000 MILLONES DE ANOS",
+          "layout": "split_screen",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "microfósiles",
+            "dos mil millones de años",
+            "plancton unicelular",
+            "biosfera arcaica"
+          ],
+          "poseId": "holding_presentation_board",
+          "expresion": "talking",
+          "duracionSegundos": 23.146,
+          "palabras": [
+            {
+              "palabra": "A",
+              "inicioMs": 0,
+              "finMs": 200
+            },
+            {
+              "palabra": "seis",
+              "inicioMs": 200,
+              "finMs": 347
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 347,
+              "finMs": 493
+            },
+            {
+              "palabra": "metros",
+              "inicioMs": 640,
+              "finMs": 920
+            },
+            {
+              "palabra": "bajo",
+              "inicioMs": 920,
+              "finMs": 1200
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 1200,
+              "finMs": 1340
+            },
+            {
+              "palabra": "superficie",
+              "inicioMs": 1340,
+              "finMs": 2000
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 2240,
+              "finMs": 2300
+            },
+            {
+              "palabra": "geólogos",
+              "inicioMs": 2300,
+              "finMs": 2780
+            },
+            {
+              "palabra": "extrajeron",
+              "inicioMs": 2780,
+              "finMs": 3320
+            },
+            {
+              "palabra": "núcleos",
+              "inicioMs": 3320,
+              "finMs": 3510
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3700,
+              "finMs": 3840
+            },
+            {
+              "palabra": "roca",
+              "inicioMs": 3840,
+              "finMs": 4100
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 4100,
+              "finMs": 4260
+            },
+            {
+              "palabra": "contenían",
+              "inicioMs": 4260,
+              "finMs": 4680
+            },
+            {
+              "palabra": "microfósiles",
+              "inicioMs": 4680,
+              "finMs": 5340
+            },
+            {
+              "palabra": "microscópicos",
+              "inicioMs": 5340,
+              "finMs": 6100
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6100,
+              "finMs": 6260
+            },
+            {
+              "palabra": "plancton",
+              "inicioMs": 6260,
+              "finMs": 6640
+            },
+            {
+              "palabra": "unicelular",
+              "inicioMs": 6640,
+              "finMs": 7180
+            },
+            {
+              "palabra": "intacto",
+              "inicioMs": 7180,
+              "finMs": 7740
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 7740,
+              "finMs": 7860
+            },
+            {
+              "palabra": "databan",
+              "inicioMs": 7860,
+              "finMs": 8220
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8220,
+              "finMs": 8360
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 8360,
+              "finMs": 8540
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8540,
+              "finMs": 8720
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 8720,
+              "finMs": 8853
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 8853,
+              "finMs": 8987
+            },
+            {
+              "palabra": "millones",
+              "inicioMs": 9120,
+              "finMs": 9540
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9540,
+              "finMs": 9760
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 9760,
+              "finMs": 9980
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9980,
+              "finMs": 10160
+            },
+            {
+              "palabra": "antigüedad",
+              "inicioMs": 10160,
+              "finMs": 10660
+            },
+            {
+              "palabra": "Aquellas",
+              "inicioMs": 10840,
+              "finMs": 11140
+            },
+            {
+              "palabra": "células",
+              "inicioMs": 11140,
+              "finMs": 11560
+            },
+            {
+              "palabra": "primordiales",
+              "inicioMs": 11560,
+              "finMs": 12400
+            },
+            {
+              "palabra": "habían",
+              "inicioMs": 12400,
+              "finMs": 12600
+            },
+            {
+              "palabra": "sobrevivido",
+              "inicioMs": 12600,
+              "finMs": 13340
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 13340,
+              "finMs": 13560
+            },
+            {
+              "palabra": "eras",
+              "inicioMs": 13560,
+              "finMs": 13840
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 13840,
+              "finMs": 13940
+            },
+            {
+              "palabra": "presión",
+              "inicioMs": 13940,
+              "finMs": 14300
+            },
+            {
+              "palabra": "geológica",
+              "inicioMs": 14300,
+              "finMs": 14880
+            },
+            {
+              "palabra": "extrema",
+              "inicioMs": 14880,
+              "finMs": 15400
+            },
+            {
+              "palabra": "envueltas",
+              "inicioMs": 15520,
+              "finMs": 16080
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 16080,
+              "finMs": 16220
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 16220,
+              "finMs": 16400
+            },
+            {
+              "palabra": "matriz",
+              "inicioMs": 16400,
+              "finMs": 16780
+            },
+            {
+              "palabra": "mineral",
+              "inicioMs": 16780,
+              "finMs": 17140
+            },
+            {
+              "palabra": "protectora",
+              "inicioMs": 17140,
+              "finMs": 17980
+            },
+            {
+              "palabra": "revelando",
+              "inicioMs": 18260,
+              "finMs": 18600
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 18600,
+              "finMs": 18740
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 18740,
+              "finMs": 18860
+            },
+            {
+              "palabra": "biosfera",
+              "inicioMs": 18860,
+              "finMs": 19160
+            },
+            {
+              "palabra": "arcaica",
+              "inicioMs": 19160,
+              "finMs": 19600
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19600,
+              "finMs": 19720
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 19720,
+              "finMs": 19820
+            },
+            {
+              "palabra": "Tierra",
+              "inicioMs": 19820,
+              "finMs": 20080
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 20080,
+              "finMs": 20420
+            },
+            {
+              "palabra": "mucho",
+              "inicioMs": 20420,
+              "finMs": 20740
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 20740,
+              "finMs": 20900
+            },
+            {
+              "palabra": "resistente",
+              "inicioMs": 20900,
+              "finMs": 21500
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 21500,
+              "finMs": 21600
+            },
+            {
+              "palabra": "lo",
+              "inicioMs": 21600,
+              "finMs": 21680
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 21680,
+              "finMs": 21760
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 21760,
+              "finMs": 21860
+            },
+            {
+              "palabra": "ciencia",
+              "inicioMs": 21860,
+              "finMs": 22140
+            },
+            {
+              "palabra": "imaginaba",
+              "inicioMs": 22140,
+              "finMs": 22680
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "texto": "Sin embargo, al superar los diez kilómetros de profundidad, el pozo colisionó contra un muro infranqueable: el gradiente térmico de la Tierra. Los modelos geológicos pronosticaban que a doce kilómetros la temperatura rondaría los cien grados centígrados, un calor manejable. Pero la realidad térmica fue abrasadora: el termómetro marcó ciento ochenta grados centígrados, casi el doble de lo esperado. A esa temperatura y bajo presiones de miles de atmósferas, la roca de granito dejó de comportarse como un sólido rígido y comenzó a fluir como cera plástica.",
+          "tituloVisual": "EL MURO DE 180 GRADOS",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "red_subterranea",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "gradiente térmico",
+            "ciento ochenta grados",
+            "roca plástica",
+            "presión de miles de atmósferas"
+          ],
+          "poseId": "confused_scratch_head",
+          "expresion": "sad",
+          "infografia": {
+            "tipo": "dato_clave",
+            "titulo": "Temperatura Infernal",
+            "subtitulo": "Discrepancia a 12 km de Profundidad",
+            "valorPrincipal": "180°C",
+            "unidad": "en el fondo",
+            "items": [
+              {
+                "etiqueta": "Temperatura real medida",
+                "valor": "180 grados centígrados",
+                "porcentaje": 100,
+                "color": "#FFE600"
+              },
+              {
+                "etiqueta": "Temperatura prevista",
+                "valor": "100 grados centígrados",
+                "porcentaje": 55,
+                "color": "#38BDF8"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 29.17,
+          "palabras": [
+            {
+              "palabra": "Sin",
+              "inicioMs": 0,
+              "finMs": 220
+            },
+            {
+              "palabra": "embargo",
+              "inicioMs": 220,
+              "finMs": 420
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 600,
+              "finMs": 620
+            },
+            {
+              "palabra": "superar",
+              "inicioMs": 620,
+              "finMs": 920
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 920,
+              "finMs": 1080
+            },
+            {
+              "palabra": "diez",
+              "inicioMs": 1080,
+              "finMs": 1210
+            },
+            {
+              "palabra": "kilómetros",
+              "inicioMs": 1340,
+              "finMs": 1740
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1740,
+              "finMs": 1940
+            },
+            {
+              "palabra": "profundidad",
+              "inicioMs": 1940,
+              "finMs": 2440
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 2560,
+              "finMs": 2660
+            },
+            {
+              "palabra": "pozo",
+              "inicioMs": 2660,
+              "finMs": 2900
+            },
+            {
+              "palabra": "colisionó",
+              "inicioMs": 2900,
+              "finMs": 3420
+            },
+            {
+              "palabra": "contra",
+              "inicioMs": 3420,
+              "finMs": 3680
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 3680,
+              "finMs": 3840
+            },
+            {
+              "palabra": "muro",
+              "inicioMs": 3840,
+              "finMs": 3960
+            },
+            {
+              "palabra": "infranqueable",
+              "inicioMs": 3960,
+              "finMs": 4620
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 4900,
+              "finMs": 5000
+            },
+            {
+              "palabra": "gradiente",
+              "inicioMs": 5000,
+              "finMs": 5380
+            },
+            {
+              "palabra": "térmico",
+              "inicioMs": 5380,
+              "finMs": 5860
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5860,
+              "finMs": 6000
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 6000,
+              "finMs": 6100
+            },
+            {
+              "palabra": "Tierra",
+              "inicioMs": 6100,
+              "finMs": 6300
+            },
+            {
+              "palabra": "Los",
+              "inicioMs": 6500,
+              "finMs": 6640
+            },
+            {
+              "palabra": "modelos",
+              "inicioMs": 6640,
+              "finMs": 6980
+            },
+            {
+              "palabra": "geológicos",
+              "inicioMs": 6980,
+              "finMs": 7500
+            },
+            {
+              "palabra": "pronosticaban",
+              "inicioMs": 7500,
+              "finMs": 8220
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 8220,
+              "finMs": 8400
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 8400,
+              "finMs": 8460
+            },
+            {
+              "palabra": "doce",
+              "inicioMs": 8460,
+              "finMs": 8590
+            },
+            {
+              "palabra": "kilómetros",
+              "inicioMs": 8720,
+              "finMs": 9260
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 9260,
+              "finMs": 9420
+            },
+            {
+              "palabra": "temperatura",
+              "inicioMs": 9420,
+              "finMs": 9720
+            },
+            {
+              "palabra": "rondaría",
+              "inicioMs": 9720,
+              "finMs": 10380
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 10480,
+              "finMs": 10560
+            },
+            {
+              "palabra": "cien",
+              "inicioMs": 10560,
+              "finMs": 10760
+            },
+            {
+              "palabra": "grados",
+              "inicioMs": 10760,
+              "finMs": 11100
+            },
+            {
+              "palabra": "centígrados",
+              "inicioMs": 11100,
+              "finMs": 11640
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 11640,
+              "finMs": 12040
+            },
+            {
+              "palabra": "calor",
+              "inicioMs": 12040,
+              "finMs": 12260
+            },
+            {
+              "palabra": "manejable",
+              "inicioMs": 12260,
+              "finMs": 12840
+            },
+            {
+              "palabra": "Pero",
+              "inicioMs": 13120,
+              "finMs": 13280
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 13280,
+              "finMs": 13420
+            },
+            {
+              "palabra": "realidad",
+              "inicioMs": 13420,
+              "finMs": 13760
+            },
+            {
+              "palabra": "térmica",
+              "inicioMs": 13760,
+              "finMs": 14300
+            },
+            {
+              "palabra": "fue",
+              "inicioMs": 14300,
+              "finMs": 14540
+            },
+            {
+              "palabra": "abrasadora",
+              "inicioMs": 14540,
+              "finMs": 15080
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 15340,
+              "finMs": 15440
+            },
+            {
+              "palabra": "termómetro",
+              "inicioMs": 15440,
+              "finMs": 15880
+            },
+            {
+              "palabra": "marcó",
+              "inicioMs": 15880,
+              "finMs": 16300
+            },
+            {
+              "palabra": "ciento",
+              "inicioMs": 16300,
+              "finMs": 16513
+            },
+            {
+              "palabra": "ochenta",
+              "inicioMs": 16513,
+              "finMs": 16727
+            },
+            {
+              "palabra": "grados",
+              "inicioMs": 16940,
+              "finMs": 17520
+            },
+            {
+              "palabra": "centígrados",
+              "inicioMs": 17520,
+              "finMs": 18160
+            },
+            {
+              "palabra": "casi",
+              "inicioMs": 18420,
+              "finMs": 18640
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 18640,
+              "finMs": 18780
+            },
+            {
+              "palabra": "doble",
+              "inicioMs": 18780,
+              "finMs": 19060
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19060,
+              "finMs": 19180
+            },
+            {
+              "palabra": "lo",
+              "inicioMs": 19180,
+              "finMs": 19260
+            },
+            {
+              "palabra": "esperado",
+              "inicioMs": 19260,
+              "finMs": 19740
+            },
+            {
+              "palabra": "A",
+              "inicioMs": 19940,
+              "finMs": 20020
+            },
+            {
+              "palabra": "esa",
+              "inicioMs": 20020,
+              "finMs": 20180
+            },
+            {
+              "palabra": "temperatura",
+              "inicioMs": 20180,
+              "finMs": 20720
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 20720,
+              "finMs": 21040
+            },
+            {
+              "palabra": "bajo",
+              "inicioMs": 21040,
+              "finMs": 21200
+            },
+            {
+              "palabra": "presiones",
+              "inicioMs": 21200,
+              "finMs": 21620
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 21620,
+              "finMs": 21820
+            },
+            {
+              "palabra": "miles",
+              "inicioMs": 21820,
+              "finMs": 22040
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22040,
+              "finMs": 22220
+            },
+            {
+              "palabra": "atmósferas",
+              "inicioMs": 22220,
+              "finMs": 22860
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 23440,
+              "finMs": 23640
+            },
+            {
+              "palabra": "roca",
+              "inicioMs": 23640,
+              "finMs": 23920
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 23920,
+              "finMs": 24040
+            },
+            {
+              "palabra": "granito",
+              "inicioMs": 24040,
+              "finMs": 24440
+            },
+            {
+              "palabra": "dejó",
+              "inicioMs": 24440,
+              "finMs": 24700
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 24700,
+              "finMs": 24800
+            },
+            {
+              "palabra": "comportarse",
+              "inicioMs": 24800,
+              "finMs": 25400
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 25400,
+              "finMs": 25640
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 25640,
+              "finMs": 25840
+            },
+            {
+              "palabra": "sólido",
+              "inicioMs": 25840,
+              "finMs": 26200
+            },
+            {
+              "palabra": "rígido",
+              "inicioMs": 26200,
+              "finMs": 26660
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 26660,
+              "finMs": 26840
+            },
+            {
+              "palabra": "comenzó",
+              "inicioMs": 26840,
+              "finMs": 27300
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 27300,
+              "finMs": 27360
+            },
+            {
+              "palabra": "fluir",
+              "inicioMs": 27360,
+              "finMs": 27640
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 27640,
+              "finMs": 27880
+            },
+            {
+              "palabra": "cera",
+              "inicioMs": 27880,
+              "finMs": 28020
+            },
+            {
+              "palabra": "plástica",
+              "inicioMs": 28160,
+              "finMs": 28700
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 52.32
+    },
+    {
+      "id": "cap_5",
+      "numero": 5,
+      "titulo": "El Mito Urbano del Pozo al Infierno",
+      "resumen": "La leyenda de las grabaciones de voces y su origen mediático.",
+      "escenas": [
+        {
+          "id": 9,
+          "texto": "A finales de los años ochenta nació una de las leyendas urbanas más famosas de la historia de Internet: el supuesto Pozo al Infierno de Siberia. Según el bulo, los científicos soviéticos habían perforado una caverna hueca a catorce kilómetros, y al bajar un micrófono resistente al calor para registrar el movimiento de las placas tectónicas, escucharon grabaciones aterradoras con los gritos desgarradores de millones de almas atormentadas en el inframundo, provocando que los ingenieros huyeran despavoridos.",
+          "tituloVisual": "LA LEYENDA DEL INFIERNO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "habitacion_noche",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "pozo al infierno",
+            "gritos desgarradores",
+            "bulo de Internet",
+            "micrófono térmico"
+          ],
+          "poseId": "standing_curious",
+          "expresion": "fear",
+          "duracionSegundos": 24.97,
+          "palabras": [
+            {
+              "palabra": "A",
+              "inicioMs": 0,
+              "finMs": 200
+            },
+            {
+              "palabra": "finales",
+              "inicioMs": 200,
+              "finMs": 680
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 680,
+              "finMs": 760
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 760,
+              "finMs": 880
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 880,
+              "finMs": 1100
+            },
+            {
+              "palabra": "ochenta",
+              "inicioMs": 1100,
+              "finMs": 1307
+            },
+            {
+              "palabra": "nació",
+              "inicioMs": 1307,
+              "finMs": 1513
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 1720,
+              "finMs": 1980
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1980,
+              "finMs": 2080
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 2080,
+              "finMs": 2260
+            },
+            {
+              "palabra": "leyendas",
+              "inicioMs": 2260,
+              "finMs": 2600
+            },
+            {
+              "palabra": "urbanas",
+              "inicioMs": 2600,
+              "finMs": 3100
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 3100,
+              "finMs": 3260
+            },
+            {
+              "palabra": "famosas",
+              "inicioMs": 3260,
+              "finMs": 3720
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3720,
+              "finMs": 3900
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 3900,
+              "finMs": 3980
+            },
+            {
+              "palabra": "historia",
+              "inicioMs": 3980,
+              "finMs": 4200
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4200,
+              "finMs": 4400
+            },
+            {
+              "palabra": "Internet",
+              "inicioMs": 4400,
+              "finMs": 4800
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 4800,
+              "finMs": 5000
+            },
+            {
+              "palabra": "supuesto",
+              "inicioMs": 5200,
+              "finMs": 5440
+            },
+            {
+              "palabra": "Pozo",
+              "inicioMs": 5440,
+              "finMs": 5820
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 5820,
+              "finMs": 5900
+            },
+            {
+              "palabra": "Infierno",
+              "inicioMs": 5900,
+              "finMs": 6240
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6240,
+              "finMs": 6400
+            },
+            {
+              "palabra": "Siberia",
+              "inicioMs": 6400,
+              "finMs": 6840
+            },
+            {
+              "palabra": "Según",
+              "inicioMs": 6980,
+              "finMs": 7220
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 7220,
+              "finMs": 7360
+            },
+            {
+              "palabra": "bulo",
+              "inicioMs": 7360,
+              "finMs": 7640
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 7880,
+              "finMs": 8000
+            },
+            {
+              "palabra": "científicos",
+              "inicioMs": 8000,
+              "finMs": 8600
+            },
+            {
+              "palabra": "soviéticos",
+              "inicioMs": 8600,
+              "finMs": 9100
+            },
+            {
+              "palabra": "habían",
+              "inicioMs": 9100,
+              "finMs": 9400
+            },
+            {
+              "palabra": "perforado",
+              "inicioMs": 9400,
+              "finMs": 9900
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 9900,
+              "finMs": 10060
+            },
+            {
+              "palabra": "caverna",
+              "inicioMs": 10060,
+              "finMs": 10420
+            },
+            {
+              "palabra": "hueca",
+              "inicioMs": 10420,
+              "finMs": 10800
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 10800,
+              "finMs": 10940
+            },
+            {
+              "palabra": "catorce",
+              "inicioMs": 10940,
+              "finMs": 11300
+            },
+            {
+              "palabra": "kilómetros",
+              "inicioMs": 11300,
+              "finMs": 11840
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 12060,
+              "finMs": 12120
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 12120,
+              "finMs": 12200
+            },
+            {
+              "palabra": "bajar",
+              "inicioMs": 12200,
+              "finMs": 12440
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 12440,
+              "finMs": 12540
+            },
+            {
+              "palabra": "micrófono",
+              "inicioMs": 12540,
+              "finMs": 12960
+            },
+            {
+              "palabra": "resistente",
+              "inicioMs": 12960,
+              "finMs": 13500
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 13500,
+              "finMs": 13620
+            },
+            {
+              "palabra": "calor",
+              "inicioMs": 13620,
+              "finMs": 13860
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 13860,
+              "finMs": 14060
+            },
+            {
+              "palabra": "registrar",
+              "inicioMs": 14060,
+              "finMs": 14540
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 14540,
+              "finMs": 14620
+            },
+            {
+              "palabra": "movimiento",
+              "inicioMs": 14620,
+              "finMs": 14920
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14920,
+              "finMs": 15120
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 15120,
+              "finMs": 15220
+            },
+            {
+              "palabra": "placas",
+              "inicioMs": 15220,
+              "finMs": 15345
+            },
+            {
+              "palabra": "tectónicas",
+              "inicioMs": 15220,
+              "finMs": 15980
+            },
+            {
+              "palabra": "escucharon",
+              "inicioMs": 16160,
+              "finMs": 16640
+            },
+            {
+              "palabra": "grabaciones",
+              "inicioMs": 16640,
+              "finMs": 17120
+            },
+            {
+              "palabra": "aterradoras",
+              "inicioMs": 17120,
+              "finMs": 17900
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 17900,
+              "finMs": 18020
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 18020,
+              "finMs": 18200
+            },
+            {
+              "palabra": "gritos",
+              "inicioMs": 18200,
+              "finMs": 18520
+            },
+            {
+              "palabra": "desgarradores",
+              "inicioMs": 18520,
+              "finMs": 19200
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19200,
+              "finMs": 19460
+            },
+            {
+              "palabra": "millones",
+              "inicioMs": 19460,
+              "finMs": 19680
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19680,
+              "finMs": 20000
+            },
+            {
+              "palabra": "almas",
+              "inicioMs": 20000,
+              "finMs": 20200
+            },
+            {
+              "palabra": "atormentadas",
+              "inicioMs": 20200,
+              "finMs": 20920
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 20920,
+              "finMs": 21140
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 21140,
+              "finMs": 21260
+            },
+            {
+              "palabra": "inframundo",
+              "inicioMs": 21260,
+              "finMs": 21840
+            },
+            {
+              "palabra": "provocando",
+              "inicioMs": 21840,
+              "finMs": 22600
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 22600,
+              "finMs": 22740
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 22740,
+              "finMs": 22880
+            },
+            {
+              "palabra": "ingenieros",
+              "inicioMs": 22880,
+              "finMs": 23440
+            },
+            {
+              "palabra": "huyeran",
+              "inicioMs": 23440,
+              "finMs": 23800
+            },
+            {
+              "palabra": "despavoridos",
+              "inicioMs": 23800,
+              "finMs": 24500
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "texto": "La historia era una falsedad absoluta originada en una cadena de radio religiosa estadounidense que tomó en serio una broma de un boletín escolar finlandés. El audio no era más que un montaje cutre mezclando sonidos de la película de terror Baron Blood en bucle. En la realidad física de Kola no había cavernas huecas ni demonios: a doce kilómetros la presión geológica es tan gigantesca que cualquier cavidad se colapsaría de inmediato. El único sonido en el abismo era el siseo del lodo caliente y el crujido metálico de las brocas rompiéndose.",
+          "tituloVisual": "DESMONTANDO EL BACTERO",
+          "layout": "split_screen",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_left",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "falsedad absoluta",
+            "broma finlandesa",
+            "montaje de audio",
+            "sin cavernas huecas"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "analytical",
+          "duracionSegundos": 28.138,
+          "palabras": [
+            {
+              "palabra": "La",
+              "inicioMs": 0,
+              "finMs": 200
+            },
+            {
+              "palabra": "historia",
+              "inicioMs": 200,
+              "finMs": 500
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 500,
+              "finMs": 740
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 740,
+              "finMs": 860
+            },
+            {
+              "palabra": "falsedad",
+              "inicioMs": 860,
+              "finMs": 1320
+            },
+            {
+              "palabra": "absoluta",
+              "inicioMs": 1320,
+              "finMs": 1860
+            },
+            {
+              "palabra": "originada",
+              "inicioMs": 1860,
+              "finMs": 2400
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 2400,
+              "finMs": 2620
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 2620,
+              "finMs": 2780
+            },
+            {
+              "palabra": "cadena",
+              "inicioMs": 2780,
+              "finMs": 3120
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3120,
+              "finMs": 3280
+            },
+            {
+              "palabra": "radio",
+              "inicioMs": 3280,
+              "finMs": 3540
+            },
+            {
+              "palabra": "religiosa",
+              "inicioMs": 3540,
+              "finMs": 4060
+            },
+            {
+              "palabra": "estadounidense",
+              "inicioMs": 4060,
+              "finMs": 4920
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 4920,
+              "finMs": 5080
+            },
+            {
+              "palabra": "tomó",
+              "inicioMs": 5080,
+              "finMs": 5380
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 5380,
+              "finMs": 5460
+            },
+            {
+              "palabra": "serio",
+              "inicioMs": 5460,
+              "finMs": 5740
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 5740,
+              "finMs": 5940
+            },
+            {
+              "palabra": "broma",
+              "inicioMs": 5940,
+              "finMs": 6220
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6220,
+              "finMs": 6360
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 6360,
+              "finMs": 6540
+            },
+            {
+              "palabra": "boletín",
+              "inicioMs": 6740,
+              "finMs": 7180
+            },
+            {
+              "palabra": "escolar",
+              "inicioMs": 7180,
+              "finMs": 7540
+            },
+            {
+              "palabra": "finlandés",
+              "inicioMs": 7540,
+              "finMs": 8240
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 8480,
+              "finMs": 8600
+            },
+            {
+              "palabra": "audio",
+              "inicioMs": 8600,
+              "finMs": 8840
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 8840,
+              "finMs": 9040
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 9040,
+              "finMs": 9200
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 9200,
+              "finMs": 9400
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 9400,
+              "finMs": 9560
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 9560,
+              "finMs": 9660
+            },
+            {
+              "palabra": "montaje",
+              "inicioMs": 9660,
+              "finMs": 10040
+            },
+            {
+              "palabra": "cutre",
+              "inicioMs": 10040,
+              "finMs": 10440
+            },
+            {
+              "palabra": "mezclando",
+              "inicioMs": 10440,
+              "finMs": 10840
+            },
+            {
+              "palabra": "sonidos",
+              "inicioMs": 10840,
+              "finMs": 11280
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11280,
+              "finMs": 11440
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 11440,
+              "finMs": 11540
+            },
+            {
+              "palabra": "película",
+              "inicioMs": 11540,
+              "finMs": 11820
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11820,
+              "finMs": 12080
+            },
+            {
+              "palabra": "terror",
+              "inicioMs": 12080,
+              "finMs": 12340
+            },
+            {
+              "palabra": "Baron",
+              "inicioMs": 12340,
+              "finMs": 12700
+            },
+            {
+              "palabra": "Blood",
+              "inicioMs": 12700,
+              "finMs": 12850
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 13000,
+              "finMs": 13260
+            },
+            {
+              "palabra": "bucle",
+              "inicioMs": 13260,
+              "finMs": 13680
+            },
+            {
+              "palabra": "En",
+              "inicioMs": 13920,
+              "finMs": 13980
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 13980,
+              "finMs": 14060
+            },
+            {
+              "palabra": "realidad",
+              "inicioMs": 14060,
+              "finMs": 14260
+            },
+            {
+              "palabra": "física",
+              "inicioMs": 14260,
+              "finMs": 14680
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14680,
+              "finMs": 14880
+            },
+            {
+              "palabra": "Kola",
+              "inicioMs": 14880,
+              "finMs": 15140
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 15140,
+              "finMs": 15440
+            },
+            {
+              "palabra": "había",
+              "inicioMs": 15440,
+              "finMs": 15580
+            },
+            {
+              "palabra": "cavernas",
+              "inicioMs": 15580,
+              "finMs": 16080
+            },
+            {
+              "palabra": "huecas",
+              "inicioMs": 16080,
+              "finMs": 16440
+            },
+            {
+              "palabra": "ni",
+              "inicioMs": 16440,
+              "finMs": 16680
+            },
+            {
+              "palabra": "demonios",
+              "inicioMs": 16680,
+              "finMs": 17200
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 17400,
+              "finMs": 17500
+            },
+            {
+              "palabra": "doce",
+              "inicioMs": 17500,
+              "finMs": 17600
+            },
+            {
+              "palabra": "kilómetros",
+              "inicioMs": 17700,
+              "finMs": 18080
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 18080,
+              "finMs": 18260
+            },
+            {
+              "palabra": "presión",
+              "inicioMs": 18260,
+              "finMs": 18540
+            },
+            {
+              "palabra": "geológica",
+              "inicioMs": 18540,
+              "finMs": 19040
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 19040,
+              "finMs": 19140
+            },
+            {
+              "palabra": "tan",
+              "inicioMs": 19140,
+              "finMs": 19280
+            },
+            {
+              "palabra": "gigantesca",
+              "inicioMs": 19280,
+              "finMs": 19820
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 19820,
+              "finMs": 19940
+            },
+            {
+              "palabra": "cualquier",
+              "inicioMs": 19940,
+              "finMs": 20220
+            },
+            {
+              "palabra": "cavidad",
+              "inicioMs": 20220,
+              "finMs": 20600
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 20600,
+              "finMs": 20740
+            },
+            {
+              "palabra": "colapsaría",
+              "inicioMs": 20740,
+              "finMs": 21220
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 21220,
+              "finMs": 21340
+            },
+            {
+              "palabra": "inmediato",
+              "inicioMs": 21340,
+              "finMs": 21840
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 22100,
+              "finMs": 22200
+            },
+            {
+              "palabra": "único",
+              "inicioMs": 22200,
+              "finMs": 22420
+            },
+            {
+              "palabra": "sonido",
+              "inicioMs": 22420,
+              "finMs": 22840
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 22840,
+              "finMs": 22940
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 22940,
+              "finMs": 23060
+            },
+            {
+              "palabra": "abismo",
+              "inicioMs": 23060,
+              "finMs": 23420
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 23420,
+              "finMs": 23740
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 23740,
+              "finMs": 23880
+            },
+            {
+              "palabra": "siseo",
+              "inicioMs": 23880,
+              "finMs": 24220
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 24220,
+              "finMs": 24340
+            },
+            {
+              "palabra": "lodo",
+              "inicioMs": 24340,
+              "finMs": 24560
+            },
+            {
+              "palabra": "caliente",
+              "inicioMs": 24560,
+              "finMs": 25100
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 25100,
+              "finMs": 25260
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 25260,
+              "finMs": 25380
+            },
+            {
+              "palabra": "crujido",
+              "inicioMs": 25380,
+              "finMs": 25760
+            },
+            {
+              "palabra": "metálico",
+              "inicioMs": 25760,
+              "finMs": 26300
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 26300,
+              "finMs": 26380
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 26380,
+              "finMs": 26520
+            },
+            {
+              "palabra": "brocas",
+              "inicioMs": 26520,
+              "finMs": 26900
+            },
+            {
+              "palabra": "rompiéndose",
+              "inicioMs": 26900,
+              "finMs": 27680
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 53.11
+    },
+    {
+      "id": "cap_6",
+      "numero": 6,
+      "titulo": "La Tapa Oxidada y el Legado de Kola",
+      "resumen": "El cierre del proyecto en 1992 y nuestra visión de la Tierra.",
+      "escenas": [
+        {
+          "id": 11,
+          "texto": "En mil novecientos noventa y dos, tras el colapso de la Unión Soviética y ante la imposibilidad técnica de avanzar por las temperaturas sofocantes que derretían las brocas y cerraban el pozo cada vez que se retiraba la tubería, los trabajos se detuvieron definitivamente en los doce mil doscientos sesenta y dos metros. En dos mil ocho las instalaciones fueron abandonadas y desmanteladas. Hoy en día, la perforación más profunda jamás excavada por la especie humana está sellada con una modesta tapa circular de acero oxidado sujeta con doce pernos.",
+          "tituloVisual": "UNA TAPA DE DOCE PERNOS",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "habitacion_noche",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "colapso soviético",
+            "doce mil doscientos sesenta y dos",
+            "tapa de acero oxidado",
+            "doce pernos"
+          ],
+          "poseId": "reading_clipboard",
+          "expresion": "sad",
+          "duracionSegundos": 28.93,
+          "palabras": [
+            {
+              "palabra": "En",
+              "inicioMs": 0,
+              "finMs": 200
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 200,
+              "finMs": 470
+            },
+            {
+              "palabra": "novecientos",
+              "inicioMs": 470,
+              "finMs": 740
+            },
+            {
+              "palabra": "noventa",
+              "inicioMs": 740,
+              "finMs": 1010
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 1010,
+              "finMs": 1280
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 1280,
+              "finMs": 1550
+            },
+            {
+              "palabra": "tras",
+              "inicioMs": 1820,
+              "finMs": 1980
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 1980,
+              "finMs": 2180
+            },
+            {
+              "palabra": "colapso",
+              "inicioMs": 2180,
+              "finMs": 2560
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2560,
+              "finMs": 2680
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 2680,
+              "finMs": 2780
+            },
+            {
+              "palabra": "Unión",
+              "inicioMs": 2780,
+              "finMs": 3020
+            },
+            {
+              "palabra": "Soviética",
+              "inicioMs": 3020,
+              "finMs": 3620
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 3620,
+              "finMs": 3840
+            },
+            {
+              "palabra": "ante",
+              "inicioMs": 3840,
+              "finMs": 4000
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 4000,
+              "finMs": 4140
+            },
+            {
+              "palabra": "imposibilidad",
+              "inicioMs": 4140,
+              "finMs": 4720
+            },
+            {
+              "palabra": "técnica",
+              "inicioMs": 4720,
+              "finMs": 5120
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5120,
+              "finMs": 5380
+            },
+            {
+              "palabra": "avanzar",
+              "inicioMs": 5380,
+              "finMs": 5780
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 5780,
+              "finMs": 5920
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 5920,
+              "finMs": 6100
+            },
+            {
+              "palabra": "temperaturas",
+              "inicioMs": 6100,
+              "finMs": 6620
+            },
+            {
+              "palabra": "sofocantes",
+              "inicioMs": 6620,
+              "finMs": 7160
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 7160,
+              "finMs": 7380
+            },
+            {
+              "palabra": "derretían",
+              "inicioMs": 7380,
+              "finMs": 7760
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 7760,
+              "finMs": 7960
+            },
+            {
+              "palabra": "brocas",
+              "inicioMs": 7960,
+              "finMs": 8300
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 8300,
+              "finMs": 8740
+            },
+            {
+              "palabra": "cerraban",
+              "inicioMs": 8740,
+              "finMs": 9080
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 9080,
+              "finMs": 9280
+            },
+            {
+              "palabra": "pozo",
+              "inicioMs": 9280,
+              "finMs": 9560
+            },
+            {
+              "palabra": "cada",
+              "inicioMs": 9560,
+              "finMs": 9800
+            },
+            {
+              "palabra": "vez",
+              "inicioMs": 9800,
+              "finMs": 9940
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 9940,
+              "finMs": 10080
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 10080,
+              "finMs": 10200
+            },
+            {
+              "palabra": "retiraba",
+              "inicioMs": 10200,
+              "finMs": 10600
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 10600,
+              "finMs": 10720
+            },
+            {
+              "palabra": "tubería",
+              "inicioMs": 10720,
+              "finMs": 11140
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 11300,
+              "finMs": 11420
+            },
+            {
+              "palabra": "trabajos",
+              "inicioMs": 11420,
+              "finMs": 11860
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 11860,
+              "finMs": 12020
+            },
+            {
+              "palabra": "detuvieron",
+              "inicioMs": 12020,
+              "finMs": 12440
+            },
+            {
+              "palabra": "definitivamente",
+              "inicioMs": 12440,
+              "finMs": 13160
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 13160,
+              "finMs": 13540
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 13540,
+              "finMs": 13640
+            },
+            {
+              "palabra": "doce",
+              "inicioMs": 13640,
+              "finMs": 13874
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 13874,
+              "finMs": 14109
+            },
+            {
+              "palabra": "doscientos",
+              "inicioMs": 14109,
+              "finMs": 14343
+            },
+            {
+              "palabra": "sesenta",
+              "inicioMs": 14343,
+              "finMs": 14577
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 14577,
+              "finMs": 14811
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 14811,
+              "finMs": 15046
+            },
+            {
+              "palabra": "metros",
+              "inicioMs": 15280,
+              "finMs": 15660
+            },
+            {
+              "palabra": "En",
+              "inicioMs": 15920,
+              "finMs": 16020
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 16020,
+              "finMs": 16155
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 16155,
+              "finMs": 16290
+            },
+            {
+              "palabra": "ocho",
+              "inicioMs": 16290,
+              "finMs": 16425
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 16560,
+              "finMs": 16800
+            },
+            {
+              "palabra": "instalaciones",
+              "inicioMs": 16800,
+              "finMs": 17480
+            },
+            {
+              "palabra": "fueron",
+              "inicioMs": 17480,
+              "finMs": 17740
+            },
+            {
+              "palabra": "abandonadas",
+              "inicioMs": 17740,
+              "finMs": 18420
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 18420,
+              "finMs": 18560
+            },
+            {
+              "palabra": "desmanteladas",
+              "inicioMs": 18560,
+              "finMs": 19280
+            },
+            {
+              "palabra": "Hoy",
+              "inicioMs": 19500,
+              "finMs": 19660
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 19660,
+              "finMs": 19800
+            },
+            {
+              "palabra": "día",
+              "inicioMs": 19800,
+              "finMs": 20080
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 20520,
+              "finMs": 20980
+            },
+            {
+              "palabra": "perforación",
+              "inicioMs": 20980,
+              "finMs": 21520
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 21520,
+              "finMs": 21760
+            },
+            {
+              "palabra": "profunda",
+              "inicioMs": 21760,
+              "finMs": 22200
+            },
+            {
+              "palabra": "jamás",
+              "inicioMs": 22200,
+              "finMs": 22620
+            },
+            {
+              "palabra": "excavada",
+              "inicioMs": 22620,
+              "finMs": 23140
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 23140,
+              "finMs": 23340
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 23340,
+              "finMs": 23460
+            },
+            {
+              "palabra": "especie",
+              "inicioMs": 23460,
+              "finMs": 23680
+            },
+            {
+              "palabra": "humana",
+              "inicioMs": 23680,
+              "finMs": 24120
+            },
+            {
+              "palabra": "está",
+              "inicioMs": 24120,
+              "finMs": 24245
+            },
+            {
+              "palabra": "sellada",
+              "inicioMs": 24120,
+              "finMs": 24700
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 24700,
+              "finMs": 24880
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 24880,
+              "finMs": 25060
+            },
+            {
+              "palabra": "modesta",
+              "inicioMs": 25060,
+              "finMs": 25440
+            },
+            {
+              "palabra": "tapa",
+              "inicioMs": 25440,
+              "finMs": 25680
+            },
+            {
+              "palabra": "circular",
+              "inicioMs": 25680,
+              "finMs": 26140
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 26140,
+              "finMs": 26340
+            },
+            {
+              "palabra": "acero",
+              "inicioMs": 26340,
+              "finMs": 26640
+            },
+            {
+              "palabra": "oxidado",
+              "inicioMs": 26640,
+              "finMs": 27160
+            },
+            {
+              "palabra": "sujeta",
+              "inicioMs": 27160,
+              "finMs": 27620
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 27620,
+              "finMs": 27780
+            },
+            {
+              "palabra": "doce",
+              "inicioMs": 27780,
+              "finMs": 27890
+            },
+            {
+              "palabra": "pernos",
+              "inicioMs": 28000,
+              "finMs": 28400
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "texto": "Si la Tierra tuviera el tamaño de una manzana estándar, la impresionante perforación del pozo de Kola de doce kilómetros de profundidad ni siquiera habría logrado atravesar la delgada piel exterior de la fruta. Apenas rasgamos un tercio de la corteza continental. Pero las miles de muestras de roca extraídas continúan en los museos geológicos como un monumento a la curiosidad humana: el recordatorio indiscutible de que el mundo bajo nuestros pies es tan insondable, ardiente y misterioso como las profundidades del espacio sideral.",
+          "tituloVisual": "LA PIEL DE LA MANZANA",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "laboratorio",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "piel de la manzana",
+            "un tercio de la corteza",
+            "muestras geológicas",
+            "curiosidad humana"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "smile_wide",
+          "duracionSegundos": 27.682,
+          "palabras": [
+            {
+              "palabra": "Si",
+              "inicioMs": 0,
+              "finMs": 180
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 180,
+              "finMs": 320
+            },
+            {
+              "palabra": "Tierra",
+              "inicioMs": 320,
+              "finMs": 520
+            },
+            {
+              "palabra": "tuviera",
+              "inicioMs": 520,
+              "finMs": 920
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 920,
+              "finMs": 1080
+            },
+            {
+              "palabra": "tamaño",
+              "inicioMs": 1080,
+              "finMs": 1440
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1440,
+              "finMs": 1580
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 1580,
+              "finMs": 1740
+            },
+            {
+              "palabra": "manzana",
+              "inicioMs": 1740,
+              "finMs": 2120
+            },
+            {
+              "palabra": "estándar",
+              "inicioMs": 2120,
+              "finMs": 2680
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 2960,
+              "finMs": 3080
+            },
+            {
+              "palabra": "impresionante",
+              "inicioMs": 3080,
+              "finMs": 3620
+            },
+            {
+              "palabra": "perforación",
+              "inicioMs": 3620,
+              "finMs": 4180
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 4180,
+              "finMs": 4400
+            },
+            {
+              "palabra": "pozo",
+              "inicioMs": 4400,
+              "finMs": 4660
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4660,
+              "finMs": 4800
+            },
+            {
+              "palabra": "Kola",
+              "inicioMs": 4800,
+              "finMs": 5000
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5000,
+              "finMs": 5180
+            },
+            {
+              "palabra": "doce",
+              "inicioMs": 5180,
+              "finMs": 5300
+            },
+            {
+              "palabra": "kilómetros",
+              "inicioMs": 5420,
+              "finMs": 5880
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5880,
+              "finMs": 6100
+            },
+            {
+              "palabra": "profundidad",
+              "inicioMs": 6100,
+              "finMs": 6640
+            },
+            {
+              "palabra": "ni",
+              "inicioMs": 6940,
+              "finMs": 7000
+            },
+            {
+              "palabra": "siquiera",
+              "inicioMs": 7000,
+              "finMs": 7380
+            },
+            {
+              "palabra": "habría",
+              "inicioMs": 7380,
+              "finMs": 7620
+            },
+            {
+              "palabra": "logrado",
+              "inicioMs": 7620,
+              "finMs": 8000
+            },
+            {
+              "palabra": "atravesar",
+              "inicioMs": 8000,
+              "finMs": 8560
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 8560,
+              "finMs": 8670
+            },
+            {
+              "palabra": "delgada",
+              "inicioMs": 8780,
+              "finMs": 8980
+            },
+            {
+              "palabra": "piel",
+              "inicioMs": 8980,
+              "finMs": 9200
+            },
+            {
+              "palabra": "exterior",
+              "inicioMs": 9200,
+              "finMs": 9620
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9620,
+              "finMs": 9780
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 9780,
+              "finMs": 9900
+            },
+            {
+              "palabra": "fruta",
+              "inicioMs": 9900,
+              "finMs": 10260
+            },
+            {
+              "palabra": "Apenas",
+              "inicioMs": 10380,
+              "finMs": 10640
+            },
+            {
+              "palabra": "rasgamos",
+              "inicioMs": 10640,
+              "finMs": 11160
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 11160,
+              "finMs": 11400
+            },
+            {
+              "palabra": "tercio",
+              "inicioMs": 11400,
+              "finMs": 11700
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11700,
+              "finMs": 11780
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 11780,
+              "finMs": 11900
+            },
+            {
+              "palabra": "corteza",
+              "inicioMs": 11900,
+              "finMs": 12300
+            },
+            {
+              "palabra": "continental",
+              "inicioMs": 12300,
+              "finMs": 12780
+            },
+            {
+              "palabra": "Pero",
+              "inicioMs": 13080,
+              "finMs": 13220
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 13220,
+              "finMs": 13400
+            },
+            {
+              "palabra": "miles",
+              "inicioMs": 13400,
+              "finMs": 13620
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 13620,
+              "finMs": 13820
+            },
+            {
+              "palabra": "muestras",
+              "inicioMs": 13820,
+              "finMs": 14220
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14220,
+              "finMs": 14420
+            },
+            {
+              "palabra": "roca",
+              "inicioMs": 14420,
+              "finMs": 14700
+            },
+            {
+              "palabra": "extraídas",
+              "inicioMs": 14700,
+              "finMs": 15320
+            },
+            {
+              "palabra": "continúan",
+              "inicioMs": 15320,
+              "finMs": 15960
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 15960,
+              "finMs": 16080
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 16080,
+              "finMs": 16180
+            },
+            {
+              "palabra": "museos",
+              "inicioMs": 16180,
+              "finMs": 16580
+            },
+            {
+              "palabra": "geológicos",
+              "inicioMs": 16580,
+              "finMs": 17200
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 17200,
+              "finMs": 17520
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 17520,
+              "finMs": 17720
+            },
+            {
+              "palabra": "monumento",
+              "inicioMs": 17720,
+              "finMs": 18280
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 18280,
+              "finMs": 18320
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 18320,
+              "finMs": 18400
+            },
+            {
+              "palabra": "curiosidad",
+              "inicioMs": 18400,
+              "finMs": 18880
+            },
+            {
+              "palabra": "humana",
+              "inicioMs": 18880,
+              "finMs": 19340
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 19500,
+              "finMs": 19620
+            },
+            {
+              "palabra": "recordatorio",
+              "inicioMs": 19620,
+              "finMs": 20160
+            },
+            {
+              "palabra": "indiscutible",
+              "inicioMs": 20160,
+              "finMs": 20900
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 20900,
+              "finMs": 21040
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 21040,
+              "finMs": 21140
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 21140,
+              "finMs": 21240
+            },
+            {
+              "palabra": "mundo",
+              "inicioMs": 21240,
+              "finMs": 21400
+            },
+            {
+              "palabra": "bajo",
+              "inicioMs": 21400,
+              "finMs": 21640
+            },
+            {
+              "palabra": "nuestros",
+              "inicioMs": 21640,
+              "finMs": 21980
+            },
+            {
+              "palabra": "pies",
+              "inicioMs": 21980,
+              "finMs": 22200
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 22200,
+              "finMs": 22680
+            },
+            {
+              "palabra": "tan",
+              "inicioMs": 22680,
+              "finMs": 22805
+            },
+            {
+              "palabra": "insondable",
+              "inicioMs": 22680,
+              "finMs": 23400
+            },
+            {
+              "palabra": "ardiente",
+              "inicioMs": 23400,
+              "finMs": 24540
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 24540,
+              "finMs": 24700
+            },
+            {
+              "palabra": "misterioso",
+              "inicioMs": 24700,
+              "finMs": 25160
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 25160,
+              "finMs": 25400
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 25400,
+              "finMs": 25520
+            },
+            {
+              "palabra": "profundidades",
+              "inicioMs": 25520,
+              "finMs": 26140
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 26140,
+              "finMs": 26360
+            },
+            {
+              "palabra": "espacio",
+              "inicioMs": 26360,
+              "finMs": 26700
+            },
+            {
+              "palabra": "sideral",
+              "inicioMs": 26700,
+              "finMs": 27220
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 56.61
+    }
+  ]
+}

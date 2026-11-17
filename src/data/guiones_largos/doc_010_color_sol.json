@@ -1,0 +1,5385 @@
+{
+  "meta": {
+    "id": "doc_010_color_sol",
+    "slug": "verdadero_color_sol_optica_cosmica",
+    "titulo": "El Color Real del Sol: La Trampa Óptica de Nuestra Atmósfera",
+    "premisa": "Toda la cultura humana retrata al Sol como una bola amarilla o naranja. Sin embargo, en el vacío del espacio nuestra estrella brilla con una luz blanca deslumbrante y pura.",
+    "gancho": "¿De qué color es verdaderamente el Sol cuando lo observas fuera de la Tierra?",
+    "categoria": "Science & Technology",
+    "duracionObjetivo": [
+      420,
+      500
+    ],
+    "fps": 30,
+    "dimensiones": {
+      "width": 1920,
+      "height": 1080
+    },
+    "idioma": "es",
+    "voz": "alex.conds.pt",
+    "musicaPrincipal": "bgm/bgm.mp3",
+    "volumenMusica": 0.12,
+    "fuentes": [
+      "Rayleigh, Lord (1899). On the Transmission of Light through an Atmosphere. Phil. Mag.",
+      "NASA Solar Physics (2020). The Sun's True White Spectrum.",
+      "Minnaert, M. (1993). Light and Color in the Outdoors. Springer."
+    ],
+    "tags": [
+      "ciencia",
+      "sol",
+      "fisica",
+      "optica",
+      "astronomia",
+      "atmosfera",
+      "documental"
+    ]
+  },
+  "capitulos": [
+    {
+      "id": "cap_1",
+      "numero": 1,
+      "titulo": "El Dibujo que Todos Pintamos de Niños",
+      "resumen": "El Sol amarillo en el papel y la verdad científica desde el espacio exterior.",
+      "escenas": [
+        {
+          "id": 1,
+          "texto": "Si le pides a cualquier niño en cualquier colegio del planeta que dibuje un paisaje en un día soleado, tomará invariablemente un crayón amarillo para pintar el Sol en la esquina del papel. Es una convención cultural tan arraigada que hasta los astrónomos profesionales clasifican a nuestra estrella en los catálogos científicos bajo la etiqueta de enana amarilla. Sin embargo, si pudieras quitarte el filtro de la atmósfera terrestre y mirar al Sol desde el vacío del espacio, te encontrarías con una sorpresa deslumbrante: el Sol no es amarillo, ni naranja, ni rojo; es de un blanco inmaculado y puro.",
+          "tituloVisual": "EL CRAYON AMARILLO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "cielo_dia",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "crayón amarillo",
+            "enana amarilla",
+            "espacio exterior",
+            "blanco inmaculado"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "confused",
+          "duracionSegundos": 29.65,
+          "palabras": [
+            {
+              "palabra": "Si",
+              "inicioMs": 0,
+              "finMs": 125
+            },
+            {
+              "palabra": "le",
+              "inicioMs": 0,
+              "finMs": 120
+            },
+            {
+              "palabra": "pides",
+              "inicioMs": 120,
+              "finMs": 380
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 380,
+              "finMs": 520
+            },
+            {
+              "palabra": "cualquier",
+              "inicioMs": 520,
+              "finMs": 800
+            },
+            {
+              "palabra": "niño",
+              "inicioMs": 800,
+              "finMs": 1180
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 1400,
+              "finMs": 1480
+            },
+            {
+              "palabra": "cualquier",
+              "inicioMs": 1480,
+              "finMs": 1760
+            },
+            {
+              "palabra": "colegio",
+              "inicioMs": 1760,
+              "finMs": 2180
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 2180,
+              "finMs": 2320
+            },
+            {
+              "palabra": "planeta",
+              "inicioMs": 2320,
+              "finMs": 2660
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 2940,
+              "finMs": 2960
+            },
+            {
+              "palabra": "dibuje",
+              "inicioMs": 2960,
+              "finMs": 3220
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 3220,
+              "finMs": 3380
+            },
+            {
+              "palabra": "paisaje",
+              "inicioMs": 3380,
+              "finMs": 3800
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 3800,
+              "finMs": 4000
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 4000,
+              "finMs": 4100
+            },
+            {
+              "palabra": "día",
+              "inicioMs": 4100,
+              "finMs": 4260
+            },
+            {
+              "palabra": "soleado",
+              "inicioMs": 4260,
+              "finMs": 4800
+            },
+            {
+              "palabra": "tomará",
+              "inicioMs": 4900,
+              "finMs": 5120
+            },
+            {
+              "palabra": "invariablemente",
+              "inicioMs": 5120,
+              "finMs": 5940
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 5940,
+              "finMs": 6160
+            },
+            {
+              "palabra": "crayón",
+              "inicioMs": 6160,
+              "finMs": 6440
+            },
+            {
+              "palabra": "amarillo",
+              "inicioMs": 6440,
+              "finMs": 6840
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 6840,
+              "finMs": 7060
+            },
+            {
+              "palabra": "pintar",
+              "inicioMs": 7060,
+              "finMs": 7420
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 7420,
+              "finMs": 7560
+            },
+            {
+              "palabra": "Sol",
+              "inicioMs": 7560,
+              "finMs": 7740
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 7740,
+              "finMs": 7960
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 7960,
+              "finMs": 8020
+            },
+            {
+              "palabra": "esquina",
+              "inicioMs": 8020,
+              "finMs": 8300
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 8300,
+              "finMs": 8440
+            },
+            {
+              "palabra": "papel",
+              "inicioMs": 8440,
+              "finMs": 8720
+            },
+            {
+              "palabra": "Es",
+              "inicioMs": 9020,
+              "finMs": 9160
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 9160,
+              "finMs": 9340
+            },
+            {
+              "palabra": "convención",
+              "inicioMs": 9340,
+              "finMs": 9840
+            },
+            {
+              "palabra": "cultural",
+              "inicioMs": 9840,
+              "finMs": 10300
+            },
+            {
+              "palabra": "tan",
+              "inicioMs": 10300,
+              "finMs": 10620
+            },
+            {
+              "palabra": "arraigada",
+              "inicioMs": 10620,
+              "finMs": 11140
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 11140,
+              "finMs": 11320
+            },
+            {
+              "palabra": "hasta",
+              "inicioMs": 11320,
+              "finMs": 11500
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 11500,
+              "finMs": 11680
+            },
+            {
+              "palabra": "astrónomos",
+              "inicioMs": 11680,
+              "finMs": 12200
+            },
+            {
+              "palabra": "profesionales",
+              "inicioMs": 12200,
+              "finMs": 13260
+            },
+            {
+              "palabra": "clasifican",
+              "inicioMs": 13260,
+              "finMs": 13880
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 13880,
+              "finMs": 13980
+            },
+            {
+              "palabra": "nuestra",
+              "inicioMs": 13980,
+              "finMs": 14240
+            },
+            {
+              "palabra": "estrella",
+              "inicioMs": 14240,
+              "finMs": 14660
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 14660,
+              "finMs": 14760
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 14760,
+              "finMs": 14900
+            },
+            {
+              "palabra": "catálogos",
+              "inicioMs": 14900,
+              "finMs": 15560
+            },
+            {
+              "palabra": "científicos",
+              "inicioMs": 15780,
+              "finMs": 16180
+            },
+            {
+              "palabra": "bajo",
+              "inicioMs": 16180,
+              "finMs": 16380
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 16380,
+              "finMs": 16580
+            },
+            {
+              "palabra": "etiqueta",
+              "inicioMs": 16580,
+              "finMs": 16980
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 16980,
+              "finMs": 17180
+            },
+            {
+              "palabra": "enana",
+              "inicioMs": 17180,
+              "finMs": 17340
+            },
+            {
+              "palabra": "amarilla",
+              "inicioMs": 17340,
+              "finMs": 17820
+            },
+            {
+              "palabra": "Sin",
+              "inicioMs": 17960,
+              "finMs": 18040
+            },
+            {
+              "palabra": "embargo",
+              "inicioMs": 18040,
+              "finMs": 18280
+            },
+            {
+              "palabra": "si",
+              "inicioMs": 18440,
+              "finMs": 18520
+            },
+            {
+              "palabra": "pudieras",
+              "inicioMs": 18520,
+              "finMs": 18800
+            },
+            {
+              "palabra": "quitarte",
+              "inicioMs": 18800,
+              "finMs": 19200
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 19200,
+              "finMs": 19320
+            },
+            {
+              "palabra": "filtro",
+              "inicioMs": 19320,
+              "finMs": 19580
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19580,
+              "finMs": 19700
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 19700,
+              "finMs": 19780
+            },
+            {
+              "palabra": "atmósfera",
+              "inicioMs": 19780,
+              "finMs": 20080
+            },
+            {
+              "palabra": "terrestre",
+              "inicioMs": 20080,
+              "finMs": 20560
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 20560,
+              "finMs": 20760
+            },
+            {
+              "palabra": "mirar",
+              "inicioMs": 20760,
+              "finMs": 20960
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 20960,
+              "finMs": 21100
+            },
+            {
+              "palabra": "Sol",
+              "inicioMs": 21100,
+              "finMs": 21360
+            },
+            {
+              "palabra": "desde",
+              "inicioMs": 21360,
+              "finMs": 21580
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 21580,
+              "finMs": 21760
+            },
+            {
+              "palabra": "vacío",
+              "inicioMs": 21760,
+              "finMs": 22020
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 22020,
+              "finMs": 22160
+            },
+            {
+              "palabra": "espacio",
+              "inicioMs": 22160,
+              "finMs": 22540
+            },
+            {
+              "palabra": "te",
+              "inicioMs": 22740,
+              "finMs": 22820
+            },
+            {
+              "palabra": "encontrarías",
+              "inicioMs": 22820,
+              "finMs": 23400
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 23400,
+              "finMs": 23580
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 23580,
+              "finMs": 23800
+            },
+            {
+              "palabra": "sorpresa",
+              "inicioMs": 23800,
+              "finMs": 24200
+            },
+            {
+              "palabra": "deslumbrante",
+              "inicioMs": 24200,
+              "finMs": 25020
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 25220,
+              "finMs": 25320
+            },
+            {
+              "palabra": "Sol",
+              "inicioMs": 25320,
+              "finMs": 25520
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 25520,
+              "finMs": 25700
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 25700,
+              "finMs": 25820
+            },
+            {
+              "palabra": "amarillo",
+              "inicioMs": 25820,
+              "finMs": 26300
+            },
+            {
+              "palabra": "ni",
+              "inicioMs": 26460,
+              "finMs": 26520
+            },
+            {
+              "palabra": "naranja",
+              "inicioMs": 26520,
+              "finMs": 26920
+            },
+            {
+              "palabra": "ni",
+              "inicioMs": 26920,
+              "finMs": 27120
+            },
+            {
+              "palabra": "rojo",
+              "inicioMs": 27120,
+              "finMs": 27480
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 27620,
+              "finMs": 27720
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 27720,
+              "finMs": 27800
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 27800,
+              "finMs": 27900
+            },
+            {
+              "palabra": "blanco",
+              "inicioMs": 27900,
+              "finMs": 28200
+            },
+            {
+              "palabra": "inmaculado",
+              "inicioMs": 28280,
+              "finMs": 28720
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 28720,
+              "finMs": 28880
+            },
+            {
+              "palabra": "puro",
+              "inicioMs": 28880,
+              "finMs": 29160
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "texto": "Las fotografías captadas por los astronautas en la Estación Espacial Internacional confirman esta realidad a diario: contra el telón negro azabache del cosmos, el Sol brilla como una esfera de luz blanca resplandeciente, idéntica a una bombilla halógena de laboratorio encendida al máximo. Para comprender por qué la humanidad lleva milenios creyendo que nuestra estrella es amarilla, debemos desarmar la física de la luz y el engaño óptico que produce la atmósfera de nuestro propio planeta.",
+          "tituloVisual": "LUCES EN LA ESTACION ESPACIAL",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "espacio_profundo",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_sci_fi_beep.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "Estación Espacial",
+            "telón negro",
+            "esfera blanca",
+            "engaño óptico"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "eureka",
+          "infografia": {
+            "tipo": "comparacion",
+            "titulo": "Color Real del Sol",
+            "subtitulo": "Desde la Tierra vs Desde el Espacio",
+            "valorPrincipal": "#FFFFFF",
+            "unidad": "blanco puro",
+            "items": [
+              {
+                "etiqueta": "Visto en el Espacio",
+                "valor": "Blanco puro (Todas las longitudes)",
+                "porcentaje": 100,
+                "color": "#FFFFFF"
+              },
+              {
+                "etiqueta": "Visto en la Tierra",
+                "valor": "Amarillo / Anaranjado (Dispersión)",
+                "porcentaje": 70,
+                "color": "#FFE600"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 23.818,
+          "palabras": [
+            {
+              "palabra": "Las",
+              "inicioMs": 0,
+              "finMs": 180
+            },
+            {
+              "palabra": "fotografías",
+              "inicioMs": 180,
+              "finMs": 720
+            },
+            {
+              "palabra": "captadas",
+              "inicioMs": 720,
+              "finMs": 1160
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 1160,
+              "finMs": 1340
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 1340,
+              "finMs": 1480
+            },
+            {
+              "palabra": "astronautas",
+              "inicioMs": 1480,
+              "finMs": 2080
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 2080,
+              "finMs": 2180
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 2180,
+              "finMs": 2260
+            },
+            {
+              "palabra": "Estación",
+              "inicioMs": 2260,
+              "finMs": 2560
+            },
+            {
+              "palabra": "Espacial",
+              "inicioMs": 2560,
+              "finMs": 2980
+            },
+            {
+              "palabra": "Internacional",
+              "inicioMs": 2980,
+              "finMs": 3600
+            },
+            {
+              "palabra": "confirman",
+              "inicioMs": 3600,
+              "finMs": 4100
+            },
+            {
+              "palabra": "esta",
+              "inicioMs": 4100,
+              "finMs": 4360
+            },
+            {
+              "palabra": "realidad",
+              "inicioMs": 4360,
+              "finMs": 4620
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 4620,
+              "finMs": 4745
+            },
+            {
+              "palabra": "diario",
+              "inicioMs": 4620,
+              "finMs": 5160
+            },
+            {
+              "palabra": "contra",
+              "inicioMs": 5400,
+              "finMs": 5660
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 5660,
+              "finMs": 5780
+            },
+            {
+              "palabra": "telón",
+              "inicioMs": 5780,
+              "finMs": 6120
+            },
+            {
+              "palabra": "negro",
+              "inicioMs": 6120,
+              "finMs": 6440
+            },
+            {
+              "palabra": "azabache",
+              "inicioMs": 6580,
+              "finMs": 6940
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 6940,
+              "finMs": 7160
+            },
+            {
+              "palabra": "cosmos",
+              "inicioMs": 7160,
+              "finMs": 7520
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 7640,
+              "finMs": 7740
+            },
+            {
+              "palabra": "Sol",
+              "inicioMs": 7740,
+              "finMs": 7920
+            },
+            {
+              "palabra": "brilla",
+              "inicioMs": 7920,
+              "finMs": 8320
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 8320,
+              "finMs": 8560
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 8560,
+              "finMs": 8700
+            },
+            {
+              "palabra": "esfera",
+              "inicioMs": 8700,
+              "finMs": 8980
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8980,
+              "finMs": 9140
+            },
+            {
+              "palabra": "luz",
+              "inicioMs": 9140,
+              "finMs": 9300
+            },
+            {
+              "palabra": "blanca",
+              "inicioMs": 9300,
+              "finMs": 9720
+            },
+            {
+              "palabra": "resplandeciente",
+              "inicioMs": 9720,
+              "finMs": 10620
+            },
+            {
+              "palabra": "idéntica",
+              "inicioMs": 10720,
+              "finMs": 11140
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 11140,
+              "finMs": 11200
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 11200,
+              "finMs": 11280
+            },
+            {
+              "palabra": "bombilla",
+              "inicioMs": 11280,
+              "finMs": 11660
+            },
+            {
+              "palabra": "halógena",
+              "inicioMs": 11660,
+              "finMs": 11920
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12180,
+              "finMs": 12280
+            },
+            {
+              "palabra": "laboratorio",
+              "inicioMs": 12280,
+              "finMs": 12720
+            },
+            {
+              "palabra": "encendida",
+              "inicioMs": 12720,
+              "finMs": 13160
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 13160,
+              "finMs": 13260
+            },
+            {
+              "palabra": "máximo",
+              "inicioMs": 13260,
+              "finMs": 13620
+            },
+            {
+              "palabra": "Para",
+              "inicioMs": 13920,
+              "finMs": 14040
+            },
+            {
+              "palabra": "comprender",
+              "inicioMs": 14040,
+              "finMs": 14560
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 14560,
+              "finMs": 14760
+            },
+            {
+              "palabra": "qué",
+              "inicioMs": 14760,
+              "finMs": 14980
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 14980,
+              "finMs": 15100
+            },
+            {
+              "palabra": "humanidad",
+              "inicioMs": 15100,
+              "finMs": 15500
+            },
+            {
+              "palabra": "lleva",
+              "inicioMs": 15500,
+              "finMs": 15780
+            },
+            {
+              "palabra": "milenios",
+              "inicioMs": 15780,
+              "finMs": 16320
+            },
+            {
+              "palabra": "creyendo",
+              "inicioMs": 16320,
+              "finMs": 16760
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 16760,
+              "finMs": 16920
+            },
+            {
+              "palabra": "nuestra",
+              "inicioMs": 16920,
+              "finMs": 17220
+            },
+            {
+              "palabra": "estrella",
+              "inicioMs": 17220,
+              "finMs": 17600
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 17600,
+              "finMs": 17700
+            },
+            {
+              "palabra": "amarilla",
+              "inicioMs": 17700,
+              "finMs": 18200
+            },
+            {
+              "palabra": "debemos",
+              "inicioMs": 18320,
+              "finMs": 18640
+            },
+            {
+              "palabra": "desarmar",
+              "inicioMs": 18640,
+              "finMs": 19140
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 19140,
+              "finMs": 19280
+            },
+            {
+              "palabra": "física",
+              "inicioMs": 19280,
+              "finMs": 19580
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19580,
+              "finMs": 19840
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 19840,
+              "finMs": 19940
+            },
+            {
+              "palabra": "luz",
+              "inicioMs": 19940,
+              "finMs": 20140
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 20140,
+              "finMs": 20400
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 20400,
+              "finMs": 20500
+            },
+            {
+              "palabra": "engaño",
+              "inicioMs": 20500,
+              "finMs": 20840
+            },
+            {
+              "palabra": "óptico",
+              "inicioMs": 20840,
+              "finMs": 21300
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 21300,
+              "finMs": 21460
+            },
+            {
+              "palabra": "produce",
+              "inicioMs": 21460,
+              "finMs": 21720
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 21720,
+              "finMs": 21920
+            },
+            {
+              "palabra": "atmósfera",
+              "inicioMs": 21920,
+              "finMs": 22360
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22360,
+              "finMs": 22500
+            },
+            {
+              "palabra": "nuestro",
+              "inicioMs": 22500,
+              "finMs": 22760
+            },
+            {
+              "palabra": "propio",
+              "inicioMs": 22760,
+              "finMs": 23040
+            },
+            {
+              "palabra": "planeta",
+              "inicioMs": 23040,
+              "finMs": 23320
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 53.47
+    },
+    {
+      "id": "cap_2",
+      "numero": 2,
+      "titulo": "La Física del Cuerpo Negro y el Arcoíris Solar",
+      "resumen": "La emisión de todas las longitudes de onda y el pico verde del espectro.",
+      "escenas": [
+        {
+          "id": 3,
+          "texto": "El Sol es lo que los físicos llaman un radiador de cuerpo negro casi perfecto. Su fotosfera, la superficie visible que vemos brillar, arde a una temperatura constante de aproximadamente cinco mil quinientos grados centígrados. A esa temperatura precisa, la termodinámica dicta que el Sol emite radiación electromagnética en todas y cada una de las longitudes de onda del espectro visible de manera simultánea: emite fotones rojos, anaranjados, amarillos, verdes, cianes, azules y violetas.",
+          "tituloVisual": "EL CUERPO NEGRO SOLAR",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "laboratorio",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "cuerpo negro",
+            "fotosfera solar",
+            "cinco mil quinientos grados",
+            "espectro visible"
+          ],
+          "poseId": "holding_presentation_board",
+          "expresion": "analytical",
+          "duracionSegundos": 26.074,
+          "palabras": [
+            {
+              "palabra": "El",
+              "inicioMs": 0,
+              "finMs": 200
+            },
+            {
+              "palabra": "Sol",
+              "inicioMs": 200,
+              "finMs": 380
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 380,
+              "finMs": 500
+            },
+            {
+              "palabra": "lo",
+              "inicioMs": 500,
+              "finMs": 600
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 600,
+              "finMs": 700
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 700,
+              "finMs": 800
+            },
+            {
+              "palabra": "físicos",
+              "inicioMs": 800,
+              "finMs": 1140
+            },
+            {
+              "palabra": "llaman",
+              "inicioMs": 1140,
+              "finMs": 1380
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 1380,
+              "finMs": 1600
+            },
+            {
+              "palabra": "radiador",
+              "inicioMs": 1600,
+              "finMs": 1920
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1920,
+              "finMs": 2100
+            },
+            {
+              "palabra": "cuerpo",
+              "inicioMs": 2100,
+              "finMs": 2260
+            },
+            {
+              "palabra": "negro",
+              "inicioMs": 2260,
+              "finMs": 2600
+            },
+            {
+              "palabra": "casi",
+              "inicioMs": 2600,
+              "finMs": 2900
+            },
+            {
+              "palabra": "perfecto",
+              "inicioMs": 2900,
+              "finMs": 3500
+            },
+            {
+              "palabra": "Su",
+              "inicioMs": 3760,
+              "finMs": 3840
+            },
+            {
+              "palabra": "fotosfera",
+              "inicioMs": 3840,
+              "finMs": 4380
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 4500,
+              "finMs": 4580
+            },
+            {
+              "palabra": "superficie",
+              "inicioMs": 4580,
+              "finMs": 5120
+            },
+            {
+              "palabra": "visible",
+              "inicioMs": 5120,
+              "finMs": 5440
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 5440,
+              "finMs": 5680
+            },
+            {
+              "palabra": "vemos",
+              "inicioMs": 5680,
+              "finMs": 5900
+            },
+            {
+              "palabra": "brillar",
+              "inicioMs": 5900,
+              "finMs": 6440
+            },
+            {
+              "palabra": "arde",
+              "inicioMs": 6600,
+              "finMs": 6800
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 6800,
+              "finMs": 6880
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 6880,
+              "finMs": 7040
+            },
+            {
+              "palabra": "temperatura",
+              "inicioMs": 7040,
+              "finMs": 7400
+            },
+            {
+              "palabra": "constante",
+              "inicioMs": 7400,
+              "finMs": 8080
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8080,
+              "finMs": 8340
+            },
+            {
+              "palabra": "aproximadamente",
+              "inicioMs": 8340,
+              "finMs": 8880
+            },
+            {
+              "palabra": "cinco",
+              "inicioMs": 8880,
+              "finMs": 9180
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 9180,
+              "finMs": 9480
+            },
+            {
+              "palabra": "quinientos",
+              "inicioMs": 9480,
+              "finMs": 9780
+            },
+            {
+              "palabra": "grados",
+              "inicioMs": 10080,
+              "finMs": 10560
+            },
+            {
+              "palabra": "centígrados",
+              "inicioMs": 10560,
+              "finMs": 11140
+            },
+            {
+              "palabra": "A",
+              "inicioMs": 11340,
+              "finMs": 11500
+            },
+            {
+              "palabra": "esa",
+              "inicioMs": 11500,
+              "finMs": 11700
+            },
+            {
+              "palabra": "temperatura",
+              "inicioMs": 11700,
+              "finMs": 12140
+            },
+            {
+              "palabra": "precisa",
+              "inicioMs": 12140,
+              "finMs": 12700
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 13180,
+              "finMs": 13300
+            },
+            {
+              "palabra": "termodinámica",
+              "inicioMs": 13300,
+              "finMs": 13940
+            },
+            {
+              "palabra": "dicta",
+              "inicioMs": 13940,
+              "finMs": 14320
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 14320,
+              "finMs": 14420
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 14420,
+              "finMs": 14540
+            },
+            {
+              "palabra": "Sol",
+              "inicioMs": 14540,
+              "finMs": 14700
+            },
+            {
+              "palabra": "emite",
+              "inicioMs": 14700,
+              "finMs": 15000
+            },
+            {
+              "palabra": "radiación",
+              "inicioMs": 15120,
+              "finMs": 15520
+            },
+            {
+              "palabra": "electromagnética",
+              "inicioMs": 15520,
+              "finMs": 16340
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 16340,
+              "finMs": 16520
+            },
+            {
+              "palabra": "todas",
+              "inicioMs": 16520,
+              "finMs": 16760
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 16760,
+              "finMs": 17180
+            },
+            {
+              "palabra": "cada",
+              "inicioMs": 17180,
+              "finMs": 17440
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 17440,
+              "finMs": 17720
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17720,
+              "finMs": 17840
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 17840,
+              "finMs": 17980
+            },
+            {
+              "palabra": "longitudes",
+              "inicioMs": 17980,
+              "finMs": 18400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18400,
+              "finMs": 18700
+            },
+            {
+              "palabra": "onda",
+              "inicioMs": 18700,
+              "finMs": 18920
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 18920,
+              "finMs": 19140
+            },
+            {
+              "palabra": "espectro",
+              "inicioMs": 19140,
+              "finMs": 19580
+            },
+            {
+              "palabra": "visible",
+              "inicioMs": 19580,
+              "finMs": 19940
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19940,
+              "finMs": 20180
+            },
+            {
+              "palabra": "manera",
+              "inicioMs": 20180,
+              "finMs": 20400
+            },
+            {
+              "palabra": "simultánea",
+              "inicioMs": 20400,
+              "finMs": 21120
+            },
+            {
+              "palabra": "emite",
+              "inicioMs": 21280,
+              "finMs": 21500
+            },
+            {
+              "palabra": "fotones",
+              "inicioMs": 21500,
+              "finMs": 21920
+            },
+            {
+              "palabra": "rojos",
+              "inicioMs": 21920,
+              "finMs": 22340
+            },
+            {
+              "palabra": "anaranjados",
+              "inicioMs": 22460,
+              "finMs": 23120
+            },
+            {
+              "palabra": "amarillos",
+              "inicioMs": 23320,
+              "finMs": 23720
+            },
+            {
+              "palabra": "verdes",
+              "inicioMs": 23720,
+              "finMs": 23760
+            },
+            {
+              "palabra": "cianes",
+              "inicioMs": 23800,
+              "finMs": 24420
+            },
+            {
+              "palabra": "azules",
+              "inicioMs": 24620,
+              "finMs": 24900
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 24900,
+              "finMs": 25180
+            },
+            {
+              "palabra": "violetas",
+              "inicioMs": 25180,
+              "finMs": 25600
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "texto": "De hecho, si medimos con un espectrómetro de alta precisión la energía emitida por cada color, descubrimos una paradoja aún más desconcertante: el pico máximo de emisión del Sol no está en el amarillo ni en el rojo, sino en la frontera entre el color verde y el azul, alrededor de los quinientos nanómetros. ¿Por qué entonces no vemos un Sol de color verde esmeralda? Porque el Sol no emite solo en verde; emite cantidades ingentes de todos los demás colores al mismo tiempo. Cuando todos los colores del espectro visible llegan juntos a nuestros ojos, el cerebro humano los suma y procesa una única sensación visual: luz blanca perfecta.",
+          "tituloVisual": "EL PICO VERDE INVISIBLE",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_left",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "quinientos nanómetros",
+            "pico verde",
+            "suma de colores",
+            "luz blanca perfecta"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "eureka",
+          "infografia": {
+            "tipo": "grafico_barras",
+            "titulo": "Espectro Solar Visible",
+            "subtitulo": "Emisión Fotométrica por Longitud de Onda",
+            "valorPrincipal": "500 nm",
+            "unidad": "pico espectral",
+            "items": [
+              {
+                "etiqueta": "Azul y Violeta (400-480nm)",
+                "valor": "Muy alta intensidad",
+                "porcentaje": 88,
+                "color": "#38BDF8"
+              },
+              {
+                "etiqueta": "Verde (500nm - Pico)",
+                "valor": "Máxima intensidad",
+                "porcentaje": 100,
+                "color": "#22C55E"
+              },
+              {
+                "etiqueta": "Rojo y Naranja (600-700nm)",
+                "valor": "Alta intensidad continua",
+                "porcentaje": 80,
+                "color": "#EF4444"
+              }
+            ],
+            "colorAcento": "#22C55E"
+          },
+          "duracionSegundos": 34.546,
+          "palabras": [
+            {
+              "palabra": "De",
+              "inicioMs": 0,
+              "finMs": 220
+            },
+            {
+              "palabra": "hecho",
+              "inicioMs": 220,
+              "finMs": 500
+            },
+            {
+              "palabra": "si",
+              "inicioMs": 640,
+              "finMs": 720
+            },
+            {
+              "palabra": "medimos",
+              "inicioMs": 720,
+              "finMs": 1040
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 1040,
+              "finMs": 1240
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 1240,
+              "finMs": 1380
+            },
+            {
+              "palabra": "espectrómetro",
+              "inicioMs": 1380,
+              "finMs": 1980
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1980,
+              "finMs": 2200
+            },
+            {
+              "palabra": "alta",
+              "inicioMs": 2200,
+              "finMs": 2380
+            },
+            {
+              "palabra": "precisión",
+              "inicioMs": 2380,
+              "finMs": 2960
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 3180,
+              "finMs": 3220
+            },
+            {
+              "palabra": "energía",
+              "inicioMs": 3220,
+              "finMs": 3580
+            },
+            {
+              "palabra": "emitida",
+              "inicioMs": 3580,
+              "finMs": 4220
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 4220,
+              "finMs": 4420
+            },
+            {
+              "palabra": "cada",
+              "inicioMs": 4420,
+              "finMs": 4660
+            },
+            {
+              "palabra": "color",
+              "inicioMs": 4660,
+              "finMs": 5020
+            },
+            {
+              "palabra": "descubrimos",
+              "inicioMs": 5200,
+              "finMs": 5700
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 5700,
+              "finMs": 5860
+            },
+            {
+              "palabra": "paradoja",
+              "inicioMs": 5860,
+              "finMs": 6360
+            },
+            {
+              "palabra": "aún",
+              "inicioMs": 6360,
+              "finMs": 6560
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 6560,
+              "finMs": 6780
+            },
+            {
+              "palabra": "desconcertante",
+              "inicioMs": 6780,
+              "finMs": 7680
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 7820,
+              "finMs": 7920
+            },
+            {
+              "palabra": "pico",
+              "inicioMs": 7920,
+              "finMs": 8160
+            },
+            {
+              "palabra": "máximo",
+              "inicioMs": 8160,
+              "finMs": 8460
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8460,
+              "finMs": 8720
+            },
+            {
+              "palabra": "emisión",
+              "inicioMs": 8720,
+              "finMs": 9020
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 9020,
+              "finMs": 9240
+            },
+            {
+              "palabra": "Sol",
+              "inicioMs": 9240,
+              "finMs": 9520
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 9520,
+              "finMs": 9880
+            },
+            {
+              "palabra": "está",
+              "inicioMs": 9880,
+              "finMs": 10080
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 10080,
+              "finMs": 10180
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 10180,
+              "finMs": 10280
+            },
+            {
+              "palabra": "amarillo",
+              "inicioMs": 10280,
+              "finMs": 10640
+            },
+            {
+              "palabra": "ni",
+              "inicioMs": 10640,
+              "finMs": 10800
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 10800,
+              "finMs": 10900
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 10900,
+              "finMs": 11020
+            },
+            {
+              "palabra": "rojo",
+              "inicioMs": 11020,
+              "finMs": 11320
+            },
+            {
+              "palabra": "sino",
+              "inicioMs": 11560,
+              "finMs": 11820
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 11820,
+              "finMs": 12020
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 12020,
+              "finMs": 12120
+            },
+            {
+              "palabra": "frontera",
+              "inicioMs": 12120,
+              "finMs": 12560
+            },
+            {
+              "palabra": "entre",
+              "inicioMs": 12560,
+              "finMs": 12900
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 12900,
+              "finMs": 13060
+            },
+            {
+              "palabra": "color",
+              "inicioMs": 13060,
+              "finMs": 13260
+            },
+            {
+              "palabra": "verde",
+              "inicioMs": 13260,
+              "finMs": 13600
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 13600,
+              "finMs": 13800
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 13800,
+              "finMs": 13900
+            },
+            {
+              "palabra": "azul",
+              "inicioMs": 13900,
+              "finMs": 14160
+            },
+            {
+              "palabra": "alrededor",
+              "inicioMs": 14460,
+              "finMs": 14740
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14740,
+              "finMs": 15120
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 15120,
+              "finMs": 15260
+            },
+            {
+              "palabra": "quinientos",
+              "inicioMs": 15260,
+              "finMs": 15400
+            },
+            {
+              "palabra": "nanómetros",
+              "inicioMs": 15540,
+              "finMs": 16260
+            },
+            {
+              "palabra": "Por",
+              "inicioMs": 16520,
+              "finMs": 16620
+            },
+            {
+              "palabra": "qué",
+              "inicioMs": 16620,
+              "finMs": 16760
+            },
+            {
+              "palabra": "entonces",
+              "inicioMs": 16760,
+              "finMs": 17060
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 17060,
+              "finMs": 17220
+            },
+            {
+              "palabra": "vemos",
+              "inicioMs": 17220,
+              "finMs": 17380
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 17380,
+              "finMs": 17620
+            },
+            {
+              "palabra": "Sol",
+              "inicioMs": 17620,
+              "finMs": 17760
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17760,
+              "finMs": 17900
+            },
+            {
+              "palabra": "color",
+              "inicioMs": 17900,
+              "finMs": 18100
+            },
+            {
+              "palabra": "verde",
+              "inicioMs": 18100,
+              "finMs": 18440
+            },
+            {
+              "palabra": "esmeralda",
+              "inicioMs": 18440,
+              "finMs": 19000
+            },
+            {
+              "palabra": "Porque",
+              "inicioMs": 19140,
+              "finMs": 19340
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 19340,
+              "finMs": 19520
+            },
+            {
+              "palabra": "Sol",
+              "inicioMs": 19520,
+              "finMs": 19720
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 19720,
+              "finMs": 19900
+            },
+            {
+              "palabra": "emite",
+              "inicioMs": 19900,
+              "finMs": 20200
+            },
+            {
+              "palabra": "solo",
+              "inicioMs": 20200,
+              "finMs": 20460
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 20460,
+              "finMs": 20700
+            },
+            {
+              "palabra": "verde",
+              "inicioMs": 20700,
+              "finMs": 20920
+            },
+            {
+              "palabra": "emite",
+              "inicioMs": 21100,
+              "finMs": 21260
+            },
+            {
+              "palabra": "cantidades",
+              "inicioMs": 21260,
+              "finMs": 21720
+            },
+            {
+              "palabra": "ingentes",
+              "inicioMs": 21720,
+              "finMs": 22380
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22380,
+              "finMs": 22505
+            },
+            {
+              "palabra": "todos",
+              "inicioMs": 22380,
+              "finMs": 22620
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 22620,
+              "finMs": 22820
+            },
+            {
+              "palabra": "demás",
+              "inicioMs": 22820,
+              "finMs": 23000
+            },
+            {
+              "palabra": "colores",
+              "inicioMs": 23000,
+              "finMs": 23380
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 23380,
+              "finMs": 23520
+            },
+            {
+              "palabra": "mismo",
+              "inicioMs": 23520,
+              "finMs": 23740
+            },
+            {
+              "palabra": "tiempo",
+              "inicioMs": 23740,
+              "finMs": 24240
+            },
+            {
+              "palabra": "Cuando",
+              "inicioMs": 25060,
+              "finMs": 25420
+            },
+            {
+              "palabra": "todos",
+              "inicioMs": 25420,
+              "finMs": 25800
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 25800,
+              "finMs": 26020
+            },
+            {
+              "palabra": "colores",
+              "inicioMs": 26020,
+              "finMs": 26360
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 26360,
+              "finMs": 26560
+            },
+            {
+              "palabra": "espectro",
+              "inicioMs": 26560,
+              "finMs": 27020
+            },
+            {
+              "palabra": "visible",
+              "inicioMs": 27020,
+              "finMs": 27380
+            },
+            {
+              "palabra": "llegan",
+              "inicioMs": 27380,
+              "finMs": 27900
+            },
+            {
+              "palabra": "juntos",
+              "inicioMs": 27900,
+              "finMs": 28240
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 28240,
+              "finMs": 28400
+            },
+            {
+              "palabra": "nuestros",
+              "inicioMs": 28400,
+              "finMs": 28680
+            },
+            {
+              "palabra": "ojos",
+              "inicioMs": 28680,
+              "finMs": 29000
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 29000,
+              "finMs": 29580
+            },
+            {
+              "palabra": "cerebro",
+              "inicioMs": 29580,
+              "finMs": 29940
+            },
+            {
+              "palabra": "humano",
+              "inicioMs": 29940,
+              "finMs": 30200
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 30200,
+              "finMs": 30440
+            },
+            {
+              "palabra": "suma",
+              "inicioMs": 30440,
+              "finMs": 30780
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 30780,
+              "finMs": 30840
+            },
+            {
+              "palabra": "procesa",
+              "inicioMs": 30840,
+              "finMs": 31240
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 31240,
+              "finMs": 31400
+            },
+            {
+              "palabra": "única",
+              "inicioMs": 31400,
+              "finMs": 31700
+            },
+            {
+              "palabra": "sensación",
+              "inicioMs": 31700,
+              "finMs": 32180
+            },
+            {
+              "palabra": "visual",
+              "inicioMs": 32180,
+              "finMs": 32520
+            },
+            {
+              "palabra": "luz",
+              "inicioMs": 32520,
+              "finMs": 33080
+            },
+            {
+              "palabra": "blanca",
+              "inicioMs": 33080,
+              "finMs": 33460
+            },
+            {
+              "palabra": "perfecta",
+              "inicioMs": 33460,
+              "finMs": 34080
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 60.62
+    },
+    {
+      "id": "cap_3",
+      "numero": 3,
+      "titulo": "La Dispersión de Rayleigh: El Ladrón de Color",
+      "resumen": "Cómo las moléculas de nitrógeno y oxígeno roban la luz azul del disco.",
+      "escenas": [
+        {
+          "id": 5,
+          "texto": "Si la luz solar es blanca pura, ¿por qué desde el suelo la percibimos amarillenta durante el día? El responsable de esta ilusión es el fenómeno físico de la dispersión de Rayleigh, bautizado en honor al físico británico Lord Rayleigh. La atmósfera de la Tierra no es un cristal transparente; es un océano denso de billones de moléculas de nitrógeno y oxígeno. Cuando la luz blanca del Sol impacta contra estas partículas diminutas, los diferentes colores no reaccionan de la misma manera.",
+          "tituloVisual": "DISPERSION DE RAYLEIGH",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "cielo_dia",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "Lord Rayleigh",
+            "dispersión de Rayleigh",
+            "nitrógeno y oxígeno",
+            "océano denso"
+          ],
+          "poseId": "walking_confidently",
+          "expresion": "analytical",
+          "duracionSegundos": 24.274,
+          "palabras": [
+            {
+              "palabra": "Si",
+              "inicioMs": 0,
+              "finMs": 120
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 120,
+              "finMs": 240
+            },
+            {
+              "palabra": "luz",
+              "inicioMs": 240,
+              "finMs": 400
+            },
+            {
+              "palabra": "solar",
+              "inicioMs": 400,
+              "finMs": 700
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 700,
+              "finMs": 820
+            },
+            {
+              "palabra": "blanca",
+              "inicioMs": 820,
+              "finMs": 1160
+            },
+            {
+              "palabra": "pura",
+              "inicioMs": 1160,
+              "finMs": 1620
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 1700,
+              "finMs": 1820
+            },
+            {
+              "palabra": "qué",
+              "inicioMs": 1820,
+              "finMs": 1980
+            },
+            {
+              "palabra": "desde",
+              "inicioMs": 1980,
+              "finMs": 2140
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 2140,
+              "finMs": 2340
+            },
+            {
+              "palabra": "suelo",
+              "inicioMs": 2340,
+              "finMs": 2540
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 2540,
+              "finMs": 2700
+            },
+            {
+              "palabra": "percibimos",
+              "inicioMs": 2700,
+              "finMs": 3200
+            },
+            {
+              "palabra": "amarillenta",
+              "inicioMs": 3360,
+              "finMs": 3800
+            },
+            {
+              "palabra": "durante",
+              "inicioMs": 3800,
+              "finMs": 4060
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 4060,
+              "finMs": 4280
+            },
+            {
+              "palabra": "día",
+              "inicioMs": 4280,
+              "finMs": 4500
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 4660,
+              "finMs": 4760
+            },
+            {
+              "palabra": "responsable",
+              "inicioMs": 4760,
+              "finMs": 5340
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5340,
+              "finMs": 5500
+            },
+            {
+              "palabra": "esta",
+              "inicioMs": 5500,
+              "finMs": 5720
+            },
+            {
+              "palabra": "ilusión",
+              "inicioMs": 5720,
+              "finMs": 6080
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 6080,
+              "finMs": 6380
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 6380,
+              "finMs": 6520
+            },
+            {
+              "palabra": "fenómeno",
+              "inicioMs": 6520,
+              "finMs": 6880
+            },
+            {
+              "palabra": "físico",
+              "inicioMs": 6880,
+              "finMs": 7440
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 7440,
+              "finMs": 7560
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 7560,
+              "finMs": 7660
+            },
+            {
+              "palabra": "dispersión",
+              "inicioMs": 7660,
+              "finMs": 8180
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8180,
+              "finMs": 8300
+            },
+            {
+              "palabra": "Rayleigh",
+              "inicioMs": 8300,
+              "finMs": 8590
+            },
+            {
+              "palabra": "bautizado",
+              "inicioMs": 8880,
+              "finMs": 9240
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 9240,
+              "finMs": 9460
+            },
+            {
+              "palabra": "honor",
+              "inicioMs": 9460,
+              "finMs": 9560
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 9560,
+              "finMs": 9780
+            },
+            {
+              "palabra": "físico",
+              "inicioMs": 9780,
+              "finMs": 10180
+            },
+            {
+              "palabra": "británico",
+              "inicioMs": 10180,
+              "finMs": 10700
+            },
+            {
+              "palabra": "Lord",
+              "inicioMs": 10700,
+              "finMs": 10980
+            },
+            {
+              "palabra": "Rayleigh",
+              "inicioMs": 10980,
+              "finMs": 11500
+            },
+            {
+              "palabra": "La",
+              "inicioMs": 11620,
+              "finMs": 11740
+            },
+            {
+              "palabra": "atmósfera",
+              "inicioMs": 11740,
+              "finMs": 12140
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12140,
+              "finMs": 12280
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 12280,
+              "finMs": 12380
+            },
+            {
+              "palabra": "Tierra",
+              "inicioMs": 12380,
+              "finMs": 12600
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 12600,
+              "finMs": 12880
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 12880,
+              "finMs": 13040
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 13040,
+              "finMs": 13140
+            },
+            {
+              "palabra": "cristal",
+              "inicioMs": 13140,
+              "finMs": 13480
+            },
+            {
+              "palabra": "transparente",
+              "inicioMs": 13480,
+              "finMs": 14220
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 14320,
+              "finMs": 14420
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 14420,
+              "finMs": 14540
+            },
+            {
+              "palabra": "océano",
+              "inicioMs": 14540,
+              "finMs": 14840
+            },
+            {
+              "palabra": "denso",
+              "inicioMs": 14840,
+              "finMs": 15220
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15220,
+              "finMs": 15340
+            },
+            {
+              "palabra": "billones",
+              "inicioMs": 15340,
+              "finMs": 15660
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15660,
+              "finMs": 15800
+            },
+            {
+              "palabra": "moléculas",
+              "inicioMs": 15800,
+              "finMs": 16320
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 16320,
+              "finMs": 16420
+            },
+            {
+              "palabra": "nitrógeno",
+              "inicioMs": 16420,
+              "finMs": 16960
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 16960,
+              "finMs": 17060
+            },
+            {
+              "palabra": "oxígeno",
+              "inicioMs": 17060,
+              "finMs": 17660
+            },
+            {
+              "palabra": "Cuando",
+              "inicioMs": 17880,
+              "finMs": 18060
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 18060,
+              "finMs": 18240
+            },
+            {
+              "palabra": "luz",
+              "inicioMs": 18240,
+              "finMs": 18400
+            },
+            {
+              "palabra": "blanca",
+              "inicioMs": 18400,
+              "finMs": 18800
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 18800,
+              "finMs": 18940
+            },
+            {
+              "palabra": "Sol",
+              "inicioMs": 18940,
+              "finMs": 19140
+            },
+            {
+              "palabra": "impacta",
+              "inicioMs": 19140,
+              "finMs": 19620
+            },
+            {
+              "palabra": "contra",
+              "inicioMs": 19620,
+              "finMs": 19880
+            },
+            {
+              "palabra": "estas",
+              "inicioMs": 19880,
+              "finMs": 20080
+            },
+            {
+              "palabra": "partículas",
+              "inicioMs": 20080,
+              "finMs": 20660
+            },
+            {
+              "palabra": "diminutas",
+              "inicioMs": 20660,
+              "finMs": 21220
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 21340,
+              "finMs": 21420
+            },
+            {
+              "palabra": "diferentes",
+              "inicioMs": 21420,
+              "finMs": 21820
+            },
+            {
+              "palabra": "colores",
+              "inicioMs": 21820,
+              "finMs": 22280
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 22280,
+              "finMs": 22480
+            },
+            {
+              "palabra": "reaccionan",
+              "inicioMs": 22480,
+              "finMs": 22960
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22960,
+              "finMs": 23080
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 23080,
+              "finMs": 23180
+            },
+            {
+              "palabra": "misma",
+              "inicioMs": 23180,
+              "finMs": 23420
+            },
+            {
+              "palabra": "manera",
+              "inicioMs": 23420,
+              "finMs": 23780
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "texto": "Las ondas de luz con longitudes de onda cortas, como el azul y el violeta, colisionan violentamente con los gases atmosféricos y se dispersan rebotando en todas las direcciones del firmamento; esa es la razón exacta por la que el cielo diurno es azul. Al robarle gran parte del componente azul al haz directo que llega desde el Sol, la luz remanente que continúa en línea recta hacia nuestros ojos queda desbalanceada hacia el extremo cálido del espectro: una mezcla dominante de rojo, naranja y amarillo que nuestro cerebro interpreta como un cálido tono amarillento.",
+          "tituloVisual": "EL CIELO SE ROBA EL AZUL",
+          "layout": "split_screen",
+          "composicionVisual": "plano_medio",
+          "escenario": "cielo_dia",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "cielo diurno azul",
+            "haz directo",
+            "extremo cálido",
+            "desbalance cromático"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "eureka",
+          "duracionSegundos": 27.778,
+          "palabras": [
+            {
+              "palabra": "Las",
+              "inicioMs": 0,
+              "finMs": 220
+            },
+            {
+              "palabra": "ondas",
+              "inicioMs": 220,
+              "finMs": 540
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 540,
+              "finMs": 700
+            },
+            {
+              "palabra": "luz",
+              "inicioMs": 700,
+              "finMs": 840
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 840,
+              "finMs": 1080
+            },
+            {
+              "palabra": "longitudes",
+              "inicioMs": 1080,
+              "finMs": 1480
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1480,
+              "finMs": 1840
+            },
+            {
+              "palabra": "onda",
+              "inicioMs": 1840,
+              "finMs": 2000
+            },
+            {
+              "palabra": "cortas",
+              "inicioMs": 2000,
+              "finMs": 2660
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 2720,
+              "finMs": 2860
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 2860,
+              "finMs": 2980
+            },
+            {
+              "palabra": "azul",
+              "inicioMs": 2980,
+              "finMs": 3200
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 3200,
+              "finMs": 3380
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 3380,
+              "finMs": 3420
+            },
+            {
+              "palabra": "violeta",
+              "inicioMs": 3420,
+              "finMs": 3880
+            },
+            {
+              "palabra": "colisionan",
+              "inicioMs": 3980,
+              "finMs": 4400
+            },
+            {
+              "palabra": "violentamente",
+              "inicioMs": 4400,
+              "finMs": 4980
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 4980,
+              "finMs": 5120
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 5120,
+              "finMs": 5260
+            },
+            {
+              "palabra": "gases",
+              "inicioMs": 5260,
+              "finMs": 5400
+            },
+            {
+              "palabra": "atmosféricos",
+              "inicioMs": 5540,
+              "finMs": 6200
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 6200,
+              "finMs": 6420
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 6420,
+              "finMs": 6500
+            },
+            {
+              "palabra": "dispersan",
+              "inicioMs": 6500,
+              "finMs": 7000
+            },
+            {
+              "palabra": "rebotando",
+              "inicioMs": 7000,
+              "finMs": 7540
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 7540,
+              "finMs": 7680
+            },
+            {
+              "palabra": "todas",
+              "inicioMs": 7680,
+              "finMs": 7840
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 7840,
+              "finMs": 8000
+            },
+            {
+              "palabra": "direcciones",
+              "inicioMs": 8000,
+              "finMs": 8340
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 8340,
+              "finMs": 8540
+            },
+            {
+              "palabra": "firmamento",
+              "inicioMs": 8540,
+              "finMs": 9160
+            },
+            {
+              "palabra": "esa",
+              "inicioMs": 9420,
+              "finMs": 9660
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 9660,
+              "finMs": 9680
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 9680,
+              "finMs": 9780
+            },
+            {
+              "palabra": "razón",
+              "inicioMs": 9780,
+              "finMs": 10040
+            },
+            {
+              "palabra": "exacta",
+              "inicioMs": 10040,
+              "finMs": 10540
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 10540,
+              "finMs": 10660
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 10660,
+              "finMs": 10780
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 10780,
+              "finMs": 10860
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 10860,
+              "finMs": 11020
+            },
+            {
+              "palabra": "cielo",
+              "inicioMs": 11020,
+              "finMs": 11200
+            },
+            {
+              "palabra": "diurno",
+              "inicioMs": 11200,
+              "finMs": 11620
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 11620,
+              "finMs": 11720
+            },
+            {
+              "palabra": "azul",
+              "inicioMs": 11720,
+              "finMs": 11960
+            },
+            {
+              "palabra": "Al",
+              "inicioMs": 12160,
+              "finMs": 12280
+            },
+            {
+              "palabra": "robarle",
+              "inicioMs": 12280,
+              "finMs": 12660
+            },
+            {
+              "palabra": "gran",
+              "inicioMs": 12660,
+              "finMs": 12900
+            },
+            {
+              "palabra": "parte",
+              "inicioMs": 12900,
+              "finMs": 13280
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 13280,
+              "finMs": 13440
+            },
+            {
+              "palabra": "componente",
+              "inicioMs": 13440,
+              "finMs": 13920
+            },
+            {
+              "palabra": "azul",
+              "inicioMs": 13920,
+              "finMs": 14260
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 14480,
+              "finMs": 14600
+            },
+            {
+              "palabra": "haz",
+              "inicioMs": 14600,
+              "finMs": 14860
+            },
+            {
+              "palabra": "directo",
+              "inicioMs": 14860,
+              "finMs": 15300
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 15300,
+              "finMs": 15420
+            },
+            {
+              "palabra": "llega",
+              "inicioMs": 15420,
+              "finMs": 15620
+            },
+            {
+              "palabra": "desde",
+              "inicioMs": 15620,
+              "finMs": 15820
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 15820,
+              "finMs": 16060
+            },
+            {
+              "palabra": "Sol",
+              "inicioMs": 16060,
+              "finMs": 16300
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 16560,
+              "finMs": 16660
+            },
+            {
+              "palabra": "luz",
+              "inicioMs": 16660,
+              "finMs": 16820
+            },
+            {
+              "palabra": "remanente",
+              "inicioMs": 16820,
+              "finMs": 17260
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 17260,
+              "finMs": 17360
+            },
+            {
+              "palabra": "continúa",
+              "inicioMs": 17360,
+              "finMs": 17820
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 17820,
+              "finMs": 17920
+            },
+            {
+              "palabra": "línea",
+              "inicioMs": 17920,
+              "finMs": 18080
+            },
+            {
+              "palabra": "recta",
+              "inicioMs": 18080,
+              "finMs": 18440
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 18440,
+              "finMs": 18560
+            },
+            {
+              "palabra": "nuestros",
+              "inicioMs": 18560,
+              "finMs": 18840
+            },
+            {
+              "palabra": "ojos",
+              "inicioMs": 18840,
+              "finMs": 19140
+            },
+            {
+              "palabra": "queda",
+              "inicioMs": 19140,
+              "finMs": 19380
+            },
+            {
+              "palabra": "desbalanceada",
+              "inicioMs": 19380,
+              "finMs": 20020
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 20020,
+              "finMs": 20220
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 20220,
+              "finMs": 20320
+            },
+            {
+              "palabra": "extremo",
+              "inicioMs": 20320,
+              "finMs": 20720
+            },
+            {
+              "palabra": "cálido",
+              "inicioMs": 20720,
+              "finMs": 21020
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 21020,
+              "finMs": 21180
+            },
+            {
+              "palabra": "espectro",
+              "inicioMs": 21180,
+              "finMs": 21720
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 21920,
+              "finMs": 22060
+            },
+            {
+              "palabra": "mezcla",
+              "inicioMs": 22060,
+              "finMs": 22400
+            },
+            {
+              "palabra": "dominante",
+              "inicioMs": 22400,
+              "finMs": 22900
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22900,
+              "finMs": 23040
+            },
+            {
+              "palabra": "rojo",
+              "inicioMs": 23040,
+              "finMs": 23400
+            },
+            {
+              "palabra": "naranja",
+              "inicioMs": 23620,
+              "finMs": 23960
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 23960,
+              "finMs": 24080
+            },
+            {
+              "palabra": "amarillo",
+              "inicioMs": 24080,
+              "finMs": 24440
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 24440,
+              "finMs": 24600
+            },
+            {
+              "palabra": "nuestro",
+              "inicioMs": 24600,
+              "finMs": 24840
+            },
+            {
+              "palabra": "cerebro",
+              "inicioMs": 24840,
+              "finMs": 25200
+            },
+            {
+              "palabra": "interpreta",
+              "inicioMs": 25200,
+              "finMs": 25760
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 25760,
+              "finMs": 25960
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 25960,
+              "finMs": 26080
+            },
+            {
+              "palabra": "cálido",
+              "inicioMs": 26080,
+              "finMs": 26380
+            },
+            {
+              "palabra": "tono",
+              "inicioMs": 26380,
+              "finMs": 26680
+            },
+            {
+              "palabra": "amarillento",
+              "inicioMs": 26680,
+              "finMs": 27280
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 52.05
+    },
+    {
+      "id": "cap_4",
+      "numero": 4,
+      "titulo": "La Tragedia Visual del Atardecer",
+      "resumen": "Por qué los atardeceres tiñen el horizonte de carmesí y oro.",
+      "escenas": [
+        {
+          "id": 7,
+          "texto": "Al atardecer y al amanecer, el efecto de filtrado atmosférico alcanza su expresión más extrema y espectacular. Cuando el Sol desciende hacia la línea del horizonte, sus rayos deben atravesar una capa de atmósfera hasta diez veces más gruesa que cuando se encuentra en el cenit del mediodía. Esta gigantesca muralla de aire actúa como un filtro implacable que dispersa prácticamente la totalidad de los fotones azules, verdes y amarillos.",
+          "tituloVisual": "EL ATARDECER ROJO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "cielo_dia",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "diez veces más atmósfera",
+            "línea del horizonte",
+            "filtro implacable",
+            "atardecer carmesí"
+          ],
+          "poseId": "standing_curious",
+          "expresion": "talking",
+          "duracionSegundos": 22.186,
+          "palabras": [
+            {
+              "palabra": "Al",
+              "inicioMs": 0,
+              "finMs": 240
+            },
+            {
+              "palabra": "atardecer",
+              "inicioMs": 240,
+              "finMs": 780
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 780,
+              "finMs": 1020
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 1020,
+              "finMs": 1140
+            },
+            {
+              "palabra": "amanecer",
+              "inicioMs": 1140,
+              "finMs": 1600
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 1820,
+              "finMs": 1900
+            },
+            {
+              "palabra": "efecto",
+              "inicioMs": 1900,
+              "finMs": 2160
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2160,
+              "finMs": 2340
+            },
+            {
+              "palabra": "filtrado",
+              "inicioMs": 2340,
+              "finMs": 2620
+            },
+            {
+              "palabra": "atmosférico",
+              "inicioMs": 2620,
+              "finMs": 3300
+            },
+            {
+              "palabra": "alcanza",
+              "inicioMs": 3300,
+              "finMs": 3780
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 3780,
+              "finMs": 3920
+            },
+            {
+              "palabra": "expresión",
+              "inicioMs": 3920,
+              "finMs": 4360
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 4360,
+              "finMs": 4520
+            },
+            {
+              "palabra": "extrema",
+              "inicioMs": 4520,
+              "finMs": 5020
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 5020,
+              "finMs": 5200
+            },
+            {
+              "palabra": "espectacular",
+              "inicioMs": 5200,
+              "finMs": 5840
+            },
+            {
+              "palabra": "Cuando",
+              "inicioMs": 6080,
+              "finMs": 6200
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 6200,
+              "finMs": 6380
+            },
+            {
+              "palabra": "Sol",
+              "inicioMs": 6380,
+              "finMs": 6540
+            },
+            {
+              "palabra": "desciende",
+              "inicioMs": 6540,
+              "finMs": 7020
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 7020,
+              "finMs": 7260
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 7260,
+              "finMs": 7420
+            },
+            {
+              "palabra": "línea",
+              "inicioMs": 7420,
+              "finMs": 7640
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 7640,
+              "finMs": 7820
+            },
+            {
+              "palabra": "horizonte",
+              "inicioMs": 7820,
+              "finMs": 8460
+            },
+            {
+              "palabra": "sus",
+              "inicioMs": 8660,
+              "finMs": 8800
+            },
+            {
+              "palabra": "rayos",
+              "inicioMs": 8800,
+              "finMs": 9160
+            },
+            {
+              "palabra": "deben",
+              "inicioMs": 9160,
+              "finMs": 9420
+            },
+            {
+              "palabra": "atravesar",
+              "inicioMs": 9420,
+              "finMs": 9940
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 9940,
+              "finMs": 10100
+            },
+            {
+              "palabra": "capa",
+              "inicioMs": 10100,
+              "finMs": 10400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 10400,
+              "finMs": 10480
+            },
+            {
+              "palabra": "atmósfera",
+              "inicioMs": 10480,
+              "finMs": 10960
+            },
+            {
+              "palabra": "hasta",
+              "inicioMs": 10960,
+              "finMs": 11300
+            },
+            {
+              "palabra": "diez",
+              "inicioMs": 11300,
+              "finMs": 11420
+            },
+            {
+              "palabra": "veces",
+              "inicioMs": 11540,
+              "finMs": 11780
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 11780,
+              "finMs": 12060
+            },
+            {
+              "palabra": "gruesa",
+              "inicioMs": 12060,
+              "finMs": 12420
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 12420,
+              "finMs": 12540
+            },
+            {
+              "palabra": "cuando",
+              "inicioMs": 12540,
+              "finMs": 12760
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 12760,
+              "finMs": 12900
+            },
+            {
+              "palabra": "encuentra",
+              "inicioMs": 12900,
+              "finMs": 13300
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 13300,
+              "finMs": 13425
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 13300,
+              "finMs": 13480
+            },
+            {
+              "palabra": "cenit",
+              "inicioMs": 13480,
+              "finMs": 13720
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 13720,
+              "finMs": 13880
+            },
+            {
+              "palabra": "mediodía",
+              "inicioMs": 13880,
+              "finMs": 14420
+            },
+            {
+              "palabra": "Esta",
+              "inicioMs": 14660,
+              "finMs": 14880
+            },
+            {
+              "palabra": "gigantesca",
+              "inicioMs": 14880,
+              "finMs": 15440
+            },
+            {
+              "palabra": "muralla",
+              "inicioMs": 15440,
+              "finMs": 15740
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15740,
+              "finMs": 15900
+            },
+            {
+              "palabra": "aire",
+              "inicioMs": 15900,
+              "finMs": 16120
+            },
+            {
+              "palabra": "actúa",
+              "inicioMs": 16120,
+              "finMs": 16540
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 16540,
+              "finMs": 16740
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 16740,
+              "finMs": 16860
+            },
+            {
+              "palabra": "filtro",
+              "inicioMs": 16860,
+              "finMs": 17020
+            },
+            {
+              "palabra": "implacable",
+              "inicioMs": 17180,
+              "finMs": 17660
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 17660,
+              "finMs": 17800
+            },
+            {
+              "palabra": "dispersa",
+              "inicioMs": 17800,
+              "finMs": 18260
+            },
+            {
+              "palabra": "prácticamente",
+              "inicioMs": 18260,
+              "finMs": 18960
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 18960,
+              "finMs": 19160
+            },
+            {
+              "palabra": "totalidad",
+              "inicioMs": 19160,
+              "finMs": 19640
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19640,
+              "finMs": 19760
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 19760,
+              "finMs": 19900
+            },
+            {
+              "palabra": "fotones",
+              "inicioMs": 19900,
+              "finMs": 20220
+            },
+            {
+              "palabra": "azules",
+              "inicioMs": 20220,
+              "finMs": 20620
+            },
+            {
+              "palabra": "verdes",
+              "inicioMs": 20860,
+              "finMs": 21180
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 21180,
+              "finMs": 21280
+            },
+            {
+              "palabra": "amarillos",
+              "inicioMs": 21280,
+              "finMs": 21720
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "texto": "Solo las longitudes de onda más largas y resistentes, correspondientes a los rojos profundos y los naranjas oscuros, logran sortear los miles de kilómetros de gases sin dispersarse y alcanzar la retina del observador. Por eso el Sol del ocaso se transforma en una esfera de fuego roja que parece arder sin dañar la vista: no es que la estrella haya cambiado de temperatura ni de naturaleza; es que la atmósfera terrestre se ha tragado literalmente todos los demás colores.",
+          "tituloVisual": "FILTRO DE DIEZ VECES",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "cielo_dia",
+          "transicion": "whip_left",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "longitudes de onda largas",
+            "esfera de fuego roja",
+            "ocaso solar",
+            "atmósfera espesa"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "analytical",
+          "infografia": {
+            "tipo": "dato_clave",
+            "titulo": "Espesor Atmosférico",
+            "subtitulo": "Camino Óptico según Ángulo Solar",
+            "valorPrincipal": "10x",
+            "unidad": "masa de aire al ocaso",
+            "items": [
+              {
+                "etiqueta": "Cenit (Mediodía)",
+                "valor": "1 atmósfera de espesor (Blanco-amarillo)",
+                "porcentaje": 10,
+                "color": "#38BDF8"
+              },
+              {
+                "etiqueta": "Horizonte (Ocaso)",
+                "valor": "Hasta 10 atmósferas (Rojo profundo)",
+                "porcentaje": 100,
+                "color": "#EF4444"
+              }
+            ],
+            "colorAcento": "#EF4444"
+          },
+          "duracionSegundos": 24.106,
+          "palabras": [
+            {
+              "palabra": "Solo",
+              "inicioMs": 0,
+              "finMs": 340
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 340,
+              "finMs": 520
+            },
+            {
+              "palabra": "longitudes",
+              "inicioMs": 520,
+              "finMs": 940
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 940,
+              "finMs": 1260
+            },
+            {
+              "palabra": "onda",
+              "inicioMs": 1260,
+              "finMs": 1400
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 1400,
+              "finMs": 1800
+            },
+            {
+              "palabra": "largas",
+              "inicioMs": 1800,
+              "finMs": 2180
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 2180,
+              "finMs": 2340
+            },
+            {
+              "palabra": "resistentes",
+              "inicioMs": 2340,
+              "finMs": 3020
+            },
+            {
+              "palabra": "correspondientes",
+              "inicioMs": 3340,
+              "finMs": 4080
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 4080,
+              "finMs": 4220
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 4220,
+              "finMs": 4340
+            },
+            {
+              "palabra": "rojos",
+              "inicioMs": 4340,
+              "finMs": 4600
+            },
+            {
+              "palabra": "profundos",
+              "inicioMs": 4760,
+              "finMs": 5100
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 5100,
+              "finMs": 5320
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 5320,
+              "finMs": 5440
+            },
+            {
+              "palabra": "naranjas",
+              "inicioMs": 5440,
+              "finMs": 5820
+            },
+            {
+              "palabra": "oscuros",
+              "inicioMs": 5820,
+              "finMs": 6380
+            },
+            {
+              "palabra": "logran",
+              "inicioMs": 6820,
+              "finMs": 7120
+            },
+            {
+              "palabra": "sortear",
+              "inicioMs": 7120,
+              "finMs": 7480
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 7480,
+              "finMs": 7640
+            },
+            {
+              "palabra": "miles",
+              "inicioMs": 7640,
+              "finMs": 7820
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 7820,
+              "finMs": 7980
+            },
+            {
+              "palabra": "kilómetros",
+              "inicioMs": 7980,
+              "finMs": 8360
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8360,
+              "finMs": 8540
+            },
+            {
+              "palabra": "gases",
+              "inicioMs": 8540,
+              "finMs": 8760
+            },
+            {
+              "palabra": "sin",
+              "inicioMs": 8760,
+              "finMs": 9000
+            },
+            {
+              "palabra": "dispersarse",
+              "inicioMs": 9000,
+              "finMs": 9600
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 9600,
+              "finMs": 9720
+            },
+            {
+              "palabra": "alcanzar",
+              "inicioMs": 9720,
+              "finMs": 10140
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 10140,
+              "finMs": 10260
+            },
+            {
+              "palabra": "retina",
+              "inicioMs": 10260,
+              "finMs": 10540
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 10540,
+              "finMs": 10680
+            },
+            {
+              "palabra": "observador",
+              "inicioMs": 10680,
+              "finMs": 11220
+            },
+            {
+              "palabra": "Por",
+              "inicioMs": 11500,
+              "finMs": 11640
+            },
+            {
+              "palabra": "eso",
+              "inicioMs": 11640,
+              "finMs": 11820
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 11820,
+              "finMs": 12000
+            },
+            {
+              "palabra": "Sol",
+              "inicioMs": 12000,
+              "finMs": 12140
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 12140,
+              "finMs": 12320
+            },
+            {
+              "palabra": "ocaso",
+              "inicioMs": 12440,
+              "finMs": 12680
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 12680,
+              "finMs": 12920
+            },
+            {
+              "palabra": "transforma",
+              "inicioMs": 12920,
+              "finMs": 13460
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 13460,
+              "finMs": 13520
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 13520,
+              "finMs": 13660
+            },
+            {
+              "palabra": "esfera",
+              "inicioMs": 13660,
+              "finMs": 13920
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 13920,
+              "finMs": 14120
+            },
+            {
+              "palabra": "fuego",
+              "inicioMs": 14120,
+              "finMs": 14360
+            },
+            {
+              "palabra": "roja",
+              "inicioMs": 14360,
+              "finMs": 14820
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 14820,
+              "finMs": 14960
+            },
+            {
+              "palabra": "parece",
+              "inicioMs": 14960,
+              "finMs": 15220
+            },
+            {
+              "palabra": "arder",
+              "inicioMs": 15220,
+              "finMs": 15560
+            },
+            {
+              "palabra": "sin",
+              "inicioMs": 15560,
+              "finMs": 15760
+            },
+            {
+              "palabra": "dañar",
+              "inicioMs": 15760,
+              "finMs": 16060
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 16060,
+              "finMs": 16180
+            },
+            {
+              "palabra": "vista",
+              "inicioMs": 16180,
+              "finMs": 16460
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 16680,
+              "finMs": 16780
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 16780,
+              "finMs": 16830
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 16880,
+              "finMs": 16940
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 16940,
+              "finMs": 17040
+            },
+            {
+              "palabra": "estrella",
+              "inicioMs": 17040,
+              "finMs": 17400
+            },
+            {
+              "palabra": "haya",
+              "inicioMs": 17400,
+              "finMs": 17600
+            },
+            {
+              "palabra": "cambiado",
+              "inicioMs": 17600,
+              "finMs": 18000
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18000,
+              "finMs": 18120
+            },
+            {
+              "palabra": "temperatura",
+              "inicioMs": 18120,
+              "finMs": 18560
+            },
+            {
+              "palabra": "ni",
+              "inicioMs": 18560,
+              "finMs": 18900
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18900,
+              "finMs": 18980
+            },
+            {
+              "palabra": "naturaleza",
+              "inicioMs": 18980,
+              "finMs": 19660
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 20020,
+              "finMs": 20120
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 20120,
+              "finMs": 20260
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 20260,
+              "finMs": 20380
+            },
+            {
+              "palabra": "atmósfera",
+              "inicioMs": 20380,
+              "finMs": 20760
+            },
+            {
+              "palabra": "terrestre",
+              "inicioMs": 20760,
+              "finMs": 21300
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 21300,
+              "finMs": 21460
+            },
+            {
+              "palabra": "ha",
+              "inicioMs": 21460,
+              "finMs": 21520
+            },
+            {
+              "palabra": "tragado",
+              "inicioMs": 21520,
+              "finMs": 21820
+            },
+            {
+              "palabra": "literalmente",
+              "inicioMs": 21820,
+              "finMs": 22440
+            },
+            {
+              "palabra": "todos",
+              "inicioMs": 22440,
+              "finMs": 22820
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 22820,
+              "finMs": 23020
+            },
+            {
+              "palabra": "demás",
+              "inicioMs": 23020,
+              "finMs": 23200
+            },
+            {
+              "palabra": "colores",
+              "inicioMs": 23200,
+              "finMs": 23620
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 46.29
+    },
+    {
+      "id": "cap_5",
+      "numero": 5,
+      "titulo": "La Evolución del Ojo Humano",
+      "resumen": "Nuestros ojos evolucionaron calibrados para la luz solar blanca.",
+      "escenas": [
+        {
+          "id": 9,
+          "texto": "Hay una prueba biológica concluyente de que el Sol es blanco: nuestros propios ojos. La visión humana no evolucionó por casualidad; a lo largo de cientos de millones de años de selección natural, los fotorreceptores de la retina de nuestros ancestros marinos y terrestres se calibraron con precisión matemática para aprovechar al máximo la radiación emitida por la estrella que baña nuestro planeta.",
+          "tituloVisual": "CALIBRACION BIOLOGICA",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "laboratorio",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_sci_fi_beep.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "fotorreceptores",
+            "retina humana",
+            "selección natural",
+            "visión biológica"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "analytical",
+          "duracionSegundos": 18.562,
+          "palabras": [
+            {
+              "palabra": "Hay",
+              "inicioMs": 0,
+              "finMs": 200
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 200,
+              "finMs": 340
+            },
+            {
+              "palabra": "prueba",
+              "inicioMs": 340,
+              "finMs": 465
+            },
+            {
+              "palabra": "biológica",
+              "inicioMs": 340,
+              "finMs": 1080
+            },
+            {
+              "palabra": "concluyente",
+              "inicioMs": 1080,
+              "finMs": 1680
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1680,
+              "finMs": 1840
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 1840,
+              "finMs": 1960
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 1960,
+              "finMs": 2060
+            },
+            {
+              "palabra": "Sol",
+              "inicioMs": 2060,
+              "finMs": 2180
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 2180,
+              "finMs": 2360
+            },
+            {
+              "palabra": "blanco",
+              "inicioMs": 2360,
+              "finMs": 2780
+            },
+            {
+              "palabra": "nuestros",
+              "inicioMs": 2880,
+              "finMs": 3120
+            },
+            {
+              "palabra": "propios",
+              "inicioMs": 3120,
+              "finMs": 3480
+            },
+            {
+              "palabra": "ojos",
+              "inicioMs": 3480,
+              "finMs": 3760
+            },
+            {
+              "palabra": "La",
+              "inicioMs": 3980,
+              "finMs": 4060
+            },
+            {
+              "palabra": "visión",
+              "inicioMs": 4060,
+              "finMs": 4300
+            },
+            {
+              "palabra": "humana",
+              "inicioMs": 4300,
+              "finMs": 4640
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 4640,
+              "finMs": 4800
+            },
+            {
+              "palabra": "evolucionó",
+              "inicioMs": 4800,
+              "finMs": 5360
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 5360,
+              "finMs": 5500
+            },
+            {
+              "palabra": "casualidad",
+              "inicioMs": 5500,
+              "finMs": 6000
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 6120,
+              "finMs": 6160
+            },
+            {
+              "palabra": "lo",
+              "inicioMs": 6160,
+              "finMs": 6220
+            },
+            {
+              "palabra": "largo",
+              "inicioMs": 6220,
+              "finMs": 6460
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6460,
+              "finMs": 6600
+            },
+            {
+              "palabra": "cientos",
+              "inicioMs": 6600,
+              "finMs": 6900
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6900,
+              "finMs": 7060
+            },
+            {
+              "palabra": "millones",
+              "inicioMs": 7060,
+              "finMs": 7280
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 7280,
+              "finMs": 7540
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 7540,
+              "finMs": 7720
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 7720,
+              "finMs": 7880
+            },
+            {
+              "palabra": "selección",
+              "inicioMs": 7880,
+              "finMs": 8240
+            },
+            {
+              "palabra": "natural",
+              "inicioMs": 8240,
+              "finMs": 8600
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 8860,
+              "finMs": 8960
+            },
+            {
+              "palabra": "fotorreceptores",
+              "inicioMs": 9260,
+              "finMs": 9720
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9720,
+              "finMs": 9860
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 9860,
+              "finMs": 9960
+            },
+            {
+              "palabra": "retina",
+              "inicioMs": 9960,
+              "finMs": 10300
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 10300,
+              "finMs": 10420
+            },
+            {
+              "palabra": "nuestros",
+              "inicioMs": 10420,
+              "finMs": 10660
+            },
+            {
+              "palabra": "ancestros",
+              "inicioMs": 10660,
+              "finMs": 11180
+            },
+            {
+              "palabra": "marinos",
+              "inicioMs": 11180,
+              "finMs": 11500
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 11500,
+              "finMs": 11640
+            },
+            {
+              "palabra": "terrestres",
+              "inicioMs": 11640,
+              "finMs": 12200
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 12200,
+              "finMs": 12540
+            },
+            {
+              "palabra": "calibraron",
+              "inicioMs": 12540,
+              "finMs": 13040
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 13040,
+              "finMs": 13200
+            },
+            {
+              "palabra": "precisión",
+              "inicioMs": 13200,
+              "finMs": 13640
+            },
+            {
+              "palabra": "matemática",
+              "inicioMs": 13640,
+              "finMs": 14200
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 14200,
+              "finMs": 14480
+            },
+            {
+              "palabra": "aprovechar",
+              "inicioMs": 14480,
+              "finMs": 14920
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 14920,
+              "finMs": 15060
+            },
+            {
+              "palabra": "máximo",
+              "inicioMs": 15060,
+              "finMs": 15420
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 15420,
+              "finMs": 15640
+            },
+            {
+              "palabra": "radiación",
+              "inicioMs": 15640,
+              "finMs": 16120
+            },
+            {
+              "palabra": "emitida",
+              "inicioMs": 16120,
+              "finMs": 16540
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 16540,
+              "finMs": 16700
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 16700,
+              "finMs": 16800
+            },
+            {
+              "palabra": "estrella",
+              "inicioMs": 16800,
+              "finMs": 17140
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 17140,
+              "finMs": 17300
+            },
+            {
+              "palabra": "baña",
+              "inicioMs": 17300,
+              "finMs": 17500
+            },
+            {
+              "palabra": "nuestro",
+              "inicioMs": 17500,
+              "finMs": 17760
+            },
+            {
+              "palabra": "planeta",
+              "inicioMs": 17760,
+              "finMs": 18060
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "texto": "Nuestros tres tipos de conos oculares responden a las bandas roja, verde y azul. El cerebro define biológicamente el concepto de blanco como la suma equilibrada de toda la luz disponible en el ambiente diurno. Si el Sol fuera verdaderamente amarillo, todos los objetos blancos que iluminara —como la nieve fresca o una hoja de papel— se verían amarillos por defecto. La razón por la que vemos la nieve blanca bajo el Sol del mediodía es que la luz solar directa es blanca.",
+          "tituloVisual": "EL BLANCO DE LA NIEVE",
+          "layout": "split_screen",
+          "composicionVisual": "plano_medio",
+          "escenario": "cielo_dia",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "conos oculares",
+            "nieve fresca",
+            "hoja de papel",
+            "luz blanca directa"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "eureka",
+          "duracionSegundos": 24.898,
+          "palabras": [
+            {
+              "palabra": "Nuestros",
+              "inicioMs": 0,
+              "finMs": 440
+            },
+            {
+              "palabra": "tres",
+              "inicioMs": 440,
+              "finMs": 720
+            },
+            {
+              "palabra": "tipos",
+              "inicioMs": 720,
+              "finMs": 960
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 960,
+              "finMs": 1140
+            },
+            {
+              "palabra": "conos",
+              "inicioMs": 1140,
+              "finMs": 1265
+            },
+            {
+              "palabra": "oculares",
+              "inicioMs": 1140,
+              "finMs": 1960
+            },
+            {
+              "palabra": "responden",
+              "inicioMs": 1960,
+              "finMs": 2840
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 2840,
+              "finMs": 2940
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 2940,
+              "finMs": 3060
+            },
+            {
+              "palabra": "bandas",
+              "inicioMs": 3060,
+              "finMs": 3380
+            },
+            {
+              "palabra": "roja",
+              "inicioMs": 3380,
+              "finMs": 3740
+            },
+            {
+              "palabra": "verde",
+              "inicioMs": 3740,
+              "finMs": 3940
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 3940,
+              "finMs": 4280
+            },
+            {
+              "palabra": "azul",
+              "inicioMs": 4280,
+              "finMs": 4560
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 4840,
+              "finMs": 4960
+            },
+            {
+              "palabra": "cerebro",
+              "inicioMs": 4960,
+              "finMs": 5300
+            },
+            {
+              "palabra": "define",
+              "inicioMs": 5300,
+              "finMs": 5560
+            },
+            {
+              "palabra": "biológicamente",
+              "inicioMs": 5560,
+              "finMs": 6400
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 6400,
+              "finMs": 6660
+            },
+            {
+              "palabra": "concepto",
+              "inicioMs": 6660,
+              "finMs": 7140
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 7140,
+              "finMs": 7260
+            },
+            {
+              "palabra": "blanco",
+              "inicioMs": 7260,
+              "finMs": 7580
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 7580,
+              "finMs": 7840
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 7840,
+              "finMs": 7980
+            },
+            {
+              "palabra": "suma",
+              "inicioMs": 7980,
+              "finMs": 8300
+            },
+            {
+              "palabra": "equilibrada",
+              "inicioMs": 8300,
+              "finMs": 8800
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8800,
+              "finMs": 9000
+            },
+            {
+              "palabra": "toda",
+              "inicioMs": 9000,
+              "finMs": 9180
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 9180,
+              "finMs": 9360
+            },
+            {
+              "palabra": "luz",
+              "inicioMs": 9360,
+              "finMs": 9520
+            },
+            {
+              "palabra": "disponible",
+              "inicioMs": 9520,
+              "finMs": 10080
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 10080,
+              "finMs": 10200
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 10200,
+              "finMs": 10320
+            },
+            {
+              "palabra": "ambiente",
+              "inicioMs": 10320,
+              "finMs": 10540
+            },
+            {
+              "palabra": "diurno",
+              "inicioMs": 10800,
+              "finMs": 11100
+            },
+            {
+              "palabra": "Si",
+              "inicioMs": 11340,
+              "finMs": 11420
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 11420,
+              "finMs": 11560
+            },
+            {
+              "palabra": "Sol",
+              "inicioMs": 11560,
+              "finMs": 11740
+            },
+            {
+              "palabra": "fuera",
+              "inicioMs": 11740,
+              "finMs": 12040
+            },
+            {
+              "palabra": "verdaderamente",
+              "inicioMs": 12040,
+              "finMs": 12680
+            },
+            {
+              "palabra": "amarillo",
+              "inicioMs": 12680,
+              "finMs": 13240
+            },
+            {
+              "palabra": "todos",
+              "inicioMs": 13460,
+              "finMs": 13560
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 13560,
+              "finMs": 13820
+            },
+            {
+              "palabra": "objetos",
+              "inicioMs": 13820,
+              "finMs": 14120
+            },
+            {
+              "palabra": "blancos",
+              "inicioMs": 14120,
+              "finMs": 14640
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 14640,
+              "finMs": 14780
+            },
+            {
+              "palabra": "iluminara",
+              "inicioMs": 14780,
+              "finMs": 15320
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 15500,
+              "finMs": 15640
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 15640,
+              "finMs": 15780
+            },
+            {
+              "palabra": "nieve",
+              "inicioMs": 15780,
+              "finMs": 16040
+            },
+            {
+              "palabra": "fresca",
+              "inicioMs": 16040,
+              "finMs": 16500
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 16500,
+              "finMs": 16700
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 16700,
+              "finMs": 16920
+            },
+            {
+              "palabra": "hoja",
+              "inicioMs": 16920,
+              "finMs": 17160
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17160,
+              "finMs": 17280
+            },
+            {
+              "palabra": "papel",
+              "inicioMs": 17280,
+              "finMs": 17520
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 17520,
+              "finMs": 17780
+            },
+            {
+              "palabra": "verían",
+              "inicioMs": 17780,
+              "finMs": 18060
+            },
+            {
+              "palabra": "amarillos",
+              "inicioMs": 18060,
+              "finMs": 18520
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 18520,
+              "finMs": 18720
+            },
+            {
+              "palabra": "defecto",
+              "inicioMs": 18720,
+              "finMs": 19260
+            },
+            {
+              "palabra": "La",
+              "inicioMs": 19600,
+              "finMs": 19680
+            },
+            {
+              "palabra": "razón",
+              "inicioMs": 19680,
+              "finMs": 19960
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 19960,
+              "finMs": 20160
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 20160,
+              "finMs": 20260
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 20260,
+              "finMs": 20360
+            },
+            {
+              "palabra": "vemos",
+              "inicioMs": 20360,
+              "finMs": 20540
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 20540,
+              "finMs": 20720
+            },
+            {
+              "palabra": "nieve",
+              "inicioMs": 20720,
+              "finMs": 20940
+            },
+            {
+              "palabra": "blanca",
+              "inicioMs": 20940,
+              "finMs": 21320
+            },
+            {
+              "palabra": "bajo",
+              "inicioMs": 21320,
+              "finMs": 21520
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 21520,
+              "finMs": 21660
+            },
+            {
+              "palabra": "Sol",
+              "inicioMs": 21660,
+              "finMs": 21820
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 21820,
+              "finMs": 21980
+            },
+            {
+              "palabra": "mediodía",
+              "inicioMs": 21980,
+              "finMs": 22460
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 22460,
+              "finMs": 22680
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 22680,
+              "finMs": 22780
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 22780,
+              "finMs": 22880
+            },
+            {
+              "palabra": "luz",
+              "inicioMs": 22880,
+              "finMs": 23040
+            },
+            {
+              "palabra": "solar",
+              "inicioMs": 23040,
+              "finMs": 23320
+            },
+            {
+              "palabra": "directa",
+              "inicioMs": 23320,
+              "finMs": 23940
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 23940,
+              "finMs": 24020
+            },
+            {
+              "palabra": "blanca",
+              "inicioMs": 24020,
+              "finMs": 24420
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 43.46
+    },
+    {
+      "id": "cap_6",
+      "numero": 6,
+      "titulo": "La Lección del Prisma Cósmico",
+      "resumen": "La desmitificación de los catálogos y la belleza de la realidad física.",
+      "escenas": [
+        {
+          "id": 11,
+          "texto": "La clasificación del Sol como enana amarilla es una simple convención astronómica nacida del sistema de clasificación de Harvard desarrollado a finales del siglo diecinueve, donde las estrellas de tipo espectral G se etiquetan tradicionalmente como amarillas para distinguirlas de las estrellas azules de tipo O y las gigantes rojas de tipo M. Pero en el cosmos real, un astrónomo extraterrestre que observara nuestro sistema solar desde Alpha Centauri vería un punto de luz blanca pura y deslumbrante.",
+          "tituloVisual": "TIPO ESPECTRAL G",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "espacio_profundo",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "enana amarilla",
+            "tipo espectral G",
+            "clasificación de Harvard",
+            "Alpha Centauri"
+          ],
+          "poseId": "holding_presentation_board",
+          "expresion": "talking",
+          "duracionSegundos": 25.282,
+          "palabras": [
+            {
+              "palabra": "La",
+              "inicioMs": 0,
+              "finMs": 180
+            },
+            {
+              "palabra": "clasificación",
+              "inicioMs": 180,
+              "finMs": 800
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 800,
+              "finMs": 1020
+            },
+            {
+              "palabra": "Sol",
+              "inicioMs": 1020,
+              "finMs": 1280
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 1440,
+              "finMs": 1580
+            },
+            {
+              "palabra": "enana",
+              "inicioMs": 1700,
+              "finMs": 1820
+            },
+            {
+              "palabra": "amarilla",
+              "inicioMs": 1820,
+              "finMs": 2340
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 2480,
+              "finMs": 2600
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 2600,
+              "finMs": 2760
+            },
+            {
+              "palabra": "simple",
+              "inicioMs": 2760,
+              "finMs": 3120
+            },
+            {
+              "palabra": "convención",
+              "inicioMs": 3120,
+              "finMs": 3620
+            },
+            {
+              "palabra": "astronómica",
+              "inicioMs": 3620,
+              "finMs": 4240
+            },
+            {
+              "palabra": "nacida",
+              "inicioMs": 4240,
+              "finMs": 4640
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 4640,
+              "finMs": 4800
+            },
+            {
+              "palabra": "sistema",
+              "inicioMs": 4800,
+              "finMs": 5080
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5080,
+              "finMs": 5260
+            },
+            {
+              "palabra": "clasificación",
+              "inicioMs": 5260,
+              "finMs": 5900
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5900,
+              "finMs": 6060
+            },
+            {
+              "palabra": "Harvard",
+              "inicioMs": 6060,
+              "finMs": 6400
+            },
+            {
+              "palabra": "desarrollado",
+              "inicioMs": 6500,
+              "finMs": 6920
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 6920,
+              "finMs": 7000
+            },
+            {
+              "palabra": "finales",
+              "inicioMs": 7000,
+              "finMs": 7380
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 7380,
+              "finMs": 7500
+            },
+            {
+              "palabra": "siglo",
+              "inicioMs": 7500,
+              "finMs": 7700
+            },
+            {
+              "palabra": "diecinueve",
+              "inicioMs": 7700,
+              "finMs": 8050
+            },
+            {
+              "palabra": "donde",
+              "inicioMs": 8400,
+              "finMs": 8540
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 8540,
+              "finMs": 8740
+            },
+            {
+              "palabra": "estrellas",
+              "inicioMs": 8740,
+              "finMs": 9160
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9160,
+              "finMs": 9240
+            },
+            {
+              "palabra": "tipo",
+              "inicioMs": 9240,
+              "finMs": 9440
+            },
+            {
+              "palabra": "espectral",
+              "inicioMs": 9440,
+              "finMs": 9900
+            },
+            {
+              "palabra": "G",
+              "inicioMs": 9900,
+              "finMs": 10160
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 10160,
+              "finMs": 10440
+            },
+            {
+              "palabra": "etiquetan",
+              "inicioMs": 10440,
+              "finMs": 10900
+            },
+            {
+              "palabra": "tradicionalmente",
+              "inicioMs": 10900,
+              "finMs": 11660
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 11660,
+              "finMs": 11920
+            },
+            {
+              "palabra": "amarillas",
+              "inicioMs": 11920,
+              "finMs": 12340
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 12340,
+              "finMs": 12540
+            },
+            {
+              "palabra": "distinguirlas",
+              "inicioMs": 12540,
+              "finMs": 13140
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 13140,
+              "finMs": 13260
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 13260,
+              "finMs": 13340
+            },
+            {
+              "palabra": "estrellas",
+              "inicioMs": 13340,
+              "finMs": 13800
+            },
+            {
+              "palabra": "azules",
+              "inicioMs": 13800,
+              "finMs": 14060
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14060,
+              "finMs": 14220
+            },
+            {
+              "palabra": "tipo",
+              "inicioMs": 14220,
+              "finMs": 14480
+            },
+            {
+              "palabra": "O",
+              "inicioMs": 14480,
+              "finMs": 14720
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 14720,
+              "finMs": 14920
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 14920,
+              "finMs": 15060
+            },
+            {
+              "palabra": "gigantes",
+              "inicioMs": 15060,
+              "finMs": 15440
+            },
+            {
+              "palabra": "rojas",
+              "inicioMs": 15440,
+              "finMs": 15760
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15760,
+              "finMs": 15880
+            },
+            {
+              "palabra": "tipo",
+              "inicioMs": 15880,
+              "finMs": 16140
+            },
+            {
+              "palabra": "M",
+              "inicioMs": 16140,
+              "finMs": 16440
+            },
+            {
+              "palabra": "Pero",
+              "inicioMs": 16740,
+              "finMs": 16920
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 16920,
+              "finMs": 17060
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 17060,
+              "finMs": 17200
+            },
+            {
+              "palabra": "cosmos",
+              "inicioMs": 17200,
+              "finMs": 17560
+            },
+            {
+              "palabra": "real",
+              "inicioMs": 17560,
+              "finMs": 18040
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 18240,
+              "finMs": 18400
+            },
+            {
+              "palabra": "astrónomo",
+              "inicioMs": 18400,
+              "finMs": 18880
+            },
+            {
+              "palabra": "extraterrestre",
+              "inicioMs": 18880,
+              "finMs": 19660
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 19660,
+              "finMs": 19780
+            },
+            {
+              "palabra": "observara",
+              "inicioMs": 19780,
+              "finMs": 20240
+            },
+            {
+              "palabra": "nuestro",
+              "inicioMs": 20240,
+              "finMs": 20480
+            },
+            {
+              "palabra": "sistema",
+              "inicioMs": 20480,
+              "finMs": 20760
+            },
+            {
+              "palabra": "solar",
+              "inicioMs": 20760,
+              "finMs": 21120
+            },
+            {
+              "palabra": "desde",
+              "inicioMs": 21120,
+              "finMs": 21210
+            },
+            {
+              "palabra": "Alpha",
+              "inicioMs": 21300,
+              "finMs": 21700
+            },
+            {
+              "palabra": "Centauri",
+              "inicioMs": 21860,
+              "finMs": 22260
+            },
+            {
+              "palabra": "vería",
+              "inicioMs": 22320,
+              "finMs": 22500
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 22500,
+              "finMs": 22600
+            },
+            {
+              "palabra": "punto",
+              "inicioMs": 22600,
+              "finMs": 22840
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22840,
+              "finMs": 23000
+            },
+            {
+              "palabra": "luz",
+              "inicioMs": 23000,
+              "finMs": 23160
+            },
+            {
+              "palabra": "blanca",
+              "inicioMs": 23160,
+              "finMs": 23600
+            },
+            {
+              "palabra": "pura",
+              "inicioMs": 23760,
+              "finMs": 24000
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 24000,
+              "finMs": 24080
+            },
+            {
+              "palabra": "deslumbrante",
+              "inicioMs": 24080,
+              "finMs": 24820
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "texto": "Saber que el Sol es blanco no le quita magia al dibujo de un niño ni a la poesía de un atardecer dorado en la playa. Al contrario: nos demuestra que nuestra atmósfera es un prisma colosal y protector que no solo nos resguarda de la radiación mortal del espacio, sino que pinta el cielo de azul y tiñe nuestra estrella de oro para regalarnos el espectáculo visual más hermoso del universo conocido.",
+          "tituloVisual": "EL PRISMA CELESTIAL",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "cielo_dia",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "prisma colosal",
+            "atardecer dorado",
+            "radiación mortal",
+            "espectáculo visual"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "smile_wide",
+          "duracionSegundos": 21.01,
+          "palabras": [
+            {
+              "palabra": "Saber",
+              "inicioMs": 0,
+              "finMs": 340
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 340,
+              "finMs": 480
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 480,
+              "finMs": 600
+            },
+            {
+              "palabra": "Sol",
+              "inicioMs": 600,
+              "finMs": 720
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 720,
+              "finMs": 920
+            },
+            {
+              "palabra": "blanco",
+              "inicioMs": 920,
+              "finMs": 1220
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 1220,
+              "finMs": 1380
+            },
+            {
+              "palabra": "le",
+              "inicioMs": 1380,
+              "finMs": 1480
+            },
+            {
+              "palabra": "quita",
+              "inicioMs": 1480,
+              "finMs": 1760
+            },
+            {
+              "palabra": "magia",
+              "inicioMs": 1760,
+              "finMs": 2080
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 2080,
+              "finMs": 2160
+            },
+            {
+              "palabra": "dibujo",
+              "inicioMs": 2240,
+              "finMs": 2580
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2580,
+              "finMs": 2700
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 2700,
+              "finMs": 2840
+            },
+            {
+              "palabra": "niño",
+              "inicioMs": 2840,
+              "finMs": 3080
+            },
+            {
+              "palabra": "ni",
+              "inicioMs": 3080,
+              "finMs": 3260
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 3260,
+              "finMs": 3340
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 3340,
+              "finMs": 3440
+            },
+            {
+              "palabra": "poesía",
+              "inicioMs": 3440,
+              "finMs": 3860
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3860,
+              "finMs": 4000
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 4000,
+              "finMs": 4160
+            },
+            {
+              "palabra": "atardecer",
+              "inicioMs": 4160,
+              "finMs": 4380
+            },
+            {
+              "palabra": "dorado",
+              "inicioMs": 4700,
+              "finMs": 5000
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 5000,
+              "finMs": 5160
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5160,
+              "finMs": 5260
+            },
+            {
+              "palabra": "playa",
+              "inicioMs": 5260,
+              "finMs": 5680
+            },
+            {
+              "palabra": "Al",
+              "inicioMs": 5860,
+              "finMs": 5960
+            },
+            {
+              "palabra": "contrario",
+              "inicioMs": 5960,
+              "finMs": 6500
+            },
+            {
+              "palabra": "nos",
+              "inicioMs": 6840,
+              "finMs": 7020
+            },
+            {
+              "palabra": "demuestra",
+              "inicioMs": 7020,
+              "finMs": 7540
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 7540,
+              "finMs": 7720
+            },
+            {
+              "palabra": "nuestra",
+              "inicioMs": 7720,
+              "finMs": 8060
+            },
+            {
+              "palabra": "atmósfera",
+              "inicioMs": 8060,
+              "finMs": 8540
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 8540,
+              "finMs": 8860
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 8860,
+              "finMs": 9000
+            },
+            {
+              "palabra": "prisma",
+              "inicioMs": 9000,
+              "finMs": 9340
+            },
+            {
+              "palabra": "colosal",
+              "inicioMs": 9340,
+              "finMs": 9820
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 9820,
+              "finMs": 9960
+            },
+            {
+              "palabra": "protector",
+              "inicioMs": 9960,
+              "finMs": 10320
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 10320,
+              "finMs": 10800
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 10800,
+              "finMs": 10960
+            },
+            {
+              "palabra": "solo",
+              "inicioMs": 10960,
+              "finMs": 11260
+            },
+            {
+              "palabra": "nos",
+              "inicioMs": 11260,
+              "finMs": 11420
+            },
+            {
+              "palabra": "resguarda",
+              "inicioMs": 11420,
+              "finMs": 11920
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11920,
+              "finMs": 12040
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 12040,
+              "finMs": 12160
+            },
+            {
+              "palabra": "radiación",
+              "inicioMs": 12160,
+              "finMs": 12620
+            },
+            {
+              "palabra": "mortal",
+              "inicioMs": 12620,
+              "finMs": 12920
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 12920,
+              "finMs": 13140
+            },
+            {
+              "palabra": "espacio",
+              "inicioMs": 13140,
+              "finMs": 13620
+            },
+            {
+              "palabra": "sino",
+              "inicioMs": 13900,
+              "finMs": 14080
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 14080,
+              "finMs": 14240
+            },
+            {
+              "palabra": "pinta",
+              "inicioMs": 14240,
+              "finMs": 14540
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 14540,
+              "finMs": 14680
+            },
+            {
+              "palabra": "cielo",
+              "inicioMs": 14680,
+              "finMs": 14820
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14820,
+              "finMs": 15020
+            },
+            {
+              "palabra": "azul",
+              "inicioMs": 15020,
+              "finMs": 15260
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 15260,
+              "finMs": 15520
+            },
+            {
+              "palabra": "tiñe",
+              "inicioMs": 15520,
+              "finMs": 15720
+            },
+            {
+              "palabra": "nuestra",
+              "inicioMs": 15720,
+              "finMs": 16060
+            },
+            {
+              "palabra": "estrella",
+              "inicioMs": 16060,
+              "finMs": 16400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 16400,
+              "finMs": 16560
+            },
+            {
+              "palabra": "oro",
+              "inicioMs": 16560,
+              "finMs": 16740
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 16740,
+              "finMs": 17020
+            },
+            {
+              "palabra": "regalarnos",
+              "inicioMs": 17020,
+              "finMs": 17580
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 17580,
+              "finMs": 17800
+            },
+            {
+              "palabra": "espectáculo",
+              "inicioMs": 17800,
+              "finMs": 18280
+            },
+            {
+              "palabra": "visual",
+              "inicioMs": 18280,
+              "finMs": 18660
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 18660,
+              "finMs": 18920
+            },
+            {
+              "palabra": "hermoso",
+              "inicioMs": 18920,
+              "finMs": 19400
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 19400,
+              "finMs": 19540
+            },
+            {
+              "palabra": "universo",
+              "inicioMs": 19540,
+              "finMs": 19860
+            },
+            {
+              "palabra": "conocido",
+              "inicioMs": 19860,
+              "finMs": 20540
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 46.29
+    }
+  ]
+}

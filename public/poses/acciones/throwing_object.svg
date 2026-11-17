@@ -1,0 +1,40 @@
+<svg width="500" height="620" viewBox="-35 -40 470 545" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Efectos festivos de ambiente opcionales -->
+  
+  <!-- Sombra base -->
+  <ellipse cx="200" cy="472" rx="85" ry="14" fill="#E5E7EB" />
+  <!-- Capa trasera si aplica -->
+  
+  <!-- Piernas -->
+  <path d="M 190 330 L 135 460 M 190 330 L 255 450" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Torso -->
+  <path d="M 205 183 L 190 330" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Accesorios de cintura -->
+  
+  <!-- Brazos -->
+  <path d="M 200 212 L 130 245" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 200 212 L 265 165 L 320 120" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Accesorios de cuello delanteros -->
+  
+  <!-- Accesorios de postura -->
+  
+  <!-- Cabeza, expresion facial y accesorios de cabeza/cara -->
+  <g transform="translate(10, 0) rotate(8, 200, 115)">
+    <circle cx="200" cy="115" r="68" fill="#FFFFFF" stroke="#111827" stroke-width="12" />
+    <path d="M 160 74 Q 175 60 190 74 M 210 74 Q 225 60 240 74" stroke="#111827" stroke-width="6" stroke-linecap="round" fill="none" />
+<circle cx="175" cy="103" r="13" fill="#FFFFFF" stroke="#111827" stroke-width="6" />
+<circle cx="175" cy="103" r="5" fill="#111827" />
+<circle cx="225" cy="103" r="13" fill="#FFFFFF" stroke="#111827" stroke-width="6" />
+<circle cx="225" cy="103" r="5" fill="#111827" />
+<path d="M 168 128 Q 200 172 232 128 Z" fill="#EF4444" stroke="#111827" stroke-width="6" stroke-linejoin="round" />
+<path d="M 175 130 L 225 130" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" />
+<path d="M 118 70 L 122 82 L 134 86 L 122 90 L 118 102 L 114 90 L 102 86 L 114 82 Z" fill="#FACC15" />
+<path d="M 282 65 L 285 74 L 294 77 L 285 80 L 282 89 L 279 80 L 270 77 L 279 74 Z" fill="#FACC15" />
+    
+    
+  </g>
+  <!-- Props integrados en manos y cabeza -->
+  
+  
+  
+</svg>

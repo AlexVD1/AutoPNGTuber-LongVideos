@@ -1,0 +1,35 @@
+<svg width="500" height="620" viewBox="-35 -40 470 545" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Efectos festivos de ambiente opcionales -->
+  
+  <!-- Sombra base -->
+  <ellipse cx="200" cy="472" rx="85" ry="14" fill="#E5E7EB" />
+  <!-- Capa trasera si aplica -->
+  
+  <!-- Piernas -->
+  <path d="M 200 330 L 148 460 M 200 330 L 252 460" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Torso -->
+  <path d="M 200 186 L 200 330" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Accesorios de cintura -->
+  
+  <!-- Brazos -->
+  <path d="M 200 215 L 118 145 L 152 75" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 200 215 L 282 145 L 248 75" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Accesorios de cuello delanteros -->
+  
+  <!-- Accesorios de postura -->
+  
+  <!-- Cabeza, expresion facial y accesorios de cabeza/cara -->
+  <g transform="translate(0, 3) rotate(0, 200, 115)">
+    <circle cx="200" cy="115" r="68" fill="#FFFFFF" stroke="#111827" stroke-width="12" />
+    <path d="M 160 76 L 192 90 M 240 76 L 208 90" stroke="#111827" stroke-width="7" stroke-linecap="round" fill="none" />
+<path d="M 164 106 Q 176 114 188 106 M 212 106 Q 224 114 236 106" stroke="#111827" stroke-width="6" stroke-linecap="round" fill="none" />
+<path d="M 176 145 Q 188 135 200 145 Q 212 155 224 145" stroke="#111827" stroke-width="6" stroke-linecap="round" fill="none" />
+<path d="M 238 58 L 246 68 L 256 60 M 240 76 L 248 66 L 258 74" stroke="#EF4444" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    
+    
+  </g>
+  <!-- Props integrados en manos y cabeza -->
+  
+  <g transform="translate(248, 75) rotate(0)"><line x1="-20" y1="0" x2="-28" y2="-36" stroke="#111827" stroke-width="6" stroke-linecap="round"/><line x1="20" y1="0" x2="28" y2="-36" stroke="#111827" stroke-width="6" stroke-linecap="round"/><rect x="-36" y="0" width="72" height="32" rx="6" fill="#1E293B" stroke="#111827" stroke-width="6"/><circle cx="-22" cy="16" r="4" fill="#22C55E"/><circle cx="-10" cy="16" r="4" fill="#22C55E"/><circle cx="2" cy="16" r="4" fill="#EF4444"/><circle cx="14" cy="16" r="4" fill="#EF4444"/><path d="M 22 12 L 28 20 M 28 12 L 22 20" stroke="#EF4444" stroke-width="3" stroke-linecap="round"/></g>
+  <g transform="translate(282, 48)"><circle cx="0" cy="0" r="32" fill="#FEE2E2" stroke="#111827" stroke-width="6"/><path d="M -20 -10 Q 0 -26 20 -10 M -14 -2 Q 0 -14 14 -2 M -7 6 Q 0 0 7 6" stroke="#94A3B8" stroke-width="5" stroke-linecap="round" fill="none"/><circle cx="0" cy="14" r="3.5" fill="#94A3B8"/><line x1="-24" y1="-24" x2="24" y2="24" stroke="#EF4444" stroke-width="7" stroke-linecap="round"/></g>
+</svg>

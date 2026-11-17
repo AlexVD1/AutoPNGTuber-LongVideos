@@ -1,0 +1,17 @@
+node_modules
+out/
+.remotion
+.cache
+scratch/
+.tts_cache.json
+public/audios/*.mp3
+public/audios/*.wav
+public/voices/*.wav
+public/voices/*.pt
+*.mp4
+*.tmp
+*.log
+.env
+__pycache__/
+*.py[cod]
+.venv/

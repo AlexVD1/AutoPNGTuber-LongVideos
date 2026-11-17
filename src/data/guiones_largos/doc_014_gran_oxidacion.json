@@ -1,0 +1,4761 @@
+{
+  "meta": {
+    "id": "doc_014_gran_oxidacion",
+    "slug": "gran_oxidacion_cataclismo_oxigeno_tierra",
+    "titulo": "La Gran Oxidación: Cuando el Oxígeno Casi Extermina toda la Vida Terrestre",
+    "premisa": "Hace dos mil cuatrocientos millones de años, las primeras cianobacterias inventaron la fotosíntesis y liberaron tanto oxígeno que asfixiaron al noventa por ciento de los organismos del planeta, congelaron la Tierra entera y cambiaron la geología para siempre.",
+    "gancho": "¿Sabías que el gas que hoy respiramos para vivir fue en el pasado la mayor catástrofe ambiental del planeta?",
+    "categoria": "Science & Technology",
+    "duracionObjetivo": [
+      420,
+      500
+    ],
+    "fps": 30,
+    "dimensiones": {
+      "width": 1920,
+      "height": 1080
+    },
+    "idioma": "es",
+    "voz": "alex.conds.pt",
+    "musicaPrincipal": "bgm/bgm.mp3",
+    "volumenMusica": 0.12,
+    "fuentes": [
+      "Holland, H. D. (2006). The oxygenation of the atmosphere and oceans. Phil. Trans. R. Soc. B.",
+      "Lyons, T. W., et al. (2014). The rise of oxygen in Earth's early ocean and atmosphere. Nature.",
+      "Kirschvink, J. L., et al. (2000). Paleoproterozoic snowball Earth: Extreme climactic and evolutionary events."
+    ],
+    "tags": [
+      "paleontologia",
+      "oxigeno",
+      "geologia",
+      "tierra",
+      "evolucion",
+      "fotosintesis",
+      "documental"
+    ]
+  },
+  "capitulos": [
+    {
+      "id": "cap_1",
+      "numero": 1,
+      "titulo": "La Tierra Púrpura y el Mar de Hierro",
+      "resumen": "La atmósfera primordial anóxica y los océanos verdes ricos en hierro.",
+      "escenas": [
+        {
+          "id": 1,
+          "texto": "Hoy respiramos el aire sin pensarlo dos veces, dando por sentado que el oxígeno es el aliento vital indispensable para cualquier criatura del planeta. Pero hace dos mil cuatrocientos millones de años, en la era geológica del Paleoproterozoico, la Tierra era un mundo alienígena donde un humano moriría asfixiado en segundos: no había ni una sola molécula de oxígeno libre en la atmósfera. El cielo no era azul sino de un tono anaranjado pálido debido a densas concentraciones de metano, y los océanos eran de un verde turbio saturados de hierro ferroso disuelto.",
+          "tituloVisual": "LA TIERRA DE HACE 2400M",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "abismo_oceanico",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "dos mil cuatrocientos millones",
+            "Paleoproterozoico",
+            "metano atmosférico",
+            "océanos de hierro verde"
+          ],
+          "poseId": "walking_confidently",
+          "expresion": "analytical",
+          "duracionSegundos": 28.522,
+          "palabras": [
+            {
+              "palabra": "Hoy",
+              "inicioMs": 0,
+              "finMs": 240
+            },
+            {
+              "palabra": "respiramos",
+              "inicioMs": 240,
+              "finMs": 800
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 800,
+              "finMs": 1020
+            },
+            {
+              "palabra": "aire",
+              "inicioMs": 1020,
+              "finMs": 1200
+            },
+            {
+              "palabra": "sin",
+              "inicioMs": 1200,
+              "finMs": 1420
+            },
+            {
+              "palabra": "pensarlo",
+              "inicioMs": 1420,
+              "finMs": 1980
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 1980,
+              "finMs": 2180
+            },
+            {
+              "palabra": "veces",
+              "inicioMs": 2180,
+              "finMs": 2520
+            },
+            {
+              "palabra": "dando",
+              "inicioMs": 2760,
+              "finMs": 2960
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 2960,
+              "finMs": 3085
+            },
+            {
+              "palabra": "sentado",
+              "inicioMs": 2960,
+              "finMs": 3560
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 3560,
+              "finMs": 3700
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 3700,
+              "finMs": 3780
+            },
+            {
+              "palabra": "oxígeno",
+              "inicioMs": 3780,
+              "finMs": 4300
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 4300,
+              "finMs": 4480
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 4480,
+              "finMs": 4620
+            },
+            {
+              "palabra": "aliento",
+              "inicioMs": 4620,
+              "finMs": 4880
+            },
+            {
+              "palabra": "vital",
+              "inicioMs": 4880,
+              "finMs": 5160
+            },
+            {
+              "palabra": "indispensable",
+              "inicioMs": 5160,
+              "finMs": 5660
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 5660,
+              "finMs": 6120
+            },
+            {
+              "palabra": "cualquier",
+              "inicioMs": 6120,
+              "finMs": 6400
+            },
+            {
+              "palabra": "criatura",
+              "inicioMs": 6400,
+              "finMs": 6780
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 6780,
+              "finMs": 6960
+            },
+            {
+              "palabra": "planeta",
+              "inicioMs": 6960,
+              "finMs": 7300
+            },
+            {
+              "palabra": "Pero",
+              "inicioMs": 7580,
+              "finMs": 7760
+            },
+            {
+              "palabra": "hace",
+              "inicioMs": 7760,
+              "finMs": 7980
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 7980,
+              "finMs": 8195
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 8195,
+              "finMs": 8410
+            },
+            {
+              "palabra": "cuatrocientos",
+              "inicioMs": 8410,
+              "finMs": 8625
+            },
+            {
+              "palabra": "millones",
+              "inicioMs": 8840,
+              "finMs": 9240
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9240,
+              "finMs": 9520
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 9520,
+              "finMs": 9740
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 9740,
+              "finMs": 10060
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 10060,
+              "finMs": 10220
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 10220,
+              "finMs": 10400
+            },
+            {
+              "palabra": "geológica",
+              "inicioMs": 10400,
+              "finMs": 10960
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 10960,
+              "finMs": 11140
+            },
+            {
+              "palabra": "Paleoproterozoico",
+              "inicioMs": 11140,
+              "finMs": 11740
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 12380,
+              "finMs": 12460
+            },
+            {
+              "palabra": "Tierra",
+              "inicioMs": 12460,
+              "finMs": 12660
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 12660,
+              "finMs": 12860
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 12860,
+              "finMs": 12940
+            },
+            {
+              "palabra": "mundo",
+              "inicioMs": 12940,
+              "finMs": 13180
+            },
+            {
+              "palabra": "alienígena",
+              "inicioMs": 13180,
+              "finMs": 13780
+            },
+            {
+              "palabra": "donde",
+              "inicioMs": 13780,
+              "finMs": 13920
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 13920,
+              "finMs": 14100
+            },
+            {
+              "palabra": "humano",
+              "inicioMs": 14100,
+              "finMs": 14260
+            },
+            {
+              "palabra": "moriría",
+              "inicioMs": 14260,
+              "finMs": 14780
+            },
+            {
+              "palabra": "asfixiado",
+              "inicioMs": 14780,
+              "finMs": 15300
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 15300,
+              "finMs": 15380
+            },
+            {
+              "palabra": "segundos",
+              "inicioMs": 15380,
+              "finMs": 15700
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 16000,
+              "finMs": 16120
+            },
+            {
+              "palabra": "había",
+              "inicioMs": 16120,
+              "finMs": 16300
+            },
+            {
+              "palabra": "ni",
+              "inicioMs": 16300,
+              "finMs": 16520
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 16520,
+              "finMs": 16700
+            },
+            {
+              "palabra": "sola",
+              "inicioMs": 16700,
+              "finMs": 16900
+            },
+            {
+              "palabra": "molécula",
+              "inicioMs": 16900,
+              "finMs": 17440
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17440,
+              "finMs": 17540
+            },
+            {
+              "palabra": "oxígeno",
+              "inicioMs": 17540,
+              "finMs": 18080
+            },
+            {
+              "palabra": "libre",
+              "inicioMs": 18080,
+              "finMs": 18280
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 18280,
+              "finMs": 18480
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 18480,
+              "finMs": 18540
+            },
+            {
+              "palabra": "atmósfera",
+              "inicioMs": 18540,
+              "finMs": 19020
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 19120,
+              "finMs": 19260
+            },
+            {
+              "palabra": "cielo",
+              "inicioMs": 19260,
+              "finMs": 19540
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 19540,
+              "finMs": 19760
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 19760,
+              "finMs": 19920
+            },
+            {
+              "palabra": "azul",
+              "inicioMs": 19920,
+              "finMs": 20200
+            },
+            {
+              "palabra": "sino",
+              "inicioMs": 20200,
+              "finMs": 20440
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 20440,
+              "finMs": 20600
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 20600,
+              "finMs": 20720
+            },
+            {
+              "palabra": "tono",
+              "inicioMs": 20720,
+              "finMs": 20980
+            },
+            {
+              "palabra": "anaranjado",
+              "inicioMs": 20980,
+              "finMs": 21580
+            },
+            {
+              "palabra": "pálido",
+              "inicioMs": 21580,
+              "finMs": 22040
+            },
+            {
+              "palabra": "debido",
+              "inicioMs": 22040,
+              "finMs": 22260
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 22260,
+              "finMs": 22520
+            },
+            {
+              "palabra": "densas",
+              "inicioMs": 22520,
+              "finMs": 22880
+            },
+            {
+              "palabra": "concentraciones",
+              "inicioMs": 22880,
+              "finMs": 23580
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 23580,
+              "finMs": 23800
+            },
+            {
+              "palabra": "metano",
+              "inicioMs": 23800,
+              "finMs": 24220
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 24340,
+              "finMs": 24400
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 24400,
+              "finMs": 24500
+            },
+            {
+              "palabra": "océanos",
+              "inicioMs": 24500,
+              "finMs": 24900
+            },
+            {
+              "palabra": "eran",
+              "inicioMs": 24900,
+              "finMs": 25070
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 25240,
+              "finMs": 25280
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 25280,
+              "finMs": 25360
+            },
+            {
+              "palabra": "verde",
+              "inicioMs": 25360,
+              "finMs": 25520
+            },
+            {
+              "palabra": "turbio",
+              "inicioMs": 25520,
+              "finMs": 25980
+            },
+            {
+              "palabra": "saturados",
+              "inicioMs": 25980,
+              "finMs": 26480
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 26480,
+              "finMs": 26660
+            },
+            {
+              "palabra": "hierro",
+              "inicioMs": 26660,
+              "finMs": 27000
+            },
+            {
+              "palabra": "ferroso",
+              "inicioMs": 27000,
+              "finMs": 27500
+            },
+            {
+              "palabra": "disuelto",
+              "inicioMs": 27500,
+              "finMs": 28080
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "texto": "Los dueños absolutos de este planeta primordial eran microorganismos anaeróbicos: arqueas y bacterias primitivas para las cuales el oxígeno elemental no era un nutriente vital, sino un gas corrosivo y altamente tóxico que destruía sus membranas celulares y quemaba sus proteínas. La vida prosperaba en la oscuridad y el silencio de un equilibrio químico que parecía destinado a durar por siempre.",
+          "tituloVisual": "REINADO ANAEROBICO",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "microorganismos anaeróbicos",
+            "arqueas primitivas",
+            "oxígeno como veneno",
+            "equilibrio primordial"
+          ],
+          "poseId": "holding_presentation_board",
+          "expresion": "talking",
+          "infografia": {
+            "tipo": "dato_clave",
+            "titulo": "Atmósfera Primordial",
+            "subtitulo": "Concentración de Oxígeno Libre (O₂)",
+            "valorPrincipal": "0.001%",
+            "unidad": "anóxico total",
+            "items": [
+              {
+                "etiqueta": "Oxígeno Arcaico",
+                "valor": "< 0.001% (Trazas insignificantes)",
+                "porcentaje": 1,
+                "color": "#EF4444"
+              },
+              {
+                "etiqueta": "Oxígeno Actual",
+                "valor": "21% (Sustento vital)",
+                "porcentaje": 100,
+                "color": "#38BDF8"
+              }
+            ],
+            "colorAcento": "#38BDF8"
+          },
+          "duracionSegundos": 20.938,
+          "palabras": [
+            {
+              "palabra": "Los",
+              "inicioMs": 0,
+              "finMs": 240
+            },
+            {
+              "palabra": "dueños",
+              "inicioMs": 240,
+              "finMs": 540
+            },
+            {
+              "palabra": "absolutos",
+              "inicioMs": 540,
+              "finMs": 1200
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1200,
+              "finMs": 1280
+            },
+            {
+              "palabra": "este",
+              "inicioMs": 1280,
+              "finMs": 1460
+            },
+            {
+              "palabra": "planeta",
+              "inicioMs": 1460,
+              "finMs": 1740
+            },
+            {
+              "palabra": "primordial",
+              "inicioMs": 1740,
+              "finMs": 2360
+            },
+            {
+              "palabra": "eran",
+              "inicioMs": 2360,
+              "finMs": 2700
+            },
+            {
+              "palabra": "microorganismos",
+              "inicioMs": 2700,
+              "finMs": 3660
+            },
+            {
+              "palabra": "anaeróbicos",
+              "inicioMs": 3660,
+              "finMs": 4340
+            },
+            {
+              "palabra": "arqueas",
+              "inicioMs": 4540,
+              "finMs": 4980
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 4980,
+              "finMs": 5080
+            },
+            {
+              "palabra": "bacterias",
+              "inicioMs": 5080,
+              "finMs": 5480
+            },
+            {
+              "palabra": "primitivas",
+              "inicioMs": 5480,
+              "finMs": 5940
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 5940,
+              "finMs": 6160
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 6160,
+              "finMs": 6320
+            },
+            {
+              "palabra": "cuales",
+              "inicioMs": 6320,
+              "finMs": 6580
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 6580,
+              "finMs": 6820
+            },
+            {
+              "palabra": "oxígeno",
+              "inicioMs": 6820,
+              "finMs": 7260
+            },
+            {
+              "palabra": "elemental",
+              "inicioMs": 7260,
+              "finMs": 7620
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 7620,
+              "finMs": 8140
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 8140,
+              "finMs": 8260
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 8260,
+              "finMs": 8360
+            },
+            {
+              "palabra": "nutriente",
+              "inicioMs": 8360,
+              "finMs": 8720
+            },
+            {
+              "palabra": "vital",
+              "inicioMs": 8720,
+              "finMs": 9120
+            },
+            {
+              "palabra": "sino",
+              "inicioMs": 9300,
+              "finMs": 9500
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 9500,
+              "finMs": 9720
+            },
+            {
+              "palabra": "gas",
+              "inicioMs": 9720,
+              "finMs": 9845
+            },
+            {
+              "palabra": "corrosivo",
+              "inicioMs": 9720,
+              "finMs": 10440
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 10440,
+              "finMs": 10640
+            },
+            {
+              "palabra": "altamente",
+              "inicioMs": 10640,
+              "finMs": 11020
+            },
+            {
+              "palabra": "tóxico",
+              "inicioMs": 11020,
+              "finMs": 11540
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 11540,
+              "finMs": 11780
+            },
+            {
+              "palabra": "destruía",
+              "inicioMs": 11780,
+              "finMs": 12240
+            },
+            {
+              "palabra": "sus",
+              "inicioMs": 12240,
+              "finMs": 12440
+            },
+            {
+              "palabra": "membranas",
+              "inicioMs": 12440,
+              "finMs": 12900
+            },
+            {
+              "palabra": "celulares",
+              "inicioMs": 12900,
+              "finMs": 13360
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 13360,
+              "finMs": 13700
+            },
+            {
+              "palabra": "quemaba",
+              "inicioMs": 13700,
+              "finMs": 13980
+            },
+            {
+              "palabra": "sus",
+              "inicioMs": 13980,
+              "finMs": 14240
+            },
+            {
+              "palabra": "proteínas",
+              "inicioMs": 14240,
+              "finMs": 14900
+            },
+            {
+              "palabra": "La",
+              "inicioMs": 15100,
+              "finMs": 15160
+            },
+            {
+              "palabra": "vida",
+              "inicioMs": 15160,
+              "finMs": 15360
+            },
+            {
+              "palabra": "prosperaba",
+              "inicioMs": 15360,
+              "finMs": 15920
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 15920,
+              "finMs": 16020
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 16020,
+              "finMs": 16100
+            },
+            {
+              "palabra": "oscuridad",
+              "inicioMs": 16100,
+              "finMs": 16520
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 16520,
+              "finMs": 16740
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 16740,
+              "finMs": 16880
+            },
+            {
+              "palabra": "silencio",
+              "inicioMs": 16880,
+              "finMs": 17280
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17280,
+              "finMs": 17420
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 17420,
+              "finMs": 17540
+            },
+            {
+              "palabra": "equilibrio",
+              "inicioMs": 17540,
+              "finMs": 17980
+            },
+            {
+              "palabra": "químico",
+              "inicioMs": 17980,
+              "finMs": 18440
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 18440,
+              "finMs": 18600
+            },
+            {
+              "palabra": "parecía",
+              "inicioMs": 18600,
+              "finMs": 19000
+            },
+            {
+              "palabra": "destinado",
+              "inicioMs": 19000,
+              "finMs": 19520
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 19520,
+              "finMs": 19620
+            },
+            {
+              "palabra": "durar",
+              "inicioMs": 19620,
+              "finMs": 19860
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 19860,
+              "finMs": 20020
+            },
+            {
+              "palabra": "siempre",
+              "inicioMs": 20020,
+              "finMs": 20440
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 49.46
+    },
+    {
+      "id": "cap_2",
+      "numero": 2,
+      "titulo": "La Invención del Veneno Fotosintético",
+      "resumen": "Las cianobacterias y el milagro bioenergético de romper la molécula de agua.",
+      "escenas": [
+        {
+          "id": 3,
+          "texto": "Todo cambió cuando un grupo diminuto de bacterias marinas dio con la mayor revolución bioquímica de la historia de la vida: la fotosíntesis oxigénica. Desarrollaron un complejo molecular capaz de hacer algo energéticamente sobrehumano: capturar la luz solar para romper las fortísimas uniones de las moléculas de agua, extrayendo átomos de hidrógeno para sintetizar azúcares y liberando el oxígeno sobrante al mar como un simple residuo metabólico tóxico. Eran las cianobacterias.",
+          "tituloVisual": "CIANOBACTERIAS",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "cielo_dia",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "fotosíntesis oxigénica",
+            "romper moléculas de agua",
+            "cianobacterias",
+            "residuo tóxico"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "eureka",
+          "duracionSegundos": 25.81,
+          "palabras": [
+            {
+              "palabra": "Todo",
+              "inicioMs": 0,
+              "finMs": 220
+            },
+            {
+              "palabra": "cambió",
+              "inicioMs": 220,
+              "finMs": 640
+            },
+            {
+              "palabra": "cuando",
+              "inicioMs": 640,
+              "finMs": 840
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 840,
+              "finMs": 1040
+            },
+            {
+              "palabra": "grupo",
+              "inicioMs": 1040,
+              "finMs": 1240
+            },
+            {
+              "palabra": "diminuto",
+              "inicioMs": 1400,
+              "finMs": 1680
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1680,
+              "finMs": 1860
+            },
+            {
+              "palabra": "bacterias",
+              "inicioMs": 1860,
+              "finMs": 2280
+            },
+            {
+              "palabra": "marinas",
+              "inicioMs": 2280,
+              "finMs": 2660
+            },
+            {
+              "palabra": "dio",
+              "inicioMs": 2660,
+              "finMs": 2860
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 2860,
+              "finMs": 3060
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 3060,
+              "finMs": 3180
+            },
+            {
+              "palabra": "mayor",
+              "inicioMs": 3180,
+              "finMs": 3440
+            },
+            {
+              "palabra": "revolución",
+              "inicioMs": 3440,
+              "finMs": 3940
+            },
+            {
+              "palabra": "bioquímica",
+              "inicioMs": 3940,
+              "finMs": 4560
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4560,
+              "finMs": 4680
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 4680,
+              "finMs": 4780
+            },
+            {
+              "palabra": "historia",
+              "inicioMs": 4780,
+              "finMs": 5020
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5020,
+              "finMs": 5200
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5200,
+              "finMs": 5300
+            },
+            {
+              "palabra": "vida",
+              "inicioMs": 5300,
+              "finMs": 5560
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5700,
+              "finMs": 5780
+            },
+            {
+              "palabra": "fotosíntesis",
+              "inicioMs": 5780,
+              "finMs": 6440
+            },
+            {
+              "palabra": "oxigénica",
+              "inicioMs": 6440,
+              "finMs": 7300
+            },
+            {
+              "palabra": "Desarrollaron",
+              "inicioMs": 7520,
+              "finMs": 8080
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 8080,
+              "finMs": 8220
+            },
+            {
+              "palabra": "complejo",
+              "inicioMs": 8220,
+              "finMs": 8680
+            },
+            {
+              "palabra": "molecular",
+              "inicioMs": 8680,
+              "finMs": 9140
+            },
+            {
+              "palabra": "capaz",
+              "inicioMs": 9140,
+              "finMs": 9660
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9660,
+              "finMs": 9860
+            },
+            {
+              "palabra": "hacer",
+              "inicioMs": 9860,
+              "finMs": 10040
+            },
+            {
+              "palabra": "algo",
+              "inicioMs": 10040,
+              "finMs": 10300
+            },
+            {
+              "palabra": "energéticamente",
+              "inicioMs": 10300,
+              "finMs": 10940
+            },
+            {
+              "palabra": "sobrehumano",
+              "inicioMs": 11340,
+              "finMs": 11720
+            },
+            {
+              "palabra": "capturar",
+              "inicioMs": 11880,
+              "finMs": 12200
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 12200,
+              "finMs": 12380
+            },
+            {
+              "palabra": "luz",
+              "inicioMs": 12380,
+              "finMs": 12540
+            },
+            {
+              "palabra": "solar",
+              "inicioMs": 12540,
+              "finMs": 12840
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 12840,
+              "finMs": 13120
+            },
+            {
+              "palabra": "romper",
+              "inicioMs": 13120,
+              "finMs": 13460
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 13460,
+              "finMs": 13640
+            },
+            {
+              "palabra": "fortísimas",
+              "inicioMs": 13640,
+              "finMs": 14220
+            },
+            {
+              "palabra": "uniones",
+              "inicioMs": 14220,
+              "finMs": 14600
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14600,
+              "finMs": 14760
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 14760,
+              "finMs": 14900
+            },
+            {
+              "palabra": "moléculas",
+              "inicioMs": 14900,
+              "finMs": 15420
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15420,
+              "finMs": 15520
+            },
+            {
+              "palabra": "agua",
+              "inicioMs": 15520,
+              "finMs": 15820
+            },
+            {
+              "palabra": "extrayendo",
+              "inicioMs": 15920,
+              "finMs": 16540
+            },
+            {
+              "palabra": "átomos",
+              "inicioMs": 16540,
+              "finMs": 16960
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 16960,
+              "finMs": 17160
+            },
+            {
+              "palabra": "hidrógeno",
+              "inicioMs": 17160,
+              "finMs": 17680
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 17680,
+              "finMs": 17880
+            },
+            {
+              "palabra": "sintetizar",
+              "inicioMs": 17880,
+              "finMs": 18440
+            },
+            {
+              "palabra": "azúcares",
+              "inicioMs": 18440,
+              "finMs": 19080
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 19080,
+              "finMs": 19420
+            },
+            {
+              "palabra": "liberando",
+              "inicioMs": 19420,
+              "finMs": 19820
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 19820,
+              "finMs": 19920
+            },
+            {
+              "palabra": "oxígeno",
+              "inicioMs": 19920,
+              "finMs": 20360
+            },
+            {
+              "palabra": "sobrante",
+              "inicioMs": 20360,
+              "finMs": 20540
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 20540,
+              "finMs": 20720
+            },
+            {
+              "palabra": "mar",
+              "inicioMs": 20900,
+              "finMs": 21020
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 21020,
+              "finMs": 21320
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 21320,
+              "finMs": 21500
+            },
+            {
+              "palabra": "simple",
+              "inicioMs": 21500,
+              "finMs": 21800
+            },
+            {
+              "palabra": "residuo",
+              "inicioMs": 21800,
+              "finMs": 22300
+            },
+            {
+              "palabra": "metabólico",
+              "inicioMs": 22300,
+              "finMs": 22880
+            },
+            {
+              "palabra": "tóxico",
+              "inicioMs": 22880,
+              "finMs": 23300
+            },
+            {
+              "palabra": "Eran",
+              "inicioMs": 23300,
+              "finMs": 24160
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 24160,
+              "finMs": 24320
+            },
+            {
+              "palabra": "cianobacterias",
+              "inicioMs": 24580,
+              "finMs": 25320
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "texto": "Al principio, el veneno generado por las cianobacterias no se acumuló en el ambiente. El mar primitivo estaba repleto de hierro disuelto que actuó como una esponja química gigantesca: cada átomo de oxígeno liberado se unía de inmediato al hierro, oxidándolo y precipitándolo al fondo marino en forma de óxido férrico. Durante cientos de millones de años, este proceso acumuló colosales yacimientos de hierro bandeado que hoy son la principal fuente de acero de nuestra civilización industrial.",
+          "tituloVisual": "HIERRO BANDEADO",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "abismo_oceanico",
+          "transicion": "whip_left",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "esponja química",
+            "óxido férrico",
+            "hierro bandeado",
+            "yacimientos industriales"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "analytical",
+          "infografia": {
+            "tipo": "tarjeta_concepto",
+            "titulo": "Sumidero Oceánico",
+            "subtitulo": "Formaciones de Hierro Bandeado (BIF)",
+            "valorPrincipal": "Fe₂O₃",
+            "unidad": "Herrumbre Cósmica",
+            "items": [
+              {
+                "etiqueta": "Hierro en solución",
+                "valor": "Atrapa todo el oxígeno producido",
+                "porcentaje": 100,
+                "color": "#FFE600"
+              },
+              {
+                "etiqueta": "Oxígeno en atmósfera",
+                "valor": "Cero (Retenido en el lecho marino)",
+                "porcentaje": 0,
+                "color": "#38BDF8"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 25.594,
+          "palabras": [
+            {
+              "palabra": "Al",
+              "inicioMs": 0,
+              "finMs": 240
+            },
+            {
+              "palabra": "principio",
+              "inicioMs": 240,
+              "finMs": 680
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 920,
+              "finMs": 1080
+            },
+            {
+              "palabra": "veneno",
+              "inicioMs": 1080,
+              "finMs": 1340
+            },
+            {
+              "palabra": "generado",
+              "inicioMs": 1340,
+              "finMs": 1840
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 1840,
+              "finMs": 2040
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 2040,
+              "finMs": 2180
+            },
+            {
+              "palabra": "cianobacterias",
+              "inicioMs": 2180,
+              "finMs": 3020
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 3020,
+              "finMs": 3440
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 3440,
+              "finMs": 3600
+            },
+            {
+              "palabra": "acumuló",
+              "inicioMs": 3600,
+              "finMs": 4020
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 4020,
+              "finMs": 4140
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 4140,
+              "finMs": 4260
+            },
+            {
+              "palabra": "ambiente",
+              "inicioMs": 4260,
+              "finMs": 4580
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 4820,
+              "finMs": 4920
+            },
+            {
+              "palabra": "mar",
+              "inicioMs": 4920,
+              "finMs": 5040
+            },
+            {
+              "palabra": "primitivo",
+              "inicioMs": 5040,
+              "finMs": 5560
+            },
+            {
+              "palabra": "estaba",
+              "inicioMs": 5560,
+              "finMs": 5800
+            },
+            {
+              "palabra": "repleto",
+              "inicioMs": 5960,
+              "finMs": 6280
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6280,
+              "finMs": 6420
+            },
+            {
+              "palabra": "hierro",
+              "inicioMs": 6420,
+              "finMs": 6680
+            },
+            {
+              "palabra": "disuelto",
+              "inicioMs": 6780,
+              "finMs": 7160
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 7160,
+              "finMs": 7300
+            },
+            {
+              "palabra": "actuó",
+              "inicioMs": 7300,
+              "finMs": 7600
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 7600,
+              "finMs": 7800
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 7800,
+              "finMs": 7940
+            },
+            {
+              "palabra": "esponja",
+              "inicioMs": 7940,
+              "finMs": 8360
+            },
+            {
+              "palabra": "química",
+              "inicioMs": 8360,
+              "finMs": 8780
+            },
+            {
+              "palabra": "gigantesca",
+              "inicioMs": 8780,
+              "finMs": 9440
+            },
+            {
+              "palabra": "cada",
+              "inicioMs": 9740,
+              "finMs": 9840
+            },
+            {
+              "palabra": "átomo",
+              "inicioMs": 9840,
+              "finMs": 10180
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 10180,
+              "finMs": 10340
+            },
+            {
+              "palabra": "oxígeno",
+              "inicioMs": 10340,
+              "finMs": 10820
+            },
+            {
+              "palabra": "liberado",
+              "inicioMs": 10820,
+              "finMs": 11220
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 11220,
+              "finMs": 11420
+            },
+            {
+              "palabra": "unía",
+              "inicioMs": 11420,
+              "finMs": 11680
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11680,
+              "finMs": 11820
+            },
+            {
+              "palabra": "inmediato",
+              "inicioMs": 11820,
+              "finMs": 12260
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 12260,
+              "finMs": 12360
+            },
+            {
+              "palabra": "hierro",
+              "inicioMs": 12360,
+              "finMs": 12700
+            },
+            {
+              "palabra": "oxidándolo",
+              "inicioMs": 12840,
+              "finMs": 13460
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 13460,
+              "finMs": 13620
+            },
+            {
+              "palabra": "precipitándolo",
+              "inicioMs": 13620,
+              "finMs": 14340
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 14340,
+              "finMs": 14460
+            },
+            {
+              "palabra": "fondo",
+              "inicioMs": 14460,
+              "finMs": 14640
+            },
+            {
+              "palabra": "marino",
+              "inicioMs": 14640,
+              "finMs": 15100
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 15100,
+              "finMs": 15300
+            },
+            {
+              "palabra": "forma",
+              "inicioMs": 15300,
+              "finMs": 15480
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15480,
+              "finMs": 15700
+            },
+            {
+              "palabra": "óxido",
+              "inicioMs": 15700,
+              "finMs": 16000
+            },
+            {
+              "palabra": "férrico",
+              "inicioMs": 16000,
+              "finMs": 16460
+            },
+            {
+              "palabra": "Durante",
+              "inicioMs": 16620,
+              "finMs": 16900
+            },
+            {
+              "palabra": "cientos",
+              "inicioMs": 16900,
+              "finMs": 17300
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17300,
+              "finMs": 17460
+            },
+            {
+              "palabra": "millones",
+              "inicioMs": 17460,
+              "finMs": 17680
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17680,
+              "finMs": 17960
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 17960,
+              "finMs": 18240
+            },
+            {
+              "palabra": "este",
+              "inicioMs": 18580,
+              "finMs": 18880
+            },
+            {
+              "palabra": "proceso",
+              "inicioMs": 18880,
+              "finMs": 19240
+            },
+            {
+              "palabra": "acumuló",
+              "inicioMs": 19240,
+              "finMs": 19760
+            },
+            {
+              "palabra": "colosales",
+              "inicioMs": 20040,
+              "finMs": 20240
+            },
+            {
+              "palabra": "yacimientos",
+              "inicioMs": 20240,
+              "finMs": 20640
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 20640,
+              "finMs": 20940
+            },
+            {
+              "palabra": "hierro",
+              "inicioMs": 20940,
+              "finMs": 21260
+            },
+            {
+              "palabra": "bandeado",
+              "inicioMs": 21260,
+              "finMs": 21840
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 21840,
+              "finMs": 21960
+            },
+            {
+              "palabra": "hoy",
+              "inicioMs": 21960,
+              "finMs": 22060
+            },
+            {
+              "palabra": "son",
+              "inicioMs": 22060,
+              "finMs": 22200
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 22200,
+              "finMs": 22320
+            },
+            {
+              "palabra": "principal",
+              "inicioMs": 22320,
+              "finMs": 22660
+            },
+            {
+              "palabra": "fuente",
+              "inicioMs": 22660,
+              "finMs": 23120
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 23120,
+              "finMs": 23300
+            },
+            {
+              "palabra": "acero",
+              "inicioMs": 23300,
+              "finMs": 23620
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 23620,
+              "finMs": 23760
+            },
+            {
+              "palabra": "nuestra",
+              "inicioMs": 23760,
+              "finMs": 24000
+            },
+            {
+              "palabra": "civilización",
+              "inicioMs": 24000,
+              "finMs": 24560
+            },
+            {
+              "palabra": "industrial",
+              "inicioMs": 24560,
+              "finMs": 25100
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 51.4
+    },
+    {
+      "id": "cap_3",
+      "numero": 3,
+      "titulo": "La Saturación y el Holocausto Químico",
+      "resumen": "Cuando el hierro se agotó y el oxígeno envenenó los mares y el aire.",
+      "escenas": [
+        {
+          "id": 5,
+          "texto": "Pero llegó un momento en que el hierro de los océanos se agotó por completo. La esponja mineral se saturó y ya no pudo absorber ni una molécula más. Sin sumideros químicos donde ocultarse, el oxígeno libre comenzó a acumularse a borbotones en el agua del mar y a desbordarse hacia la atmósfera terrestre. Lo que para las cianobacterias era un subproducto de desecho se convirtió en el mayor holocausto químico de la historia planetaria.",
+          "tituloVisual": "LA SATURACION TOTAL",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "abismo_oceanico",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "esponja saturada",
+            "oxígeno libre desbordado",
+            "holocausto químico",
+            "cataclismo ecológico"
+          ],
+          "poseId": "confused_scratch_head",
+          "expresion": "shocked",
+          "duracionSegundos": 22.018,
+          "palabras": [
+            {
+              "palabra": "Pero",
+              "inicioMs": 0,
+              "finMs": 220
+            },
+            {
+              "palabra": "llegó",
+              "inicioMs": 220,
+              "finMs": 440
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 440,
+              "finMs": 620
+            },
+            {
+              "palabra": "momento",
+              "inicioMs": 620,
+              "finMs": 820
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 820,
+              "finMs": 1060
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 1060,
+              "finMs": 1180
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 1180,
+              "finMs": 1340
+            },
+            {
+              "palabra": "hierro",
+              "inicioMs": 1340,
+              "finMs": 1540
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1540,
+              "finMs": 1620
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 1620,
+              "finMs": 1780
+            },
+            {
+              "palabra": "océanos",
+              "inicioMs": 1780,
+              "finMs": 2160
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 2160,
+              "finMs": 2400
+            },
+            {
+              "palabra": "agotó",
+              "inicioMs": 2400,
+              "finMs": 2600
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 2600,
+              "finMs": 2860
+            },
+            {
+              "palabra": "completo",
+              "inicioMs": 2860,
+              "finMs": 3400
+            },
+            {
+              "palabra": "La",
+              "inicioMs": 3600,
+              "finMs": 3660
+            },
+            {
+              "palabra": "esponja",
+              "inicioMs": 3660,
+              "finMs": 4000
+            },
+            {
+              "palabra": "mineral",
+              "inicioMs": 4000,
+              "finMs": 4240
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 4240,
+              "finMs": 4500
+            },
+            {
+              "palabra": "saturó",
+              "inicioMs": 4500,
+              "finMs": 4940
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 4940,
+              "finMs": 5140
+            },
+            {
+              "palabra": "ya",
+              "inicioMs": 5140,
+              "finMs": 5300
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 5300,
+              "finMs": 5440
+            },
+            {
+              "palabra": "pudo",
+              "inicioMs": 5440,
+              "finMs": 5680
+            },
+            {
+              "palabra": "absorber",
+              "inicioMs": 5680,
+              "finMs": 6100
+            },
+            {
+              "palabra": "ni",
+              "inicioMs": 6100,
+              "finMs": 6400
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 6400,
+              "finMs": 6600
+            },
+            {
+              "palabra": "molécula",
+              "inicioMs": 6600,
+              "finMs": 7040
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 7040,
+              "finMs": 7200
+            },
+            {
+              "palabra": "Sin",
+              "inicioMs": 7440,
+              "finMs": 7520
+            },
+            {
+              "palabra": "sumideros",
+              "inicioMs": 7520,
+              "finMs": 8120
+            },
+            {
+              "palabra": "químicos",
+              "inicioMs": 8120,
+              "finMs": 8460
+            },
+            {
+              "palabra": "donde",
+              "inicioMs": 8460,
+              "finMs": 8680
+            },
+            {
+              "palabra": "ocultarse",
+              "inicioMs": 8680,
+              "finMs": 9360
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 9620,
+              "finMs": 9720
+            },
+            {
+              "palabra": "oxígeno",
+              "inicioMs": 9720,
+              "finMs": 10220
+            },
+            {
+              "palabra": "libre",
+              "inicioMs": 10220,
+              "finMs": 10440
+            },
+            {
+              "palabra": "comenzó",
+              "inicioMs": 10440,
+              "finMs": 10960
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 10960,
+              "finMs": 11080
+            },
+            {
+              "palabra": "acumularse",
+              "inicioMs": 11080,
+              "finMs": 11560
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 11560,
+              "finMs": 11640
+            },
+            {
+              "palabra": "borbotones",
+              "inicioMs": 11640,
+              "finMs": 12140
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 12140,
+              "finMs": 12320
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 12320,
+              "finMs": 12440
+            },
+            {
+              "palabra": "agua",
+              "inicioMs": 12440,
+              "finMs": 12600
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 12600,
+              "finMs": 12780
+            },
+            {
+              "palabra": "mar",
+              "inicioMs": 12780,
+              "finMs": 12980
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 12980,
+              "finMs": 13420
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 13420,
+              "finMs": 13460
+            },
+            {
+              "palabra": "desbordarse",
+              "inicioMs": 13460,
+              "finMs": 14080
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 14080,
+              "finMs": 14260
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 14260,
+              "finMs": 14380
+            },
+            {
+              "palabra": "atmósfera",
+              "inicioMs": 14380,
+              "finMs": 14760
+            },
+            {
+              "palabra": "terrestre",
+              "inicioMs": 14760,
+              "finMs": 15420
+            },
+            {
+              "palabra": "Lo",
+              "inicioMs": 15600,
+              "finMs": 15680
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 15680,
+              "finMs": 15820
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 15820,
+              "finMs": 15980
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 15980,
+              "finMs": 16120
+            },
+            {
+              "palabra": "cianobacterias",
+              "inicioMs": 16120,
+              "finMs": 16800
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 16800,
+              "finMs": 17000
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 17000,
+              "finMs": 17120
+            },
+            {
+              "palabra": "subproducto",
+              "inicioMs": 17260,
+              "finMs": 17580
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17580,
+              "finMs": 17860
+            },
+            {
+              "palabra": "desecho",
+              "inicioMs": 17860,
+              "finMs": 18320
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 18440,
+              "finMs": 18520
+            },
+            {
+              "palabra": "convirtió",
+              "inicioMs": 18520,
+              "finMs": 19000
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 19000,
+              "finMs": 19080
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 19080,
+              "finMs": 19200
+            },
+            {
+              "palabra": "mayor",
+              "inicioMs": 19200,
+              "finMs": 19420
+            },
+            {
+              "palabra": "holocausto",
+              "inicioMs": 19420,
+              "finMs": 20000
+            },
+            {
+              "palabra": "químico",
+              "inicioMs": 20000,
+              "finMs": 20480
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 20480,
+              "finMs": 20580
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 20580,
+              "finMs": 20680
+            },
+            {
+              "palabra": "historia",
+              "inicioMs": 20680,
+              "finMs": 20920
+            },
+            {
+              "palabra": "planetaria",
+              "inicioMs": 20920,
+              "finMs": 21540
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "texto": "Para los billones de organismos anaeróbicos que poblaban la Tierra, el oxígeno era un agente corrosivo letal: arrancaba electrones de sus estructuras celulares y oxidaba violentamente sus enzimas. El noventa y nueve por ciento de todas las especies vivas del planeta perecieron en una extinción masiva silenciosa. Solo sobrevivieron aquellas arqueas que huyeron hacia el lodo profundo sin oxígeno o los respiraderos hidrotermales del abismo oceánico.",
+          "tituloVisual": "EXTINCION DEL 99%",
+          "layout": "split_screen",
+          "composicionVisual": "plano_medio",
+          "escenario": "red_subterranea",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_impact.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "noventa y nueve por ciento",
+            "extinción masiva",
+            "respiraderos hidrotermales",
+            "arqueas sobrevivientes"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "sad",
+          "duracionSegundos": 24.034,
+          "palabras": [
+            {
+              "palabra": "Para",
+              "inicioMs": 0,
+              "finMs": 220
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 220,
+              "finMs": 460
+            },
+            {
+              "palabra": "billones",
+              "inicioMs": 460,
+              "finMs": 840
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 840,
+              "finMs": 1000
+            },
+            {
+              "palabra": "organismos",
+              "inicioMs": 1000,
+              "finMs": 1600
+            },
+            {
+              "palabra": "anaeróbicos",
+              "inicioMs": 1600,
+              "finMs": 2300
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 2300,
+              "finMs": 2500
+            },
+            {
+              "palabra": "poblaban",
+              "inicioMs": 2500,
+              "finMs": 2920
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 2920,
+              "finMs": 3080
+            },
+            {
+              "palabra": "Tierra",
+              "inicioMs": 3080,
+              "finMs": 3400
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 3540,
+              "finMs": 3640
+            },
+            {
+              "palabra": "oxígeno",
+              "inicioMs": 3640,
+              "finMs": 4260
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 4260,
+              "finMs": 4460
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 4460,
+              "finMs": 4640
+            },
+            {
+              "palabra": "agente",
+              "inicioMs": 4640,
+              "finMs": 5020
+            },
+            {
+              "palabra": "corrosivo",
+              "inicioMs": 5020,
+              "finMs": 5560
+            },
+            {
+              "palabra": "letal",
+              "inicioMs": 5560,
+              "finMs": 6020
+            },
+            {
+              "palabra": "arrancaba",
+              "inicioMs": 6280,
+              "finMs": 6720
+            },
+            {
+              "palabra": "electrones",
+              "inicioMs": 6800,
+              "finMs": 7260
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 7260,
+              "finMs": 7340
+            },
+            {
+              "palabra": "sus",
+              "inicioMs": 7340,
+              "finMs": 7500
+            },
+            {
+              "palabra": "estructuras",
+              "inicioMs": 7500,
+              "finMs": 8040
+            },
+            {
+              "palabra": "celulares",
+              "inicioMs": 8040,
+              "finMs": 8520
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 8520,
+              "finMs": 8860
+            },
+            {
+              "palabra": "oxidaba",
+              "inicioMs": 8860,
+              "finMs": 9240
+            },
+            {
+              "palabra": "violentamente",
+              "inicioMs": 9240,
+              "finMs": 9780
+            },
+            {
+              "palabra": "sus",
+              "inicioMs": 9780,
+              "finMs": 10040
+            },
+            {
+              "palabra": "enzimas",
+              "inicioMs": 10040,
+              "finMs": 10520
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 10680,
+              "finMs": 10780
+            },
+            {
+              "palabra": "noventa",
+              "inicioMs": 10780,
+              "finMs": 10947
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 10947,
+              "finMs": 11113
+            },
+            {
+              "palabra": "nueve",
+              "inicioMs": 10947,
+              "finMs": 11100
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 11100,
+              "finMs": 11225
+            },
+            {
+              "palabra": "ciento",
+              "inicioMs": 11100,
+              "finMs": 11860
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11860,
+              "finMs": 12180
+            },
+            {
+              "palabra": "todas",
+              "inicioMs": 12180,
+              "finMs": 12340
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 12340,
+              "finMs": 12600
+            },
+            {
+              "palabra": "especies",
+              "inicioMs": 12600,
+              "finMs": 12960
+            },
+            {
+              "palabra": "vivas",
+              "inicioMs": 12960,
+              "finMs": 13280
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 13280,
+              "finMs": 13380
+            },
+            {
+              "palabra": "planeta",
+              "inicioMs": 13380,
+              "finMs": 13740
+            },
+            {
+              "palabra": "perecieron",
+              "inicioMs": 13740,
+              "finMs": 14340
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 14340,
+              "finMs": 14500
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 14500,
+              "finMs": 14660
+            },
+            {
+              "palabra": "extinción",
+              "inicioMs": 14660,
+              "finMs": 15140
+            },
+            {
+              "palabra": "masiva",
+              "inicioMs": 15140,
+              "finMs": 15520
+            },
+            {
+              "palabra": "silenciosa",
+              "inicioMs": 15520,
+              "finMs": 16200
+            },
+            {
+              "palabra": "Solo",
+              "inicioMs": 16380,
+              "finMs": 16600
+            },
+            {
+              "palabra": "sobrevivieron",
+              "inicioMs": 16600,
+              "finMs": 17240
+            },
+            {
+              "palabra": "aquellas",
+              "inicioMs": 17240,
+              "finMs": 17680
+            },
+            {
+              "palabra": "arqueas",
+              "inicioMs": 17680,
+              "finMs": 18080
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 18080,
+              "finMs": 18220
+            },
+            {
+              "palabra": "huyeron",
+              "inicioMs": 18220,
+              "finMs": 18580
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 18580,
+              "finMs": 18840
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 18840,
+              "finMs": 19020
+            },
+            {
+              "palabra": "lodo",
+              "inicioMs": 19020,
+              "finMs": 19160
+            },
+            {
+              "palabra": "profundo",
+              "inicioMs": 19160,
+              "finMs": 19620
+            },
+            {
+              "palabra": "sin",
+              "inicioMs": 19620,
+              "finMs": 19840
+            },
+            {
+              "palabra": "oxígeno",
+              "inicioMs": 19840,
+              "finMs": 20700
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 20700,
+              "finMs": 20750
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 20800,
+              "finMs": 20900
+            },
+            {
+              "palabra": "respiraderos",
+              "inicioMs": 20900,
+              "finMs": 21560
+            },
+            {
+              "palabra": "hidrotermales",
+              "inicioMs": 21560,
+              "finMs": 22240
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 22240,
+              "finMs": 22340
+            },
+            {
+              "palabra": "abismo",
+              "inicioMs": 22340,
+              "finMs": 22740
+            },
+            {
+              "palabra": "oceánico",
+              "inicioMs": 23060,
+              "finMs": 23560
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 46.05
+    },
+    {
+      "id": "cap_4",
+      "numero": 4,
+      "titulo": "La Tierra Bola de Nieve Huroriana",
+      "resumen": "La destrucción del efecto invernadero de metano y la mayor glaciación de la historia.",
+      "escenas": [
+        {
+          "id": 7,
+          "texto": "El cataclismo biológico desató de inmediato una catástrofe climática aún más aterradora. El clima cálido de la Tierra primitiva dependía del gas metano atmosférico, un gas de efecto invernadero treinta veces más potente que el dióxido de carbono. Cuando el oxígeno inundó la atmósfera superior, reaccionó químicamente con el metano, transformándolo en agua y dióxido de carbono y destruyendo la manta térmica que mantenía templado al planeta.",
+          "tituloVisual": "COLAPSO DEL METANO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "cielo_dia",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "gas metano",
+            "efecto invernadero",
+            "manta térmica destruida",
+            "catástrofe climática"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "analytical",
+          "duracionSegundos": 21.658,
+          "palabras": [
+            {
+              "palabra": "El",
+              "inicioMs": 0,
+              "finMs": 180
+            },
+            {
+              "palabra": "cataclismo",
+              "inicioMs": 180,
+              "finMs": 700
+            },
+            {
+              "palabra": "biológico",
+              "inicioMs": 700,
+              "finMs": 1260
+            },
+            {
+              "palabra": "desató",
+              "inicioMs": 1260,
+              "finMs": 1680
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1680,
+              "finMs": 1760
+            },
+            {
+              "palabra": "inmediato",
+              "inicioMs": 1760,
+              "finMs": 2160
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 2160,
+              "finMs": 2300
+            },
+            {
+              "palabra": "catástrofe",
+              "inicioMs": 2300,
+              "finMs": 2800
+            },
+            {
+              "palabra": "climática",
+              "inicioMs": 2800,
+              "finMs": 3260
+            },
+            {
+              "palabra": "aún",
+              "inicioMs": 3260,
+              "finMs": 3473
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 3473,
+              "finMs": 3687
+            },
+            {
+              "palabra": "aterradora",
+              "inicioMs": 3900,
+              "finMs": 4500
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 4660,
+              "finMs": 4760
+            },
+            {
+              "palabra": "clima",
+              "inicioMs": 4760,
+              "finMs": 5080
+            },
+            {
+              "palabra": "cálido",
+              "inicioMs": 5080,
+              "finMs": 5440
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5440,
+              "finMs": 5540
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5540,
+              "finMs": 5620
+            },
+            {
+              "palabra": "Tierra",
+              "inicioMs": 5620,
+              "finMs": 5820
+            },
+            {
+              "palabra": "primitiva",
+              "inicioMs": 5820,
+              "finMs": 6360
+            },
+            {
+              "palabra": "dependía",
+              "inicioMs": 6360,
+              "finMs": 6840
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 6840,
+              "finMs": 6920
+            },
+            {
+              "palabra": "gas",
+              "inicioMs": 6920,
+              "finMs": 7100
+            },
+            {
+              "palabra": "metano",
+              "inicioMs": 7100,
+              "finMs": 7500
+            },
+            {
+              "palabra": "atmosférico",
+              "inicioMs": 7500,
+              "finMs": 8100
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 8280,
+              "finMs": 8420
+            },
+            {
+              "palabra": "gas",
+              "inicioMs": 8420,
+              "finMs": 8540
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8540,
+              "finMs": 8680
+            },
+            {
+              "palabra": "efecto",
+              "inicioMs": 8680,
+              "finMs": 8840
+            },
+            {
+              "palabra": "invernadero",
+              "inicioMs": 8840,
+              "finMs": 9460
+            },
+            {
+              "palabra": "treinta",
+              "inicioMs": 9460,
+              "finMs": 9740
+            },
+            {
+              "palabra": "veces",
+              "inicioMs": 9740,
+              "finMs": 10000
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 10000,
+              "finMs": 10220
+            },
+            {
+              "palabra": "potente",
+              "inicioMs": 10220,
+              "finMs": 10640
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 10640,
+              "finMs": 10800
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 10800,
+              "finMs": 10900
+            },
+            {
+              "palabra": "dióxido",
+              "inicioMs": 10900,
+              "finMs": 11220
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11220,
+              "finMs": 11320
+            },
+            {
+              "palabra": "carbono",
+              "inicioMs": 11320,
+              "finMs": 11680
+            },
+            {
+              "palabra": "Cuando",
+              "inicioMs": 11820,
+              "finMs": 12040
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 12040,
+              "finMs": 12160
+            },
+            {
+              "palabra": "oxígeno",
+              "inicioMs": 12160,
+              "finMs": 12660
+            },
+            {
+              "palabra": "inundó",
+              "inicioMs": 12660,
+              "finMs": 12980
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 12980,
+              "finMs": 13080
+            },
+            {
+              "palabra": "atmósfera",
+              "inicioMs": 13080,
+              "finMs": 13500
+            },
+            {
+              "palabra": "superior",
+              "inicioMs": 13500,
+              "finMs": 13980
+            },
+            {
+              "palabra": "reaccionó",
+              "inicioMs": 14120,
+              "finMs": 14600
+            },
+            {
+              "palabra": "químicamente",
+              "inicioMs": 14600,
+              "finMs": 15100
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 15100,
+              "finMs": 15440
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 15440,
+              "finMs": 15560
+            },
+            {
+              "palabra": "metano",
+              "inicioMs": 15560,
+              "finMs": 15960
+            },
+            {
+              "palabra": "transformándolo",
+              "inicioMs": 16040,
+              "finMs": 16760
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 16760,
+              "finMs": 16920
+            },
+            {
+              "palabra": "agua",
+              "inicioMs": 16920,
+              "finMs": 17120
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 17120,
+              "finMs": 17240
+            },
+            {
+              "palabra": "dióxido",
+              "inicioMs": 17240,
+              "finMs": 17660
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17660,
+              "finMs": 17780
+            },
+            {
+              "palabra": "carbono",
+              "inicioMs": 17780,
+              "finMs": 18120
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 18120,
+              "finMs": 18440
+            },
+            {
+              "palabra": "destruyendo",
+              "inicioMs": 18440,
+              "finMs": 18960
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 18960,
+              "finMs": 19080
+            },
+            {
+              "palabra": "manta",
+              "inicioMs": 19080,
+              "finMs": 19340
+            },
+            {
+              "palabra": "térmica",
+              "inicioMs": 19340,
+              "finMs": 19760
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 19760,
+              "finMs": 19900
+            },
+            {
+              "palabra": "mantenía",
+              "inicioMs": 19900,
+              "finMs": 20340
+            },
+            {
+              "palabra": "templado",
+              "inicioMs": 20500,
+              "finMs": 20780
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 20780,
+              "finMs": 20830
+            },
+            {
+              "palabra": "planeta",
+              "inicioMs": 20880,
+              "finMs": 21160
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "texto": "Sin el metano, las temperaturas globales cayeron en picado hacia los cincuenta grados bajo cero. Los casquetes polares avanzaron hacia el ecuador reflejando la radiación solar y sumieron al planeta en la glaciación Huroniana: trescientos millones de años durante los cuales la Tierra entera se convirtió en una gigantesca bola de nieve sólida cubierta por capas de hielo de más de un kilómetro de espesor de polo a polo.",
+          "tituloVisual": "TIERRA BOLA DE NIEVE",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "lunar",
+          "transicion": "whip_left",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "glaciación Huroniana",
+            "cincuenta grados bajo cero",
+            "trescientos millones de años",
+            "bola de nieve"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "shocked",
+          "infografia": {
+            "tipo": "dato_clave",
+            "titulo": "Glaciación Huroniana",
+            "subtitulo": "La Mayor Era de Hielo del Planeta",
+            "valorPrincipal": "300M",
+            "unidad": "años bajo el hielo",
+            "items": [
+              {
+                "etiqueta": "Temperatura media global",
+                "valor": "-50°C (Congelación total)",
+                "porcentaje": 100,
+                "color": "#38BDF8"
+              },
+              {
+                "etiqueta": "Grosor del hielo ecuatorial",
+                "valor": "> 1.000 metros de espesor",
+                "porcentaje": 80,
+                "color": "#FFE600"
+              }
+            ],
+            "colorAcento": "#38BDF8"
+          },
+          "duracionSegundos": 20.458,
+          "palabras": [
+            {
+              "palabra": "Sin",
+              "inicioMs": 0,
+              "finMs": 220
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 220,
+              "finMs": 340
+            },
+            {
+              "palabra": "metano",
+              "inicioMs": 340,
+              "finMs": 720
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 820,
+              "finMs": 960
+            },
+            {
+              "palabra": "temperaturas",
+              "inicioMs": 960,
+              "finMs": 1480
+            },
+            {
+              "palabra": "globales",
+              "inicioMs": 1480,
+              "finMs": 2000
+            },
+            {
+              "palabra": "cayeron",
+              "inicioMs": 2000,
+              "finMs": 2320
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 2320,
+              "finMs": 2445
+            },
+            {
+              "palabra": "picado",
+              "inicioMs": 2320,
+              "finMs": 2860
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 2860,
+              "finMs": 3100
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 3100,
+              "finMs": 3280
+            },
+            {
+              "palabra": "cincuenta",
+              "inicioMs": 3280,
+              "finMs": 3430
+            },
+            {
+              "palabra": "grados",
+              "inicioMs": 3580,
+              "finMs": 4060
+            },
+            {
+              "palabra": "bajo",
+              "inicioMs": 4060,
+              "finMs": 4240
+            },
+            {
+              "palabra": "cero",
+              "inicioMs": 4240,
+              "finMs": 4600
+            },
+            {
+              "palabra": "Los",
+              "inicioMs": 4760,
+              "finMs": 4880
+            },
+            {
+              "palabra": "casquetes",
+              "inicioMs": 4880,
+              "finMs": 5380
+            },
+            {
+              "palabra": "polares",
+              "inicioMs": 5380,
+              "finMs": 5720
+            },
+            {
+              "palabra": "avanzaron",
+              "inicioMs": 5720,
+              "finMs": 6260
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 6260,
+              "finMs": 6480
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 6480,
+              "finMs": 6600
+            },
+            {
+              "palabra": "ecuador",
+              "inicioMs": 6600,
+              "finMs": 6920
+            },
+            {
+              "palabra": "reflejando",
+              "inicioMs": 7060,
+              "finMs": 7460
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 7460,
+              "finMs": 7620
+            },
+            {
+              "palabra": "radiación",
+              "inicioMs": 7620,
+              "finMs": 8020
+            },
+            {
+              "palabra": "solar",
+              "inicioMs": 8020,
+              "finMs": 8360
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 8360,
+              "finMs": 8640
+            },
+            {
+              "palabra": "sumieron",
+              "inicioMs": 8640,
+              "finMs": 8960
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 8960,
+              "finMs": 9120
+            },
+            {
+              "palabra": "planeta",
+              "inicioMs": 9120,
+              "finMs": 9400
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 9400,
+              "finMs": 9580
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 9580,
+              "finMs": 9660
+            },
+            {
+              "palabra": "glaciación",
+              "inicioMs": 9660,
+              "finMs": 10140
+            },
+            {
+              "palabra": "Huroniana",
+              "inicioMs": 10140,
+              "finMs": 10620
+            },
+            {
+              "palabra": "trescientos",
+              "inicioMs": 10620,
+              "finMs": 10890
+            },
+            {
+              "palabra": "millones",
+              "inicioMs": 11160,
+              "finMs": 11580
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11580,
+              "finMs": 11860
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 11860,
+              "finMs": 12100
+            },
+            {
+              "palabra": "durante",
+              "inicioMs": 12300,
+              "finMs": 12480
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 12480,
+              "finMs": 12700
+            },
+            {
+              "palabra": "cuales",
+              "inicioMs": 12700,
+              "finMs": 12900
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 12900,
+              "finMs": 13100
+            },
+            {
+              "palabra": "Tierra",
+              "inicioMs": 13100,
+              "finMs": 13300
+            },
+            {
+              "palabra": "entera",
+              "inicioMs": 13300,
+              "finMs": 13720
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 13720,
+              "finMs": 13880
+            },
+            {
+              "palabra": "convirtió",
+              "inicioMs": 13880,
+              "finMs": 14360
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 14360,
+              "finMs": 14460
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 14460,
+              "finMs": 14580
+            },
+            {
+              "palabra": "gigantesca",
+              "inicioMs": 14580,
+              "finMs": 15200
+            },
+            {
+              "palabra": "bola",
+              "inicioMs": 15200,
+              "finMs": 15400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15400,
+              "finMs": 15580
+            },
+            {
+              "palabra": "nieve",
+              "inicioMs": 15580,
+              "finMs": 15840
+            },
+            {
+              "palabra": "sólida",
+              "inicioMs": 15840,
+              "finMs": 16280
+            },
+            {
+              "palabra": "cubierta",
+              "inicioMs": 16400,
+              "finMs": 16720
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 16720,
+              "finMs": 16880
+            },
+            {
+              "palabra": "capas",
+              "inicioMs": 16880,
+              "finMs": 17240
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17240,
+              "finMs": 17380
+            },
+            {
+              "palabra": "hielo",
+              "inicioMs": 17380,
+              "finMs": 17640
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17640,
+              "finMs": 17740
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 17740,
+              "finMs": 17880
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17880,
+              "finMs": 18020
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 18020,
+              "finMs": 18140
+            },
+            {
+              "palabra": "kilómetro",
+              "inicioMs": 18140,
+              "finMs": 18640
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18640,
+              "finMs": 18820
+            },
+            {
+              "palabra": "espesor",
+              "inicioMs": 18820,
+              "finMs": 19220
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19220,
+              "finMs": 19360
+            },
+            {
+              "palabra": "polo",
+              "inicioMs": 19360,
+              "finMs": 19640
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 19640,
+              "finMs": 19660
+            },
+            {
+              "palabra": "polo",
+              "inicioMs": 19660,
+              "finMs": 19980
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 42.12
+    },
+    {
+      "id": "cap_5",
+      "numero": 5,
+      "titulo": "El Caparazón de Ozono y el Motor Mitocondrial",
+      "resumen": "La creación de la capa de ozono y el salto evolutivo a la respiración aeróbica.",
+      "escenas": [
+        {
+          "id": 9,
+          "texto": "Tras millones de años de vulcanismo que perforó el hielo acumulando dióxido de carbono en la atmósfera, el planeta finalmente se descongeló, y el oxígeno reveló su auténtico milagro evolutivo. En la estratosfera, la radiación solar dividió las moléculas de oxígeno creando la capa de ozono, un escudo invisible que por primera vez bloqueó los letales rayos ultravioleta del Sol, permitiendo que la vida pudiera algún día abandonar el agua y colonizar la tierra firme.",
+          "tituloVisual": "NACE LA CAPA DE OZONO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "cielo_dia",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_sci_fi_beep.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "capa de ozono",
+            "rayos ultravioleta",
+            "tierra firme",
+            "descongelamiento volcánico"
+          ],
+          "poseId": "standing_curious",
+          "expresion": "eureka",
+          "duracionSegundos": 23.41,
+          "palabras": [
+            {
+              "palabra": "Tras",
+              "inicioMs": 0,
+              "finMs": 200
+            },
+            {
+              "palabra": "millones",
+              "inicioMs": 200,
+              "finMs": 420
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 420,
+              "finMs": 740
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 740,
+              "finMs": 920
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 920,
+              "finMs": 1100
+            },
+            {
+              "palabra": "vulcanismo",
+              "inicioMs": 1100,
+              "finMs": 1660
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 1660,
+              "finMs": 1860
+            },
+            {
+              "palabra": "perforó",
+              "inicioMs": 1860,
+              "finMs": 2260
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 2260,
+              "finMs": 2420
+            },
+            {
+              "palabra": "hielo",
+              "inicioMs": 2420,
+              "finMs": 2620
+            },
+            {
+              "palabra": "acumulando",
+              "inicioMs": 2620,
+              "finMs": 3180
+            },
+            {
+              "palabra": "dióxido",
+              "inicioMs": 3180,
+              "finMs": 3660
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3660,
+              "finMs": 3800
+            },
+            {
+              "palabra": "carbono",
+              "inicioMs": 3800,
+              "finMs": 4120
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 4120,
+              "finMs": 4300
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 4300,
+              "finMs": 4340
+            },
+            {
+              "palabra": "atmósfera",
+              "inicioMs": 4340,
+              "finMs": 4800
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 5140,
+              "finMs": 5200
+            },
+            {
+              "palabra": "planeta",
+              "inicioMs": 5200,
+              "finMs": 5520
+            },
+            {
+              "palabra": "finalmente",
+              "inicioMs": 5520,
+              "finMs": 6000
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 6000,
+              "finMs": 6320
+            },
+            {
+              "palabra": "descongeló",
+              "inicioMs": 6320,
+              "finMs": 6980
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 6980,
+              "finMs": 7380
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 7380,
+              "finMs": 7480
+            },
+            {
+              "palabra": "oxígeno",
+              "inicioMs": 7480,
+              "finMs": 7940
+            },
+            {
+              "palabra": "reveló",
+              "inicioMs": 7940,
+              "finMs": 8260
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 8260,
+              "finMs": 8420
+            },
+            {
+              "palabra": "auténtico",
+              "inicioMs": 8420,
+              "finMs": 8900
+            },
+            {
+              "palabra": "milagro",
+              "inicioMs": 8900,
+              "finMs": 9300
+            },
+            {
+              "palabra": "evolutivo",
+              "inicioMs": 9300,
+              "finMs": 9840
+            },
+            {
+              "palabra": "En",
+              "inicioMs": 10000,
+              "finMs": 10060
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 10060,
+              "finMs": 10140
+            },
+            {
+              "palabra": "estratosfera",
+              "inicioMs": 10140,
+              "finMs": 10680
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 10820,
+              "finMs": 10880
+            },
+            {
+              "palabra": "radiación",
+              "inicioMs": 10880,
+              "finMs": 11300
+            },
+            {
+              "palabra": "solar",
+              "inicioMs": 11300,
+              "finMs": 11580
+            },
+            {
+              "palabra": "dividió",
+              "inicioMs": 11580,
+              "finMs": 12140
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 12140,
+              "finMs": 12300
+            },
+            {
+              "palabra": "moléculas",
+              "inicioMs": 12300,
+              "finMs": 12820
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12820,
+              "finMs": 12900
+            },
+            {
+              "palabra": "oxígeno",
+              "inicioMs": 12900,
+              "finMs": 13440
+            },
+            {
+              "palabra": "creando",
+              "inicioMs": 13440,
+              "finMs": 13740
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 13740,
+              "finMs": 13880
+            },
+            {
+              "palabra": "capa",
+              "inicioMs": 13880,
+              "finMs": 14160
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14160,
+              "finMs": 14240
+            },
+            {
+              "palabra": "ozono",
+              "inicioMs": 14240,
+              "finMs": 14580
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 14740,
+              "finMs": 14880
+            },
+            {
+              "palabra": "escudo",
+              "inicioMs": 14880,
+              "finMs": 15220
+            },
+            {
+              "palabra": "invisible",
+              "inicioMs": 15220,
+              "finMs": 15560
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 15560,
+              "finMs": 15900
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 15940,
+              "finMs": 16040
+            },
+            {
+              "palabra": "primera",
+              "inicioMs": 16040,
+              "finMs": 16320
+            },
+            {
+              "palabra": "vez",
+              "inicioMs": 16320,
+              "finMs": 16620
+            },
+            {
+              "palabra": "bloqueó",
+              "inicioMs": 16760,
+              "finMs": 16920
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 16920,
+              "finMs": 17040
+            },
+            {
+              "palabra": "letales",
+              "inicioMs": 17040,
+              "finMs": 17380
+            },
+            {
+              "palabra": "rayos",
+              "inicioMs": 17380,
+              "finMs": 17720
+            },
+            {
+              "palabra": "ultravioleta",
+              "inicioMs": 17720,
+              "finMs": 18300
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 18300,
+              "finMs": 18460
+            },
+            {
+              "palabra": "Sol",
+              "inicioMs": 18460,
+              "finMs": 18740
+            },
+            {
+              "palabra": "permitiendo",
+              "inicioMs": 18880,
+              "finMs": 19380
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 19380,
+              "finMs": 19500
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 19500,
+              "finMs": 19620
+            },
+            {
+              "palabra": "vida",
+              "inicioMs": 19620,
+              "finMs": 19840
+            },
+            {
+              "palabra": "pudiera",
+              "inicioMs": 19840,
+              "finMs": 20220
+            },
+            {
+              "palabra": "algún",
+              "inicioMs": 20220,
+              "finMs": 20460
+            },
+            {
+              "palabra": "día",
+              "inicioMs": 20460,
+              "finMs": 20740
+            },
+            {
+              "palabra": "abandonar",
+              "inicioMs": 20740,
+              "finMs": 21240
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 21240,
+              "finMs": 21400
+            },
+            {
+              "palabra": "agua",
+              "inicioMs": 21400,
+              "finMs": 21620
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 21620,
+              "finMs": 21740
+            },
+            {
+              "palabra": "colonizar",
+              "inicioMs": 21740,
+              "finMs": 22140
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 22140,
+              "finMs": 22300
+            },
+            {
+              "palabra": "tierra",
+              "inicioMs": 22300,
+              "finMs": 22500
+            },
+            {
+              "palabra": "firme",
+              "inicioMs": 22500,
+              "finMs": 22920
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "texto": "Y en el interior de las células ocurrió un salto gigantesco: las células que aprendieron a utilizar el oxígeno para quemar nutrientes obtuvieron una recompensa energética astronómica: la respiración aeróbica produce dieciocho veces más energía por molécula de glucosa que la fermentación anaeróbica. Esta inmensa batería metabólica impulsó la aparición de las mitocondrias, la célula eucariota y, en última instancia, toda la vida multicelular compleja.",
+          "tituloVisual": "18 VECES MAS ENERGIA",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "respiración aeróbica",
+            "dieciocho veces más energía",
+            "mitocondrias",
+            "célula eucariota"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "talking",
+          "infografia": {
+            "tipo": "comparacion",
+            "titulo": "Eficiencia Metabólica",
+            "subtitulo": "Fermentación Anaeróbica vs Respiración con Oxígeno",
+            "valorPrincipal": "36 ATP",
+            "unidad": "vs 2 ATP por glucosa",
+            "items": [
+              {
+                "etiqueta": "Respiración con O₂ (Aeróbica)",
+                "valor": "36 ATP (18x más energía)",
+                "porcentaje": 100,
+                "color": "#FFE600"
+              },
+              {
+                "etiqueta": "Fermentación sin O₂ (Anaeróbica)",
+                "valor": "2 ATP (Energía mínima)",
+                "porcentaje": 5,
+                "color": "#94A3B8"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 23.722,
+          "palabras": [
+            {
+              "palabra": "Y",
+              "inicioMs": 0,
+              "finMs": 160
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 160,
+              "finMs": 240
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 240,
+              "finMs": 360
+            },
+            {
+              "palabra": "interior",
+              "inicioMs": 360,
+              "finMs": 620
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 620,
+              "finMs": 800
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 800,
+              "finMs": 1000
+            },
+            {
+              "palabra": "células",
+              "inicioMs": 1000,
+              "finMs": 1220
+            },
+            {
+              "palabra": "ocurrió",
+              "inicioMs": 1220,
+              "finMs": 1900
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 1900,
+              "finMs": 2020
+            },
+            {
+              "palabra": "salto",
+              "inicioMs": 2020,
+              "finMs": 2340
+            },
+            {
+              "palabra": "gigantesco",
+              "inicioMs": 2340,
+              "finMs": 3040
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 3280,
+              "finMs": 3400
+            },
+            {
+              "palabra": "células",
+              "inicioMs": 3400,
+              "finMs": 3660
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 3660,
+              "finMs": 3920
+            },
+            {
+              "palabra": "aprendieron",
+              "inicioMs": 3920,
+              "finMs": 4300
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 4300,
+              "finMs": 4400
+            },
+            {
+              "palabra": "utilizar",
+              "inicioMs": 4400,
+              "finMs": 4740
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 4740,
+              "finMs": 4900
+            },
+            {
+              "palabra": "oxígeno",
+              "inicioMs": 4900,
+              "finMs": 5320
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 5320,
+              "finMs": 5460
+            },
+            {
+              "palabra": "quemar",
+              "inicioMs": 5460,
+              "finMs": 5600
+            },
+            {
+              "palabra": "nutrientes",
+              "inicioMs": 5740,
+              "finMs": 6240
+            },
+            {
+              "palabra": "obtuvieron",
+              "inicioMs": 6240,
+              "finMs": 6820
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 6820,
+              "finMs": 7020
+            },
+            {
+              "palabra": "recompensa",
+              "inicioMs": 7020,
+              "finMs": 7540
+            },
+            {
+              "palabra": "energética",
+              "inicioMs": 7540,
+              "finMs": 8000
+            },
+            {
+              "palabra": "astronómica",
+              "inicioMs": 8000,
+              "finMs": 8680
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 8800,
+              "finMs": 8880
+            },
+            {
+              "palabra": "respiración",
+              "inicioMs": 8880,
+              "finMs": 9460
+            },
+            {
+              "palabra": "aeróbica",
+              "inicioMs": 9460,
+              "finMs": 9940
+            },
+            {
+              "palabra": "produce",
+              "inicioMs": 9940,
+              "finMs": 10240
+            },
+            {
+              "palabra": "dieciocho",
+              "inicioMs": 10240,
+              "finMs": 10520
+            },
+            {
+              "palabra": "veces",
+              "inicioMs": 10800,
+              "finMs": 11220
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 11220,
+              "finMs": 11480
+            },
+            {
+              "palabra": "energía",
+              "inicioMs": 11480,
+              "finMs": 11920
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 11920,
+              "finMs": 12180
+            },
+            {
+              "palabra": "molécula",
+              "inicioMs": 12180,
+              "finMs": 12660
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12660,
+              "finMs": 12760
+            },
+            {
+              "palabra": "glucosa",
+              "inicioMs": 12760,
+              "finMs": 13220
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 13220,
+              "finMs": 13380
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 13380,
+              "finMs": 13460
+            },
+            {
+              "palabra": "fermentación",
+              "inicioMs": 13460,
+              "finMs": 14060
+            },
+            {
+              "palabra": "anaeróbica",
+              "inicioMs": 14060,
+              "finMs": 14740
+            },
+            {
+              "palabra": "Esta",
+              "inicioMs": 15120,
+              "finMs": 15340
+            },
+            {
+              "palabra": "inmensa",
+              "inicioMs": 15340,
+              "finMs": 15660
+            },
+            {
+              "palabra": "batería",
+              "inicioMs": 15660,
+              "finMs": 16080
+            },
+            {
+              "palabra": "metabólica",
+              "inicioMs": 16080,
+              "finMs": 16660
+            },
+            {
+              "palabra": "impulsó",
+              "inicioMs": 16660,
+              "finMs": 17200
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 17200,
+              "finMs": 17340
+            },
+            {
+              "palabra": "aparición",
+              "inicioMs": 17340,
+              "finMs": 17680
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17680,
+              "finMs": 17840
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 17840,
+              "finMs": 17980
+            },
+            {
+              "palabra": "mitocondrias",
+              "inicioMs": 17980,
+              "finMs": 18600
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 18740,
+              "finMs": 18780
+            },
+            {
+              "palabra": "célula",
+              "inicioMs": 18780,
+              "finMs": 19120
+            },
+            {
+              "palabra": "eucariota",
+              "inicioMs": 19220,
+              "finMs": 19680
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 19680,
+              "finMs": 19820
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 19820,
+              "finMs": 19920
+            },
+            {
+              "palabra": "última",
+              "inicioMs": 19920,
+              "finMs": 20180
+            },
+            {
+              "palabra": "instancia",
+              "inicioMs": 20180,
+              "finMs": 20700
+            },
+            {
+              "palabra": "toda",
+              "inicioMs": 20700,
+              "finMs": 21520
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 21520,
+              "finMs": 21720
+            },
+            {
+              "palabra": "vida",
+              "inicioMs": 21720,
+              "finMs": 21900
+            },
+            {
+              "palabra": "multicelular",
+              "inicioMs": 21900,
+              "finMs": 22600
+            },
+            {
+              "palabra": "compleja",
+              "inicioMs": 22600,
+              "finMs": 23260
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 47.13
+    },
+    {
+      "id": "cap_6",
+      "numero": 6,
+      "titulo": "El Veneno que nos Regala la Vida",
+      "resumen": "La paradoja final del oxígeno como motor de la existencia y el envejecimiento.",
+      "escenas": [
+        {
+          "id": 11,
+          "texto": "La Gran Oxidación nos recuerda la paradoja suprema de la biología terrestre: el mismo gas que envenenó al noventa y nueve por ciento de los habitantes arcaicos de la Tierra es el combustible indispensable que hoy bombea tu corazón y alimenta tus pensamientos en este preciso milisegundo. Sin aquel cataclismo primordial perpetrado por humildes bacterias acuáticas, los animales, las plantas y los seres humanos jamás habríamos existido.",
+          "tituloVisual": "EL COMBUSTIBLE DE LA MENTE",
+          "layout": "split_screen",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "paradoja suprema",
+            "combustible biológico",
+            "bacterias acuáticas",
+            "pensamiento humano"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "analytical",
+          "duracionSegundos": 23.074,
+          "palabras": [
+            {
+              "palabra": "La",
+              "inicioMs": 0,
+              "finMs": 200
+            },
+            {
+              "palabra": "Gran",
+              "inicioMs": 200,
+              "finMs": 420
+            },
+            {
+              "palabra": "Oxidación",
+              "inicioMs": 420,
+              "finMs": 1060
+            },
+            {
+              "palabra": "nos",
+              "inicioMs": 1060,
+              "finMs": 1240
+            },
+            {
+              "palabra": "recuerda",
+              "inicioMs": 1240,
+              "finMs": 1740
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 1740,
+              "finMs": 1860
+            },
+            {
+              "palabra": "paradoja",
+              "inicioMs": 1860,
+              "finMs": 2340
+            },
+            {
+              "palabra": "suprema",
+              "inicioMs": 2340,
+              "finMs": 2820
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2820,
+              "finMs": 2920
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 2920,
+              "finMs": 3020
+            },
+            {
+              "palabra": "biología",
+              "inicioMs": 3020,
+              "finMs": 3400
+            },
+            {
+              "palabra": "terrestre",
+              "inicioMs": 3400,
+              "finMs": 4040
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 4240,
+              "finMs": 4340
+            },
+            {
+              "palabra": "mismo",
+              "inicioMs": 4340,
+              "finMs": 4660
+            },
+            {
+              "palabra": "gas",
+              "inicioMs": 4660,
+              "finMs": 4860
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 4860,
+              "finMs": 5040
+            },
+            {
+              "palabra": "envenenó",
+              "inicioMs": 5040,
+              "finMs": 5460
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 5460,
+              "finMs": 5580
+            },
+            {
+              "palabra": "noventa",
+              "inicioMs": 5580,
+              "finMs": 5747
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 5747,
+              "finMs": 5913
+            },
+            {
+              "palabra": "nueve",
+              "inicioMs": 5747,
+              "finMs": 5940
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 5940,
+              "finMs": 6065
+            },
+            {
+              "palabra": "ciento",
+              "inicioMs": 5940,
+              "finMs": 6700
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6700,
+              "finMs": 6980
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 6980,
+              "finMs": 7120
+            },
+            {
+              "palabra": "habitantes",
+              "inicioMs": 7120,
+              "finMs": 7580
+            },
+            {
+              "palabra": "arcaicos",
+              "inicioMs": 7580,
+              "finMs": 8060
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8060,
+              "finMs": 8200
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 8200,
+              "finMs": 8280
+            },
+            {
+              "palabra": "Tierra",
+              "inicioMs": 8280,
+              "finMs": 8520
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 8520,
+              "finMs": 9040
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 9040,
+              "finMs": 9160
+            },
+            {
+              "palabra": "combustible",
+              "inicioMs": 9160,
+              "finMs": 9720
+            },
+            {
+              "palabra": "indispensable",
+              "inicioMs": 9720,
+              "finMs": 10300
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 10300,
+              "finMs": 10680
+            },
+            {
+              "palabra": "hoy",
+              "inicioMs": 10680,
+              "finMs": 10860
+            },
+            {
+              "palabra": "bombea",
+              "inicioMs": 10860,
+              "finMs": 11240
+            },
+            {
+              "palabra": "tu",
+              "inicioMs": 11240,
+              "finMs": 11360
+            },
+            {
+              "palabra": "corazón",
+              "inicioMs": 11360,
+              "finMs": 11700
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 11700,
+              "finMs": 12160
+            },
+            {
+              "palabra": "alimenta",
+              "inicioMs": 12160,
+              "finMs": 12520
+            },
+            {
+              "palabra": "tus",
+              "inicioMs": 12520,
+              "finMs": 12700
+            },
+            {
+              "palabra": "pensamientos",
+              "inicioMs": 12700,
+              "finMs": 13180
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 13180,
+              "finMs": 13480
+            },
+            {
+              "palabra": "este",
+              "inicioMs": 13480,
+              "finMs": 13700
+            },
+            {
+              "palabra": "preciso",
+              "inicioMs": 13700,
+              "finMs": 14040
+            },
+            {
+              "palabra": "milisegundo",
+              "inicioMs": 14040,
+              "finMs": 14780
+            },
+            {
+              "palabra": "Sin",
+              "inicioMs": 15020,
+              "finMs": 15120
+            },
+            {
+              "palabra": "aquel",
+              "inicioMs": 15120,
+              "finMs": 15440
+            },
+            {
+              "palabra": "cataclismo",
+              "inicioMs": 15440,
+              "finMs": 15980
+            },
+            {
+              "palabra": "primordial",
+              "inicioMs": 15980,
+              "finMs": 16520
+            },
+            {
+              "palabra": "perpetrado",
+              "inicioMs": 16520,
+              "finMs": 17040
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 17040,
+              "finMs": 17240
+            },
+            {
+              "palabra": "humildes",
+              "inicioMs": 17240,
+              "finMs": 17620
+            },
+            {
+              "palabra": "bacterias",
+              "inicioMs": 17620,
+              "finMs": 18060
+            },
+            {
+              "palabra": "acuáticas",
+              "inicioMs": 18060,
+              "finMs": 18500
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 18500,
+              "finMs": 18620
+            },
+            {
+              "palabra": "animales",
+              "inicioMs": 18740,
+              "finMs": 19140
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 19500,
+              "finMs": 19620
+            },
+            {
+              "palabra": "plantas",
+              "inicioMs": 19620,
+              "finMs": 20160
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 20160,
+              "finMs": 20260
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 20260,
+              "finMs": 20420
+            },
+            {
+              "palabra": "seres",
+              "inicioMs": 20420,
+              "finMs": 20620
+            },
+            {
+              "palabra": "humanos",
+              "inicioMs": 20620,
+              "finMs": 21020
+            },
+            {
+              "palabra": "jamás",
+              "inicioMs": 21020,
+              "finMs": 21520
+            },
+            {
+              "palabra": "habríamos",
+              "inicioMs": 21520,
+              "finMs": 21960
+            },
+            {
+              "palabra": "existido",
+              "inicioMs": 21960,
+              "finMs": 22600
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "texto": "Incluso hoy, el oxígeno sigue siendo una llama de doble filo: nos da la energía para vivir, pero sus radicales libres oxidan lentamente nuestras células en el proceso inevitable del envejecimiento. Cada bocanada de aire fresco es un tributo a la catástrofe que reinventó el planeta: un recordatorio de que en la historia de la vida, los mayores desastres ecológicos son a menudo la cuna de los milagros más asombrosos.",
+          "tituloVisual": "LA LLAMA DE DOBLE FILO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "cielo_dia",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "llama de doble filo",
+            "envejecimiento celular",
+            "tributo a la catástrofe",
+            "cuna de milagros"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "smile_wide",
+          "duracionSegundos": 21.586,
+          "palabras": [
+            {
+              "palabra": "Incluso",
+              "inicioMs": 0,
+              "finMs": 600
+            },
+            {
+              "palabra": "hoy",
+              "inicioMs": 600,
+              "finMs": 880
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 1060,
+              "finMs": 1180
+            },
+            {
+              "palabra": "oxígeno",
+              "inicioMs": 1180,
+              "finMs": 1640
+            },
+            {
+              "palabra": "sigue",
+              "inicioMs": 1640,
+              "finMs": 1840
+            },
+            {
+              "palabra": "siendo",
+              "inicioMs": 1840,
+              "finMs": 2160
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 2160,
+              "finMs": 2360
+            },
+            {
+              "palabra": "llama",
+              "inicioMs": 2360,
+              "finMs": 2620
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2620,
+              "finMs": 2800
+            },
+            {
+              "palabra": "doble",
+              "inicioMs": 2800,
+              "finMs": 3060
+            },
+            {
+              "palabra": "filo",
+              "inicioMs": 3060,
+              "finMs": 3500
+            },
+            {
+              "palabra": "nos",
+              "inicioMs": 3720,
+              "finMs": 3880
+            },
+            {
+              "palabra": "da",
+              "inicioMs": 3880,
+              "finMs": 4040
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 4040,
+              "finMs": 4140
+            },
+            {
+              "palabra": "energía",
+              "inicioMs": 4140,
+              "finMs": 4400
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 4400,
+              "finMs": 4720
+            },
+            {
+              "palabra": "vivir",
+              "inicioMs": 4720,
+              "finMs": 5020
+            },
+            {
+              "palabra": "pero",
+              "inicioMs": 5220,
+              "finMs": 5360
+            },
+            {
+              "palabra": "sus",
+              "inicioMs": 5360,
+              "finMs": 5520
+            },
+            {
+              "palabra": "radicales",
+              "inicioMs": 5520,
+              "finMs": 6080
+            },
+            {
+              "palabra": "libres",
+              "inicioMs": 6080,
+              "finMs": 6340
+            },
+            {
+              "palabra": "oxidan",
+              "inicioMs": 6340,
+              "finMs": 6900
+            },
+            {
+              "palabra": "lentamente",
+              "inicioMs": 6900,
+              "finMs": 7360
+            },
+            {
+              "palabra": "nuestras",
+              "inicioMs": 7360,
+              "finMs": 7840
+            },
+            {
+              "palabra": "células",
+              "inicioMs": 7840,
+              "finMs": 8200
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 8200,
+              "finMs": 8500
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 8500,
+              "finMs": 8620
+            },
+            {
+              "palabra": "proceso",
+              "inicioMs": 8620,
+              "finMs": 8900
+            },
+            {
+              "palabra": "inevitable",
+              "inicioMs": 8900,
+              "finMs": 9360
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 9360,
+              "finMs": 9700
+            },
+            {
+              "palabra": "envejecimiento",
+              "inicioMs": 9700,
+              "finMs": 10280
+            },
+            {
+              "palabra": "Cada",
+              "inicioMs": 10600,
+              "finMs": 10760
+            },
+            {
+              "palabra": "bocanada",
+              "inicioMs": 10980,
+              "finMs": 11240
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11240,
+              "finMs": 11440
+            },
+            {
+              "palabra": "aire",
+              "inicioMs": 11440,
+              "finMs": 11600
+            },
+            {
+              "palabra": "fresco",
+              "inicioMs": 11600,
+              "finMs": 12060
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 12060,
+              "finMs": 12280
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 12280,
+              "finMs": 12400
+            },
+            {
+              "palabra": "tributo",
+              "inicioMs": 12400,
+              "finMs": 12820
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 12820,
+              "finMs": 12880
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 12880,
+              "finMs": 12960
+            },
+            {
+              "palabra": "catástrofe",
+              "inicioMs": 12960,
+              "finMs": 13520
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 13520,
+              "finMs": 13700
+            },
+            {
+              "palabra": "reinventó",
+              "inicioMs": 13700,
+              "finMs": 14180
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 14180,
+              "finMs": 14280
+            },
+            {
+              "palabra": "planeta",
+              "inicioMs": 14280,
+              "finMs": 14640
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 14760,
+              "finMs": 14880
+            },
+            {
+              "palabra": "recordatorio",
+              "inicioMs": 14880,
+              "finMs": 15460
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15460,
+              "finMs": 15660
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 15660,
+              "finMs": 15780
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 15780,
+              "finMs": 15880
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 15880,
+              "finMs": 15940
+            },
+            {
+              "palabra": "historia",
+              "inicioMs": 15940,
+              "finMs": 16260
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 16260,
+              "finMs": 16380
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 16380,
+              "finMs": 16460
+            },
+            {
+              "palabra": "vida",
+              "inicioMs": 16460,
+              "finMs": 16740
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 16960,
+              "finMs": 17040
+            },
+            {
+              "palabra": "mayores",
+              "inicioMs": 17040,
+              "finMs": 17380
+            },
+            {
+              "palabra": "desastres",
+              "inicioMs": 17380,
+              "finMs": 17860
+            },
+            {
+              "palabra": "ecológicos",
+              "inicioMs": 17860,
+              "finMs": 18500
+            },
+            {
+              "palabra": "son",
+              "inicioMs": 18500,
+              "finMs": 18680
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 18680,
+              "finMs": 18780
+            },
+            {
+              "palabra": "menudo",
+              "inicioMs": 18780,
+              "finMs": 19080
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 19080,
+              "finMs": 19260
+            },
+            {
+              "palabra": "cuna",
+              "inicioMs": 19260,
+              "finMs": 19520
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19520,
+              "finMs": 19640
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 19640,
+              "finMs": 19760
+            },
+            {
+              "palabra": "milagros",
+              "inicioMs": 19760,
+              "finMs": 20160
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 20160,
+              "finMs": 20360
+            },
+            {
+              "palabra": "asombrosos",
+              "inicioMs": 20360,
+              "finMs": 21120
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 44.66
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "meta": {
+    "id": "doc_002_agua_profunda",
+    "slug": "ciclo_agua_profunda_oceano_manto",
+    "titulo": "El Ciclo del Agua Profunda: Hay más agua atrapada bajo la tierra que en los océanos",
+    "premisa": "A cientos de kilómetros de profundidad, atrapada en la estructura molecular de minerales de altísima presión como la ringwoodita, existe una reserva hídrica que podría triplicar todos los océanos juntos.",
+    "gancho": "¿Sabías que bajo la corteza terrestre duerme un océano tres veces más colosal que el Pacífico?",
+    "categoria": "Science & Technology",
+    "duracionObjetivo": [
+      380,
+      460
+    ],
+    "fps": 30,
+    "dimensiones": {
+      "width": 1920,
+      "height": 1080
+    },
+    "idioma": "es",
+    "voz": "alex.conds.pt",
+    "musicaPrincipal": "bgm/bgm.mp3",
+    "volumenMusica": 0.12,
+    "fuentes": [
+      "Pearson, D. G., et al. (2014). Hydrous mantle transition zone indicated by ringwoodite. Nature.",
+      "Schmandt, B., Jacobsen, S. D., et al. (2014). Dehydration melting at the lower mantle. Science.",
+      "Ohtani, E. (2015). Hydrous minerals and water storage in the deep mantle. Chemical Geology."
+    ],
+    "tags": [
+      "geologia",
+      "tierra",
+      "agua profunda",
+      "ringwoodita",
+      "manto terrestre",
+      "ciencia",
+      "documental"
+    ]
+  },
+  "capitulos": [
+    {
+      "id": "cap_1",
+      "numero": 1,
+      "titulo": "El Mapa Escolar Roto",
+      "resumen": "El ciclo del agua superficial que aprendemos de niños frente a la realidad del manto.",
+      "escenas": [
+        {
+          "id": 1,
+          "texto": "Todos recordamos el diagrama del ciclo del agua en la escuela primaria: el sol calienta el mar, el agua se evapora hacia las nubes, la lluvia cae sobre las montañas y los ríos regresan al océano en un circuito perfecto y cerrado.",
+          "tituloVisual": "EL CICLO INCOMPLETO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "cielo_dia",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "ciclo del agua",
+            "evapora hacia las nubes",
+            "circuito perfecto"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "analytical"
+        },
+        {
+          "id": 2,
+          "texto": "Pero ese mapa escolar omite la mayor parte de la historia. Durante décadas, los geólogos descubrieron que las placas tectónicas empujan millones de toneladas de agua marina hacia el interior del manto sin que los volcanes devuelvan la misma cantidad.",
+          "tituloVisual": "LA FUGA TECTONICA",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "abismo_oceanico",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "placas tectónicas",
+            "millones de toneladas",
+            "manto terrestre"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "confused",
+          "infografia": {
+            "tipo": "comparacion",
+            "titulo": "Balance Hídrico Subterráneo",
+            "subtitulo": "Subducción marina vs Emisión volcánica",
+            "valorPrincipal": "3x",
+            "unidad": "desbalance",
+            "items": [
+              {
+                "etiqueta": "Agua tragada por subducción",
+                "valor": "300 millones de toneladas/año",
+                "porcentaje": 100,
+                "color": "#38BDF8"
+              },
+              {
+                "etiqueta": "Devuelta por fumarolas",
+                "valor": "100 millones de toneladas/año",
+                "porcentaje": 33,
+                "color": "#F59E0B"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cap_2",
+      "numero": 2,
+      "titulo": "El Mito de las Cavernas Subterráneas",
+      "resumen": "Por qué el agua profunda no son lagos vacíos de Julio Verne sino enlaces minerales.",
+      "escenas": [
+        {
+          "id": 3,
+          "texto": "Al escuchar que hay océanos bajo tierra, la imaginación vuela a la novela de Julio Verne: cavernas gigantescas con playas iluminadas por hongos fosforescentes y mares interiores sobre los que navegan barcos.",
+          "tituloVisual": "EL SUEÑO DE VERNE",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "red_subterranea",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_transition.wav",
+          "volumenSfx": 0.22,
+          "palabrasClave": [
+            "Julio Verne",
+            "cavernas gigantescas",
+            "mares interiores"
+          ],
+          "poseId": "standing_relaxed",
+          "expresion": "smile_soft"
+        },
+        {
+          "id": 4,
+          "texto": "La realidad es mucho más asombrosa y hostil. A cuatrocientos kilómetros bajo nuestros pies, la presión descomunal aplasta cualquier cavidad vacía. La roca es tan densa que no hay espacio para una sola gota líquida.",
+          "tituloVisual": "PRESION TITANICA",
+          "layout": "primer_plano",
+          "composicionVisual": "primer_plano",
+          "escenario": "manto_terrestre",
+          "transicion": "whip_left",
+          "efectosCamara": [
+            "punch"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "cuatrocientos kilómetros",
+            "presión descomunal",
+            "roca densa"
+          ],
+          "poseId": "standing_confident",
+          "expresion": "analytical"
+        }
+      ]
+    },
+    {
+      "id": "cap_3",
+      "numero": 3,
+      "titulo": "La Zona de Transición: Atrapada en Cristal",
+      "resumen": "La ringwoodita y la absorción molecular de hidróxido.",
+      "escenas": [
+        {
+          "id": 5,
+          "texto": "Entre los cuatrocientos diez y los seiscientos sesenta kilómetros de profundidad se encuentra la Zona de Transición. Allí, bajo presiones que superan las cien mil atmósferas, el mineral olivino colapsa en una red cristalina llamada ringwoodita.",
+          "tituloVisual": "RINGWOODITA",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "espacio_molecular",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "Zona de Transición",
+            "cien mil atmósferas",
+            "ringwoodita"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "eureka",
+          "infografia": {
+            "tipo": "dato_clave",
+            "titulo": "Capacidad de Esponja Mineral",
+            "subtitulo": "Contenido de agua en peso de la ringwoodita",
+            "valorPrincipal": "1.5%",
+            "unidad": "en peso molecular",
+            "items": [
+              {
+                "etiqueta": "Volumen de la Zona",
+                "valor": "Capa de 250 km de grosor",
+                "porcentaje": 100,
+                "color": "#38BDF8"
+              },
+              {
+                "etiqueta": "Agua equivalente",
+                "valor": "Tres veces todos los océanos",
+                "porcentaje": 100,
+                "color": "#10B981"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          }
+        },
+        {
+          "id": 6,
+          "texto": "La ringwoodita no contiene agua líquida: atrapa iones de hidrógeno y oxígeno dentro de sus defectos cristalinos, funcionando como una esponja atómica sólida que puede contener hasta tres veces el volumen de todos los océanos superficiales.",
+          "tituloVisual": "ESPONJA ATOMICA",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "zona_transicion",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_transition.wav",
+          "volumenSfx": 0.22,
+          "palabrasClave": [
+            "esponja atómica",
+            "hidrógeno y oxígeno",
+            "tres veces el volumen"
+          ],
+          "poseId": "standing_confident",
+          "expresion": "smile_soft"
+        }
+      ]
+    },
+    {
+      "id": "cap_4",
+      "numero": 4,
+      "titulo": "El Diamante Mensajero de Juína",
+      "resumen": "El hallazgo en Brasil en dos mil catorce que demostró la teoría.",
+      "escenas": [
+        {
+          "id": 7,
+          "texto": "Durante años esto fue solo una hipótesis de laboratorio, hasta que en dos mil catorce un grupo de geólogos analizó un diamante sucio y opaco extraído de un río en Juína, Brasil.",
+          "tituloVisual": "EL DIAMANTE SUCIO",
+          "layout": "primer_plano",
+          "composicionVisual": "primer_plano",
+          "escenario": "laboratorio",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "dos mil catorce",
+            "diamante sucio",
+            "Juína Brasil"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "analytical"
+        },
+        {
+          "id": 8,
+          "texto": "En su interior, el diamante traía sellada una micro inclusión microscópica de ringwoodita auténtica. El análisis espectral confirmó que contenía un uno punto cuatro por ciento de agua pura en su estructura, confirmando que el manto profundo está empapado.",
+          "tituloVisual": "PRUEBA IRREFUTABLE",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "inclusión microscópica",
+            "uno punto cuatro por ciento",
+            "manto profundo"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "eureka",
+          "infografia": {
+            "tipo": "dato_clave",
+            "titulo": "Microinclusión Mineral",
+            "subtitulo": "Muestra preservada dentro del diamante",
+            "valorPrincipal": "40 µm",
+            "unidad": "tamaño cristal",
+            "items": [
+              {
+                "etiqueta": "Profundidad de origen",
+                "valor": "525 kilómetros",
+                "porcentaje": 100,
+                "color": "#F59E0B"
+              },
+              {
+                "etiqueta": "Agua confirmada",
+                "valor": "1.4% por peso",
+                "porcentaje": 95,
+                "color": "#38BDF8"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cap_5",
+      "numero": 5,
+      "titulo": "La Cinta Transportadora Planetaria",
+      "resumen": "La lubricación del manto que permite la tectónica de placas.",
+      "escenas": [
+        {
+          "id": 9,
+          "texto": "Esta agua oculta no es un detalle geológico menor: actúa como el lubricante fundamental del interior terrestre. Sin este contenido hídrico a nivel atómico, la roca del manto sería demasiado rígida para fluir por convección.",
+          "tituloVisual": "LUBRICANTE COSMICO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "manto_terrestre",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_transition.wav",
+          "volumenSfx": 0.22,
+          "palabrasClave": [
+            "lubricante fundamental",
+            "roca del manto",
+            "convección"
+          ],
+          "poseId": "standing_confident",
+          "expresion": "analytical"
+        },
+        {
+          "id": 10,
+          "texto": "Sin agua en el manto, la tectónica de placas se detendría por completo. No habría deriva continental, no se reciclaría el dióxido de carbono y la Tierra se convertiría en un desierto volcánico inerte similar a la superficie de Venus.",
+          "tituloVisual": "EL DESTINO DE VENUS",
+          "layout": "primer_plano",
+          "composicionVisual": "primer_plano",
+          "escenario": "superficie_marte",
+          "transicion": "whip_left",
+          "efectosCamara": [
+            "punch"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "tectónica de placas",
+            "reciclaría dióxido de carbono",
+            "desierto volcánico"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "shocked"
+        }
+      ]
+    },
+    {
+      "id": "cap_6",
+      "numero": 6,
+      "titulo": "El Océano sobre el que Caminamos",
+      "resumen": "Epílogo sobre la estabilidad planetaria que sostiene la vida.",
+      "escenas": [
+        {
+          "id": 11,
+          "texto": "La próxima vez que mires el mar, recuerda que las olas azules que vemos en la costa son solo el vapor superficial de un gigantesco océano sólido que late en silencio en las profundidades de nuestro mundo.",
+          "tituloVisual": "EL LATIDO OCULTO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "cielo_dia",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_transition.wav",
+          "volumenSfx": 0.22,
+          "palabrasClave": [
+            "olas azules",
+            "océano sólido",
+            "profundidades de nuestro mundo"
+          ],
+          "poseId": "standing_confident",
+          "expresion": "smile_soft"
+        }
+      ]
+    }
+  ]
+}

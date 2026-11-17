@@ -1,0 +1,36 @@
+<svg width="500" height="620" viewBox="-35 -40 470 545" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Efectos festivos de ambiente opcionales -->
+  
+  <!-- Sombra base -->
+  <ellipse cx="200" cy="472" rx="85" ry="14" fill="#E5E7EB" />
+  <!-- Capa trasera si aplica -->
+  
+  <!-- Piernas -->
+  <path d="M 198 330 L 145 395 L 130 460 M 198 330 L 245 395 L 265 458" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Torso -->
+  <path d="M 203 183 L 198 330" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Accesorios de cintura -->
+  
+  <!-- Brazos -->
+  <path d="M 201 210 L 145 265 L 130 290" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 201 210 L 255 255 L 275 235" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Accesorios de cuello delanteros -->
+  <g transform="translate(205, 187)"><path d="M -30 -4 Q 0 28 30 -4" stroke="#22C55E" stroke-width="6" fill="none"/><circle cx="-26" cy="0" r="8" fill="#F472B6" stroke="#111827" stroke-width="4"/><circle cx="-10" cy="10" r="8" fill="#FACC15" stroke="#111827" stroke-width="4"/><circle cx="10" cy="10" r="8" fill="#38BDF8" stroke="#111827" stroke-width="4"/><circle cx="26" cy="0" r="8" fill="#F472B6" stroke="#111827" stroke-width="4"/></g>
+  <!-- Accesorios de postura -->
+  
+  <!-- Cabeza, expresion facial y accesorios de cabeza/cara -->
+  <g transform="translate(5, 0) rotate(0, 200, 115)">
+    <circle cx="200" cy="115" r="68" fill="#FFFFFF" stroke="#111827" stroke-width="12" />
+    <ellipse cx="156" cy="122" rx="12" ry="7" fill="#FCA5A5" opacity="0.75" />
+<ellipse cx="244" cy="122" rx="12" ry="7" fill="#FCA5A5" opacity="0.75" />
+<path d="M 162 79 Q 176 69 190 79 M 210 79 Q 224 69 238 79" stroke="#111827" stroke-width="6" stroke-linecap="round" fill="none" />
+<path d="M 164 108 Q 176 92 188 108 M 212 108 Q 224 92 236 108" stroke="#111827" stroke-width="7" stroke-linecap="round" fill="none" />
+<path d="M 168 132 Q 200 162 232 132" stroke="#111827" stroke-width="8" stroke-linecap="round" fill="none" />
+    <g transform="translate(200, 115)"><rect x="-46" y="-22" width="38" height="24" rx="6" fill="#111827" fill-opacity="0.82" stroke="#111827" stroke-width="5"/><rect x="8" y="-22" width="38" height="24" rx="6" fill="#111827" fill-opacity="0.82" stroke="#111827" stroke-width="5"/><line x1="-8" y1="-14" x2="8" y2="-14" stroke="#111827" stroke-width="6"/><line x1="-46" y1="-14" x2="-66" y2="-10" stroke="#111827" stroke-width="5"/><line x1="46" y1="-14" x2="66" y2="-10" stroke="#111827" stroke-width="5"/></g>
+    <g transform="translate(200, 47)"><path d="M -36 4 A 36 28 0 0 1 36 4 Z" fill="#FDE68A" stroke="#111827" stroke-width="6"/><ellipse cx="0" cy="6" rx="68" ry="12" fill="#FDE68A" stroke="#111827" stroke-width="6"/><rect x="-35" y="-4" width="70" height="8" fill="#0EA5E9"/></g>
+  </g>
+  <!-- Props integrados en manos y cabeza -->
+  <g transform="translate(130, 290) rotate(0)"><line x1="4" y1="0" x2="18" y2="-32" stroke="#EC4899" stroke-width="6" stroke-linecap="round"/><circle cx="0" cy="10" r="22" fill="#78350F" stroke="#111827" stroke-width="6"/><path d="M -20 2 L 20 2" stroke="#FFFFFF" stroke-width="5"/></g>
+  <g transform="translate(275, 235) rotate(0)"><path d="M -10 -20 L -10 -34 L 10 -34 L 10 -20" stroke="#111827" stroke-width="6" fill="none"/><rect x="-28" y="-20" width="56" height="48" rx="6" fill="#F43F5E" stroke="#111827" stroke-width="6"/><circle cx="-10" cy="-2" r="6" fill="#FACC15"/><rect x="6" y="4" width="12" height="10" fill="#38BDF8"/></g>
+  
+</svg>

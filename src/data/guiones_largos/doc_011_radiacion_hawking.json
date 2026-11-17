@@ -1,0 +1,5261 @@
+{
+  "meta": {
+    "id": "doc_011_radiacion_hawking",
+    "slug": "radiacion_hawking_evaporacion_agujeros_negros",
+    "titulo": "La Radiación de Hawking: Cómo la Física Cuántica Destruye a los Agujeros Negros",
+    "premisa": "Durante décadas se creyó que los agujeros negros eran tumbas eternas e indestructibles de materia. En 1974, Stephen Hawking demostró que la mecánica cuántica en el horizonte de sucesos hace que se evaporen hasta estallar.",
+    "gancho": "¿Pueden morir los agujeros negros o sobrevivirán por siempre en el vacío del universo?",
+    "categoria": "Science & Technology",
+    "duracionObjetivo": [
+      420,
+      500
+    ],
+    "fps": 30,
+    "dimensiones": {
+      "width": 1920,
+      "height": 1080
+    },
+    "idioma": "es",
+    "voz": "alex.conds.pt",
+    "musicaPrincipal": "bgm/bgm.mp3",
+    "volumenMusica": 0.12,
+    "fuentes": [
+      "Hawking, S. W. (1974). Black hole explosions?. Nature.",
+      "Hawking, S. W. (1975). Particle creation by black holes. Commun. Math. Phys.",
+      "Page, D. N. (1976). Particle emission rates from a black hole. Physical Review D."
+    ],
+    "tags": [
+      "fisica",
+      "agujeros negros",
+      "hawking",
+      "cuantica",
+      "espacio",
+      "relatividad",
+      "documental"
+    ]
+  },
+  "capitulos": [
+    {
+      "id": "cap_1",
+      "numero": 1,
+      "titulo": "Las Prisiones Eternas de la Relatividad",
+      "resumen": "La visión clásica de los agujeros negros como tumbas gravitacionales irreversibles.",
+      "escenas": [
+        {
+          "id": 1,
+          "texto": "Durante más de medio siglo tras la formulación de la relatividad general de Albert Einstein, los agujeros negros fueron considerados las tumbas definitivas del universo: prisiones gravitacionales tan monstruosas e implacables que nada, ni siquiera la luz a trescientos mil kilómetros por segundo, podía escapar de su interior una vez cruzada la frontera del horizonte de sucesos. Eran el callejón sin salida de la física cósmica, objetos que solo podían tragar materia y crecer eternamente sin devolver jamás un solo fotón al cosmos.",
+          "tituloVisual": "EL CALLEJON SIN SALIDA",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "espacio_profundo",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "Albert Einstein",
+            "relatividad general",
+            "horizonte de sucesos",
+            "tumbas gravitacionales"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "analytical",
+          "duracionSegundos": 26.41,
+          "palabras": [
+            {
+              "palabra": "Durante",
+              "inicioMs": 0,
+              "finMs": 380
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 380,
+              "finMs": 560
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 560,
+              "finMs": 680
+            },
+            {
+              "palabra": "medio",
+              "inicioMs": 680,
+              "finMs": 940
+            },
+            {
+              "palabra": "siglo",
+              "inicioMs": 940,
+              "finMs": 1280
+            },
+            {
+              "palabra": "tras",
+              "inicioMs": 1420,
+              "finMs": 1520
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 1520,
+              "finMs": 1640
+            },
+            {
+              "palabra": "formulación",
+              "inicioMs": 1640,
+              "finMs": 2180
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2180,
+              "finMs": 2360
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 2360,
+              "finMs": 2480
+            },
+            {
+              "palabra": "relatividad",
+              "inicioMs": 2480,
+              "finMs": 2960
+            },
+            {
+              "palabra": "general",
+              "inicioMs": 2960,
+              "finMs": 3400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3400,
+              "finMs": 3620
+            },
+            {
+              "palabra": "Albert",
+              "inicioMs": 3620,
+              "finMs": 3860
+            },
+            {
+              "palabra": "Einstein",
+              "inicioMs": 3860,
+              "finMs": 4360
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 4540,
+              "finMs": 4660
+            },
+            {
+              "palabra": "agujeros",
+              "inicioMs": 4660,
+              "finMs": 5080
+            },
+            {
+              "palabra": "negros",
+              "inicioMs": 5080,
+              "finMs": 5460
+            },
+            {
+              "palabra": "fueron",
+              "inicioMs": 5460,
+              "finMs": 5660
+            },
+            {
+              "palabra": "considerados",
+              "inicioMs": 5660,
+              "finMs": 6200
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 6200,
+              "finMs": 6360
+            },
+            {
+              "palabra": "tumbas",
+              "inicioMs": 6360,
+              "finMs": 6640
+            },
+            {
+              "palabra": "definitivas",
+              "inicioMs": 6640,
+              "finMs": 7180
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 7180,
+              "finMs": 7340
+            },
+            {
+              "palabra": "universo",
+              "inicioMs": 7340,
+              "finMs": 7640
+            },
+            {
+              "palabra": "prisiones",
+              "inicioMs": 7920,
+              "finMs": 8140
+            },
+            {
+              "palabra": "gravitacionales",
+              "inicioMs": 8260,
+              "finMs": 8780
+            },
+            {
+              "palabra": "tan",
+              "inicioMs": 8780,
+              "finMs": 8950
+            },
+            {
+              "palabra": "monstruosas",
+              "inicioMs": 9120,
+              "finMs": 9680
+            },
+            {
+              "palabra": "e",
+              "inicioMs": 9680,
+              "finMs": 9840
+            },
+            {
+              "palabra": "implacables",
+              "inicioMs": 9840,
+              "finMs": 10320
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 10320,
+              "finMs": 10500
+            },
+            {
+              "palabra": "nada",
+              "inicioMs": 10500,
+              "finMs": 10800
+            },
+            {
+              "palabra": "ni",
+              "inicioMs": 11140,
+              "finMs": 11240
+            },
+            {
+              "palabra": "siquiera",
+              "inicioMs": 11240,
+              "finMs": 11600
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 11600,
+              "finMs": 11760
+            },
+            {
+              "palabra": "luz",
+              "inicioMs": 11760,
+              "finMs": 11960
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 11960,
+              "finMs": 12180
+            },
+            {
+              "palabra": "trescientos",
+              "inicioMs": 12180,
+              "finMs": 12390
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 12600,
+              "finMs": 12880
+            },
+            {
+              "palabra": "kilómetros",
+              "inicioMs": 12880,
+              "finMs": 13380
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 13380,
+              "finMs": 13600
+            },
+            {
+              "palabra": "segundo",
+              "inicioMs": 13600,
+              "finMs": 14040
+            },
+            {
+              "palabra": "podía",
+              "inicioMs": 14280,
+              "finMs": 14500
+            },
+            {
+              "palabra": "escapar",
+              "inicioMs": 14500,
+              "finMs": 14860
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14860,
+              "finMs": 15000
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 15000,
+              "finMs": 15140
+            },
+            {
+              "palabra": "interior",
+              "inicioMs": 15140,
+              "finMs": 15480
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 15480,
+              "finMs": 15700
+            },
+            {
+              "palabra": "vez",
+              "inicioMs": 15700,
+              "finMs": 15820
+            },
+            {
+              "palabra": "cruzada",
+              "inicioMs": 15820,
+              "finMs": 16240
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 16240,
+              "finMs": 16380
+            },
+            {
+              "palabra": "frontera",
+              "inicioMs": 16380,
+              "finMs": 16740
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 16740,
+              "finMs": 16940
+            },
+            {
+              "palabra": "horizonte",
+              "inicioMs": 16940,
+              "finMs": 17360
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17360,
+              "finMs": 17520
+            },
+            {
+              "palabra": "sucesos",
+              "inicioMs": 17520,
+              "finMs": 18120
+            },
+            {
+              "palabra": "Eran",
+              "inicioMs": 18340,
+              "finMs": 18460
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 18560,
+              "finMs": 18680
+            },
+            {
+              "palabra": "callejón",
+              "inicioMs": 18680,
+              "finMs": 19060
+            },
+            {
+              "palabra": "sin",
+              "inicioMs": 19060,
+              "finMs": 19240
+            },
+            {
+              "palabra": "salida",
+              "inicioMs": 19240,
+              "finMs": 19540
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19540,
+              "finMs": 19680
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 19680,
+              "finMs": 19780
+            },
+            {
+              "palabra": "física",
+              "inicioMs": 19780,
+              "finMs": 20040
+            },
+            {
+              "palabra": "cósmica",
+              "inicioMs": 20040,
+              "finMs": 20700
+            },
+            {
+              "palabra": "objetos",
+              "inicioMs": 20840,
+              "finMs": 21120
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 21120,
+              "finMs": 21360
+            },
+            {
+              "palabra": "solo",
+              "inicioMs": 21360,
+              "finMs": 21560
+            },
+            {
+              "palabra": "podían",
+              "inicioMs": 21560,
+              "finMs": 21860
+            },
+            {
+              "palabra": "tragar",
+              "inicioMs": 21860,
+              "finMs": 22100
+            },
+            {
+              "palabra": "materia",
+              "inicioMs": 22100,
+              "finMs": 22580
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 22580,
+              "finMs": 22840
+            },
+            {
+              "palabra": "crecer",
+              "inicioMs": 22840,
+              "finMs": 23120
+            },
+            {
+              "palabra": "eternamente",
+              "inicioMs": 23120,
+              "finMs": 23700
+            },
+            {
+              "palabra": "sin",
+              "inicioMs": 23700,
+              "finMs": 23940
+            },
+            {
+              "palabra": "devolver",
+              "inicioMs": 23940,
+              "finMs": 24300
+            },
+            {
+              "palabra": "jamás",
+              "inicioMs": 24300,
+              "finMs": 24720
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 24720,
+              "finMs": 24940
+            },
+            {
+              "palabra": "solo",
+              "inicioMs": 24940,
+              "finMs": 25140
+            },
+            {
+              "palabra": "fotón",
+              "inicioMs": 25140,
+              "finMs": 25480
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 25480,
+              "finMs": 25600
+            },
+            {
+              "palabra": "cosmos",
+              "inicioMs": 25600,
+              "finMs": 25920
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "texto": "Esta imagen clásica planteaba una violación alarmante de una de las leyes más sagradas de la ciencia: la segunda ley de la termodinámica. Si un agujero negro fuera verdaderamente negro y frío, su temperatura debería ser el cero absoluto y su entropía debería ser nula. Pero si arrojabas un objeto caliente con alta entropía dentro de él, esa entropía parecía desvanecerse del universo sin dejar rastro, violando el principio de que el desorden cósmico siempre debe aumentar. Stephen Hawking se propuso demostrar que esta idea estaba equivocada, pero terminó descubriendo una verdad aún más revolucionaria.",
+          "tituloVisual": "LA PARADOJA TERMICA",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "segunda ley de la termodinámica",
+            "cero absoluto",
+            "Stephen Hawking",
+            "entropía cósmica"
+          ],
+          "poseId": "holding_presentation_board",
+          "expresion": "eureka",
+          "infografia": {
+            "tipo": "tarjeta_concepto",
+            "titulo": "Dilema Termodinámico",
+            "subtitulo": "Relatividad vs Física Cuántica",
+            "valorPrincipal": "0 K",
+            "unidad": "¿Cero Absoluto?",
+            "items": [
+              {
+                "etiqueta": "Relatividad Clásica",
+                "valor": "Agujero Negro no emite nada",
+                "porcentaje": 100,
+                "color": "#94A3B8"
+              },
+              {
+                "etiqueta": "Mecánica Cuántica",
+                "valor": "Debe poseer temperatura y radiación",
+                "porcentaje": 100,
+                "color": "#FFE600"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 30.586,
+          "palabras": [
+            {
+              "palabra": "Esta",
+              "inicioMs": 0,
+              "finMs": 320
+            },
+            {
+              "palabra": "imagen",
+              "inicioMs": 320,
+              "finMs": 580
+            },
+            {
+              "palabra": "clásica",
+              "inicioMs": 580,
+              "finMs": 1220
+            },
+            {
+              "palabra": "planteaba",
+              "inicioMs": 1220,
+              "finMs": 1640
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 1640,
+              "finMs": 1800
+            },
+            {
+              "palabra": "violación",
+              "inicioMs": 1800,
+              "finMs": 2240
+            },
+            {
+              "palabra": "alarmante",
+              "inicioMs": 2440,
+              "finMs": 2900
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2900,
+              "finMs": 3020
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 3020,
+              "finMs": 3160
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3160,
+              "finMs": 3300
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 3300,
+              "finMs": 3400
+            },
+            {
+              "palabra": "leyes",
+              "inicioMs": 3400,
+              "finMs": 3680
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 3680,
+              "finMs": 3900
+            },
+            {
+              "palabra": "sagradas",
+              "inicioMs": 3900,
+              "finMs": 4280
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4280,
+              "finMs": 4500
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 4500,
+              "finMs": 4600
+            },
+            {
+              "palabra": "ciencia",
+              "inicioMs": 4600,
+              "finMs": 5060
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5320,
+              "finMs": 5420
+            },
+            {
+              "palabra": "segunda",
+              "inicioMs": 5420,
+              "finMs": 5700
+            },
+            {
+              "palabra": "ley",
+              "inicioMs": 5700,
+              "finMs": 6040
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6040,
+              "finMs": 6160
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 6160,
+              "finMs": 6240
+            },
+            {
+              "palabra": "termodinámica",
+              "inicioMs": 6240,
+              "finMs": 6940
+            },
+            {
+              "palabra": "Si",
+              "inicioMs": 7120,
+              "finMs": 7220
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 7220,
+              "finMs": 7360
+            },
+            {
+              "palabra": "agujero",
+              "inicioMs": 7360,
+              "finMs": 7720
+            },
+            {
+              "palabra": "negro",
+              "inicioMs": 7720,
+              "finMs": 8000
+            },
+            {
+              "palabra": "fuera",
+              "inicioMs": 8000,
+              "finMs": 8280
+            },
+            {
+              "palabra": "verdaderamente",
+              "inicioMs": 8280,
+              "finMs": 8860
+            },
+            {
+              "palabra": "negro",
+              "inicioMs": 8860,
+              "finMs": 9220
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 9220,
+              "finMs": 9380
+            },
+            {
+              "palabra": "frío",
+              "inicioMs": 9380,
+              "finMs": 9660
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 9780,
+              "finMs": 9880
+            },
+            {
+              "palabra": "temperatura",
+              "inicioMs": 9880,
+              "finMs": 10180
+            },
+            {
+              "palabra": "debería",
+              "inicioMs": 10180,
+              "finMs": 10780
+            },
+            {
+              "palabra": "ser",
+              "inicioMs": 10780,
+              "finMs": 10920
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 10920,
+              "finMs": 11100
+            },
+            {
+              "palabra": "cero",
+              "inicioMs": 11100,
+              "finMs": 11140
+            },
+            {
+              "palabra": "absoluto",
+              "inicioMs": 11160,
+              "finMs": 11800
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 11800,
+              "finMs": 11920
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 11920,
+              "finMs": 12040
+            },
+            {
+              "palabra": "entropía",
+              "inicioMs": 12040,
+              "finMs": 12480
+            },
+            {
+              "palabra": "debería",
+              "inicioMs": 12480,
+              "finMs": 12900
+            },
+            {
+              "palabra": "ser",
+              "inicioMs": 12900,
+              "finMs": 13040
+            },
+            {
+              "palabra": "nula",
+              "inicioMs": 13040,
+              "finMs": 13400
+            },
+            {
+              "palabra": "Pero",
+              "inicioMs": 13560,
+              "finMs": 13700
+            },
+            {
+              "palabra": "si",
+              "inicioMs": 13700,
+              "finMs": 13860
+            },
+            {
+              "palabra": "arrojabas",
+              "inicioMs": 13860,
+              "finMs": 14340
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 14340,
+              "finMs": 14480
+            },
+            {
+              "palabra": "objeto",
+              "inicioMs": 14480,
+              "finMs": 14720
+            },
+            {
+              "palabra": "caliente",
+              "inicioMs": 14720,
+              "finMs": 15220
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 15220,
+              "finMs": 15420
+            },
+            {
+              "palabra": "alta",
+              "inicioMs": 15420,
+              "finMs": 15660
+            },
+            {
+              "palabra": "entropía",
+              "inicioMs": 15660,
+              "finMs": 16080
+            },
+            {
+              "palabra": "dentro",
+              "inicioMs": 16080,
+              "finMs": 16340
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 16340,
+              "finMs": 16560
+            },
+            {
+              "palabra": "él",
+              "inicioMs": 16560,
+              "finMs": 16780
+            },
+            {
+              "palabra": "esa",
+              "inicioMs": 17020,
+              "finMs": 17140
+            },
+            {
+              "palabra": "entropía",
+              "inicioMs": 17140,
+              "finMs": 17520
+            },
+            {
+              "palabra": "parecía",
+              "inicioMs": 17520,
+              "finMs": 17900
+            },
+            {
+              "palabra": "desvanecerse",
+              "inicioMs": 17900,
+              "finMs": 18580
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 18580,
+              "finMs": 18740
+            },
+            {
+              "palabra": "universo",
+              "inicioMs": 18740,
+              "finMs": 19060
+            },
+            {
+              "palabra": "sin",
+              "inicioMs": 19060,
+              "finMs": 19400
+            },
+            {
+              "palabra": "dejar",
+              "inicioMs": 19400,
+              "finMs": 19640
+            },
+            {
+              "palabra": "rastro",
+              "inicioMs": 19640,
+              "finMs": 20160
+            },
+            {
+              "palabra": "violando",
+              "inicioMs": 20400,
+              "finMs": 20700
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 20700,
+              "finMs": 20860
+            },
+            {
+              "palabra": "principio",
+              "inicioMs": 20860,
+              "finMs": 21220
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 21220,
+              "finMs": 21520
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 21520,
+              "finMs": 21640
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 21640,
+              "finMs": 21760
+            },
+            {
+              "palabra": "desorden",
+              "inicioMs": 21760,
+              "finMs": 22060
+            },
+            {
+              "palabra": "cósmico",
+              "inicioMs": 22060,
+              "finMs": 22700
+            },
+            {
+              "palabra": "siempre",
+              "inicioMs": 22700,
+              "finMs": 23100
+            },
+            {
+              "palabra": "debe",
+              "inicioMs": 23100,
+              "finMs": 23320
+            },
+            {
+              "palabra": "aumentar",
+              "inicioMs": 23320,
+              "finMs": 23700
+            },
+            {
+              "palabra": "Stephen",
+              "inicioMs": 24180,
+              "finMs": 24440
+            },
+            {
+              "palabra": "Hawking",
+              "inicioMs": 24440,
+              "finMs": 24860
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 24860,
+              "finMs": 25040
+            },
+            {
+              "palabra": "propuso",
+              "inicioMs": 25040,
+              "finMs": 25400
+            },
+            {
+              "palabra": "demostrar",
+              "inicioMs": 25500,
+              "finMs": 25800
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 25800,
+              "finMs": 26060
+            },
+            {
+              "palabra": "esta",
+              "inicioMs": 26060,
+              "finMs": 26260
+            },
+            {
+              "palabra": "idea",
+              "inicioMs": 26260,
+              "finMs": 26420
+            },
+            {
+              "palabra": "estaba",
+              "inicioMs": 26420,
+              "finMs": 26760
+            },
+            {
+              "palabra": "equivocada",
+              "inicioMs": 26760,
+              "finMs": 27360
+            },
+            {
+              "palabra": "pero",
+              "inicioMs": 27480,
+              "finMs": 27580
+            },
+            {
+              "palabra": "terminó",
+              "inicioMs": 27580,
+              "finMs": 28000
+            },
+            {
+              "palabra": "descubriendo",
+              "inicioMs": 28000,
+              "finMs": 28500
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 28500,
+              "finMs": 28660
+            },
+            {
+              "palabra": "verdad",
+              "inicioMs": 28660,
+              "finMs": 28900
+            },
+            {
+              "palabra": "aún",
+              "inicioMs": 28900,
+              "finMs": 29180
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 29180,
+              "finMs": 29380
+            },
+            {
+              "palabra": "revolucionaria",
+              "inicioMs": 29380,
+              "finMs": 30120
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 57.0
+    },
+    {
+      "id": "cap_2",
+      "numero": 2,
+      "titulo": "El Matrimonio Imposible de Hawking (1974)",
+      "resumen": "La unión entre la gravedad de Einstein y el vacío cuántico.",
+      "escenas": [
+        {
+          "id": 3,
+          "texto": "En mil novecientos setenta y cuatro, el joven físico teórico Stephen Hawking publicó en la revista Nature un artículo que sacudió los cimientos de la ciencia teórica: Black hole explosions?. Hawking logró por primera vez en la historia aplicar las leyes de la mecánica cuántica a los bordes del horizonte de sucesos de un agujero negro. El vacío del espacio, según la teoría cuántica de campos, no es una nada estéril e inmóvil; es un hervidero espumoso de actividad cuántica donde pares de partículas y antipartículas virtuales brotan continuamente de la nada y se aniquilan en fracciones de segundo.",
+          "tituloVisual": "EL VACIO CUANTICO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "espacio_profundo",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_sci_fi_beep.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "mil novecientos setenta y cuatro",
+            "Stephen Hawking",
+            "Black hole explosions",
+            "partículas virtuales"
+          ],
+          "poseId": "walking_confidently",
+          "expresion": "eureka",
+          "duracionSegundos": 31.858,
+          "palabras": [
+            {
+              "palabra": "En",
+              "inicioMs": 0,
+              "finMs": 200
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 200,
+              "finMs": 447
+            },
+            {
+              "palabra": "novecientos",
+              "inicioMs": 447,
+              "finMs": 693
+            },
+            {
+              "palabra": "setenta",
+              "inicioMs": 693,
+              "finMs": 940
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 940,
+              "finMs": 1187
+            },
+            {
+              "palabra": "cuatro",
+              "inicioMs": 1187,
+              "finMs": 1433
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 1680,
+              "finMs": 1800
+            },
+            {
+              "palabra": "joven",
+              "inicioMs": 1800,
+              "finMs": 2020
+            },
+            {
+              "palabra": "físico",
+              "inicioMs": 2020,
+              "finMs": 2420
+            },
+            {
+              "palabra": "teórico",
+              "inicioMs": 2420,
+              "finMs": 2760
+            },
+            {
+              "palabra": "Stephen",
+              "inicioMs": 2760,
+              "finMs": 3120
+            },
+            {
+              "palabra": "Hawking",
+              "inicioMs": 3120,
+              "finMs": 3560
+            },
+            {
+              "palabra": "publicó",
+              "inicioMs": 3560,
+              "finMs": 4020
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 4020,
+              "finMs": 4120
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 4120,
+              "finMs": 4180
+            },
+            {
+              "palabra": "revista",
+              "inicioMs": 4180,
+              "finMs": 4480
+            },
+            {
+              "palabra": "Nature",
+              "inicioMs": 4480,
+              "finMs": 4780
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 4780,
+              "finMs": 4920
+            },
+            {
+              "palabra": "artículo",
+              "inicioMs": 4920,
+              "finMs": 5300
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 5300,
+              "finMs": 5500
+            },
+            {
+              "palabra": "sacudió",
+              "inicioMs": 5500,
+              "finMs": 5840
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 5840,
+              "finMs": 5960
+            },
+            {
+              "palabra": "cimientos",
+              "inicioMs": 5960,
+              "finMs": 6240
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6240,
+              "finMs": 6440
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 6440,
+              "finMs": 6520
+            },
+            {
+              "palabra": "ciencia",
+              "inicioMs": 6520,
+              "finMs": 6720
+            },
+            {
+              "palabra": "teórica",
+              "inicioMs": 6720,
+              "finMs": 7260
+            },
+            {
+              "palabra": "Black",
+              "inicioMs": 7260,
+              "finMs": 7513
+            },
+            {
+              "palabra": "hole",
+              "inicioMs": 7513,
+              "finMs": 7767
+            },
+            {
+              "palabra": "explosions",
+              "inicioMs": 8020,
+              "finMs": 8680
+            },
+            {
+              "palabra": "Hawking",
+              "inicioMs": 9040,
+              "finMs": 9380
+            },
+            {
+              "palabra": "logró",
+              "inicioMs": 9380,
+              "finMs": 9780
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 9780,
+              "finMs": 9920
+            },
+            {
+              "palabra": "primera",
+              "inicioMs": 9920,
+              "finMs": 10180
+            },
+            {
+              "palabra": "vez",
+              "inicioMs": 10180,
+              "finMs": 10420
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 10540,
+              "finMs": 10600
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 10600,
+              "finMs": 10660
+            },
+            {
+              "palabra": "historia",
+              "inicioMs": 10660,
+              "finMs": 10940
+            },
+            {
+              "palabra": "aplicar",
+              "inicioMs": 11080,
+              "finMs": 11500
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 11500,
+              "finMs": 11720
+            },
+            {
+              "palabra": "leyes",
+              "inicioMs": 11720,
+              "finMs": 12000
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12000,
+              "finMs": 12180
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 12180,
+              "finMs": 12280
+            },
+            {
+              "palabra": "mecánica",
+              "inicioMs": 12280,
+              "finMs": 12660
+            },
+            {
+              "palabra": "cuántica",
+              "inicioMs": 12660,
+              "finMs": 13220
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 13220,
+              "finMs": 13420
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 13420,
+              "finMs": 13580
+            },
+            {
+              "palabra": "bordes",
+              "inicioMs": 13580,
+              "finMs": 13960
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 13960,
+              "finMs": 14120
+            },
+            {
+              "palabra": "horizonte",
+              "inicioMs": 14120,
+              "finMs": 14520
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14520,
+              "finMs": 14700
+            },
+            {
+              "palabra": "sucesos",
+              "inicioMs": 14700,
+              "finMs": 15140
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15140,
+              "finMs": 15300
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 15300,
+              "finMs": 15480
+            },
+            {
+              "palabra": "agujero",
+              "inicioMs": 16360,
+              "finMs": 16940
+            },
+            {
+              "palabra": "negro",
+              "inicioMs": 16940,
+              "finMs": 17240
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 17780,
+              "finMs": 17900
+            },
+            {
+              "palabra": "vacío",
+              "inicioMs": 17900,
+              "finMs": 18220
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 18220,
+              "finMs": 18380
+            },
+            {
+              "palabra": "espacio",
+              "inicioMs": 18380,
+              "finMs": 18820
+            },
+            {
+              "palabra": "según",
+              "inicioMs": 19020,
+              "finMs": 19200
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 19200,
+              "finMs": 19340
+            },
+            {
+              "palabra": "teoría",
+              "inicioMs": 19340,
+              "finMs": 19620
+            },
+            {
+              "palabra": "cuántica",
+              "inicioMs": 19620,
+              "finMs": 20040
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 20040,
+              "finMs": 20160
+            },
+            {
+              "palabra": "campos",
+              "inicioMs": 20160,
+              "finMs": 20600
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 20920,
+              "finMs": 21020
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 21020,
+              "finMs": 21160
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 21160,
+              "finMs": 21300
+            },
+            {
+              "palabra": "nada",
+              "inicioMs": 21300,
+              "finMs": 21520
+            },
+            {
+              "palabra": "estéril",
+              "inicioMs": 21520,
+              "finMs": 22020
+            },
+            {
+              "palabra": "e",
+              "inicioMs": 22020,
+              "finMs": 22140
+            },
+            {
+              "palabra": "inmóvil",
+              "inicioMs": 22140,
+              "finMs": 22540
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 23140,
+              "finMs": 23500
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 23500,
+              "finMs": 23620
+            },
+            {
+              "palabra": "hervidero",
+              "inicioMs": 23620,
+              "finMs": 24060
+            },
+            {
+              "palabra": "espumoso",
+              "inicioMs": 24060,
+              "finMs": 24500
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 24500,
+              "finMs": 24680
+            },
+            {
+              "palabra": "actividad",
+              "inicioMs": 24680,
+              "finMs": 25060
+            },
+            {
+              "palabra": "cuántica",
+              "inicioMs": 25060,
+              "finMs": 25580
+            },
+            {
+              "palabra": "donde",
+              "inicioMs": 25580,
+              "finMs": 25760
+            },
+            {
+              "palabra": "pares",
+              "inicioMs": 25760,
+              "finMs": 26100
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 26100,
+              "finMs": 26200
+            },
+            {
+              "palabra": "partículas",
+              "inicioMs": 26200,
+              "finMs": 26760
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 26760,
+              "finMs": 26880
+            },
+            {
+              "palabra": "antipartículas",
+              "inicioMs": 26880,
+              "finMs": 27540
+            },
+            {
+              "palabra": "virtuales",
+              "inicioMs": 27540,
+              "finMs": 28020
+            },
+            {
+              "palabra": "brotan",
+              "inicioMs": 28020,
+              "finMs": 28320
+            },
+            {
+              "palabra": "continuamente",
+              "inicioMs": 28320,
+              "finMs": 28920
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 28920,
+              "finMs": 29120
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 29120,
+              "finMs": 29200
+            },
+            {
+              "palabra": "nada",
+              "inicioMs": 29200,
+              "finMs": 29460
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 29460,
+              "finMs": 29860
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 29860,
+              "finMs": 29960
+            },
+            {
+              "palabra": "aniquilan",
+              "inicioMs": 29960,
+              "finMs": 30360
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 30360,
+              "finMs": 30480
+            },
+            {
+              "palabra": "fracciones",
+              "inicioMs": 30480,
+              "finMs": 30900
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 30900,
+              "finMs": 31020
+            },
+            {
+              "palabra": "segundo",
+              "inicioMs": 31020,
+              "finMs": 31360
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "texto": "Pero qué sucede cuando este par de partículas virtuales brota justo en la línea divisoria del horizonte de sucesos? La gigantesca marea gravitatoria del agujero negro desgarra el par antes de que puedan aniquilarse: una de las partículas cae irremediablemente hacia el interior del abismo, mientras que su compañera queda libre en el exterior y escapa hacia el espacio profundo como una partícula real. Para un observador distante, parece que el agujero negro está emitiendo una tenue radiación térmica: la radiación de Hawking.",
+          "tituloVisual": "DESGARRO DE PARTICULAS",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_left",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "horizonte de sucesos",
+            "partícula virtual",
+            "partícula real libre",
+            "radiación de Hawking"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "analytical",
+          "infografia": {
+            "tipo": "dato_clave",
+            "titulo": "Mecanismo Cuántico",
+            "subtitulo": "Emisión en el Horizonte de Sucesos",
+            "valorPrincipal": "E = mc²",
+            "unidad": "Pérdida de masa",
+            "items": [
+              {
+                "etiqueta": "Partícula capturada",
+                "valor": "Energía negativa neta",
+                "porcentaje": 50,
+                "color": "#38BDF8"
+              },
+              {
+                "etiqueta": "Partícula expulsada",
+                "valor": "Radiación térmica visible",
+                "porcentaje": 50,
+                "color": "#FFE600"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 25.642,
+          "palabras": [
+            {
+              "palabra": "Pero",
+              "inicioMs": 0,
+              "finMs": 200
+            },
+            {
+              "palabra": "qué",
+              "inicioMs": 200,
+              "finMs": 360
+            },
+            {
+              "palabra": "sucede",
+              "inicioMs": 360,
+              "finMs": 700
+            },
+            {
+              "palabra": "cuando",
+              "inicioMs": 700,
+              "finMs": 920
+            },
+            {
+              "palabra": "este",
+              "inicioMs": 920,
+              "finMs": 1200
+            },
+            {
+              "palabra": "par",
+              "inicioMs": 1200,
+              "finMs": 1400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1400,
+              "finMs": 1540
+            },
+            {
+              "palabra": "partículas",
+              "inicioMs": 1540,
+              "finMs": 2040
+            },
+            {
+              "palabra": "virtuales",
+              "inicioMs": 2040,
+              "finMs": 2560
+            },
+            {
+              "palabra": "brota",
+              "inicioMs": 2560,
+              "finMs": 2760
+            },
+            {
+              "palabra": "justo",
+              "inicioMs": 2760,
+              "finMs": 3020
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 3020,
+              "finMs": 3200
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 3200,
+              "finMs": 3300
+            },
+            {
+              "palabra": "línea",
+              "inicioMs": 3300,
+              "finMs": 3480
+            },
+            {
+              "palabra": "divisoria",
+              "inicioMs": 3480,
+              "finMs": 3920
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 3920,
+              "finMs": 4140
+            },
+            {
+              "palabra": "horizonte",
+              "inicioMs": 4140,
+              "finMs": 4500
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4500,
+              "finMs": 4660
+            },
+            {
+              "palabra": "sucesos",
+              "inicioMs": 4660,
+              "finMs": 5160
+            },
+            {
+              "palabra": "La",
+              "inicioMs": 5320,
+              "finMs": 5400
+            },
+            {
+              "palabra": "gigantesca",
+              "inicioMs": 5400,
+              "finMs": 5980
+            },
+            {
+              "palabra": "marea",
+              "inicioMs": 5980,
+              "finMs": 6220
+            },
+            {
+              "palabra": "gravitatoria",
+              "inicioMs": 6220,
+              "finMs": 6920
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 6920,
+              "finMs": 7000
+            },
+            {
+              "palabra": "agujero",
+              "inicioMs": 7080,
+              "finMs": 7400
+            },
+            {
+              "palabra": "negro",
+              "inicioMs": 7400,
+              "finMs": 7660
+            },
+            {
+              "palabra": "desgarra",
+              "inicioMs": 7660,
+              "finMs": 8160
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 8160,
+              "finMs": 8280
+            },
+            {
+              "palabra": "par",
+              "inicioMs": 8280,
+              "finMs": 8380
+            },
+            {
+              "palabra": "antes",
+              "inicioMs": 8380,
+              "finMs": 8600
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8600,
+              "finMs": 8760
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 8760,
+              "finMs": 8860
+            },
+            {
+              "palabra": "puedan",
+              "inicioMs": 8860,
+              "finMs": 9100
+            },
+            {
+              "palabra": "aniquilarse",
+              "inicioMs": 9100,
+              "finMs": 9840
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 10080,
+              "finMs": 10220
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 10220,
+              "finMs": 10340
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 10340,
+              "finMs": 10440
+            },
+            {
+              "palabra": "partículas",
+              "inicioMs": 10440,
+              "finMs": 11100
+            },
+            {
+              "palabra": "cae",
+              "inicioMs": 11100,
+              "finMs": 11360
+            },
+            {
+              "palabra": "irremediablemente",
+              "inicioMs": 11360,
+              "finMs": 12360
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 12360,
+              "finMs": 12620
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 12620,
+              "finMs": 12800
+            },
+            {
+              "palabra": "interior",
+              "inicioMs": 12800,
+              "finMs": 13100
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 13100,
+              "finMs": 13260
+            },
+            {
+              "palabra": "abismo",
+              "inicioMs": 13360,
+              "finMs": 13700
+            },
+            {
+              "palabra": "mientras",
+              "inicioMs": 13860,
+              "finMs": 14080
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 14080,
+              "finMs": 14260
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 14260,
+              "finMs": 14360
+            },
+            {
+              "palabra": "compañera",
+              "inicioMs": 14360,
+              "finMs": 14760
+            },
+            {
+              "palabra": "queda",
+              "inicioMs": 14760,
+              "finMs": 14980
+            },
+            {
+              "palabra": "libre",
+              "inicioMs": 14980,
+              "finMs": 15260
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 15260,
+              "finMs": 15400
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 15400,
+              "finMs": 15500
+            },
+            {
+              "palabra": "exterior",
+              "inicioMs": 15500,
+              "finMs": 15860
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 15860,
+              "finMs": 16100
+            },
+            {
+              "palabra": "escapa",
+              "inicioMs": 16200,
+              "finMs": 16420
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 16420,
+              "finMs": 16520
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 16520,
+              "finMs": 16620
+            },
+            {
+              "palabra": "espacio",
+              "inicioMs": 16720,
+              "finMs": 16960
+            },
+            {
+              "palabra": "profundo",
+              "inicioMs": 16960,
+              "finMs": 17420
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 17420,
+              "finMs": 17660
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 17660,
+              "finMs": 17800
+            },
+            {
+              "palabra": "partícula",
+              "inicioMs": 17800,
+              "finMs": 18300
+            },
+            {
+              "palabra": "real",
+              "inicioMs": 18300,
+              "finMs": 18520
+            },
+            {
+              "palabra": "Para",
+              "inicioMs": 18720,
+              "finMs": 18840
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 18840,
+              "finMs": 19040
+            },
+            {
+              "palabra": "observador",
+              "inicioMs": 19040,
+              "finMs": 19560
+            },
+            {
+              "palabra": "distante",
+              "inicioMs": 19560,
+              "finMs": 20200
+            },
+            {
+              "palabra": "parece",
+              "inicioMs": 20320,
+              "finMs": 20520
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 20520,
+              "finMs": 20740
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 20740,
+              "finMs": 20800
+            },
+            {
+              "palabra": "agujero",
+              "inicioMs": 20860,
+              "finMs": 21200
+            },
+            {
+              "palabra": "negro",
+              "inicioMs": 21200,
+              "finMs": 21520
+            },
+            {
+              "palabra": "está",
+              "inicioMs": 21520,
+              "finMs": 21860
+            },
+            {
+              "palabra": "emitiendo",
+              "inicioMs": 21860,
+              "finMs": 22340
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 22340,
+              "finMs": 22560
+            },
+            {
+              "palabra": "tenue",
+              "inicioMs": 22560,
+              "finMs": 22700
+            },
+            {
+              "palabra": "radiación",
+              "inicioMs": 22840,
+              "finMs": 23340
+            },
+            {
+              "palabra": "térmica",
+              "inicioMs": 23340,
+              "finMs": 23900
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 24120,
+              "finMs": 24220
+            },
+            {
+              "palabra": "radiación",
+              "inicioMs": 24220,
+              "finMs": 24660
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 24660,
+              "finMs": 24820
+            },
+            {
+              "palabra": "Hawking",
+              "inicioMs": 24820,
+              "finMs": 25180
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 57.5
+    },
+    {
+      "id": "cap_3",
+      "numero": 3,
+      "titulo": "La Pérdida de Masa y la Evaporación",
+      "resumen": "Por qué la energía de la partícula que escapa se cobra de la masa del agujero.",
+      "escenas": [
+        {
+          "id": 5,
+          "texto": "La ley de conservación de la energía no perdona: la partícula que escapó hacia el cosmos tiene energía positiva real. Para equilibrar el balance energético del universo, la partícula que cayó al interior del agujero negro debe poseer matemáticamente energía negativa. Esto significa algo revolucionario: cada partícula capturada no engorda al agujero negro, sino que le resta masa de forma constante. Los agujeros negros no son eternos; están perdiendo masa segundo tras segundo, evaporándose lentamente en la nada.",
+          "tituloVisual": "ENERGIA NEGATIVA",
+          "layout": "split_screen",
+          "composicionVisual": "plano_medio",
+          "escenario": "espacio_profundo",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "conservación de la energía",
+            "energía negativa",
+            "resta de masa",
+            "evaporación lenta"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "talking",
+          "duracionSegundos": 27.346,
+          "palabras": [
+            {
+              "palabra": "La",
+              "inicioMs": 0,
+              "finMs": 200
+            },
+            {
+              "palabra": "ley",
+              "inicioMs": 200,
+              "finMs": 320
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 320,
+              "finMs": 440
+            },
+            {
+              "palabra": "conservación",
+              "inicioMs": 440,
+              "finMs": 1000
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1000,
+              "finMs": 1120
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 1120,
+              "finMs": 1200
+            },
+            {
+              "palabra": "energía",
+              "inicioMs": 1200,
+              "finMs": 1480
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 1480,
+              "finMs": 1660
+            },
+            {
+              "palabra": "perdona",
+              "inicioMs": 1660,
+              "finMs": 2100
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 2400,
+              "finMs": 2500
+            },
+            {
+              "palabra": "partícula",
+              "inicioMs": 2500,
+              "finMs": 2980
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 2980,
+              "finMs": 3100
+            },
+            {
+              "palabra": "escapó",
+              "inicioMs": 3100,
+              "finMs": 3420
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 3420,
+              "finMs": 3560
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 3560,
+              "finMs": 3740
+            },
+            {
+              "palabra": "cosmos",
+              "inicioMs": 3740,
+              "finMs": 3870
+            },
+            {
+              "palabra": "tiene",
+              "inicioMs": 4000,
+              "finMs": 4200
+            },
+            {
+              "palabra": "energía",
+              "inicioMs": 4200,
+              "finMs": 4580
+            },
+            {
+              "palabra": "positiva",
+              "inicioMs": 4580,
+              "finMs": 5060
+            },
+            {
+              "palabra": "real",
+              "inicioMs": 5060,
+              "finMs": 5420
+            },
+            {
+              "palabra": "Para",
+              "inicioMs": 5840,
+              "finMs": 6120
+            },
+            {
+              "palabra": "equilibrar",
+              "inicioMs": 6120,
+              "finMs": 6620
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 6620,
+              "finMs": 6780
+            },
+            {
+              "palabra": "balance",
+              "inicioMs": 6780,
+              "finMs": 7020
+            },
+            {
+              "palabra": "energético",
+              "inicioMs": 7020,
+              "finMs": 7660
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 7660,
+              "finMs": 7880
+            },
+            {
+              "palabra": "universo",
+              "inicioMs": 7880,
+              "finMs": 8360
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 8740,
+              "finMs": 8900
+            },
+            {
+              "palabra": "partícula",
+              "inicioMs": 8900,
+              "finMs": 9380
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 9380,
+              "finMs": 9520
+            },
+            {
+              "palabra": "cayó",
+              "inicioMs": 9520,
+              "finMs": 9780
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 9780,
+              "finMs": 9840
+            },
+            {
+              "palabra": "interior",
+              "inicioMs": 9840,
+              "finMs": 10060
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 10060,
+              "finMs": 10240
+            },
+            {
+              "palabra": "agujero",
+              "inicioMs": 10320,
+              "finMs": 10620
+            },
+            {
+              "palabra": "negro",
+              "inicioMs": 10620,
+              "finMs": 10880
+            },
+            {
+              "palabra": "debe",
+              "inicioMs": 10880,
+              "finMs": 11120
+            },
+            {
+              "palabra": "poseer",
+              "inicioMs": 11120,
+              "finMs": 11580
+            },
+            {
+              "palabra": "matemáticamente",
+              "inicioMs": 11580,
+              "finMs": 12220
+            },
+            {
+              "palabra": "energía",
+              "inicioMs": 12220,
+              "finMs": 12860
+            },
+            {
+              "palabra": "negativa",
+              "inicioMs": 12860,
+              "finMs": 13420
+            },
+            {
+              "palabra": "Esto",
+              "inicioMs": 13660,
+              "finMs": 13880
+            },
+            {
+              "palabra": "significa",
+              "inicioMs": 13880,
+              "finMs": 14320
+            },
+            {
+              "palabra": "algo",
+              "inicioMs": 14320,
+              "finMs": 14720
+            },
+            {
+              "palabra": "revolucionario",
+              "inicioMs": 14720,
+              "finMs": 15560
+            },
+            {
+              "palabra": "cada",
+              "inicioMs": 15640,
+              "finMs": 15780
+            },
+            {
+              "palabra": "partícula",
+              "inicioMs": 15780,
+              "finMs": 16340
+            },
+            {
+              "palabra": "capturada",
+              "inicioMs": 16340,
+              "finMs": 16820
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 16820,
+              "finMs": 17060
+            },
+            {
+              "palabra": "engorda",
+              "inicioMs": 17060,
+              "finMs": 17520
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 17520,
+              "finMs": 17560
+            },
+            {
+              "palabra": "agujero",
+              "inicioMs": 17600,
+              "finMs": 17980
+            },
+            {
+              "palabra": "negro",
+              "inicioMs": 17980,
+              "finMs": 18280
+            },
+            {
+              "palabra": "sino",
+              "inicioMs": 18380,
+              "finMs": 18500
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 18500,
+              "finMs": 18680
+            },
+            {
+              "palabra": "le",
+              "inicioMs": 18680,
+              "finMs": 18760
+            },
+            {
+              "palabra": "resta",
+              "inicioMs": 18760,
+              "finMs": 19140
+            },
+            {
+              "palabra": "masa",
+              "inicioMs": 19140,
+              "finMs": 19400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19400,
+              "finMs": 19600
+            },
+            {
+              "palabra": "forma",
+              "inicioMs": 19600,
+              "finMs": 19860
+            },
+            {
+              "palabra": "constante",
+              "inicioMs": 19860,
+              "finMs": 20420
+            },
+            {
+              "palabra": "Los",
+              "inicioMs": 20660,
+              "finMs": 20800
+            },
+            {
+              "palabra": "agujeros",
+              "inicioMs": 20800,
+              "finMs": 21240
+            },
+            {
+              "palabra": "negros",
+              "inicioMs": 21240,
+              "finMs": 21700
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 21700,
+              "finMs": 21820
+            },
+            {
+              "palabra": "son",
+              "inicioMs": 21820,
+              "finMs": 21980
+            },
+            {
+              "palabra": "eternos",
+              "inicioMs": 21980,
+              "finMs": 22560
+            },
+            {
+              "palabra": "están",
+              "inicioMs": 22760,
+              "finMs": 23000
+            },
+            {
+              "palabra": "perdiendo",
+              "inicioMs": 23000,
+              "finMs": 23420
+            },
+            {
+              "palabra": "masa",
+              "inicioMs": 23420,
+              "finMs": 23620
+            },
+            {
+              "palabra": "segundo",
+              "inicioMs": 23820,
+              "finMs": 24180
+            },
+            {
+              "palabra": "tras",
+              "inicioMs": 24180,
+              "finMs": 24460
+            },
+            {
+              "palabra": "segundo",
+              "inicioMs": 24460,
+              "finMs": 24920
+            },
+            {
+              "palabra": "evaporándose",
+              "inicioMs": 25020,
+              "finMs": 25700
+            },
+            {
+              "palabra": "lentamente",
+              "inicioMs": 25700,
+              "finMs": 26240
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 26240,
+              "finMs": 26520
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 26520,
+              "finMs": 26580
+            },
+            {
+              "palabra": "nada",
+              "inicioMs": 26580,
+              "finMs": 26840
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "texto": "La velocidad de esta evaporación sigue una regla termodinámica fascinante e inversa: cuanto más masivo y gigante es un agujero negro, más frío es y más despacio se evapora. Un agujero negro supermasivo como el del centro de nuestra galaxia emite a una temperatura de fracciones infinitesimales de nanokelvin, mucho más frío que el fondo cósmico de microondas. Pero a medida que el agujero pierde masa y se hace más pequeño, su temperatura aumenta vertiginosamente, emitiendo cada vez más radiación con mayor furia.",
+          "tituloVisual": "REGLA INVERSA DE MASA",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "regla inversa",
+            "más frío cuanto más grande",
+            "nanokelvin",
+            "temperatura vertiginosa"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "analytical",
+          "infografia": {
+            "tipo": "comparacion",
+            "titulo": "Escala Térmica de Hawking",
+            "subtitulo": "Masa vs Temperatura y Evaporación",
+            "valorPrincipal": "T ∝ 1/M",
+            "unidad": "Inversamente proporcional",
+            "items": [
+              {
+                "etiqueta": "Agujero Supermasivo (Sgr A*)",
+                "valor": "0.00000000001 K (Ultragélido)",
+                "porcentaje": 5,
+                "color": "#38BDF8"
+              },
+              {
+                "etiqueta": "Micro Agujero Negro",
+                "valor": "Billones de Grados (Explosivo)",
+                "porcentaje": 100,
+                "color": "#FFE600"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 26.818,
+          "palabras": [
+            {
+              "palabra": "La",
+              "inicioMs": 0,
+              "finMs": 180
+            },
+            {
+              "palabra": "velocidad",
+              "inicioMs": 180,
+              "finMs": 460
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 460,
+              "finMs": 740
+            },
+            {
+              "palabra": "esta",
+              "inicioMs": 740,
+              "finMs": 980
+            },
+            {
+              "palabra": "evaporación",
+              "inicioMs": 980,
+              "finMs": 1520
+            },
+            {
+              "palabra": "sigue",
+              "inicioMs": 1520,
+              "finMs": 1940
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 1940,
+              "finMs": 2120
+            },
+            {
+              "palabra": "regla",
+              "inicioMs": 2120,
+              "finMs": 2380
+            },
+            {
+              "palabra": "termodinámica",
+              "inicioMs": 2380,
+              "finMs": 3080
+            },
+            {
+              "palabra": "fascinante",
+              "inicioMs": 3080,
+              "finMs": 3640
+            },
+            {
+              "palabra": "e",
+              "inicioMs": 3640,
+              "finMs": 3700
+            },
+            {
+              "palabra": "inversa",
+              "inicioMs": 3760,
+              "finMs": 4240
+            },
+            {
+              "palabra": "cuanto",
+              "inicioMs": 4420,
+              "finMs": 4700
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 4700,
+              "finMs": 4980
+            },
+            {
+              "palabra": "masivo",
+              "inicioMs": 4980,
+              "finMs": 5380
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 5380,
+              "finMs": 5520
+            },
+            {
+              "palabra": "gigante",
+              "inicioMs": 5520,
+              "finMs": 5880
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 5880,
+              "finMs": 6005
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 5880,
+              "finMs": 6100
+            },
+            {
+              "palabra": "agujero",
+              "inicioMs": 6100,
+              "finMs": 6420
+            },
+            {
+              "palabra": "negro",
+              "inicioMs": 6420,
+              "finMs": 6680
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 6880,
+              "finMs": 6960
+            },
+            {
+              "palabra": "frío",
+              "inicioMs": 6960,
+              "finMs": 7320
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 7320,
+              "finMs": 7560
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 7560,
+              "finMs": 7760
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 7760,
+              "finMs": 7940
+            },
+            {
+              "palabra": "despacio",
+              "inicioMs": 7940,
+              "finMs": 8460
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 8460,
+              "finMs": 8660
+            },
+            {
+              "palabra": "evapora",
+              "inicioMs": 8660,
+              "finMs": 9100
+            },
+            {
+              "palabra": "Un",
+              "inicioMs": 9360,
+              "finMs": 9480
+            },
+            {
+              "palabra": "agujero",
+              "inicioMs": 9480,
+              "finMs": 9840
+            },
+            {
+              "palabra": "negro",
+              "inicioMs": 9840,
+              "finMs": 10100
+            },
+            {
+              "palabra": "supermasivo",
+              "inicioMs": 10100,
+              "finMs": 10820
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 10820,
+              "finMs": 11120
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 11120,
+              "finMs": 11280
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 11280,
+              "finMs": 11380
+            },
+            {
+              "palabra": "centro",
+              "inicioMs": 11380,
+              "finMs": 11680
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11680,
+              "finMs": 11800
+            },
+            {
+              "palabra": "nuestra",
+              "inicioMs": 11800,
+              "finMs": 12040
+            },
+            {
+              "palabra": "galaxia",
+              "inicioMs": 12040,
+              "finMs": 12560
+            },
+            {
+              "palabra": "emite",
+              "inicioMs": 12560,
+              "finMs": 12900
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 12900,
+              "finMs": 13000
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 13000,
+              "finMs": 13140
+            },
+            {
+              "palabra": "temperatura",
+              "inicioMs": 13140,
+              "finMs": 13520
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 13520,
+              "finMs": 13800
+            },
+            {
+              "palabra": "fracciones",
+              "inicioMs": 13800,
+              "finMs": 14200
+            },
+            {
+              "palabra": "infinitesimales",
+              "inicioMs": 14200,
+              "finMs": 15160
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15160,
+              "finMs": 15360
+            },
+            {
+              "palabra": "nanokelvin",
+              "inicioMs": 15360,
+              "finMs": 15880
+            },
+            {
+              "palabra": "mucho",
+              "inicioMs": 16020,
+              "finMs": 16220
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 16220,
+              "finMs": 16400
+            },
+            {
+              "palabra": "frío",
+              "inicioMs": 16400,
+              "finMs": 16760
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 16760,
+              "finMs": 16900
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 16900,
+              "finMs": 17000
+            },
+            {
+              "palabra": "fondo",
+              "inicioMs": 17000,
+              "finMs": 17180
+            },
+            {
+              "palabra": "cósmico",
+              "inicioMs": 17180,
+              "finMs": 17700
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17700,
+              "finMs": 17860
+            },
+            {
+              "palabra": "microondas",
+              "inicioMs": 17860,
+              "finMs": 18540
+            },
+            {
+              "palabra": "Pero",
+              "inicioMs": 18760,
+              "finMs": 18940
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 18940,
+              "finMs": 19000
+            },
+            {
+              "palabra": "medida",
+              "inicioMs": 19000,
+              "finMs": 19220
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 19220,
+              "finMs": 19520
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 19520,
+              "finMs": 19620
+            },
+            {
+              "palabra": "agujero",
+              "inicioMs": 19620,
+              "finMs": 19940
+            },
+            {
+              "palabra": "pierde",
+              "inicioMs": 19940,
+              "finMs": 20260
+            },
+            {
+              "palabra": "masa",
+              "inicioMs": 20260,
+              "finMs": 20580
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 20580,
+              "finMs": 20880
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 20880,
+              "finMs": 21020
+            },
+            {
+              "palabra": "hace",
+              "inicioMs": 21020,
+              "finMs": 21160
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 21160,
+              "finMs": 21320
+            },
+            {
+              "palabra": "pequeño",
+              "inicioMs": 21320,
+              "finMs": 21760
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 21900,
+              "finMs": 21960
+            },
+            {
+              "palabra": "temperatura",
+              "inicioMs": 21960,
+              "finMs": 22320
+            },
+            {
+              "palabra": "aumenta",
+              "inicioMs": 22320,
+              "finMs": 22880
+            },
+            {
+              "palabra": "vertiginosamente",
+              "inicioMs": 22880,
+              "finMs": 23740
+            },
+            {
+              "palabra": "emitiendo",
+              "inicioMs": 23880,
+              "finMs": 24340
+            },
+            {
+              "palabra": "cada",
+              "inicioMs": 24340,
+              "finMs": 24580
+            },
+            {
+              "palabra": "vez",
+              "inicioMs": 24580,
+              "finMs": 24800
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 24800,
+              "finMs": 24980
+            },
+            {
+              "palabra": "radiación",
+              "inicioMs": 24980,
+              "finMs": 25520
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 25520,
+              "finMs": 25680
+            },
+            {
+              "palabra": "mayor",
+              "inicioMs": 25680,
+              "finMs": 25920
+            },
+            {
+              "palabra": "furia",
+              "inicioMs": 25920,
+              "finMs": 26340
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 54.16
+    },
+    {
+      "id": "cap_4",
+      "numero": 4,
+      "titulo": "La Explosión Final de un Monstruo en Miniatura",
+      "resumen": "El final catastrófico en un destello de rayos gamma.",
+      "escenas": [
+        {
+          "id": 7,
+          "texto": "En los últimos segundos de vida de un agujero negro, el proceso de evaporación se transforma en una reacción nuclear desbocada. Cuando la masa desciende al equivalente a una montaña o un asteroide, la temperatura supera la de cualquier estrella del universo. El agujero comienza a emitir torrentes cegadores de rayos gamma y partículas de alta energía a un ritmo exponencial.",
+          "tituloVisual": "LA AGONIA FINAL",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "espacio_profundo",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "últimos segundos",
+            "reacción desbocada",
+            "masa de una montaña",
+            "rayos gamma"
+          ],
+          "poseId": "confused_scratch_head",
+          "expresion": "shocked",
+          "duracionSegundos": 18.298,
+          "palabras": [
+            {
+              "palabra": "En",
+              "inicioMs": 0,
+              "finMs": 180
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 180,
+              "finMs": 320
+            },
+            {
+              "palabra": "últimos",
+              "inicioMs": 320,
+              "finMs": 620
+            },
+            {
+              "palabra": "segundos",
+              "inicioMs": 620,
+              "finMs": 1040
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1040,
+              "finMs": 1240
+            },
+            {
+              "palabra": "vida",
+              "inicioMs": 1240,
+              "finMs": 1420
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1420,
+              "finMs": 1540
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 1540,
+              "finMs": 1660
+            },
+            {
+              "palabra": "agujero",
+              "inicioMs": 1660,
+              "finMs": 2000
+            },
+            {
+              "palabra": "negro",
+              "inicioMs": 2000,
+              "finMs": 2280
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 2400,
+              "finMs": 2480
+            },
+            {
+              "palabra": "proceso",
+              "inicioMs": 2480,
+              "finMs": 2840
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2840,
+              "finMs": 3080
+            },
+            {
+              "palabra": "evaporación",
+              "inicioMs": 3080,
+              "finMs": 3620
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 3620,
+              "finMs": 3840
+            },
+            {
+              "palabra": "transforma",
+              "inicioMs": 3840,
+              "finMs": 4460
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 4460,
+              "finMs": 4620
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 4620,
+              "finMs": 4800
+            },
+            {
+              "palabra": "reacción",
+              "inicioMs": 4800,
+              "finMs": 5180
+            },
+            {
+              "palabra": "nuclear",
+              "inicioMs": 5180,
+              "finMs": 5540
+            },
+            {
+              "palabra": "desbocada",
+              "inicioMs": 5540,
+              "finMs": 6220
+            },
+            {
+              "palabra": "Cuando",
+              "inicioMs": 6640,
+              "finMs": 6800
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 6800,
+              "finMs": 6980
+            },
+            {
+              "palabra": "masa",
+              "inicioMs": 6980,
+              "finMs": 7140
+            },
+            {
+              "palabra": "desciende",
+              "inicioMs": 7140,
+              "finMs": 7580
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 7580,
+              "finMs": 7720
+            },
+            {
+              "palabra": "equivalente",
+              "inicioMs": 7720,
+              "finMs": 8180
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 8180,
+              "finMs": 8260
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 8260,
+              "finMs": 8380
+            },
+            {
+              "palabra": "montaña",
+              "inicioMs": 8380,
+              "finMs": 8800
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 8800,
+              "finMs": 8920
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 8920,
+              "finMs": 9040
+            },
+            {
+              "palabra": "asteroide",
+              "inicioMs": 9040,
+              "finMs": 9440
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 9600,
+              "finMs": 9640
+            },
+            {
+              "palabra": "temperatura",
+              "inicioMs": 9640,
+              "finMs": 10000
+            },
+            {
+              "palabra": "supera",
+              "inicioMs": 10000,
+              "finMs": 10600
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 10600,
+              "finMs": 10700
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 10700,
+              "finMs": 10780
+            },
+            {
+              "palabra": "cualquier",
+              "inicioMs": 10780,
+              "finMs": 10940
+            },
+            {
+              "palabra": "estrella",
+              "inicioMs": 10940,
+              "finMs": 11440
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 11440,
+              "finMs": 11580
+            },
+            {
+              "palabra": "universo",
+              "inicioMs": 11580,
+              "finMs": 11940
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 12200,
+              "finMs": 12320
+            },
+            {
+              "palabra": "agujero",
+              "inicioMs": 12320,
+              "finMs": 12680
+            },
+            {
+              "palabra": "comienza",
+              "inicioMs": 12680,
+              "finMs": 13120
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 13120,
+              "finMs": 13245
+            },
+            {
+              "palabra": "emitir",
+              "inicioMs": 13120,
+              "finMs": 13520
+            },
+            {
+              "palabra": "torrentes",
+              "inicioMs": 13520,
+              "finMs": 14000
+            },
+            {
+              "palabra": "cegadores",
+              "inicioMs": 14000,
+              "finMs": 14380
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14380,
+              "finMs": 14560
+            },
+            {
+              "palabra": "rayos",
+              "inicioMs": 14560,
+              "finMs": 14900
+            },
+            {
+              "palabra": "gamma",
+              "inicioMs": 14900,
+              "finMs": 15180
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 15180,
+              "finMs": 15380
+            },
+            {
+              "palabra": "partículas",
+              "inicioMs": 15380,
+              "finMs": 15980
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15980,
+              "finMs": 16060
+            },
+            {
+              "palabra": "alta",
+              "inicioMs": 16060,
+              "finMs": 16240
+            },
+            {
+              "palabra": "energía",
+              "inicioMs": 16240,
+              "finMs": 16620
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 16620,
+              "finMs": 16880
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 16880,
+              "finMs": 17000
+            },
+            {
+              "palabra": "ritmo",
+              "inicioMs": 17000,
+              "finMs": 17240
+            },
+            {
+              "palabra": "exponencial",
+              "inicioMs": 17240,
+              "finMs": 17820
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "texto": "En su último milisegundo de existencia, los últimos cientos de toneladas de masa se convierten íntegramente en radiación pura en una explosión titánica equivalente a millones de bombas termonucleares detonando al mismo instante. Aquel monstruo gravitacional que alguna vez devoró estrellas enteras se desvanece para siempre del tejido espacio-temporal en un fogonazo de luz cósmica, sin dejar tras de sí ni una sola partícula de materia.",
+          "tituloVisual": "MILLONES DE BOMBAS",
+          "layout": "split_screen",
+          "composicionVisual": "plano_medio",
+          "escenario": "espacio_profundo",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "último milisegundo",
+            "bombas termonucleares",
+            "fogonazo de luz",
+            "desvanecimiento total"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "eureka",
+          "duracionSegundos": 23.05,
+          "palabras": [
+            {
+              "palabra": "En",
+              "inicioMs": 0,
+              "finMs": 200
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 200,
+              "finMs": 380
+            },
+            {
+              "palabra": "último",
+              "inicioMs": 380,
+              "finMs": 660
+            },
+            {
+              "palabra": "milisegundo",
+              "inicioMs": 660,
+              "finMs": 1320
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1320,
+              "finMs": 1460
+            },
+            {
+              "palabra": "existencia",
+              "inicioMs": 1460,
+              "finMs": 2080
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 2320,
+              "finMs": 2400
+            },
+            {
+              "palabra": "últimos",
+              "inicioMs": 2400,
+              "finMs": 2760
+            },
+            {
+              "palabra": "cientos",
+              "inicioMs": 2760,
+              "finMs": 3120
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3120,
+              "finMs": 3280
+            },
+            {
+              "palabra": "toneladas",
+              "inicioMs": 3280,
+              "finMs": 3660
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3660,
+              "finMs": 3840
+            },
+            {
+              "palabra": "masa",
+              "inicioMs": 3840,
+              "finMs": 4000
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 4000,
+              "finMs": 4220
+            },
+            {
+              "palabra": "convierten",
+              "inicioMs": 4220,
+              "finMs": 4620
+            },
+            {
+              "palabra": "íntegramente",
+              "inicioMs": 4620,
+              "finMs": 5280
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 5280,
+              "finMs": 5440
+            },
+            {
+              "palabra": "radiación",
+              "inicioMs": 5440,
+              "finMs": 5780
+            },
+            {
+              "palabra": "pura",
+              "inicioMs": 5780,
+              "finMs": 6220
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 6220,
+              "finMs": 6440
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 6440,
+              "finMs": 6580
+            },
+            {
+              "palabra": "explosión",
+              "inicioMs": 6580,
+              "finMs": 6980
+            },
+            {
+              "palabra": "titánica",
+              "inicioMs": 6980,
+              "finMs": 7440
+            },
+            {
+              "palabra": "equivalente",
+              "inicioMs": 7440,
+              "finMs": 7920
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 7920,
+              "finMs": 8020
+            },
+            {
+              "palabra": "millones",
+              "inicioMs": 8020,
+              "finMs": 8180
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8180,
+              "finMs": 8460
+            },
+            {
+              "palabra": "bombas",
+              "inicioMs": 8460,
+              "finMs": 8720
+            },
+            {
+              "palabra": "termonucleares",
+              "inicioMs": 8720,
+              "finMs": 9400
+            },
+            {
+              "palabra": "detonando",
+              "inicioMs": 9400,
+              "finMs": 9860
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 9860,
+              "finMs": 9980
+            },
+            {
+              "palabra": "mismo",
+              "inicioMs": 9980,
+              "finMs": 10220
+            },
+            {
+              "palabra": "instante",
+              "inicioMs": 10220,
+              "finMs": 10720
+            },
+            {
+              "palabra": "Aquel",
+              "inicioMs": 10880,
+              "finMs": 11200
+            },
+            {
+              "palabra": "monstruo",
+              "inicioMs": 11200,
+              "finMs": 11660
+            },
+            {
+              "palabra": "gravitacional",
+              "inicioMs": 11660,
+              "finMs": 12340
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 12340,
+              "finMs": 12600
+            },
+            {
+              "palabra": "alguna",
+              "inicioMs": 12600,
+              "finMs": 12820
+            },
+            {
+              "palabra": "vez",
+              "inicioMs": 12820,
+              "finMs": 13020
+            },
+            {
+              "palabra": "devoró",
+              "inicioMs": 13020,
+              "finMs": 13420
+            },
+            {
+              "palabra": "estrellas",
+              "inicioMs": 13420,
+              "finMs": 13900
+            },
+            {
+              "palabra": "enteras",
+              "inicioMs": 13900,
+              "finMs": 14380
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 14380,
+              "finMs": 14760
+            },
+            {
+              "palabra": "desvanece",
+              "inicioMs": 14760,
+              "finMs": 15260
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 15260,
+              "finMs": 15440
+            },
+            {
+              "palabra": "siempre",
+              "inicioMs": 15440,
+              "finMs": 15800
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 15800,
+              "finMs": 15960
+            },
+            {
+              "palabra": "tejido",
+              "inicioMs": 15960,
+              "finMs": 16380
+            },
+            {
+              "palabra": "espacio-temporal",
+              "inicioMs": 16720,
+              "finMs": 17200
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 17200,
+              "finMs": 17540
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 17540,
+              "finMs": 17680
+            },
+            {
+              "palabra": "fogonazo",
+              "inicioMs": 17680,
+              "finMs": 18140
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18140,
+              "finMs": 18300
+            },
+            {
+              "palabra": "luz",
+              "inicioMs": 18300,
+              "finMs": 18440
+            },
+            {
+              "palabra": "cósmica",
+              "inicioMs": 18440,
+              "finMs": 19040
+            },
+            {
+              "palabra": "sin",
+              "inicioMs": 19240,
+              "finMs": 19380
+            },
+            {
+              "palabra": "dejar",
+              "inicioMs": 19380,
+              "finMs": 19800
+            },
+            {
+              "palabra": "tras",
+              "inicioMs": 19800,
+              "finMs": 20120
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 20120,
+              "finMs": 20253
+            },
+            {
+              "palabra": "sí",
+              "inicioMs": 20253,
+              "finMs": 20387
+            },
+            {
+              "palabra": "ni",
+              "inicioMs": 20520,
+              "finMs": 20880
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 20880,
+              "finMs": 21120
+            },
+            {
+              "palabra": "sola",
+              "inicioMs": 21120,
+              "finMs": 21380
+            },
+            {
+              "palabra": "partícula",
+              "inicioMs": 21380,
+              "finMs": 22040
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22040,
+              "finMs": 22120
+            },
+            {
+              "palabra": "materia",
+              "inicioMs": 22120,
+              "finMs": 22520
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 41.35
+    },
+    {
+      "id": "cap_5",
+      "numero": 5,
+      "titulo": "La Paradoja de la Información de Hawking",
+      "resumen": "¿Se destruye la historia de lo que cayó en el agujero negro?",
+      "escenas": [
+        {
+          "id": 9,
+          "texto": "El descubrimiento de la evaporación desató la crisis teórica más profunda de la física moderna: la paradoja de la información. La mecánica cuántica exige estrictamente que la información nunca puede destruirse: si conoces el estado final de un sistema, deberías poder reconstruir matemáticamente su pasado. Pero si arrojas una enciclopedia dentro de un agujero negro y este se evapora emitiendo radiación térmica aleatoria e indistinguible, ¿adónde fue a parar el texto de la enciclopedia?",
+          "tituloVisual": "PARADOJA DE INFORMACION",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "laboratorio",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_sci_fi_beep.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "paradoja de la información",
+            "mecánica cuántica",
+            "información indestructible",
+            "texto de la enciclopedia"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "confused",
+          "duracionSegundos": 23.578,
+          "palabras": [
+            {
+              "palabra": "El",
+              "inicioMs": 0,
+              "finMs": 240
+            },
+            {
+              "palabra": "descubrimiento",
+              "inicioMs": 240,
+              "finMs": 960
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 960,
+              "finMs": 1080
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 1080,
+              "finMs": 1200
+            },
+            {
+              "palabra": "evaporación",
+              "inicioMs": 1200,
+              "finMs": 1740
+            },
+            {
+              "palabra": "desató",
+              "inicioMs": 1740,
+              "finMs": 2200
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 2200,
+              "finMs": 2340
+            },
+            {
+              "palabra": "crisis",
+              "inicioMs": 2340,
+              "finMs": 2600
+            },
+            {
+              "palabra": "teórica",
+              "inicioMs": 2600,
+              "finMs": 3020
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 3020,
+              "finMs": 3340
+            },
+            {
+              "palabra": "profunda",
+              "inicioMs": 3340,
+              "finMs": 3820
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3820,
+              "finMs": 3980
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 3980,
+              "finMs": 4080
+            },
+            {
+              "palabra": "física",
+              "inicioMs": 4080,
+              "finMs": 4340
+            },
+            {
+              "palabra": "moderna",
+              "inicioMs": 4340,
+              "finMs": 5000
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5280,
+              "finMs": 5360
+            },
+            {
+              "palabra": "paradoja",
+              "inicioMs": 5360,
+              "finMs": 5860
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5860,
+              "finMs": 5940
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5940,
+              "finMs": 6020
+            },
+            {
+              "palabra": "información",
+              "inicioMs": 6020,
+              "finMs": 6500
+            },
+            {
+              "palabra": "La",
+              "inicioMs": 6700,
+              "finMs": 6780
+            },
+            {
+              "palabra": "mecánica",
+              "inicioMs": 6780,
+              "finMs": 7160
+            },
+            {
+              "palabra": "cuántica",
+              "inicioMs": 7160,
+              "finMs": 7580
+            },
+            {
+              "palabra": "exige",
+              "inicioMs": 7580,
+              "finMs": 7880
+            },
+            {
+              "palabra": "estrictamente",
+              "inicioMs": 7880,
+              "finMs": 8380
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 8380,
+              "finMs": 8600
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 8600,
+              "finMs": 8700
+            },
+            {
+              "palabra": "información",
+              "inicioMs": 8700,
+              "finMs": 9100
+            },
+            {
+              "palabra": "nunca",
+              "inicioMs": 9100,
+              "finMs": 9400
+            },
+            {
+              "palabra": "puede",
+              "inicioMs": 9400,
+              "finMs": 9660
+            },
+            {
+              "palabra": "destruirse",
+              "inicioMs": 9660,
+              "finMs": 10280
+            },
+            {
+              "palabra": "si",
+              "inicioMs": 10540,
+              "finMs": 10620
+            },
+            {
+              "palabra": "conoces",
+              "inicioMs": 10620,
+              "finMs": 10940
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 10940,
+              "finMs": 11080
+            },
+            {
+              "palabra": "estado",
+              "inicioMs": 11080,
+              "finMs": 11320
+            },
+            {
+              "palabra": "final",
+              "inicioMs": 11320,
+              "finMs": 11560
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11560,
+              "finMs": 11720
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 11720,
+              "finMs": 11800
+            },
+            {
+              "palabra": "sistema",
+              "inicioMs": 11800,
+              "finMs": 12060
+            },
+            {
+              "palabra": "deberías",
+              "inicioMs": 12300,
+              "finMs": 12600
+            },
+            {
+              "palabra": "poder",
+              "inicioMs": 12600,
+              "finMs": 12800
+            },
+            {
+              "palabra": "reconstruir",
+              "inicioMs": 12800,
+              "finMs": 13420
+            },
+            {
+              "palabra": "matemáticamente",
+              "inicioMs": 13420,
+              "finMs": 14000
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 14000,
+              "finMs": 14280
+            },
+            {
+              "palabra": "pasado",
+              "inicioMs": 14280,
+              "finMs": 14560
+            },
+            {
+              "palabra": "Pero",
+              "inicioMs": 14780,
+              "finMs": 14920
+            },
+            {
+              "palabra": "si",
+              "inicioMs": 14920,
+              "finMs": 15060
+            },
+            {
+              "palabra": "arrojas",
+              "inicioMs": 15060,
+              "finMs": 15340
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 15340,
+              "finMs": 15540
+            },
+            {
+              "palabra": "enciclopedia",
+              "inicioMs": 15540,
+              "finMs": 16020
+            },
+            {
+              "palabra": "dentro",
+              "inicioMs": 16020,
+              "finMs": 16300
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 16300,
+              "finMs": 16400
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 16400,
+              "finMs": 16540
+            },
+            {
+              "palabra": "agujero",
+              "inicioMs": 16540,
+              "finMs": 16860
+            },
+            {
+              "palabra": "negro",
+              "inicioMs": 16860,
+              "finMs": 17100
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 17100,
+              "finMs": 17340
+            },
+            {
+              "palabra": "este",
+              "inicioMs": 17340,
+              "finMs": 17500
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 17500,
+              "finMs": 17640
+            },
+            {
+              "palabra": "evapora",
+              "inicioMs": 17640,
+              "finMs": 18020
+            },
+            {
+              "palabra": "emitiendo",
+              "inicioMs": 18020,
+              "finMs": 18500
+            },
+            {
+              "palabra": "radiación",
+              "inicioMs": 18500,
+              "finMs": 18920
+            },
+            {
+              "palabra": "térmica",
+              "inicioMs": 18920,
+              "finMs": 19340
+            },
+            {
+              "palabra": "aleatoria",
+              "inicioMs": 19340,
+              "finMs": 19880
+            },
+            {
+              "palabra": "e",
+              "inicioMs": 19880,
+              "finMs": 20020
+            },
+            {
+              "palabra": "indistinguible",
+              "inicioMs": 20020,
+              "finMs": 20760
+            },
+            {
+              "palabra": "adónde",
+              "inicioMs": 21080,
+              "finMs": 21280
+            },
+            {
+              "palabra": "fue",
+              "inicioMs": 21280,
+              "finMs": 21520
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 21520,
+              "finMs": 21600
+            },
+            {
+              "palabra": "parar",
+              "inicioMs": 21600,
+              "finMs": 21800
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 21800,
+              "finMs": 21960
+            },
+            {
+              "palabra": "texto",
+              "inicioMs": 21960,
+              "finMs": 22220
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22220,
+              "finMs": 22360
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 22360,
+              "finMs": 22480
+            },
+            {
+              "palabra": "enciclopedia",
+              "inicioMs": 22480,
+              "finMs": 22940
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "texto": "Durante tres décadas, Hawking sostuvo que la información se perdía para siempre, lo que habría significado que las leyes de la física cuántica estaban incompletas. Sin embargo, gracias a los trabajos de Leonard Susskind y el principio holográfico formulado por Gerard 't Hooft y Juan Maldacena, hoy la mayoría de los físicos acepta que la información queda codificada de forma sutil en las fluctuaciones cuánticas del horizonte de sucesos y escapa enredada en la propia radiación de Hawking.",
+          "tituloVisual": "EL PRINCIPIO HOLOGRAFICO",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_left",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "Leonard Susskind",
+            "principio holográfico",
+            "Juan Maldacena",
+            "enredo cuántico"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "eureka",
+          "infografia": {
+            "tipo": "tarjeta_concepto",
+            "titulo": "Resolución Holográfica",
+            "subtitulo": "La Información se Conserva",
+            "valorPrincipal": "2D $\\rightarrow$ 3D",
+            "unidad": "Holograma Cuántico",
+            "items": [
+              {
+                "etiqueta": "Horizonte de sucesos",
+                "valor": "Codifica la información en 2D",
+                "porcentaje": 100,
+                "color": "#FFE600"
+              },
+              {
+                "etiqueta": "Radiación saliente",
+                "valor": "Lleva la huella cuántica enredada",
+                "porcentaje": 90,
+                "color": "#38BDF8"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 24.202,
+          "palabras": [
+            {
+              "palabra": "Durante",
+              "inicioMs": 0,
+              "finMs": 340
+            },
+            {
+              "palabra": "tres",
+              "inicioMs": 340,
+              "finMs": 600
+            },
+            {
+              "palabra": "décadas",
+              "inicioMs": 600,
+              "finMs": 980
+            },
+            {
+              "palabra": "Hawking",
+              "inicioMs": 1220,
+              "finMs": 1420
+            },
+            {
+              "palabra": "sostuvo",
+              "inicioMs": 1420,
+              "finMs": 1800
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 1800,
+              "finMs": 1960
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 1960,
+              "finMs": 2060
+            },
+            {
+              "palabra": "información",
+              "inicioMs": 2060,
+              "finMs": 2360
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 2360,
+              "finMs": 2660
+            },
+            {
+              "palabra": "perdía",
+              "inicioMs": 2660,
+              "finMs": 2940
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 2940,
+              "finMs": 3100
+            },
+            {
+              "palabra": "siempre",
+              "inicioMs": 3100,
+              "finMs": 3500
+            },
+            {
+              "palabra": "lo",
+              "inicioMs": 3680,
+              "finMs": 3800
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 3800,
+              "finMs": 3940
+            },
+            {
+              "palabra": "habría",
+              "inicioMs": 3940,
+              "finMs": 4180
+            },
+            {
+              "palabra": "significado",
+              "inicioMs": 4180,
+              "finMs": 4800
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 4800,
+              "finMs": 4960
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 4960,
+              "finMs": 5180
+            },
+            {
+              "palabra": "leyes",
+              "inicioMs": 5180,
+              "finMs": 5420
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5420,
+              "finMs": 5560
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5560,
+              "finMs": 5660
+            },
+            {
+              "palabra": "física",
+              "inicioMs": 5660,
+              "finMs": 5920
+            },
+            {
+              "palabra": "cuántica",
+              "inicioMs": 5920,
+              "finMs": 6440
+            },
+            {
+              "palabra": "estaban",
+              "inicioMs": 6440,
+              "finMs": 6720
+            },
+            {
+              "palabra": "incompletas",
+              "inicioMs": 6720,
+              "finMs": 7480
+            },
+            {
+              "palabra": "Sin",
+              "inicioMs": 7700,
+              "finMs": 7820
+            },
+            {
+              "palabra": "embargo",
+              "inicioMs": 7820,
+              "finMs": 8080
+            },
+            {
+              "palabra": "gracias",
+              "inicioMs": 8260,
+              "finMs": 8520
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 8520,
+              "finMs": 8660
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 8660,
+              "finMs": 8760
+            },
+            {
+              "palabra": "trabajos",
+              "inicioMs": 8760,
+              "finMs": 9160
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9160,
+              "finMs": 9320
+            },
+            {
+              "palabra": "Leonard",
+              "inicioMs": 9320,
+              "finMs": 9740
+            },
+            {
+              "palabra": "Susskind",
+              "inicioMs": 9900,
+              "finMs": 10180
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 10180,
+              "finMs": 10460
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 10460,
+              "finMs": 10580
+            },
+            {
+              "palabra": "principio",
+              "inicioMs": 10580,
+              "finMs": 11000
+            },
+            {
+              "palabra": "holográfico",
+              "inicioMs": 11000,
+              "finMs": 11720
+            },
+            {
+              "palabra": "formulado",
+              "inicioMs": 11720,
+              "finMs": 12240
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 12240,
+              "finMs": 12500
+            },
+            {
+              "palabra": "Gerard",
+              "inicioMs": 12500,
+              "finMs": 12860
+            },
+            {
+              "palabra": "t",
+              "inicioMs": 12860,
+              "finMs": 13027
+            },
+            {
+              "palabra": "Hooft",
+              "inicioMs": 13027,
+              "finMs": 13193
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 13360,
+              "finMs": 13480
+            },
+            {
+              "palabra": "Juan",
+              "inicioMs": 13480,
+              "finMs": 13700
+            },
+            {
+              "palabra": "Maldacena",
+              "inicioMs": 13700,
+              "finMs": 14320
+            },
+            {
+              "palabra": "hoy",
+              "inicioMs": 14420,
+              "finMs": 14580
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 14580,
+              "finMs": 14720
+            },
+            {
+              "palabra": "mayoría",
+              "inicioMs": 14720,
+              "finMs": 15080
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15080,
+              "finMs": 15220
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 15220,
+              "finMs": 15300
+            },
+            {
+              "palabra": "físicos",
+              "inicioMs": 15300,
+              "finMs": 15720
+            },
+            {
+              "palabra": "acepta",
+              "inicioMs": 15720,
+              "finMs": 16160
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 16160,
+              "finMs": 16280
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 16280,
+              "finMs": 16380
+            },
+            {
+              "palabra": "información",
+              "inicioMs": 16380,
+              "finMs": 16880
+            },
+            {
+              "palabra": "queda",
+              "inicioMs": 16880,
+              "finMs": 17180
+            },
+            {
+              "palabra": "codificada",
+              "inicioMs": 17180,
+              "finMs": 17760
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17760,
+              "finMs": 17920
+            },
+            {
+              "palabra": "forma",
+              "inicioMs": 17920,
+              "finMs": 18160
+            },
+            {
+              "palabra": "sutil",
+              "inicioMs": 18160,
+              "finMs": 18540
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 18540,
+              "finMs": 18960
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 18960,
+              "finMs": 19060
+            },
+            {
+              "palabra": "fluctuaciones",
+              "inicioMs": 19060,
+              "finMs": 19560
+            },
+            {
+              "palabra": "cuánticas",
+              "inicioMs": 19560,
+              "finMs": 20140
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 20140,
+              "finMs": 20300
+            },
+            {
+              "palabra": "horizonte",
+              "inicioMs": 20300,
+              "finMs": 20680
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 20680,
+              "finMs": 20820
+            },
+            {
+              "palabra": "sucesos",
+              "inicioMs": 20960,
+              "finMs": 21300
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 21300,
+              "finMs": 21620
+            },
+            {
+              "palabra": "escapa",
+              "inicioMs": 21620,
+              "finMs": 21940
+            },
+            {
+              "palabra": "enredada",
+              "inicioMs": 21940,
+              "finMs": 22130
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 22320,
+              "finMs": 22440
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 22440,
+              "finMs": 22540
+            },
+            {
+              "palabra": "propia",
+              "inicioMs": 22540,
+              "finMs": 22840
+            },
+            {
+              "palabra": "radiación",
+              "inicioMs": 22840,
+              "finMs": 23220
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 23220,
+              "finMs": 23380
+            },
+            {
+              "palabra": "Hawking",
+              "inicioMs": 23380,
+              "finMs": 23740
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 47.78
+    },
+    {
+      "id": "cap_6",
+      "numero": 6,
+      "titulo": "El Destino del Universo y el Epitafio de Hawking",
+      "resumen": "La era de los agujeros negros en el futuro remoto del cosmos.",
+      "escenas": [
+        {
+          "id": 11,
+          "texto": "El tiempo que tardará un agujero negro estelar en evaporarse por completo desafía la imaginación humana: un uno seguido de sesenta y siete ceros de años. Y los agujeros negros supermasivos requerirán más de un uno seguido de cien ceros de años. En ese futuro inimaginablemente remoto, todas las estrellas se habrán apagado, las galaxias se habrán disuelto y los agujeros negros serán los últimos gobernantes del universo antes de evaporarse uno tras otro en la oscuridad.",
+          "tituloVisual": "UN UNO SEGUIDO DE CIEN CEROS",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "espacio_profundo",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "sesenta y siete ceros",
+            "cien ceros de años",
+            "futuro remoto",
+            "últimos gobernantes"
+          ],
+          "poseId": "astronomy_telescope",
+          "expresion": "sad",
+          "duracionSegundos": 23.962,
+          "palabras": [
+            {
+              "palabra": "El",
+              "inicioMs": 0,
+              "finMs": 180
+            },
+            {
+              "palabra": "tiempo",
+              "inicioMs": 180,
+              "finMs": 480
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 480,
+              "finMs": 660
+            },
+            {
+              "palabra": "tardará",
+              "inicioMs": 660,
+              "finMs": 1000
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 1100,
+              "finMs": 1160
+            },
+            {
+              "palabra": "agujero",
+              "inicioMs": 1160,
+              "finMs": 1480
+            },
+            {
+              "palabra": "negro",
+              "inicioMs": 1480,
+              "finMs": 1780
+            },
+            {
+              "palabra": "estelar",
+              "inicioMs": 1780,
+              "finMs": 2300
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 2300,
+              "finMs": 2420
+            },
+            {
+              "palabra": "evaporarse",
+              "inicioMs": 2420,
+              "finMs": 2900
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 2900,
+              "finMs": 3060
+            },
+            {
+              "palabra": "completo",
+              "inicioMs": 3060,
+              "finMs": 3440
+            },
+            {
+              "palabra": "desafía",
+              "inicioMs": 3440,
+              "finMs": 3820
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 3820,
+              "finMs": 4000
+            },
+            {
+              "palabra": "imaginación",
+              "inicioMs": 4000,
+              "finMs": 4440
+            },
+            {
+              "palabra": "humana",
+              "inicioMs": 4440,
+              "finMs": 4880
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 5020,
+              "finMs": 5140
+            },
+            {
+              "palabra": "uno",
+              "inicioMs": 5140,
+              "finMs": 5300
+            },
+            {
+              "palabra": "seguido",
+              "inicioMs": 5300,
+              "finMs": 5740
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5740,
+              "finMs": 5880
+            },
+            {
+              "palabra": "sesenta",
+              "inicioMs": 5880,
+              "finMs": 6096
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 6096,
+              "finMs": 6312
+            },
+            {
+              "palabra": "siete",
+              "inicioMs": 6312,
+              "finMs": 6528
+            },
+            {
+              "palabra": "ceros",
+              "inicioMs": 6528,
+              "finMs": 6744
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6960,
+              "finMs": 7140
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 7140,
+              "finMs": 7380
+            },
+            {
+              "palabra": "Y",
+              "inicioMs": 7520,
+              "finMs": 7600
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 7600,
+              "finMs": 7700
+            },
+            {
+              "palabra": "agujeros",
+              "inicioMs": 7700,
+              "finMs": 8140
+            },
+            {
+              "palabra": "negros",
+              "inicioMs": 8140,
+              "finMs": 8500
+            },
+            {
+              "palabra": "supermasivos",
+              "inicioMs": 8500,
+              "finMs": 9080
+            },
+            {
+              "palabra": "requerirán",
+              "inicioMs": 9080,
+              "finMs": 9560
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 9560,
+              "finMs": 9840
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9840,
+              "finMs": 10080
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 10080,
+              "finMs": 10220
+            },
+            {
+              "palabra": "uno",
+              "inicioMs": 10220,
+              "finMs": 10440
+            },
+            {
+              "palabra": "seguido",
+              "inicioMs": 10440,
+              "finMs": 10840
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 10840,
+              "finMs": 10940
+            },
+            {
+              "palabra": "cien",
+              "inicioMs": 10940,
+              "finMs": 11100
+            },
+            {
+              "palabra": "ceros",
+              "inicioMs": 11100,
+              "finMs": 11260
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11420,
+              "finMs": 11560
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 11560,
+              "finMs": 11820
+            },
+            {
+              "palabra": "En",
+              "inicioMs": 12020,
+              "finMs": 12100
+            },
+            {
+              "palabra": "ese",
+              "inicioMs": 12100,
+              "finMs": 12280
+            },
+            {
+              "palabra": "futuro",
+              "inicioMs": 12280,
+              "finMs": 12560
+            },
+            {
+              "palabra": "inimaginablemente",
+              "inicioMs": 12560,
+              "finMs": 13520
+            },
+            {
+              "palabra": "remoto",
+              "inicioMs": 13520,
+              "finMs": 13980
+            },
+            {
+              "palabra": "todas",
+              "inicioMs": 13980,
+              "finMs": 14200
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 14200,
+              "finMs": 14380
+            },
+            {
+              "palabra": "estrellas",
+              "inicioMs": 14380,
+              "finMs": 14860
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 14860,
+              "finMs": 14960
+            },
+            {
+              "palabra": "habrán",
+              "inicioMs": 14960,
+              "finMs": 15160
+            },
+            {
+              "palabra": "apagado",
+              "inicioMs": 15160,
+              "finMs": 15640
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 15840,
+              "finMs": 15980
+            },
+            {
+              "palabra": "galaxias",
+              "inicioMs": 15980,
+              "finMs": 16500
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 16500,
+              "finMs": 16680
+            },
+            {
+              "palabra": "habrán",
+              "inicioMs": 16680,
+              "finMs": 16940
+            },
+            {
+              "palabra": "disuelto",
+              "inicioMs": 16940,
+              "finMs": 17500
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 17600,
+              "finMs": 17660
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 17660,
+              "finMs": 17780
+            },
+            {
+              "palabra": "agujeros",
+              "inicioMs": 17780,
+              "finMs": 18220
+            },
+            {
+              "palabra": "negros",
+              "inicioMs": 18220,
+              "finMs": 18760
+            },
+            {
+              "palabra": "serán",
+              "inicioMs": 18760,
+              "finMs": 19200
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 19200,
+              "finMs": 19360
+            },
+            {
+              "palabra": "últimos",
+              "inicioMs": 19360,
+              "finMs": 19700
+            },
+            {
+              "palabra": "gobernantes",
+              "inicioMs": 19700,
+              "finMs": 20360
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 20360,
+              "finMs": 20560
+            },
+            {
+              "palabra": "universo",
+              "inicioMs": 20560,
+              "finMs": 21040
+            },
+            {
+              "palabra": "antes",
+              "inicioMs": 21040,
+              "finMs": 21400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 21400,
+              "finMs": 21580
+            },
+            {
+              "palabra": "evaporarse",
+              "inicioMs": 21580,
+              "finMs": 22120
+            },
+            {
+              "palabra": "uno",
+              "inicioMs": 22120,
+              "finMs": 22420
+            },
+            {
+              "palabra": "tras",
+              "inicioMs": 22420,
+              "finMs": 22600
+            },
+            {
+              "palabra": "otro",
+              "inicioMs": 22600,
+              "finMs": 22900
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 22900,
+              "finMs": 23000
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 23000,
+              "finMs": 23080
+            },
+            {
+              "palabra": "oscuridad",
+              "inicioMs": 23080,
+              "finMs": 23500
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "texto": "Cuando Stephen Hawking falleció en dos mil dieciocho, sus cenizas fueron enterradas en la Abadía de Westminster entre las tumbas de Isaac Newton y Charles Darwin. Sobre su lápida de piedra está grabada una sola fórmula matemática: la ecuación de la temperatura de Hawking. Esa breve línea de símbolos resume la victoria intelectual más hermosa de su vida: haber demostrado que ni siquiera los abismos más oscuros y aterradores del cosmos son capaces de retener su luz para siempre.",
+          "tituloVisual": "EL EPITAFIO EN WESTMINSTER",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "laboratorio",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "Abadía de Westminster",
+            "fórmula de Hawking",
+            "Isaac Newton",
+            "abismos no son eternos"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "smile_wide",
+          "duracionSegundos": 24.058,
+          "palabras": [
+            {
+              "palabra": "Cuando",
+              "inicioMs": 0,
+              "finMs": 240
+            },
+            {
+              "palabra": "Stephen",
+              "inicioMs": 240,
+              "finMs": 600
+            },
+            {
+              "palabra": "Hawking",
+              "inicioMs": 600,
+              "finMs": 1020
+            },
+            {
+              "palabra": "falleció",
+              "inicioMs": 1020,
+              "finMs": 1580
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 1580,
+              "finMs": 1840
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 1840,
+              "finMs": 2120
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 2120,
+              "finMs": 2400
+            },
+            {
+              "palabra": "dieciocho",
+              "inicioMs": 2400,
+              "finMs": 2680
+            },
+            {
+              "palabra": "sus",
+              "inicioMs": 2960,
+              "finMs": 3080
+            },
+            {
+              "palabra": "cenizas",
+              "inicioMs": 3080,
+              "finMs": 3460
+            },
+            {
+              "palabra": "fueron",
+              "inicioMs": 3460,
+              "finMs": 3680
+            },
+            {
+              "palabra": "enterradas",
+              "inicioMs": 3680,
+              "finMs": 4140
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 4140,
+              "finMs": 4340
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 4340,
+              "finMs": 4440
+            },
+            {
+              "palabra": "Abadía",
+              "inicioMs": 4440,
+              "finMs": 4600
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4760,
+              "finMs": 4860
+            },
+            {
+              "palabra": "Westminster",
+              "inicioMs": 4860,
+              "finMs": 5220
+            },
+            {
+              "palabra": "entre",
+              "inicioMs": 5220,
+              "finMs": 5700
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 5700,
+              "finMs": 5860
+            },
+            {
+              "palabra": "tumbas",
+              "inicioMs": 5860,
+              "finMs": 6180
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6180,
+              "finMs": 6320
+            },
+            {
+              "palabra": "Isaac",
+              "inicioMs": 6320,
+              "finMs": 6520
+            },
+            {
+              "palabra": "Newton",
+              "inicioMs": 6520,
+              "finMs": 6860
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 6860,
+              "finMs": 7140
+            },
+            {
+              "palabra": "Charles",
+              "inicioMs": 7140,
+              "finMs": 7400
+            },
+            {
+              "palabra": "Darwin",
+              "inicioMs": 7400,
+              "finMs": 7820
+            },
+            {
+              "palabra": "Sobre",
+              "inicioMs": 8000,
+              "finMs": 8180
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 8180,
+              "finMs": 8360
+            },
+            {
+              "palabra": "lápida",
+              "inicioMs": 8360,
+              "finMs": 8720
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8720,
+              "finMs": 8900
+            },
+            {
+              "palabra": "piedra",
+              "inicioMs": 8900,
+              "finMs": 9260
+            },
+            {
+              "palabra": "está",
+              "inicioMs": 9260,
+              "finMs": 9460
+            },
+            {
+              "palabra": "grabada",
+              "inicioMs": 9460,
+              "finMs": 9860
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 9860,
+              "finMs": 10200
+            },
+            {
+              "palabra": "sola",
+              "inicioMs": 10200,
+              "finMs": 10520
+            },
+            {
+              "palabra": "fórmula",
+              "inicioMs": 10520,
+              "finMs": 10960
+            },
+            {
+              "palabra": "matemática",
+              "inicioMs": 10960,
+              "finMs": 11640
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 11780,
+              "finMs": 11880
+            },
+            {
+              "palabra": "ecuación",
+              "inicioMs": 11880,
+              "finMs": 12280
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12280,
+              "finMs": 12440
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 12440,
+              "finMs": 12540
+            },
+            {
+              "palabra": "temperatura",
+              "inicioMs": 12540,
+              "finMs": 12900
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12900,
+              "finMs": 13200
+            },
+            {
+              "palabra": "Hawking",
+              "inicioMs": 13200,
+              "finMs": 13600
+            },
+            {
+              "palabra": "Esa",
+              "inicioMs": 13840,
+              "finMs": 14040
+            },
+            {
+              "palabra": "breve",
+              "inicioMs": 14040,
+              "finMs": 14200
+            },
+            {
+              "palabra": "línea",
+              "inicioMs": 14200,
+              "finMs": 14480
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14480,
+              "finMs": 14680
+            },
+            {
+              "palabra": "símbolos",
+              "inicioMs": 14680,
+              "finMs": 15200
+            },
+            {
+              "palabra": "resume",
+              "inicioMs": 15200,
+              "finMs": 15760
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 15760,
+              "finMs": 15920
+            },
+            {
+              "palabra": "victoria",
+              "inicioMs": 15920,
+              "finMs": 16220
+            },
+            {
+              "palabra": "intelectual",
+              "inicioMs": 16220,
+              "finMs": 16700
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 16700,
+              "finMs": 16920
+            },
+            {
+              "palabra": "hermosa",
+              "inicioMs": 16920,
+              "finMs": 17360
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17360,
+              "finMs": 17460
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 17460,
+              "finMs": 17600
+            },
+            {
+              "palabra": "vida",
+              "inicioMs": 17600,
+              "finMs": 17820
+            },
+            {
+              "palabra": "haber",
+              "inicioMs": 17820,
+              "finMs": 18010
+            },
+            {
+              "palabra": "demostrado",
+              "inicioMs": 18200,
+              "finMs": 18700
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 18700,
+              "finMs": 18900
+            },
+            {
+              "palabra": "ni",
+              "inicioMs": 18900,
+              "finMs": 19000
+            },
+            {
+              "palabra": "siquiera",
+              "inicioMs": 19000,
+              "finMs": 19300
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 19300,
+              "finMs": 19480
+            },
+            {
+              "palabra": "abismos",
+              "inicioMs": 19480,
+              "finMs": 19920
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 19920,
+              "finMs": 20080
+            },
+            {
+              "palabra": "oscuros",
+              "inicioMs": 20080,
+              "finMs": 20480
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 20480,
+              "finMs": 20660
+            },
+            {
+              "palabra": "aterradores",
+              "inicioMs": 20660,
+              "finMs": 21060
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 21060,
+              "finMs": 21240
+            },
+            {
+              "palabra": "cosmos",
+              "inicioMs": 21240,
+              "finMs": 21540
+            },
+            {
+              "palabra": "son",
+              "inicioMs": 21540,
+              "finMs": 21820
+            },
+            {
+              "palabra": "capaces",
+              "inicioMs": 21820,
+              "finMs": 22220
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22220,
+              "finMs": 22340
+            },
+            {
+              "palabra": "retener",
+              "inicioMs": 22340,
+              "finMs": 22680
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 22680,
+              "finMs": 22860
+            },
+            {
+              "palabra": "luz",
+              "inicioMs": 22860,
+              "finMs": 23020
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 23020,
+              "finMs": 23220
+            },
+            {
+              "palabra": "siempre",
+              "inicioMs": 23220,
+              "finMs": 23580
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 48.02
+    }
+  ]
+}

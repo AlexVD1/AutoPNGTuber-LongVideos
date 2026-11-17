@@ -1,0 +1,35 @@
+<svg width="500" height="620" viewBox="-35 -40 470 545" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Efectos festivos de ambiente opcionales -->
+  
+  <!-- Sombra base -->
+  <ellipse cx="200" cy="472" rx="85" ry="14" fill="#E5E7EB" />
+  <!-- Capa trasera si aplica -->
+  
+  <!-- Piernas -->
+  <path d="M 195 330 L 145 460 M 195 330 L 245 460" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Torso -->
+  <path d="M 195 183 L 195 330" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Accesorios de cintura -->
+  
+  <!-- Brazos -->
+  <path d="M 195 215 L 140 275" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 195 215 L 255 240 L 310 215" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Accesorios de cuello delanteros -->
+  
+  <!-- Accesorios de postura -->
+  
+  <!-- Cabeza, expresion facial y accesorios de cabeza/cara -->
+  <g transform="translate(-5, 0) rotate(4, 200, 115)">
+    <circle cx="200" cy="115" r="68" fill="#FFFFFF" stroke="#111827" stroke-width="12" />
+    <path d="M 162 79 Q 176 69 190 79 M 210 79 Q 224 69 238 79" stroke="#111827" stroke-width="6" stroke-linecap="round" fill="none" />
+<circle cx="176" cy="104" r="7" fill="#111827" />
+<circle cx="224" cy="104" r="7" fill="#111827" />
+<path d="M 174 130 Q 200 165 226 130 Z" fill="#111827" stroke="#111827" stroke-width="5" stroke-linejoin="round" />
+    
+    
+  </g>
+  <!-- Props integrados en manos y cabeza -->
+  
+  <g transform="translate(315, 205) rotate(0)"><ellipse cx="0" cy="-4" rx="16" ry="30" fill="#FACC15" stroke="#111827" stroke-width="6"/><path d="M -10 -14 L 10 -14 M -12 -2 L 12 -2 M -10 10 L 10 10 M 0 -28 L 0 18" stroke="#D97706" stroke-width="3"/><path d="M 0 28 C -24 22 -28 -4 -14 -10 C -14 10 -4 22 0 28 Z M 0 28 C 24 22 28 -4 14 -10 C 14 10 4 22 0 28 Z" fill="#22C55E" stroke="#111827" stroke-width="5" stroke-linejoin="round"/></g>
+  
+</svg>

@@ -1,0 +1,317 @@
+{
+  "meta": {
+    "id": "doc_001_senal_wow",
+    "slug": "misterio_senal_wow_1977",
+    "titulo": "El Misterio de la Señal Wow!: ¿Qué Escuchamos Realmente?",
+    "premisa": "En agosto de 1977, un radiotelescopio en Ohio captó una señal de radio 30 veces más potente que el ruido cósmico de fondo. Duró exactamente 72 segundos y jamás volvió a repetirse. Esta es la investigación definitiva sobre el mensaje que pudo haber cambiado la historia de la humanidad.",
+    "gancho": "¿Recibimos en 1977 una transmisión extraterrestre que aún no logramos descifrar?",
+    "categoria": "Science & Technology",
+    "duracionObjetivo": [480, 600],
+    "fps": 30,
+    "dimensiones": {
+      "width": 1920,
+      "height": 1080
+    },
+    "idioma": "es",
+    "voz": "es-ES-AlvaroNeural",
+    "musicaPrincipal": "bgm/bgm.mp3",
+    "volumenMusica": 0.12,
+    "fuentes": [
+      "Ehman, J. R. (1977). The 'Big Ear' Wow! Signal Analysis. Ohio State University Radio Observatory.",
+      "Gray, R. H. (2012). The Elusive WOW: Searching for Extraterrestrial Intelligence. Palmer Square Press.",
+      "Paris, A. (2017). Hydrogen Line Observations and the Cometary Hypothesis. Journal of the Washington Academy of Sciences."
+    ],
+    "tags": [
+      "astronomia",
+      "senal wow",
+      "seti",
+      "universo",
+      "ciencia",
+      "espacio",
+      "radiotelescopio",
+      "fisica"
+    ]
+  },
+  "capitulos": [
+    {
+      "id": "cap_1",
+      "numero": 1,
+      "titulo": "El Instante que Sacudió la Ciencia",
+      "resumen": "La noche del 15 de agosto de 1977 en el observatorio Big Ear y la anotación que dio nombre a la anomalía.",
+      "escenas": [
+        {
+          "id": 1,
+          "texto": "La noche del 15 de agosto de 1977, en un tranquilo observatorio de Ohio, una impresora matricial comenzó a escupir una secuencia que cambiaría la astronomía moderna.",
+          "tituloVisual": "AGOSTO DE 1977",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "habitacion_noche",
+          "transicion": "fundido_negro",
+          "efectosCamara": ["drift"],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "palabrasClave": ["15 de agosto", "impresora", "astronomía"],
+          "poseId": "astronomy_telescope",
+          "expresion": "analytical"
+        },
+        {
+          "id": 2,
+          "texto": "El astrónomo Jerry Ehman revisaba los datos de rutina del radiotelescopio Big Ear cuando de pronto vio seis caracteres insólitos: 6, E, Q, U, J, 5.",
+          "tituloVisual": "CÓDIGO 6EQUJ5",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_right",
+          "efectosCamara": ["pan_right"],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "palabrasClave": ["Jerry Ehman", "Big Ear", "6EQUJ5"],
+          "poseId": "investigating_magnifier",
+          "expresion": "surprised",
+          "infografia": {
+            "tipo": "dato_clave",
+            "titulo": "Secuencia Recibida",
+            "subtitulo": "Escala de intensidad logarítmica de Big Ear",
+            "valorPrincipal": "6EQUJ5",
+            "unidad": "CÓDIGO ALFANUMÉRICO",
+            "items": [
+              { "etiqueta": "Intensidad 'U'", "valor": "30x Ruido Fondo", "porcentaje": 100, "color": "#EF4444" },
+              { "etiqueta": "Duración de barrido", "valor": "72 Segundos", "porcentaje": 72, "color": "#38BDF8" }
+            ],
+            "colorAcento": "#FFE600"
+          }
+        },
+        {
+          "id": 3,
+          "texto": "Impresionado por la colosal intensidad de la señal, Ehman tomó un bolígrafo rojo, encerró el grupo en un círculo y escribió una sola palabra al margen: ¡Wow!",
+          "tituloVisual": "LA NOTA HISTÓRICA",
+          "layout": "primer_plano",
+          "composicionVisual": "primer_plano",
+          "escenario": "laboratorio",
+          "transicion": "zoom_in",
+          "efectosCamara": ["punch", "drift"],
+          "sfx": "sfx/sfx_impact.wav",
+          "palabrasClave": ["bolígrafo rojo", "círculo", "Wow"],
+          "poseId": "taking_notes",
+          "expresion": "shocked"
+        }
+      ]
+    },
+    {
+      "id": "cap_2",
+      "numero": 2,
+      "titulo": "La Anatomía de una Señal Perfecta",
+      "resumen": "Por qué la frecuencia de 1420 MHz representaba el canal universal que los científicos esperaban.",
+      "escenas": [
+        {
+          "id": 4,
+          "texto": "Aquella no era una emisión de radio ordinaria. La señal se concentraba en una banda extremadamente estrecha, justo en los 1420 megahercios.",
+          "tituloVisual": "1420.405 MHZ",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_right",
+          "efectosCamara": ["drift"],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "palabrasClave": ["1420 megahercios", "banda estrecha"],
+          "poseId": "explaining_pointing_up",
+          "expresion": "analytical",
+          "infografia": {
+            "tipo": "comparacion",
+            "titulo": "La Frecuencia Sagrada",
+            "subtitulo": "Línea de emisión del Hidrógeno Neutro (21 cm)",
+            "valorPrincipal": "1420.4",
+            "unidad": "MHz",
+            "items": [
+              { "etiqueta": "Emisión Wow!", "valor": "1420.45 MHz", "porcentaje": 99, "color": "#34D399" },
+              { "etiqueta": "Ruido natural galáctico", "valor": "Banda ancha", "porcentaje": 25, "color": "#94A3B8" }
+            ],
+            "colorAcento": "#38BDF8"
+          }
+        },
+        {
+          "id": 5,
+          "texto": "Esta frecuencia corresponde a la línea del hidrógeno neutro, el elemento más abundante del cosmos. Para la astrofísica, es el canal de saludo interestelar natural.",
+          "tituloVisual": "LÍNEA DEL HIDRÓGENO",
+          "layout": "panoramica_central",
+          "composicionVisual": "escenario_ilustrado",
+          "escenario": "espacio_profundo",
+          "transicion": "zoom_in",
+          "efectosCamara": ["drift", "pan_left"],
+          "sfx": "sfx/sfx_ambient_chime.wav",
+          "palabrasClave": ["hidrógeno neutro", "canal de saludo", "interestelar"],
+          "poseId": "physics_atom",
+          "expresion": "eureka"
+        },
+        {
+          "id": 6,
+          "texto": "Además, la antena de Big Ear era fija. El cielo rotaba frente a ella en exactamente 72 segundos. La señal creció y decayó siguiendo a la perfección ese patrón de antena.",
+          "tituloVisual": "PERFIL DE 72 SEGUNDOS",
+          "layout": "infografia_izquierda",
+          "composicionVisual": "plano_medio",
+          "escenario": "espacio_profundo",
+          "transicion": "corte",
+          "efectosCamara": ["drift"],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "palabrasClave": ["antena fija", "72 segundos", "patrón perfecto"],
+          "poseId": "presenting_object",
+          "expresion": "talking_enthusiastic",
+          "infografia": {
+            "tipo": "tarjeta_concepto",
+            "titulo": "Campana Gaussiana",
+            "subtitulo": "Demostró que el origen era un punto lejano en el espacio profundo",
+            "valorPrincipal": "72s",
+            "unidad": "TIEMPO EXACTO",
+            "items": [
+              { "etiqueta": "Ascenso progresivo", "valor": "36 seg", "porcentaje": 50, "color": "#F59E0B" },
+              { "etiqueta": "Descenso simétrico", "valor": "36 seg", "porcentaje": 50, "color": "#F59E0B" }
+            ],
+            "colorAcento": "#FFE600"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cap_3",
+      "numero": 3,
+      "titulo": "Las Hipótesis Descartadas",
+      "resumen": "El riguroso descarte científico: ¿satélite militar, reflejo terrestre o cometa?",
+      "escenas": [
+        {
+          "id": 7,
+          "texto": "Durante décadas, los escépticos buscaron explicaciones terrestres: satélites secretos, transmisiones militares o rebotes en chatarra espacial.",
+          "tituloVisual": "¿INTERFERENCIA TERRESTRE?",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_left",
+          "efectosCamara": ["drift"],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "palabrasClave": ["satélites secretos", "militares", "chatarra"],
+          "poseId": "doubting_open_hands",
+          "expresion": "skeptical"
+        },
+        {
+          "id": 8,
+          "texto": "Pero ninguna cuadraba. La banda de 1420 MHz está internacionalmente protegida por tratados de telecomunicaciones. Nadie en la Tierra tenía permiso para emitir en ella.",
+          "tituloVisual": "ZONA PROTEGIDA",
+          "layout": "primer_plano",
+          "composicionVisual": "primer_plano",
+          "escenario": "laboratorio",
+          "transicion": "zoom_in",
+          "efectosCamara": ["punch"],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "palabrasClave": ["banda protegida", "tratados internacionales"],
+          "poseId": "warning_danger",
+          "expresion": "serious"
+        },
+        {
+          "id": 9,
+          "texto": "En 2016 se propuso que dos cometas ricos en hidrógeno pasaban por esa zona. Sin embargo, la señal era puntual y los cometas emiten nubes difusas y continuas.",
+          "tituloVisual": "HIPÓTESIS DE COMETAS",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "espacio_profundo",
+          "transicion": "corte",
+          "efectosCamara": ["drift"],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "palabrasClave": ["cometas", "nubes difusas", "descartada"],
+          "poseId": "comparing_two_objects",
+          "expresion": "thinking",
+          "infografia": {
+            "tipo": "comparacion",
+            "titulo": "Contraste Físico",
+            "subtitulo": "Señal Wow vs Emisión de Cometa",
+            "items": [
+              { "etiqueta": "Señal Wow!", "valor": "Puntual (<10 kHz)", "porcentaje": 95, "color": "#38BDF8" },
+              { "etiqueta": "Cometa 266P", "valor": "Difusa (>500 kHz)", "porcentaje": 30, "color": "#EF4444" }
+            ],
+            "colorAcento": "#F43F5E"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cap_4",
+      "numero": 4,
+      "titulo": "La Búsqueda en la Constelación de Sagitario",
+      "resumen": "El origen estelar hacia el corazón de la Vía Láctea y los intentos de recontacto.",
+      "escenas": [
+        {
+          "id": 10,
+          "texto": "La señal provino de la constelación de Sagitario, al noroeste del cúmulo estelar M55, en una región densa de miles de estrellas parecidas a nuestro Sol.",
+          "tituloVisual": "RUMBO A SAGITARIO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "espacio_profundo",
+          "transicion": "zoom_in",
+          "efectosCamara": ["drift", "pan_right"],
+          "sfx": "sfx/sfx_ambient_chime.wav",
+          "palabrasClave": ["Sagitario", "M55", "nuestro Sol"],
+          "poseId": "astronomy_telescope",
+          "expresion": "eureka"
+        },
+        {
+          "id": 11,
+          "texto": "Astrónomos apuntaron telescopios colosales cientos de veces hacia ese mismo punto del cielo. Pero el cosmos permaneció en absoluto y desconcertante silencio.",
+          "tituloVisual": "EL GRAN SILENCIO",
+          "layout": "primer_plano",
+          "composicionVisual": "primer_plano",
+          "escenario": "espacio_profundo",
+          "transicion": "fundido_negro",
+          "efectosCamara": ["drift"],
+          "sfx": "sfx/sfx_tension_riser.wav",
+          "palabrasClave": ["silencio", "telescopios colosales"],
+          "poseId": "shushing_silence",
+          "expresion": "worried"
+        }
+      ]
+    },
+    {
+      "id": "cap_5",
+      "numero": 5,
+      "titulo": "La Pregunta Abierta y Nuestro Futuro",
+      "resumen": "La conclusión sobre el misterio más fascinante del universo observable.",
+      "escenas": [
+        {
+          "id": 12,
+          "texto": "¿Fue una baliza alienígena giratoria como un faro que solo nos apuntó una vez? ¿O un fenómeno astrofísico desconocido que jamás hemos vuelto a registrar?",
+          "tituloVisual": "¿UN FARO CÓSMICO?",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "espacio_profundo",
+          "transicion": "whip_right",
+          "efectosCamara": ["drift"],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "palabrasClave": ["baliza alienígena", "faro", "fenómeno desconocido"],
+          "poseId": "asking_question",
+          "expresion": "analytical",
+          "infografia": {
+            "tipo": "tarjeta_concepto",
+            "titulo": "Estado Actual",
+            "subtitulo": "Consenso de la comunidad astronómica mundial",
+            "valorPrincipal": "ANOMALÍA ABIERTA",
+            "unidad": "SIN EXPLICACIÓN TERRESTRE",
+            "items": [
+              { "etiqueta": "Probabilidad artificial", "valor": "No descartada", "porcentaje": 75, "color": "#FFE600" },
+              { "etiqueta": "Probabilidad terrestre", "valor": "< 1%", "porcentaje": 1, "color": "#EF4444" }
+            ],
+            "colorAcento": "#FFE600"
+          }
+        },
+        {
+          "id": 13,
+          "texto": "Casi cincuenta años después, la señal Wow sigue siendo el susurro más enigmático que ha rozado la Tierra. Una advertencia de que allá afuera, el universo nos está esperando.",
+          "tituloVisual": "EL SUSURRO CÓSMICO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "cielo_dia",
+          "transicion": "zoom_in",
+          "efectosCamara": ["drift"],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "palabrasClave": ["cincuenta años", "susurro", "esperando"],
+          "poseId": "standing_confident",
+          "expresion": "smile_soft"
+        }
+      ]
+    }
+  ]
+}

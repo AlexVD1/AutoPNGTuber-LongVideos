@@ -1,0 +1,5424 @@
+{
+  "meta": {
+    "id": "doc_007_punto_nemo",
+    "slug": "punto_nemo_cementerio_abismal_espacial",
+    "titulo": "Punto Nemo: El Abismo más Solitario de la Tierra y Cementerio Espacial",
+    "premisa": "El polo oceánico de inaccesibilidad en el Pacífico sur es el lugar más distante de cualquier tierra firme. Es tan remoto que las agencias espaciales lo eligieron como la tumba final de estaciones orbitales y satélites fuera de servicio.",
+    "gancho": "¿Cuál es el rincón más aislado del planeta donde los humanos más cercanos viajan en el espacio?",
+    "categoria": "Science & Technology",
+    "duracionObjetivo": [
+      420,
+      500
+    ],
+    "fps": 30,
+    "dimensiones": {
+      "width": 1920,
+      "height": 1080
+    },
+    "idioma": "es",
+    "voz": "alex.conds.pt",
+    "musicaPrincipal": "bgm/bgm.mp3",
+    "volumenMusica": 0.12,
+    "fuentes": [
+      "Lukatela, H. (1992). Calculation of the Oceanic Pole of Inaccessibility.",
+      "ESA (2018). Spacecraft Reentry and Ocean Impact Protocols.",
+      "NASA Orbital Debris Program (2021). The South Pacific Oceanic Uninhabited Area."
+    ],
+    "tags": [
+      "geografia",
+      "punto nemo",
+      "oceano",
+      "espacio",
+      "satelites",
+      "ciencia",
+      "documental"
+    ]
+  },
+  "capitulos": [
+    {
+      "id": "cap_1",
+      "numero": 1,
+      "titulo": "El Punto Más Solitario del Planeta",
+      "resumen": "La definición del Polo Oceánico de Inaccesibilidad y su lejanía cósmica.",
+      "escenas": [
+        {
+          "id": 1,
+          "texto": "En medio del Pacífico Sur, sepultado en una inmensidad de agua que parece infinita, existe una coordenada geográfica que ostenta el título del lugar más aislado de la superficie de la Tierra: el Polo Oceánico de Inaccesibilidad, bautizado popularmente como Punto Nemo en honor al legendario capitán de Julio Verne. Para llegar a tierra firme desde este punto exacto hay que navegar dos mil seiscientos ochenta y ocho kilómetros en cualquier dirección: hacia el norte se encuentra la deshabitada isla Ducie, al noreste el islote Motu Nui de la Isla de Pascua, y hacia el sur las costas heladas de la Antártida.",
+          "tituloVisual": "PUNTO NEMO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "abismo_oceanico",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "Punto Nemo",
+            "Polo Oceánico de Inaccesibilidad",
+            "dos mil seiscientos ochenta y ocho kilómetros",
+            "Pacífico Sur"
+          ],
+          "poseId": "standing_curious",
+          "expresion": "analytical",
+          "duracionSegundos": 30.106,
+          "palabras": [
+            {
+              "palabra": "En",
+              "inicioMs": 0,
+              "finMs": 220
+            },
+            {
+              "palabra": "medio",
+              "inicioMs": 220,
+              "finMs": 380
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 380,
+              "finMs": 600
+            },
+            {
+              "palabra": "Pacífico",
+              "inicioMs": 600,
+              "finMs": 1140
+            },
+            {
+              "palabra": "Sur",
+              "inicioMs": 1140,
+              "finMs": 1380
+            },
+            {
+              "palabra": "sepultado",
+              "inicioMs": 1640,
+              "finMs": 2080
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 2080,
+              "finMs": 2200
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 2200,
+              "finMs": 2320
+            },
+            {
+              "palabra": "inmensidad",
+              "inicioMs": 2320,
+              "finMs": 2760
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2760,
+              "finMs": 2940
+            },
+            {
+              "palabra": "agua",
+              "inicioMs": 2940,
+              "finMs": 3100
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 3100,
+              "finMs": 3260
+            },
+            {
+              "palabra": "parece",
+              "inicioMs": 3260,
+              "finMs": 3460
+            },
+            {
+              "palabra": "infinita",
+              "inicioMs": 3460,
+              "finMs": 4060
+            },
+            {
+              "palabra": "existe",
+              "inicioMs": 4220,
+              "finMs": 4600
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 4600,
+              "finMs": 4820
+            },
+            {
+              "palabra": "coordenada",
+              "inicioMs": 4820,
+              "finMs": 5320
+            },
+            {
+              "palabra": "geográfica",
+              "inicioMs": 5320,
+              "finMs": 5920
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 5920,
+              "finMs": 6060
+            },
+            {
+              "palabra": "ostenta",
+              "inicioMs": 6060,
+              "finMs": 6300
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 6300,
+              "finMs": 6560
+            },
+            {
+              "palabra": "título",
+              "inicioMs": 6560,
+              "finMs": 6840
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 6840,
+              "finMs": 7060
+            },
+            {
+              "palabra": "lugar",
+              "inicioMs": 7060,
+              "finMs": 7280
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 7280,
+              "finMs": 7540
+            },
+            {
+              "palabra": "aislado",
+              "inicioMs": 7540,
+              "finMs": 7900
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 7900,
+              "finMs": 8080
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 8080,
+              "finMs": 8180
+            },
+            {
+              "palabra": "superficie",
+              "inicioMs": 8180,
+              "finMs": 8740
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8740,
+              "finMs": 8860
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 8860,
+              "finMs": 8960
+            },
+            {
+              "palabra": "Tierra",
+              "inicioMs": 8960,
+              "finMs": 9240
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 9540,
+              "finMs": 9660
+            },
+            {
+              "palabra": "Polo",
+              "inicioMs": 9660,
+              "finMs": 9960
+            },
+            {
+              "palabra": "Oceánico",
+              "inicioMs": 9960,
+              "finMs": 10400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 10400,
+              "finMs": 10560
+            },
+            {
+              "palabra": "Inaccesibilidad",
+              "inicioMs": 10560,
+              "finMs": 11300
+            },
+            {
+              "palabra": "bautizado",
+              "inicioMs": 11420,
+              "finMs": 11780
+            },
+            {
+              "palabra": "popularmente",
+              "inicioMs": 11780,
+              "finMs": 12560
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 12560,
+              "finMs": 12780
+            },
+            {
+              "palabra": "Punto",
+              "inicioMs": 12780,
+              "finMs": 13040
+            },
+            {
+              "palabra": "Nemo",
+              "inicioMs": 13040,
+              "finMs": 13380
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 13380,
+              "finMs": 13500
+            },
+            {
+              "palabra": "honor",
+              "inicioMs": 13500,
+              "finMs": 13700
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 13700,
+              "finMs": 13960
+            },
+            {
+              "palabra": "legendario",
+              "inicioMs": 13960,
+              "finMs": 14400
+            },
+            {
+              "palabra": "capitán",
+              "inicioMs": 14400,
+              "finMs": 14800
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14800,
+              "finMs": 14920
+            },
+            {
+              "palabra": "Julio",
+              "inicioMs": 14920,
+              "finMs": 15140
+            },
+            {
+              "palabra": "Verne",
+              "inicioMs": 15140,
+              "finMs": 15500
+            },
+            {
+              "palabra": "Para",
+              "inicioMs": 15780,
+              "finMs": 15920
+            },
+            {
+              "palabra": "llegar",
+              "inicioMs": 15920,
+              "finMs": 16140
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 16140,
+              "finMs": 16280
+            },
+            {
+              "palabra": "tierra",
+              "inicioMs": 16280,
+              "finMs": 16480
+            },
+            {
+              "palabra": "firme",
+              "inicioMs": 16480,
+              "finMs": 16840
+            },
+            {
+              "palabra": "desde",
+              "inicioMs": 16840,
+              "finMs": 16960
+            },
+            {
+              "palabra": "este",
+              "inicioMs": 16960,
+              "finMs": 17200
+            },
+            {
+              "palabra": "punto",
+              "inicioMs": 17200,
+              "finMs": 17420
+            },
+            {
+              "palabra": "exacto",
+              "inicioMs": 17420,
+              "finMs": 17940
+            },
+            {
+              "palabra": "hay",
+              "inicioMs": 18000,
+              "finMs": 18080
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 18080,
+              "finMs": 18200
+            },
+            {
+              "palabra": "navegar",
+              "inicioMs": 18200,
+              "finMs": 18560
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 18560,
+              "finMs": 18780
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 18780,
+              "finMs": 19000
+            },
+            {
+              "palabra": "seiscientos",
+              "inicioMs": 19000,
+              "finMs": 19220
+            },
+            {
+              "palabra": "ochenta",
+              "inicioMs": 19220,
+              "finMs": 19440
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 19440,
+              "finMs": 19660
+            },
+            {
+              "palabra": "ocho",
+              "inicioMs": 19660,
+              "finMs": 19880
+            },
+            {
+              "palabra": "kilómetros",
+              "inicioMs": 20100,
+              "finMs": 20580
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 20580,
+              "finMs": 20780
+            },
+            {
+              "palabra": "cualquier",
+              "inicioMs": 20780,
+              "finMs": 21020
+            },
+            {
+              "palabra": "dirección",
+              "inicioMs": 21020,
+              "finMs": 21480
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 21880,
+              "finMs": 22080
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 22080,
+              "finMs": 22220
+            },
+            {
+              "palabra": "norte",
+              "inicioMs": 22220,
+              "finMs": 22400
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 22400,
+              "finMs": 22640
+            },
+            {
+              "palabra": "encuentra",
+              "inicioMs": 22640,
+              "finMs": 22980
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 22980,
+              "finMs": 23140
+            },
+            {
+              "palabra": "deshabitada",
+              "inicioMs": 23140,
+              "finMs": 23620
+            },
+            {
+              "palabra": "isla",
+              "inicioMs": 23620,
+              "finMs": 23960
+            },
+            {
+              "palabra": "Ducie",
+              "inicioMs": 23960,
+              "finMs": 24200
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 24440,
+              "finMs": 24520
+            },
+            {
+              "palabra": "noreste",
+              "inicioMs": 24520,
+              "finMs": 24900
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 24900,
+              "finMs": 25140
+            },
+            {
+              "palabra": "islote",
+              "inicioMs": 25140,
+              "finMs": 25420
+            },
+            {
+              "palabra": "Motu",
+              "inicioMs": 25420,
+              "finMs": 25800
+            },
+            {
+              "palabra": "Nui",
+              "inicioMs": 25800,
+              "finMs": 26000
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 26000,
+              "finMs": 26140
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 26140,
+              "finMs": 26220
+            },
+            {
+              "palabra": "Isla",
+              "inicioMs": 26220,
+              "finMs": 26420
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 26420,
+              "finMs": 26540
+            },
+            {
+              "palabra": "Pascua",
+              "inicioMs": 26540,
+              "finMs": 26920
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 27160,
+              "finMs": 27260
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 27260,
+              "finMs": 27480
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 27480,
+              "finMs": 27640
+            },
+            {
+              "palabra": "sur",
+              "inicioMs": 27640,
+              "finMs": 27880
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 27880,
+              "finMs": 28100
+            },
+            {
+              "palabra": "costas",
+              "inicioMs": 28100,
+              "finMs": 28500
+            },
+            {
+              "palabra": "heladas",
+              "inicioMs": 28500,
+              "finMs": 28800
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 28800,
+              "finMs": 29040
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 29040,
+              "finMs": 29140
+            },
+            {
+              "palabra": "Antártida",
+              "inicioMs": 29140,
+              "finMs": 29660
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "texto": "La soledad de Punto Nemo es tan abrumadora que produce una paradoja espacial asombrosa: los seres humanos más cercanos a ti cuando navegas por esas coordenadas no están en un barco ni en una isla de pescadores; son los astronautas a bordo de la Estación Espacial Internacional. Mientras la costa más próxima dista casi dos mil setecientos kilómetros, la estación espacial orbita a cuatrocientos kilómetros directamente sobre tu cabeza. Si miras hacia el cenit en una noche despejada, estás siete veces más cerca del espacio exterior que de cualquier civilización humana terrestre.",
+          "tituloVisual": "VECINOS EN ORBITA",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "espacio_profundo",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_sci_fi_beep.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "Estación Espacial Internacional",
+            "cuatrocientos kilómetros",
+            "siete veces más cerca",
+            "astronautas"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "eureka",
+          "infografia": {
+            "tipo": "comparacion",
+            "titulo": "Distancia a Humanos",
+            "subtitulo": "Costa más Cercana vs Estación Espacial",
+            "valorPrincipal": "400 km",
+            "unidad": "ISS en el cenit",
+            "items": [
+              {
+                "etiqueta": "Estación Espacial (Cielo)",
+                "valor": "400 km de distancia",
+                "porcentaje": 15,
+                "color": "#FFE600"
+              },
+              {
+                "etiqueta": "Isla Ducie (Tierra firme)",
+                "valor": "2.688 km de distancia",
+                "porcentaje": 100,
+                "color": "#38BDF8"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 31.234,
+          "palabras": [
+            {
+              "palabra": "La",
+              "inicioMs": 0,
+              "finMs": 200
+            },
+            {
+              "palabra": "soledad",
+              "inicioMs": 200,
+              "finMs": 580
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 580,
+              "finMs": 720
+            },
+            {
+              "palabra": "Punto",
+              "inicioMs": 720,
+              "finMs": 1060
+            },
+            {
+              "palabra": "Nemo",
+              "inicioMs": 1060,
+              "finMs": 1420
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 1420,
+              "finMs": 1660
+            },
+            {
+              "palabra": "tan",
+              "inicioMs": 1660,
+              "finMs": 1800
+            },
+            {
+              "palabra": "abrumadora",
+              "inicioMs": 1800,
+              "finMs": 2280
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 2280,
+              "finMs": 2560
+            },
+            {
+              "palabra": "produce",
+              "inicioMs": 2560,
+              "finMs": 2940
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 2940,
+              "finMs": 3240
+            },
+            {
+              "palabra": "paradoja",
+              "inicioMs": 3240,
+              "finMs": 3760
+            },
+            {
+              "palabra": "espacial",
+              "inicioMs": 3760,
+              "finMs": 4220
+            },
+            {
+              "palabra": "asombrosa",
+              "inicioMs": 4220,
+              "finMs": 4880
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 5160,
+              "finMs": 5260
+            },
+            {
+              "palabra": "seres",
+              "inicioMs": 5260,
+              "finMs": 5440
+            },
+            {
+              "palabra": "humanos",
+              "inicioMs": 5440,
+              "finMs": 5760
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 5760,
+              "finMs": 6020
+            },
+            {
+              "palabra": "cercanos",
+              "inicioMs": 6020,
+              "finMs": 6420
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 6420,
+              "finMs": 6620
+            },
+            {
+              "palabra": "ti",
+              "inicioMs": 6620,
+              "finMs": 6740
+            },
+            {
+              "palabra": "cuando",
+              "inicioMs": 6740,
+              "finMs": 6960
+            },
+            {
+              "palabra": "navegas",
+              "inicioMs": 6960,
+              "finMs": 7440
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 7440,
+              "finMs": 7640
+            },
+            {
+              "palabra": "esas",
+              "inicioMs": 7640,
+              "finMs": 7840
+            },
+            {
+              "palabra": "coordenadas",
+              "inicioMs": 7840,
+              "finMs": 8460
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 8460,
+              "finMs": 8900
+            },
+            {
+              "palabra": "están",
+              "inicioMs": 8900,
+              "finMs": 9160
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 9160,
+              "finMs": 9280
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 9280,
+              "finMs": 9440
+            },
+            {
+              "palabra": "barco",
+              "inicioMs": 9440,
+              "finMs": 9780
+            },
+            {
+              "palabra": "ni",
+              "inicioMs": 9780,
+              "finMs": 9920
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 9920,
+              "finMs": 10040
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 10040,
+              "finMs": 10200
+            },
+            {
+              "palabra": "isla",
+              "inicioMs": 10200,
+              "finMs": 10480
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 10480,
+              "finMs": 10620
+            },
+            {
+              "palabra": "pescadores",
+              "inicioMs": 10620,
+              "finMs": 11140
+            },
+            {
+              "palabra": "son",
+              "inicioMs": 11360,
+              "finMs": 11460
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 11460,
+              "finMs": 11640
+            },
+            {
+              "palabra": "astronautas",
+              "inicioMs": 11640,
+              "finMs": 12220
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 12220,
+              "finMs": 12360
+            },
+            {
+              "palabra": "bordo",
+              "inicioMs": 12360,
+              "finMs": 12620
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12620,
+              "finMs": 12820
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 12820,
+              "finMs": 12900
+            },
+            {
+              "palabra": "Estación",
+              "inicioMs": 12900,
+              "finMs": 13180
+            },
+            {
+              "palabra": "Espacial",
+              "inicioMs": 13180,
+              "finMs": 13600
+            },
+            {
+              "palabra": "Internacional",
+              "inicioMs": 13600,
+              "finMs": 14380
+            },
+            {
+              "palabra": "Mientras",
+              "inicioMs": 14640,
+              "finMs": 14920
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 14920,
+              "finMs": 15080
+            },
+            {
+              "palabra": "costa",
+              "inicioMs": 15080,
+              "finMs": 15380
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 15380,
+              "finMs": 15580
+            },
+            {
+              "palabra": "próxima",
+              "inicioMs": 15580,
+              "finMs": 16040
+            },
+            {
+              "palabra": "dista",
+              "inicioMs": 16040,
+              "finMs": 16340
+            },
+            {
+              "palabra": "casi",
+              "inicioMs": 16400,
+              "finMs": 16580
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 16580,
+              "finMs": 16815
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 16815,
+              "finMs": 17050
+            },
+            {
+              "palabra": "setecientos",
+              "inicioMs": 17050,
+              "finMs": 17285
+            },
+            {
+              "palabra": "kilómetros",
+              "inicioMs": 17520,
+              "finMs": 18060
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 18380,
+              "finMs": 18460
+            },
+            {
+              "palabra": "estación",
+              "inicioMs": 18460,
+              "finMs": 18780
+            },
+            {
+              "palabra": "espacial",
+              "inicioMs": 18780,
+              "finMs": 19220
+            },
+            {
+              "palabra": "orbita",
+              "inicioMs": 19220,
+              "finMs": 19760
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 19760,
+              "finMs": 19900
+            },
+            {
+              "palabra": "cuatrocientos",
+              "inicioMs": 19900,
+              "finMs": 20050
+            },
+            {
+              "palabra": "kilómetros",
+              "inicioMs": 20200,
+              "finMs": 21000
+            },
+            {
+              "palabra": "directamente",
+              "inicioMs": 21000,
+              "finMs": 21660
+            },
+            {
+              "palabra": "sobre",
+              "inicioMs": 21660,
+              "finMs": 22260
+            },
+            {
+              "palabra": "tu",
+              "inicioMs": 22260,
+              "finMs": 22420
+            },
+            {
+              "palabra": "cabeza",
+              "inicioMs": 22420,
+              "finMs": 22560
+            },
+            {
+              "palabra": "Si",
+              "inicioMs": 22860,
+              "finMs": 22960
+            },
+            {
+              "palabra": "miras",
+              "inicioMs": 22960,
+              "finMs": 23260
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 23260,
+              "finMs": 23480
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 23480,
+              "finMs": 23660
+            },
+            {
+              "palabra": "cenit",
+              "inicioMs": 23660,
+              "finMs": 24000
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 24000,
+              "finMs": 24200
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 24200,
+              "finMs": 24380
+            },
+            {
+              "palabra": "noche",
+              "inicioMs": 24380,
+              "finMs": 24660
+            },
+            {
+              "palabra": "despejada",
+              "inicioMs": 24660,
+              "finMs": 25360
+            },
+            {
+              "palabra": "estás",
+              "inicioMs": 25360,
+              "finMs": 26380
+            },
+            {
+              "palabra": "siete",
+              "inicioMs": 26380,
+              "finMs": 26680
+            },
+            {
+              "palabra": "veces",
+              "inicioMs": 26680,
+              "finMs": 26960
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 26960,
+              "finMs": 27200
+            },
+            {
+              "palabra": "cerca",
+              "inicioMs": 27200,
+              "finMs": 27520
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 27520,
+              "finMs": 27700
+            },
+            {
+              "palabra": "espacio",
+              "inicioMs": 27700,
+              "finMs": 28060
+            },
+            {
+              "palabra": "exterior",
+              "inicioMs": 28060,
+              "finMs": 28480
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 28480,
+              "finMs": 28660
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 28660,
+              "finMs": 28740
+            },
+            {
+              "palabra": "cualquier",
+              "inicioMs": 28740,
+              "finMs": 29040
+            },
+            {
+              "palabra": "civilización",
+              "inicioMs": 29040,
+              "finMs": 29740
+            },
+            {
+              "palabra": "humana",
+              "inicioMs": 29740,
+              "finMs": 30220
+            },
+            {
+              "palabra": "terrestre",
+              "inicioMs": 30220,
+              "finMs": 30760
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 61.34
+    },
+    {
+      "id": "cap_2",
+      "numero": 2,
+      "titulo": "El Desierto Biológico Marino",
+      "resumen": "El Giro del Pacífico Sur y la ausencia casi total de vida en las aguas.",
+      "escenas": [
+        {
+          "id": 3,
+          "texto": "Lejos de ser un vergel tropical repleto de peces y ballenas, Punto Nemo es en realidad un colosal desierto biológico oceánico. El área se encuentra situada justo en el corazón del Giro del Pacífico Sur, una gigantesca corriente marina circular que actúa como una barrera impenetrable: impide que las corrientes ricas en nutrientes de las costas sudamericanas y antárticas penetren en su interior. Sin corrientes de surgencia que eleven minerales desde el fondo, el agua permanece en una calma cristalina y estéril.",
+          "tituloVisual": "EL GIRO DEL PACIFICO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "abismo_oceanico",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "Giro del Pacífico Sur",
+            "desierto biológico",
+            "nutrientes minerales",
+            "calma estéril"
+          ],
+          "poseId": "walking_confidently",
+          "expresion": "analytical",
+          "duracionSegundos": 25.93,
+          "palabras": [
+            {
+              "palabra": "Lejos",
+              "inicioMs": 0,
+              "finMs": 380
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 380,
+              "finMs": 520
+            },
+            {
+              "palabra": "ser",
+              "inicioMs": 520,
+              "finMs": 700
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 700,
+              "finMs": 860
+            },
+            {
+              "palabra": "vergel",
+              "inicioMs": 860,
+              "finMs": 1100
+            },
+            {
+              "palabra": "tropical",
+              "inicioMs": 1100,
+              "finMs": 1560
+            },
+            {
+              "palabra": "repleto",
+              "inicioMs": 1560,
+              "finMs": 2100
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2100,
+              "finMs": 2240
+            },
+            {
+              "palabra": "peces",
+              "inicioMs": 2240,
+              "finMs": 2540
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 2540,
+              "finMs": 2700
+            },
+            {
+              "palabra": "ballenas",
+              "inicioMs": 2700,
+              "finMs": 3080
+            },
+            {
+              "palabra": "Punto",
+              "inicioMs": 3180,
+              "finMs": 3400
+            },
+            {
+              "palabra": "Nemo",
+              "inicioMs": 3400,
+              "finMs": 3700
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 3700,
+              "finMs": 3820
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 3820,
+              "finMs": 3940
+            },
+            {
+              "palabra": "realidad",
+              "inicioMs": 3940,
+              "finMs": 4200
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 4200,
+              "finMs": 4480
+            },
+            {
+              "palabra": "colosal",
+              "inicioMs": 4480,
+              "finMs": 4840
+            },
+            {
+              "palabra": "desierto",
+              "inicioMs": 4980,
+              "finMs": 5240
+            },
+            {
+              "palabra": "biológico",
+              "inicioMs": 5240,
+              "finMs": 5840
+            },
+            {
+              "palabra": "oceánico",
+              "inicioMs": 5960,
+              "finMs": 6420
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 6560,
+              "finMs": 6680
+            },
+            {
+              "palabra": "área",
+              "inicioMs": 6680,
+              "finMs": 6880
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 6880,
+              "finMs": 7060
+            },
+            {
+              "palabra": "encuentra",
+              "inicioMs": 7060,
+              "finMs": 7320
+            },
+            {
+              "palabra": "situada",
+              "inicioMs": 7320,
+              "finMs": 7820
+            },
+            {
+              "palabra": "justo",
+              "inicioMs": 7820,
+              "finMs": 8120
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 8120,
+              "finMs": 8320
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 8320,
+              "finMs": 8440
+            },
+            {
+              "palabra": "corazón",
+              "inicioMs": 8440,
+              "finMs": 8720
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 8720,
+              "finMs": 8960
+            },
+            {
+              "palabra": "Giro",
+              "inicioMs": 8960,
+              "finMs": 9200
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 9200,
+              "finMs": 9360
+            },
+            {
+              "palabra": "Pacífico",
+              "inicioMs": 9360,
+              "finMs": 9860
+            },
+            {
+              "palabra": "Sur",
+              "inicioMs": 9860,
+              "finMs": 10080
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 10300,
+              "finMs": 10440
+            },
+            {
+              "palabra": "gigantesca",
+              "inicioMs": 10440,
+              "finMs": 10960
+            },
+            {
+              "palabra": "corriente",
+              "inicioMs": 10960,
+              "finMs": 11360
+            },
+            {
+              "palabra": "marina",
+              "inicioMs": 11360,
+              "finMs": 11700
+            },
+            {
+              "palabra": "circular",
+              "inicioMs": 11700,
+              "finMs": 12060
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 12060,
+              "finMs": 12380
+            },
+            {
+              "palabra": "actúa",
+              "inicioMs": 12380,
+              "finMs": 12620
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 12620,
+              "finMs": 12820
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 12820,
+              "finMs": 12980
+            },
+            {
+              "palabra": "barrera",
+              "inicioMs": 12980,
+              "finMs": 13240
+            },
+            {
+              "palabra": "impenetrable",
+              "inicioMs": 13240,
+              "finMs": 13940
+            },
+            {
+              "palabra": "impide",
+              "inicioMs": 14160,
+              "finMs": 14600
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 14600,
+              "finMs": 14740
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 14740,
+              "finMs": 14900
+            },
+            {
+              "palabra": "corrientes",
+              "inicioMs": 14900,
+              "finMs": 15360
+            },
+            {
+              "palabra": "ricas",
+              "inicioMs": 15360,
+              "finMs": 15740
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 15740,
+              "finMs": 15940
+            },
+            {
+              "palabra": "nutrientes",
+              "inicioMs": 15940,
+              "finMs": 16360
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 16360,
+              "finMs": 16500
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 16500,
+              "finMs": 16640
+            },
+            {
+              "palabra": "costas",
+              "inicioMs": 16640,
+              "finMs": 16940
+            },
+            {
+              "palabra": "sudamericanas",
+              "inicioMs": 16940,
+              "finMs": 17740
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 17740,
+              "finMs": 17880
+            },
+            {
+              "palabra": "antárticas",
+              "inicioMs": 17880,
+              "finMs": 18460
+            },
+            {
+              "palabra": "penetren",
+              "inicioMs": 18460,
+              "finMs": 19120
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 19120,
+              "finMs": 19280
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 19280,
+              "finMs": 19400
+            },
+            {
+              "palabra": "interior",
+              "inicioMs": 19400,
+              "finMs": 19760
+            },
+            {
+              "palabra": "Sin",
+              "inicioMs": 20060,
+              "finMs": 20220
+            },
+            {
+              "palabra": "corrientes",
+              "inicioMs": 20220,
+              "finMs": 20720
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 20720,
+              "finMs": 20860
+            },
+            {
+              "palabra": "surgencia",
+              "inicioMs": 20860,
+              "finMs": 21340
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 21340,
+              "finMs": 21500
+            },
+            {
+              "palabra": "eleven",
+              "inicioMs": 21500,
+              "finMs": 21760
+            },
+            {
+              "palabra": "minerales",
+              "inicioMs": 21760,
+              "finMs": 22260
+            },
+            {
+              "palabra": "desde",
+              "inicioMs": 22260,
+              "finMs": 22400
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 22400,
+              "finMs": 22580
+            },
+            {
+              "palabra": "fondo",
+              "inicioMs": 22580,
+              "finMs": 22860
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 22960,
+              "finMs": 23060
+            },
+            {
+              "palabra": "agua",
+              "inicioMs": 23060,
+              "finMs": 23240
+            },
+            {
+              "palabra": "permanece",
+              "inicioMs": 23240,
+              "finMs": 23800
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 23800,
+              "finMs": 23980
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 23980,
+              "finMs": 24140
+            },
+            {
+              "palabra": "calma",
+              "inicioMs": 24140,
+              "finMs": 24440
+            },
+            {
+              "palabra": "cristalina",
+              "inicioMs": 24440,
+              "finMs": 24940
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 24940,
+              "finMs": 25060
+            },
+            {
+              "palabra": "estéril",
+              "inicioMs": 25060,
+              "finMs": 25360
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "texto": "Al estar tan desconectado de los continentes, el polvo de tierra acarreado por el viento apenas llega a esta región, privando al mar de hierro y fósforo, los fertilizantes químicos esenciales para el fitoplancton. Sin fitoplancton no hay algas, sin algas no hay krill, y sin krill los bancos de peces y los mamíferos marinos no pueden sobrevivir. Las aguas de Punto Nemo poseen una de las biomasas más bajas del planeta; solo sobrevive un puñado de bacterias especializadas y extraños cangrejos en respiraderos hidrotermales a cuatro mil metros de profundidad.",
+          "tituloVisual": "AGUAS HIPO-TROFICAS",
+          "layout": "split_screen",
+          "composicionVisual": "plano_medio",
+          "escenario": "abismo_oceanico",
+          "transicion": "whip_left",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_impact.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "fitoplancton",
+            "polvo de tierra",
+            "biomasa mínima",
+            "cuatro mil metros"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "talking",
+          "duracionSegundos": 28.378,
+          "palabras": [
+            {
+              "palabra": "Al",
+              "inicioMs": 0,
+              "finMs": 220
+            },
+            {
+              "palabra": "estar",
+              "inicioMs": 220,
+              "finMs": 480
+            },
+            {
+              "palabra": "tan",
+              "inicioMs": 480,
+              "finMs": 740
+            },
+            {
+              "palabra": "desconectado",
+              "inicioMs": 740,
+              "finMs": 1480
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1480,
+              "finMs": 1600
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 1600,
+              "finMs": 1720
+            },
+            {
+              "palabra": "continentes",
+              "inicioMs": 1720,
+              "finMs": 2360
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 2480,
+              "finMs": 2600
+            },
+            {
+              "palabra": "polvo",
+              "inicioMs": 2600,
+              "finMs": 2900
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2900,
+              "finMs": 3040
+            },
+            {
+              "palabra": "tierra",
+              "inicioMs": 3040,
+              "finMs": 3300
+            },
+            {
+              "palabra": "acarreado",
+              "inicioMs": 3500,
+              "finMs": 3880
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 3880,
+              "finMs": 4080
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 4080,
+              "finMs": 4220
+            },
+            {
+              "palabra": "viento",
+              "inicioMs": 4220,
+              "finMs": 4580
+            },
+            {
+              "palabra": "apenas",
+              "inicioMs": 4580,
+              "finMs": 4940
+            },
+            {
+              "palabra": "llega",
+              "inicioMs": 4940,
+              "finMs": 5200
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 5200,
+              "finMs": 5460
+            },
+            {
+              "palabra": "esta",
+              "inicioMs": 5460,
+              "finMs": 5680
+            },
+            {
+              "palabra": "región",
+              "inicioMs": 5680,
+              "finMs": 6040
+            },
+            {
+              "palabra": "privando",
+              "inicioMs": 6260,
+              "finMs": 6520
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 6520,
+              "finMs": 6660
+            },
+            {
+              "palabra": "mar",
+              "inicioMs": 6660,
+              "finMs": 6760
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6760,
+              "finMs": 6940
+            },
+            {
+              "palabra": "hierro",
+              "inicioMs": 6940,
+              "finMs": 7053
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 7053,
+              "finMs": 7167
+            },
+            {
+              "palabra": "fósforo",
+              "inicioMs": 7280,
+              "finMs": 7800
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 7900,
+              "finMs": 7980
+            },
+            {
+              "palabra": "fertilizantes",
+              "inicioMs": 7980,
+              "finMs": 8660
+            },
+            {
+              "palabra": "químicos",
+              "inicioMs": 8660,
+              "finMs": 9140
+            },
+            {
+              "palabra": "esenciales",
+              "inicioMs": 9140,
+              "finMs": 9780
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 9780,
+              "finMs": 9900
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 9900,
+              "finMs": 10080
+            },
+            {
+              "palabra": "fitoplancton",
+              "inicioMs": 10220,
+              "finMs": 10600
+            },
+            {
+              "palabra": "Sin",
+              "inicioMs": 10800,
+              "finMs": 10900
+            },
+            {
+              "palabra": "fitoplancton",
+              "inicioMs": 11180,
+              "finMs": 11560
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 11560,
+              "finMs": 11720
+            },
+            {
+              "palabra": "hay",
+              "inicioMs": 11720,
+              "finMs": 11860
+            },
+            {
+              "palabra": "algas",
+              "inicioMs": 11860,
+              "finMs": 12260
+            },
+            {
+              "palabra": "sin",
+              "inicioMs": 12400,
+              "finMs": 12580
+            },
+            {
+              "palabra": "algas",
+              "inicioMs": 12580,
+              "finMs": 12860
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 12860,
+              "finMs": 13000
+            },
+            {
+              "palabra": "hay",
+              "inicioMs": 13000,
+              "finMs": 13100
+            },
+            {
+              "palabra": "krill",
+              "inicioMs": 13100,
+              "finMs": 13420
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 13600,
+              "finMs": 13660
+            },
+            {
+              "palabra": "sin",
+              "inicioMs": 13660,
+              "finMs": 13800
+            },
+            {
+              "palabra": "krill",
+              "inicioMs": 13800,
+              "finMs": 14120
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 14120,
+              "finMs": 14300
+            },
+            {
+              "palabra": "bancos",
+              "inicioMs": 14300,
+              "finMs": 14680
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14680,
+              "finMs": 14780
+            },
+            {
+              "palabra": "peces",
+              "inicioMs": 14780,
+              "finMs": 15120
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 15120,
+              "finMs": 15220
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 15220,
+              "finMs": 15360
+            },
+            {
+              "palabra": "mamíferos",
+              "inicioMs": 15360,
+              "finMs": 15880
+            },
+            {
+              "palabra": "marinos",
+              "inicioMs": 15880,
+              "finMs": 16260
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 16260,
+              "finMs": 16500
+            },
+            {
+              "palabra": "pueden",
+              "inicioMs": 16500,
+              "finMs": 16760
+            },
+            {
+              "palabra": "sobrevivir",
+              "inicioMs": 16760,
+              "finMs": 17420
+            },
+            {
+              "palabra": "Las",
+              "inicioMs": 17600,
+              "finMs": 17740
+            },
+            {
+              "palabra": "aguas",
+              "inicioMs": 17740,
+              "finMs": 18060
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18060,
+              "finMs": 18180
+            },
+            {
+              "palabra": "Punto",
+              "inicioMs": 18180,
+              "finMs": 18480
+            },
+            {
+              "palabra": "Nemo",
+              "inicioMs": 18480,
+              "finMs": 18840
+            },
+            {
+              "palabra": "poseen",
+              "inicioMs": 18840,
+              "finMs": 19220
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 19220,
+              "finMs": 19480
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19480,
+              "finMs": 19560
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 19560,
+              "finMs": 19700
+            },
+            {
+              "palabra": "biomasas",
+              "inicioMs": 19700,
+              "finMs": 20180
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 20180,
+              "finMs": 20360
+            },
+            {
+              "palabra": "bajas",
+              "inicioMs": 20360,
+              "finMs": 20760
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 20760,
+              "finMs": 20860
+            },
+            {
+              "palabra": "planeta",
+              "inicioMs": 20860,
+              "finMs": 21260
+            },
+            {
+              "palabra": "solo",
+              "inicioMs": 21480,
+              "finMs": 21640
+            },
+            {
+              "palabra": "sobrevive",
+              "inicioMs": 21640,
+              "finMs": 22100
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 22100,
+              "finMs": 22240
+            },
+            {
+              "palabra": "puñado",
+              "inicioMs": 22240,
+              "finMs": 22600
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22600,
+              "finMs": 22700
+            },
+            {
+              "palabra": "bacterias",
+              "inicioMs": 22700,
+              "finMs": 23140
+            },
+            {
+              "palabra": "especializadas",
+              "inicioMs": 23140,
+              "finMs": 23820
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 23820,
+              "finMs": 23960
+            },
+            {
+              "palabra": "extraños",
+              "inicioMs": 23960,
+              "finMs": 24320
+            },
+            {
+              "palabra": "cangrejos",
+              "inicioMs": 24320,
+              "finMs": 24840
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 24840,
+              "finMs": 24950
+            },
+            {
+              "palabra": "respiraderos",
+              "inicioMs": 25060,
+              "finMs": 25640
+            },
+            {
+              "palabra": "hidrotermales",
+              "inicioMs": 25640,
+              "finMs": 26260
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 26260,
+              "finMs": 26520
+            },
+            {
+              "palabra": "cuatro",
+              "inicioMs": 26520,
+              "finMs": 26680
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 26680,
+              "finMs": 26840
+            },
+            {
+              "palabra": "metros",
+              "inicioMs": 27000,
+              "finMs": 27240
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 27240,
+              "finMs": 27400
+            },
+            {
+              "palabra": "profundidad",
+              "inicioMs": 27400,
+              "finMs": 27900
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 54.31
+    },
+    {
+      "id": "cap_3",
+      "numero": 3,
+      "titulo": "El Cementerio Oficial de Naves Espaciales",
+      "resumen": "Por qué las agencias espaciales eligen Punto Nemo como basurero orbital.",
+      "escenas": [
+        {
+          "id": 5,
+          "texto": "Es precisamente esta combinación de aislamiento geográfico absoluto, ausencia de rutas comerciales marítimas y escasez de vida marina lo que convirtió a Punto Nemo en el destino predilecto de las agencias espaciales de todo el planeta: la NASA, Roscosmos, la Agencia Espacial Europea y la JAXA japonesa. Es el cementerio espacial oficial del mundo. Cuando un satélite de gran tonelaje o una estación espacial concluye su vida útil, no se puede dejar en órbita a la deriva ni permitir que caiga de forma descontrolada sobre una ciudad.",
+          "tituloVisual": "BASURERO ORBITAL",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "espacio_profundo",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "cementerio espacial",
+            "NASA y Roscosmos",
+            "satélites desorbitados",
+            "desecho seguro"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "analytical",
+          "duracionSegundos": 27.634,
+          "palabras": [
+            {
+              "palabra": "Es",
+              "inicioMs": 0,
+              "finMs": 220
+            },
+            {
+              "palabra": "precisamente",
+              "inicioMs": 220,
+              "finMs": 620
+            },
+            {
+              "palabra": "esta",
+              "inicioMs": 620,
+              "finMs": 1000
+            },
+            {
+              "palabra": "combinación",
+              "inicioMs": 1000,
+              "finMs": 1440
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1440,
+              "finMs": 1600
+            },
+            {
+              "palabra": "aislamiento",
+              "inicioMs": 1600,
+              "finMs": 2020
+            },
+            {
+              "palabra": "geográfico",
+              "inicioMs": 2020,
+              "finMs": 2540
+            },
+            {
+              "palabra": "absoluto",
+              "inicioMs": 2540,
+              "finMs": 3140
+            },
+            {
+              "palabra": "ausencia",
+              "inicioMs": 3680,
+              "finMs": 4160
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4160,
+              "finMs": 4340
+            },
+            {
+              "palabra": "rutas",
+              "inicioMs": 4340,
+              "finMs": 4660
+            },
+            {
+              "palabra": "comerciales",
+              "inicioMs": 4660,
+              "finMs": 5260
+            },
+            {
+              "palabra": "marítimas",
+              "inicioMs": 5260,
+              "finMs": 5720
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 5720,
+              "finMs": 5880
+            },
+            {
+              "palabra": "escasez",
+              "inicioMs": 5880,
+              "finMs": 6120
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6120,
+              "finMs": 6360
+            },
+            {
+              "palabra": "vida",
+              "inicioMs": 6360,
+              "finMs": 6540
+            },
+            {
+              "palabra": "marina",
+              "inicioMs": 6540,
+              "finMs": 6960
+            },
+            {
+              "palabra": "lo",
+              "inicioMs": 7040,
+              "finMs": 7120
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 7120,
+              "finMs": 7260
+            },
+            {
+              "palabra": "convirtió",
+              "inicioMs": 7260,
+              "finMs": 7720
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 7720,
+              "finMs": 7820
+            },
+            {
+              "palabra": "Punto",
+              "inicioMs": 7820,
+              "finMs": 8100
+            },
+            {
+              "palabra": "Nemo",
+              "inicioMs": 8100,
+              "finMs": 8380
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 8380,
+              "finMs": 8460
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 8460,
+              "finMs": 8580
+            },
+            {
+              "palabra": "destino",
+              "inicioMs": 8580,
+              "finMs": 8940
+            },
+            {
+              "palabra": "predilecto",
+              "inicioMs": 8940,
+              "finMs": 9520
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9520,
+              "finMs": 9600
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 9600,
+              "finMs": 9740
+            },
+            {
+              "palabra": "agencias",
+              "inicioMs": 9740,
+              "finMs": 10120
+            },
+            {
+              "palabra": "espaciales",
+              "inicioMs": 10120,
+              "finMs": 10800
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 10800,
+              "finMs": 10900
+            },
+            {
+              "palabra": "todo",
+              "inicioMs": 10900,
+              "finMs": 11020
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 11020,
+              "finMs": 11160
+            },
+            {
+              "palabra": "planeta",
+              "inicioMs": 11160,
+              "finMs": 11540
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 11700,
+              "finMs": 11800
+            },
+            {
+              "palabra": "NASA",
+              "inicioMs": 11800,
+              "finMs": 12140
+            },
+            {
+              "palabra": "Roscosmos",
+              "inicioMs": 12240,
+              "finMs": 12860
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 12940,
+              "finMs": 13020
+            },
+            {
+              "palabra": "Agencia",
+              "inicioMs": 13020,
+              "finMs": 13360
+            },
+            {
+              "palabra": "Espacial",
+              "inicioMs": 13360,
+              "finMs": 13740
+            },
+            {
+              "palabra": "Europea",
+              "inicioMs": 13740,
+              "finMs": 14320
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 14320,
+              "finMs": 14460
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 14460,
+              "finMs": 14540
+            },
+            {
+              "palabra": "JAXA",
+              "inicioMs": 14540,
+              "finMs": 14860
+            },
+            {
+              "palabra": "japonesa",
+              "inicioMs": 14860,
+              "finMs": 15420
+            },
+            {
+              "palabra": "Es",
+              "inicioMs": 15760,
+              "finMs": 15920
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 15920,
+              "finMs": 16020
+            },
+            {
+              "palabra": "cementerio",
+              "inicioMs": 16020,
+              "finMs": 16580
+            },
+            {
+              "palabra": "espacial",
+              "inicioMs": 16580,
+              "finMs": 16980
+            },
+            {
+              "palabra": "oficial",
+              "inicioMs": 16980,
+              "finMs": 17360
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 17360,
+              "finMs": 17560
+            },
+            {
+              "palabra": "mundo",
+              "inicioMs": 17560,
+              "finMs": 17980
+            },
+            {
+              "palabra": "Cuando",
+              "inicioMs": 18200,
+              "finMs": 18400
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 18400,
+              "finMs": 18640
+            },
+            {
+              "palabra": "satélite",
+              "inicioMs": 18640,
+              "finMs": 19120
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19120,
+              "finMs": 19300
+            },
+            {
+              "palabra": "gran",
+              "inicioMs": 19300,
+              "finMs": 19480
+            },
+            {
+              "palabra": "tonelaje",
+              "inicioMs": 19480,
+              "finMs": 20060
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 20060,
+              "finMs": 20300
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 20300,
+              "finMs": 20520
+            },
+            {
+              "palabra": "estación",
+              "inicioMs": 20520,
+              "finMs": 20840
+            },
+            {
+              "palabra": "espacial",
+              "inicioMs": 20840,
+              "finMs": 21340
+            },
+            {
+              "palabra": "concluye",
+              "inicioMs": 21340,
+              "finMs": 21540
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 21540,
+              "finMs": 21740
+            },
+            {
+              "palabra": "vida",
+              "inicioMs": 21940,
+              "finMs": 22340
+            },
+            {
+              "palabra": "útil",
+              "inicioMs": 22340,
+              "finMs": 22740
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 22960,
+              "finMs": 23040
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 23040,
+              "finMs": 23180
+            },
+            {
+              "palabra": "puede",
+              "inicioMs": 23180,
+              "finMs": 23420
+            },
+            {
+              "palabra": "dejar",
+              "inicioMs": 23420,
+              "finMs": 23700
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 23700,
+              "finMs": 23880
+            },
+            {
+              "palabra": "órbita",
+              "inicioMs": 23880,
+              "finMs": 24200
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 24200,
+              "finMs": 24325
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 24200,
+              "finMs": 24360
+            },
+            {
+              "palabra": "deriva",
+              "inicioMs": 24360,
+              "finMs": 24700
+            },
+            {
+              "palabra": "ni",
+              "inicioMs": 24700,
+              "finMs": 24740
+            },
+            {
+              "palabra": "permitir",
+              "inicioMs": 24780,
+              "finMs": 25120
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 25120,
+              "finMs": 25340
+            },
+            {
+              "palabra": "caiga",
+              "inicioMs": 25340,
+              "finMs": 25560
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 25560,
+              "finMs": 25700
+            },
+            {
+              "palabra": "forma",
+              "inicioMs": 25700,
+              "finMs": 25940
+            },
+            {
+              "palabra": "descontrolada",
+              "inicioMs": 26060,
+              "finMs": 26560
+            },
+            {
+              "palabra": "sobre",
+              "inicioMs": 26560,
+              "finMs": 26760
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 26760,
+              "finMs": 26920
+            },
+            {
+              "palabra": "ciudad",
+              "inicioMs": 26920,
+              "finMs": 27160
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "texto": "Mediante una maniobra de retrofrenado de precisión milimétrica, los ingenieros en tierra encienden los motores de la nave para reducir su velocidad orbital y dirigir su reentrada destructiva directamente hacia la caja oceánica de Punto Nemo. Al penetrar la atmósfera a más de veintisiete mil kilómetros por hora, la fricción y el plasma desintegran el noventa por ciento de la estructura; sin embargo, componentes densos de titanio, tanques de combustible de acero inoxidable y toberas de motor resisten la fundición y caen como proyectiles al agua.",
+          "tituloVisual": "REENTRADA CONTROLADA",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "abismo_oceanico",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "retrofrenado",
+            "veintisiete mil kilómetros por hora",
+            "titanio y acero",
+            "proyectiles al agua"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "shocked",
+          "infografia": {
+            "tipo": "dato_clave",
+            "titulo": "Velocidad de Reentrada",
+            "subtitulo": "Desintegración Atmosférica Controlada",
+            "valorPrincipal": "27.000",
+            "unidad": "km/h",
+            "items": [
+              {
+                "etiqueta": "Masa desintegrada",
+                "valor": "80 a 90% en la atmósfera",
+                "porcentaje": 85,
+                "color": "#FFE600"
+              },
+              {
+                "etiqueta": "Restos en el lecho marino",
+                "valor": "Titanio y motores densos",
+                "porcentaje": 15,
+                "color": "#38BDF8"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 28.546,
+          "palabras": [
+            {
+              "palabra": "Mediante",
+              "inicioMs": 0,
+              "finMs": 380
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 380,
+              "finMs": 540
+            },
+            {
+              "palabra": "maniobra",
+              "inicioMs": 540,
+              "finMs": 900
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 900,
+              "finMs": 1060
+            },
+            {
+              "palabra": "retrofrenado",
+              "inicioMs": 1060,
+              "finMs": 1620
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1620,
+              "finMs": 1800
+            },
+            {
+              "palabra": "precisión",
+              "inicioMs": 1800,
+              "finMs": 2160
+            },
+            {
+              "palabra": "milimétrica",
+              "inicioMs": 2160,
+              "finMs": 2800
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 3140,
+              "finMs": 3260
+            },
+            {
+              "palabra": "ingenieros",
+              "inicioMs": 3260,
+              "finMs": 3720
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 3720,
+              "finMs": 3880
+            },
+            {
+              "palabra": "tierra",
+              "inicioMs": 3880,
+              "finMs": 4160
+            },
+            {
+              "palabra": "encienden",
+              "inicioMs": 4160,
+              "finMs": 4720
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 4720,
+              "finMs": 4880
+            },
+            {
+              "palabra": "motores",
+              "inicioMs": 4880,
+              "finMs": 5200
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5200,
+              "finMs": 5340
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5340,
+              "finMs": 5440
+            },
+            {
+              "palabra": "nave",
+              "inicioMs": 5440,
+              "finMs": 5620
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 5620,
+              "finMs": 5940
+            },
+            {
+              "palabra": "reducir",
+              "inicioMs": 5940,
+              "finMs": 6360
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 6360,
+              "finMs": 6540
+            },
+            {
+              "palabra": "velocidad",
+              "inicioMs": 6540,
+              "finMs": 6880
+            },
+            {
+              "palabra": "orbital",
+              "inicioMs": 6880,
+              "finMs": 7260
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 7260,
+              "finMs": 7780
+            },
+            {
+              "palabra": "dirigir",
+              "inicioMs": 7780,
+              "finMs": 8100
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 8100,
+              "finMs": 8280
+            },
+            {
+              "palabra": "reentrada",
+              "inicioMs": 8280,
+              "finMs": 8700
+            },
+            {
+              "palabra": "destructiva",
+              "inicioMs": 8780,
+              "finMs": 9260
+            },
+            {
+              "palabra": "directamente",
+              "inicioMs": 9260,
+              "finMs": 9680
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 9680,
+              "finMs": 9980
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 9980,
+              "finMs": 10120
+            },
+            {
+              "palabra": "caja",
+              "inicioMs": 10120,
+              "finMs": 10360
+            },
+            {
+              "palabra": "oceánica",
+              "inicioMs": 10440,
+              "finMs": 10740
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 10740,
+              "finMs": 10880
+            },
+            {
+              "palabra": "Punto",
+              "inicioMs": 10880,
+              "finMs": 11080
+            },
+            {
+              "palabra": "Nemo",
+              "inicioMs": 11080,
+              "finMs": 11980
+            },
+            {
+              "palabra": "Al",
+              "inicioMs": 12100,
+              "finMs": 12360
+            },
+            {
+              "palabra": "penetrar",
+              "inicioMs": 12360,
+              "finMs": 12760
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 12760,
+              "finMs": 12880
+            },
+            {
+              "palabra": "atmósfera",
+              "inicioMs": 12880,
+              "finMs": 13340
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 13520,
+              "finMs": 13580
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 13580,
+              "finMs": 13740
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 13740,
+              "finMs": 13920
+            },
+            {
+              "palabra": "veintisiete",
+              "inicioMs": 13920,
+              "finMs": 14200
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 14200,
+              "finMs": 14480
+            },
+            {
+              "palabra": "kilómetros",
+              "inicioMs": 14760,
+              "finMs": 15220
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 15220,
+              "finMs": 15520
+            },
+            {
+              "palabra": "hora",
+              "inicioMs": 15520,
+              "finMs": 15760
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 16060,
+              "finMs": 16140
+            },
+            {
+              "palabra": "fricción",
+              "inicioMs": 16140,
+              "finMs": 16540
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 16540,
+              "finMs": 16720
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 16720,
+              "finMs": 16860
+            },
+            {
+              "palabra": "plasma",
+              "inicioMs": 16860,
+              "finMs": 17160
+            },
+            {
+              "palabra": "desintegran",
+              "inicioMs": 17160,
+              "finMs": 17800
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 17800,
+              "finMs": 17850
+            },
+            {
+              "palabra": "noventa",
+              "inicioMs": 17900,
+              "finMs": 18300
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 18300,
+              "finMs": 18425
+            },
+            {
+              "palabra": "ciento",
+              "inicioMs": 18300,
+              "finMs": 18720
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18720,
+              "finMs": 19020
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 19020,
+              "finMs": 19120
+            },
+            {
+              "palabra": "estructura",
+              "inicioMs": 19120,
+              "finMs": 19640
+            },
+            {
+              "palabra": "sin",
+              "inicioMs": 19780,
+              "finMs": 19860
+            },
+            {
+              "palabra": "embargo",
+              "inicioMs": 19860,
+              "finMs": 20140
+            },
+            {
+              "palabra": "componentes",
+              "inicioMs": 20480,
+              "finMs": 20880
+            },
+            {
+              "palabra": "densos",
+              "inicioMs": 20880,
+              "finMs": 21280
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 21280,
+              "finMs": 21400
+            },
+            {
+              "palabra": "titanio",
+              "inicioMs": 21400,
+              "finMs": 21940
+            },
+            {
+              "palabra": "tanques",
+              "inicioMs": 21940,
+              "finMs": 22460
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22460,
+              "finMs": 22600
+            },
+            {
+              "palabra": "combustible",
+              "inicioMs": 22600,
+              "finMs": 23180
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 23180,
+              "finMs": 23340
+            },
+            {
+              "palabra": "acero",
+              "inicioMs": 23340,
+              "finMs": 23640
+            },
+            {
+              "palabra": "inoxidable",
+              "inicioMs": 23640,
+              "finMs": 24240
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 24240,
+              "finMs": 24520
+            },
+            {
+              "palabra": "toberas",
+              "inicioMs": 24520,
+              "finMs": 24880
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 24880,
+              "finMs": 24960
+            },
+            {
+              "palabra": "motor",
+              "inicioMs": 24960,
+              "finMs": 25300
+            },
+            {
+              "palabra": "resisten",
+              "inicioMs": 25300,
+              "finMs": 25840
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 25840,
+              "finMs": 25960
+            },
+            {
+              "palabra": "fundición",
+              "inicioMs": 25960,
+              "finMs": 26420
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 26420,
+              "finMs": 26700
+            },
+            {
+              "palabra": "caen",
+              "inicioMs": 26700,
+              "finMs": 26900
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 26900,
+              "finMs": 27080
+            },
+            {
+              "palabra": "proyectiles",
+              "inicioMs": 27080,
+              "finMs": 27660
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 27660,
+              "finMs": 27840
+            },
+            {
+              "palabra": "agua",
+              "inicioMs": 27840,
+              "finMs": 28080
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 56.18
+    },
+    {
+      "id": "cap_4",
+      "numero": 4,
+      "titulo": "Los Gigantes Caídos de la Carrera Espacial",
+      "resumen": "La estación Mir, los cargueros Progress y más de 300 reliquias cósmicas.",
+      "escenas": [
+        {
+          "id": 7,
+          "texto": "Se calcula que en el lecho marino de Punto Nemo descansan los restos de más de trescientas naves espaciales acumuladas desde mil novecientos setenta y uno. El trofeo histórico más célebre de este cementerio es la legendaria estación espacial soviética Mir. En marzo de dos mil uno, tras quince años en órbita y decenas de récords cósmicos, la colosal mole de ciento cuarenta toneladas fue desorbitada de forma controlada. Una lluvia de fragmentos incandescentes cruzó el cielo del Pacífico como una lluvia de meteoros de fuego antes de sepultarse en el abismo.",
+          "tituloVisual": "LA CAIDA DE LA MIR",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "abismo_oceanico",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "estación Mir",
+            "trescientas naves",
+            "ciento cuarenta toneladas",
+            "lluvia de meteoros"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "sad",
+          "duracionSegundos": 28.978,
+          "palabras": [
+            {
+              "palabra": "Se",
+              "inicioMs": 0,
+              "finMs": 180
+            },
+            {
+              "palabra": "calcula",
+              "inicioMs": 180,
+              "finMs": 640
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 640,
+              "finMs": 760
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 760,
+              "finMs": 880
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 880,
+              "finMs": 1000
+            },
+            {
+              "palabra": "lecho",
+              "inicioMs": 1000,
+              "finMs": 1200
+            },
+            {
+              "palabra": "marino",
+              "inicioMs": 1200,
+              "finMs": 1520
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1520,
+              "finMs": 1660
+            },
+            {
+              "palabra": "Punto",
+              "inicioMs": 1660,
+              "finMs": 2000
+            },
+            {
+              "palabra": "Nemo",
+              "inicioMs": 2000,
+              "finMs": 2300
+            },
+            {
+              "palabra": "descansan",
+              "inicioMs": 2300,
+              "finMs": 2820
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 2820,
+              "finMs": 2940
+            },
+            {
+              "palabra": "restos",
+              "inicioMs": 2940,
+              "finMs": 3320
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3320,
+              "finMs": 3440
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 3440,
+              "finMs": 3580
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3580,
+              "finMs": 3720
+            },
+            {
+              "palabra": "trescientas",
+              "inicioMs": 3720,
+              "finMs": 3890
+            },
+            {
+              "palabra": "naves",
+              "inicioMs": 4060,
+              "finMs": 4440
+            },
+            {
+              "palabra": "espaciales",
+              "inicioMs": 4440,
+              "finMs": 5280
+            },
+            {
+              "palabra": "acumuladas",
+              "inicioMs": 5280,
+              "finMs": 5840
+            },
+            {
+              "palabra": "desde",
+              "inicioMs": 5840,
+              "finMs": 6100
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 6100,
+              "finMs": 6320
+            },
+            {
+              "palabra": "novecientos",
+              "inicioMs": 6320,
+              "finMs": 6644
+            },
+            {
+              "palabra": "setenta",
+              "inicioMs": 6644,
+              "finMs": 6968
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 6968,
+              "finMs": 7292
+            },
+            {
+              "palabra": "uno",
+              "inicioMs": 7292,
+              "finMs": 7616
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 7940,
+              "finMs": 8040
+            },
+            {
+              "palabra": "trofeo",
+              "inicioMs": 8040,
+              "finMs": 8420
+            },
+            {
+              "palabra": "histórico",
+              "inicioMs": 8420,
+              "finMs": 8800
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 8800,
+              "finMs": 9080
+            },
+            {
+              "palabra": "célebre",
+              "inicioMs": 9080,
+              "finMs": 9460
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9460,
+              "finMs": 9600
+            },
+            {
+              "palabra": "este",
+              "inicioMs": 9600,
+              "finMs": 9780
+            },
+            {
+              "palabra": "cementerio",
+              "inicioMs": 9780,
+              "finMs": 10440
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 10440,
+              "finMs": 10600
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 10600,
+              "finMs": 10720
+            },
+            {
+              "palabra": "legendaria",
+              "inicioMs": 10720,
+              "finMs": 11160
+            },
+            {
+              "palabra": "estación",
+              "inicioMs": 11160,
+              "finMs": 11540
+            },
+            {
+              "palabra": "espacial",
+              "inicioMs": 11540,
+              "finMs": 11980
+            },
+            {
+              "palabra": "soviética",
+              "inicioMs": 11980,
+              "finMs": 12500
+            },
+            {
+              "palabra": "Mir",
+              "inicioMs": 12500,
+              "finMs": 12680
+            },
+            {
+              "palabra": "En",
+              "inicioMs": 12840,
+              "finMs": 12940
+            },
+            {
+              "palabra": "marzo",
+              "inicioMs": 12940,
+              "finMs": 13300
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 13300,
+              "finMs": 13400
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 13400,
+              "finMs": 13575
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 13575,
+              "finMs": 13750
+            },
+            {
+              "palabra": "uno",
+              "inicioMs": 13750,
+              "finMs": 13925
+            },
+            {
+              "palabra": "tras",
+              "inicioMs": 14100,
+              "finMs": 14220
+            },
+            {
+              "palabra": "quince",
+              "inicioMs": 14220,
+              "finMs": 14440
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 14440,
+              "finMs": 14800
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 14800,
+              "finMs": 14960
+            },
+            {
+              "palabra": "órbita",
+              "inicioMs": 14960,
+              "finMs": 15340
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 15340,
+              "finMs": 15500
+            },
+            {
+              "palabra": "decenas",
+              "inicioMs": 15500,
+              "finMs": 15840
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15840,
+              "finMs": 16000
+            },
+            {
+              "palabra": "récords",
+              "inicioMs": 16000,
+              "finMs": 16360
+            },
+            {
+              "palabra": "cósmicos",
+              "inicioMs": 16360,
+              "finMs": 16940
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 17160,
+              "finMs": 17240
+            },
+            {
+              "palabra": "colosal",
+              "inicioMs": 17240,
+              "finMs": 17640
+            },
+            {
+              "palabra": "mole",
+              "inicioMs": 17640,
+              "finMs": 17860
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17860,
+              "finMs": 18040
+            },
+            {
+              "palabra": "ciento",
+              "inicioMs": 18040,
+              "finMs": 18180
+            },
+            {
+              "palabra": "cuarenta",
+              "inicioMs": 18180,
+              "finMs": 18320
+            },
+            {
+              "palabra": "toneladas",
+              "inicioMs": 18460,
+              "finMs": 19360
+            },
+            {
+              "palabra": "fue",
+              "inicioMs": 19360,
+              "finMs": 19580
+            },
+            {
+              "palabra": "desorbitada",
+              "inicioMs": 19580,
+              "finMs": 20160
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 20160,
+              "finMs": 20360
+            },
+            {
+              "palabra": "forma",
+              "inicioMs": 20360,
+              "finMs": 20640
+            },
+            {
+              "palabra": "controlada",
+              "inicioMs": 20640,
+              "finMs": 21280
+            },
+            {
+              "palabra": "Una",
+              "inicioMs": 21460,
+              "finMs": 21600
+            },
+            {
+              "palabra": "lluvia",
+              "inicioMs": 21600,
+              "finMs": 21940
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 21940,
+              "finMs": 22040
+            },
+            {
+              "palabra": "fragmentos",
+              "inicioMs": 22040,
+              "finMs": 22620
+            },
+            {
+              "palabra": "incandescentes",
+              "inicioMs": 22620,
+              "finMs": 23540
+            },
+            {
+              "palabra": "cruzó",
+              "inicioMs": 23540,
+              "finMs": 23920
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 23920,
+              "finMs": 24080
+            },
+            {
+              "palabra": "cielo",
+              "inicioMs": 24080,
+              "finMs": 24220
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 24220,
+              "finMs": 24420
+            },
+            {
+              "palabra": "Pacífico",
+              "inicioMs": 24420,
+              "finMs": 25040
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 25040,
+              "finMs": 25180
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 25180,
+              "finMs": 25340
+            },
+            {
+              "palabra": "lluvia",
+              "inicioMs": 25340,
+              "finMs": 25700
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 25700,
+              "finMs": 25800
+            },
+            {
+              "palabra": "meteoros",
+              "inicioMs": 25800,
+              "finMs": 26240
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 26240,
+              "finMs": 26340
+            },
+            {
+              "palabra": "fuego",
+              "inicioMs": 26340,
+              "finMs": 26620
+            },
+            {
+              "palabra": "antes",
+              "inicioMs": 26620,
+              "finMs": 27020
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 27020,
+              "finMs": 27180
+            },
+            {
+              "palabra": "sepultarse",
+              "inicioMs": 27180,
+              "finMs": 27700
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 27700,
+              "finMs": 27820
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 27820,
+              "finMs": 27960
+            },
+            {
+              "palabra": "abismo",
+              "inicioMs": 27960,
+              "finMs": 28460
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "texto": "Junto a la Mir reposan decenas de cargueros no tripulados rusos Progress, cápsulas automatizadas ATV de la Agencia Espacial Europea, cargueros japoneses HTV y fragmentos de cohetes de etapas superiores. Repartidos a lo largo de un corredor de escombros de más de mil kilómetros de longitud y sumergidos a cuatro mil metros bajo la superficie, estos esqueletos de alta tecnología forman el museo arqueológico más inaccesible y solitario de la civilización humana.",
+          "tituloVisual": "EL MUSEO SUBMARINO",
+          "layout": "split_screen",
+          "composicionVisual": "plano_medio",
+          "escenario": "abismo_oceanico",
+          "transicion": "whip_left",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "cargueros Progress",
+            "módulos ATV",
+            "cuatro mil metros bajo el agua",
+            "museo arqueológico"
+          ],
+          "poseId": "holding_presentation_board",
+          "expresion": "talking",
+          "duracionSegundos": 24.178,
+          "palabras": [
+            {
+              "palabra": "Junto",
+              "inicioMs": 0,
+              "finMs": 380
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 380,
+              "finMs": 460
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 460,
+              "finMs": 540
+            },
+            {
+              "palabra": "Mir",
+              "inicioMs": 540,
+              "finMs": 680
+            },
+            {
+              "palabra": "reposan",
+              "inicioMs": 820,
+              "finMs": 1080
+            },
+            {
+              "palabra": "decenas",
+              "inicioMs": 1080,
+              "finMs": 1420
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1420,
+              "finMs": 1640
+            },
+            {
+              "palabra": "cargueros",
+              "inicioMs": 1640,
+              "finMs": 2060
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 2060,
+              "finMs": 2240
+            },
+            {
+              "palabra": "tripulados",
+              "inicioMs": 2240,
+              "finMs": 2880
+            },
+            {
+              "palabra": "rusos",
+              "inicioMs": 3020,
+              "finMs": 3260
+            },
+            {
+              "palabra": "Progress",
+              "inicioMs": 3260,
+              "finMs": 3680
+            },
+            {
+              "palabra": "cápsulas",
+              "inicioMs": 3780,
+              "finMs": 4100
+            },
+            {
+              "palabra": "automatizadas",
+              "inicioMs": 4100,
+              "finMs": 4960
+            },
+            {
+              "palabra": "ATV",
+              "inicioMs": 4960,
+              "finMs": 5170
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5380,
+              "finMs": 5540
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5540,
+              "finMs": 5640
+            },
+            {
+              "palabra": "Agencia",
+              "inicioMs": 5640,
+              "finMs": 5980
+            },
+            {
+              "palabra": "Espacial",
+              "inicioMs": 5980,
+              "finMs": 6320
+            },
+            {
+              "palabra": "Europea",
+              "inicioMs": 6320,
+              "finMs": 6880
+            },
+            {
+              "palabra": "cargueros",
+              "inicioMs": 7100,
+              "finMs": 7420
+            },
+            {
+              "palabra": "japoneses",
+              "inicioMs": 7420,
+              "finMs": 8080
+            },
+            {
+              "palabra": "HTV",
+              "inicioMs": 8080,
+              "finMs": 8400
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 8720,
+              "finMs": 8960
+            },
+            {
+              "palabra": "fragmentos",
+              "inicioMs": 8960,
+              "finMs": 9480
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9480,
+              "finMs": 9600
+            },
+            {
+              "palabra": "cohetes",
+              "inicioMs": 9600,
+              "finMs": 9980
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9980,
+              "finMs": 10100
+            },
+            {
+              "palabra": "etapas",
+              "inicioMs": 10100,
+              "finMs": 10320
+            },
+            {
+              "palabra": "superiores",
+              "inicioMs": 10320,
+              "finMs": 10960
+            },
+            {
+              "palabra": "Repartidos",
+              "inicioMs": 11140,
+              "finMs": 11600
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 11600,
+              "finMs": 11780
+            },
+            {
+              "palabra": "lo",
+              "inicioMs": 11780,
+              "finMs": 11860
+            },
+            {
+              "palabra": "largo",
+              "inicioMs": 11860,
+              "finMs": 12160
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12160,
+              "finMs": 12320
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 12320,
+              "finMs": 12440
+            },
+            {
+              "palabra": "corredor",
+              "inicioMs": 12440,
+              "finMs": 12800
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12800,
+              "finMs": 12940
+            },
+            {
+              "palabra": "escombros",
+              "inicioMs": 12940,
+              "finMs": 13460
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 13460,
+              "finMs": 13640
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 13640,
+              "finMs": 13760
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 13760,
+              "finMs": 13920
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 13920,
+              "finMs": 14030
+            },
+            {
+              "palabra": "kilómetros",
+              "inicioMs": 14140,
+              "finMs": 14580
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14580,
+              "finMs": 14780
+            },
+            {
+              "palabra": "longitud",
+              "inicioMs": 14780,
+              "finMs": 15000
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 15000,
+              "finMs": 15480
+            },
+            {
+              "palabra": "sumergidos",
+              "inicioMs": 15480,
+              "finMs": 15980
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 15980,
+              "finMs": 16140
+            },
+            {
+              "palabra": "cuatro",
+              "inicioMs": 16140,
+              "finMs": 16293
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 16293,
+              "finMs": 16447
+            },
+            {
+              "palabra": "metros",
+              "inicioMs": 16600,
+              "finMs": 16900
+            },
+            {
+              "palabra": "bajo",
+              "inicioMs": 16900,
+              "finMs": 17160
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 17160,
+              "finMs": 17300
+            },
+            {
+              "palabra": "superficie",
+              "inicioMs": 17300,
+              "finMs": 17980
+            },
+            {
+              "palabra": "estos",
+              "inicioMs": 18180,
+              "finMs": 18360
+            },
+            {
+              "palabra": "esqueletos",
+              "inicioMs": 18360,
+              "finMs": 18630
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18900,
+              "finMs": 19040
+            },
+            {
+              "palabra": "alta",
+              "inicioMs": 19040,
+              "finMs": 19200
+            },
+            {
+              "palabra": "tecnología",
+              "inicioMs": 19200,
+              "finMs": 19540
+            },
+            {
+              "palabra": "forman",
+              "inicioMs": 19540,
+              "finMs": 20080
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 20220,
+              "finMs": 20340
+            },
+            {
+              "palabra": "museo",
+              "inicioMs": 20340,
+              "finMs": 20620
+            },
+            {
+              "palabra": "arqueológico",
+              "inicioMs": 20680,
+              "finMs": 21140
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 21140,
+              "finMs": 21340
+            },
+            {
+              "palabra": "inaccesible",
+              "inicioMs": 21340,
+              "finMs": 22000
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 22000,
+              "finMs": 22120
+            },
+            {
+              "palabra": "solitario",
+              "inicioMs": 22120,
+              "finMs": 22580
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22580,
+              "finMs": 22680
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 22680,
+              "finMs": 22780
+            },
+            {
+              "palabra": "civilización",
+              "inicioMs": 22780,
+              "finMs": 23260
+            },
+            {
+              "palabra": "humana",
+              "inicioMs": 23260,
+              "finMs": 23720
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 53.16
+    },
+    {
+      "id": "cap_5",
+      "numero": 5,
+      "titulo": "El Destino Final de la ISS en 2031",
+      "resumen": "El adiós a la mayor estructura jamás construida fuera de la Tierra.",
+      "escenas": [
+        {
+          "id": 9,
+          "texto": "El futuro de Punto Nemo ya tiene fecha para su acontecimiento más dramático: el final de la Estación Espacial Internacional. Con un peso que supera las cuatrocientas cincuenta toneladas y la envergadura de un campo de fútbol americano, la mayor maravilla de la ingeniería espacial no puede dejarse a la deriva cuando concluya sus operaciones en el año dos mil treinta y uno. La NASA y sus socios internacionales ya han diseñado el plan de descenso final.",
+          "tituloVisual": "ADIEU A LA ISS (2031)",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "espacio_profundo",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_sci_fi_beep.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "Estación Espacial Internacional",
+            "cuatrocientas cincuenta toneladas",
+            "dos mil treinta y uno",
+            "campo de fútbol"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "analytical",
+          "duracionSegundos": 23.242,
+          "palabras": [
+            {
+              "palabra": "El",
+              "inicioMs": 0,
+              "finMs": 180
+            },
+            {
+              "palabra": "futuro",
+              "inicioMs": 180,
+              "finMs": 440
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 440,
+              "finMs": 600
+            },
+            {
+              "palabra": "Punto",
+              "inicioMs": 600,
+              "finMs": 900
+            },
+            {
+              "palabra": "Nemo",
+              "inicioMs": 900,
+              "finMs": 1180
+            },
+            {
+              "palabra": "ya",
+              "inicioMs": 1180,
+              "finMs": 1320
+            },
+            {
+              "palabra": "tiene",
+              "inicioMs": 1320,
+              "finMs": 1540
+            },
+            {
+              "palabra": "fecha",
+              "inicioMs": 1540,
+              "finMs": 1880
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 1880,
+              "finMs": 2040
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 2040,
+              "finMs": 2240
+            },
+            {
+              "palabra": "acontecimiento",
+              "inicioMs": 2240,
+              "finMs": 2760
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 2760,
+              "finMs": 3040
+            },
+            {
+              "palabra": "dramático",
+              "inicioMs": 3040,
+              "finMs": 3680
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 3940,
+              "finMs": 4040
+            },
+            {
+              "palabra": "final",
+              "inicioMs": 4040,
+              "finMs": 4260
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4260,
+              "finMs": 4420
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 4420,
+              "finMs": 4500
+            },
+            {
+              "palabra": "Estación",
+              "inicioMs": 4500,
+              "finMs": 4800
+            },
+            {
+              "palabra": "Espacial",
+              "inicioMs": 4800,
+              "finMs": 5200
+            },
+            {
+              "palabra": "Internacional",
+              "inicioMs": 5200,
+              "finMs": 5960
+            },
+            {
+              "palabra": "Con",
+              "inicioMs": 6240,
+              "finMs": 6380
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 6380,
+              "finMs": 6520
+            },
+            {
+              "palabra": "peso",
+              "inicioMs": 6520,
+              "finMs": 6700
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 6700,
+              "finMs": 6900
+            },
+            {
+              "palabra": "supera",
+              "inicioMs": 6900,
+              "finMs": 7240
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 7240,
+              "finMs": 7400
+            },
+            {
+              "palabra": "cuatrocientas",
+              "inicioMs": 7400,
+              "finMs": 7573
+            },
+            {
+              "palabra": "cincuenta",
+              "inicioMs": 7573,
+              "finMs": 7747
+            },
+            {
+              "palabra": "toneladas",
+              "inicioMs": 7920,
+              "finMs": 9080
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 9080,
+              "finMs": 9480
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 9480,
+              "finMs": 9580
+            },
+            {
+              "palabra": "envergadura",
+              "inicioMs": 9580,
+              "finMs": 10060
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 10060,
+              "finMs": 10220
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 10220,
+              "finMs": 10320
+            },
+            {
+              "palabra": "campo",
+              "inicioMs": 10320,
+              "finMs": 10540
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 10540,
+              "finMs": 10720
+            },
+            {
+              "palabra": "fútbol",
+              "inicioMs": 10720,
+              "finMs": 11040
+            },
+            {
+              "palabra": "americano",
+              "inicioMs": 11040,
+              "finMs": 11580
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 11840,
+              "finMs": 11920
+            },
+            {
+              "palabra": "mayor",
+              "inicioMs": 11920,
+              "finMs": 12180
+            },
+            {
+              "palabra": "maravilla",
+              "inicioMs": 12180,
+              "finMs": 12660
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12660,
+              "finMs": 12780
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 12780,
+              "finMs": 12880
+            },
+            {
+              "palabra": "ingeniería",
+              "inicioMs": 12880,
+              "finMs": 13340
+            },
+            {
+              "palabra": "espacial",
+              "inicioMs": 13340,
+              "finMs": 13860
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 13860,
+              "finMs": 14300
+            },
+            {
+              "palabra": "puede",
+              "inicioMs": 14300,
+              "finMs": 14540
+            },
+            {
+              "palabra": "dejarse",
+              "inicioMs": 14540,
+              "finMs": 15000
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 15000,
+              "finMs": 15040
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 15040,
+              "finMs": 15120
+            },
+            {
+              "palabra": "deriva",
+              "inicioMs": 15120,
+              "finMs": 15440
+            },
+            {
+              "palabra": "cuando",
+              "inicioMs": 15440,
+              "finMs": 15680
+            },
+            {
+              "palabra": "concluya",
+              "inicioMs": 15680,
+              "finMs": 16240
+            },
+            {
+              "palabra": "sus",
+              "inicioMs": 16300,
+              "finMs": 16440
+            },
+            {
+              "palabra": "operaciones",
+              "inicioMs": 16440,
+              "finMs": 16960
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 16960,
+              "finMs": 17180
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 17180,
+              "finMs": 17300
+            },
+            {
+              "palabra": "año",
+              "inicioMs": 17300,
+              "finMs": 17480
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 17480,
+              "finMs": 17700
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 17700,
+              "finMs": 17920
+            },
+            {
+              "palabra": "treinta",
+              "inicioMs": 17920,
+              "finMs": 18140
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 18140,
+              "finMs": 18360
+            },
+            {
+              "palabra": "uno",
+              "inicioMs": 18360,
+              "finMs": 18580
+            },
+            {
+              "palabra": "La",
+              "inicioMs": 18800,
+              "finMs": 18860
+            },
+            {
+              "palabra": "NASA",
+              "inicioMs": 18860,
+              "finMs": 19160
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 19160,
+              "finMs": 19420
+            },
+            {
+              "palabra": "sus",
+              "inicioMs": 19420,
+              "finMs": 19540
+            },
+            {
+              "palabra": "socios",
+              "inicioMs": 19540,
+              "finMs": 19900
+            },
+            {
+              "palabra": "internacionales",
+              "inicioMs": 19900,
+              "finMs": 20860
+            },
+            {
+              "palabra": "ya",
+              "inicioMs": 20860,
+              "finMs": 21040
+            },
+            {
+              "palabra": "han",
+              "inicioMs": 21040,
+              "finMs": 21160
+            },
+            {
+              "palabra": "diseñado",
+              "inicioMs": 21160,
+              "finMs": 21580
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 21580,
+              "finMs": 21700
+            },
+            {
+              "palabra": "plan",
+              "inicioMs": 21700,
+              "finMs": 21880
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 21880,
+              "finMs": 22060
+            },
+            {
+              "palabra": "descenso",
+              "inicioMs": 22060,
+              "finMs": 22480
+            },
+            {
+              "palabra": "final",
+              "inicioMs": 22480,
+              "finMs": 22700
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "texto": "Un remolcador espacial especialmente diseñado empujará a la estación hacia la atmósfera superior en un ángulo de descenso calculado al milímetro. Los paneles solares se quebrarán en segundos, los módulos presurizados explotarán por descompresión térmica y decenas de toneladas de chatarra espacial fundida se precipitarán sobre Punto Nemo. Cuando la estación se sumerja para siempre en las profundidades gélidas, se cerrará el capítulo más brillante de la exploración espacial de nuestra era.",
+          "tituloVisual": "EL CLIMAX ACUATICO",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "abismo_oceanico",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "remolcador espacial",
+            "paneles solares",
+            "chatarra espacial fundida",
+            "profundidades gélidas"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "sad",
+          "infografia": {
+            "tipo": "dato_clave",
+            "titulo": "La Mayor Reentrada",
+            "subtitulo": "Masa de la Estación Espacial Internacional",
+            "valorPrincipal": "450t",
+            "unidad": "en 2031",
+            "items": [
+              {
+                "etiqueta": "Masa ISS",
+                "valor": "450 toneladas",
+                "porcentaje": 100,
+                "color": "#FFE600"
+              },
+              {
+                "etiqueta": "Masa Mir (2001)",
+                "valor": "140 toneladas",
+                "porcentaje": 31,
+                "color": "#38BDF8"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 25.546,
+          "palabras": [
+            {
+              "palabra": "Un",
+              "inicioMs": 0,
+              "finMs": 260
+            },
+            {
+              "palabra": "remolcador",
+              "inicioMs": 260,
+              "finMs": 780
+            },
+            {
+              "palabra": "espacial",
+              "inicioMs": 780,
+              "finMs": 1280
+            },
+            {
+              "palabra": "especialmente",
+              "inicioMs": 1460,
+              "finMs": 1900
+            },
+            {
+              "palabra": "diseñado",
+              "inicioMs": 1900,
+              "finMs": 2600
+            },
+            {
+              "palabra": "empujará",
+              "inicioMs": 2740,
+              "finMs": 3140
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 3140,
+              "finMs": 3265
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 3140,
+              "finMs": 3320
+            },
+            {
+              "palabra": "estación",
+              "inicioMs": 3320,
+              "finMs": 3660
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 3660,
+              "finMs": 3920
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 3920,
+              "finMs": 4020
+            },
+            {
+              "palabra": "atmósfera",
+              "inicioMs": 4020,
+              "finMs": 4380
+            },
+            {
+              "palabra": "superior",
+              "inicioMs": 4380,
+              "finMs": 4820
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 4820,
+              "finMs": 5060
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 5060,
+              "finMs": 5200
+            },
+            {
+              "palabra": "ángulo",
+              "inicioMs": 5200,
+              "finMs": 5420
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5420,
+              "finMs": 5620
+            },
+            {
+              "palabra": "descenso",
+              "inicioMs": 5620,
+              "finMs": 6020
+            },
+            {
+              "palabra": "calculado",
+              "inicioMs": 6020,
+              "finMs": 6500
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 6500,
+              "finMs": 6700
+            },
+            {
+              "palabra": "milímetro",
+              "inicioMs": 6700,
+              "finMs": 7880
+            },
+            {
+              "palabra": "Los",
+              "inicioMs": 8200,
+              "finMs": 8320
+            },
+            {
+              "palabra": "paneles",
+              "inicioMs": 8320,
+              "finMs": 8720
+            },
+            {
+              "palabra": "solares",
+              "inicioMs": 8720,
+              "finMs": 9020
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 9020,
+              "finMs": 9240
+            },
+            {
+              "palabra": "quebrarán",
+              "inicioMs": 9240,
+              "finMs": 9680
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 9680,
+              "finMs": 9760
+            },
+            {
+              "palabra": "segundos",
+              "inicioMs": 9760,
+              "finMs": 10100
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 10440,
+              "finMs": 10580
+            },
+            {
+              "palabra": "módulos",
+              "inicioMs": 10580,
+              "finMs": 10880
+            },
+            {
+              "palabra": "presurizados",
+              "inicioMs": 10880,
+              "finMs": 11580
+            },
+            {
+              "palabra": "explotarán",
+              "inicioMs": 11760,
+              "finMs": 12180
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 12180,
+              "finMs": 12360
+            },
+            {
+              "palabra": "descompresión",
+              "inicioMs": 12360,
+              "finMs": 12940
+            },
+            {
+              "palabra": "térmica",
+              "inicioMs": 12940,
+              "finMs": 13460
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 13460,
+              "finMs": 13660
+            },
+            {
+              "palabra": "decenas",
+              "inicioMs": 13660,
+              "finMs": 13980
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 13980,
+              "finMs": 14140
+            },
+            {
+              "palabra": "toneladas",
+              "inicioMs": 14140,
+              "finMs": 14520
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14520,
+              "finMs": 14700
+            },
+            {
+              "palabra": "chatarra",
+              "inicioMs": 14700,
+              "finMs": 15040
+            },
+            {
+              "palabra": "espacial",
+              "inicioMs": 15040,
+              "finMs": 15460
+            },
+            {
+              "palabra": "fundida",
+              "inicioMs": 15460,
+              "finMs": 15960
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 15960,
+              "finMs": 16120
+            },
+            {
+              "palabra": "precipitarán",
+              "inicioMs": 16120,
+              "finMs": 16700
+            },
+            {
+              "palabra": "sobre",
+              "inicioMs": 16700,
+              "finMs": 16920
+            },
+            {
+              "palabra": "Punto",
+              "inicioMs": 16920,
+              "finMs": 17200
+            },
+            {
+              "palabra": "Nemo",
+              "inicioMs": 17200,
+              "finMs": 17620
+            },
+            {
+              "palabra": "Cuando",
+              "inicioMs": 17820,
+              "finMs": 18020
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 18020,
+              "finMs": 18160
+            },
+            {
+              "palabra": "estación",
+              "inicioMs": 18160,
+              "finMs": 18540
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 18540,
+              "finMs": 18720
+            },
+            {
+              "palabra": "sumerja",
+              "inicioMs": 18720,
+              "finMs": 19160
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 19160,
+              "finMs": 19320
+            },
+            {
+              "palabra": "siempre",
+              "inicioMs": 19320,
+              "finMs": 19760
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 19760,
+              "finMs": 20000
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 20000,
+              "finMs": 20120
+            },
+            {
+              "palabra": "profundidades",
+              "inicioMs": 20120,
+              "finMs": 20780
+            },
+            {
+              "palabra": "gélidas",
+              "inicioMs": 20780,
+              "finMs": 21320
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 21540,
+              "finMs": 21620
+            },
+            {
+              "palabra": "cerrará",
+              "inicioMs": 21620,
+              "finMs": 21980
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 21980,
+              "finMs": 22060
+            },
+            {
+              "palabra": "capítulo",
+              "inicioMs": 22060,
+              "finMs": 22380
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 22380,
+              "finMs": 22640
+            },
+            {
+              "palabra": "brillante",
+              "inicioMs": 22640,
+              "finMs": 23140
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 23140,
+              "finMs": 23260
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 23260,
+              "finMs": 23340
+            },
+            {
+              "palabra": "exploración",
+              "inicioMs": 23340,
+              "finMs": 23860
+            },
+            {
+              "palabra": "espacial",
+              "inicioMs": 23860,
+              "finMs": 24340
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 24340,
+              "finMs": 24500
+            },
+            {
+              "palabra": "nuestra",
+              "inicioMs": 24500,
+              "finMs": 24820
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 24820,
+              "finMs": 25060
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 48.79
+    },
+    {
+      "id": "cap_6",
+      "numero": 6,
+      "titulo": "La Paradoja de Lovecraft y el Silencio Eterno",
+      "resumen": "La cercanía ficticia de R'lyeh y la calma infinita del océano.",
+      "escenas": [
+        {
+          "id": 11,
+          "texto": "Por una fascinante coincidencia literaria, décadas antes de que los oceanógrafos calcularan las coordenadas de Punto Nemo con ordenadores en mil novecientos noventa y dos, el maestro del horror cósmico Lovecraft situó en mil novecientos veintiocho la mítica ciudad sumergida de Rlié a apenas unos cientos de kilómetros de este mismo punto exacto. El escritor eligió intuitivamente el rincón más aislado del mapa para ocultar la morada de criaturas cósmicas en las tinieblas abismales.",
+          "tituloVisual": "LA COINCIDENCIA DE R'LYEH",
+          "layout": "split_screen",
+          "composicionVisual": "plano_general",
+          "escenario": "abismo_oceanico",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "Lovecraft",
+            "R'lyeh",
+            "horror cósmico",
+            "mil novecientos veintiocho"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "fear",
+          "duracionSegundos": 24.322,
+          "palabras": [
+            {
+              "palabra": "Por",
+              "inicioMs": 0,
+              "finMs": 200
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 200,
+              "finMs": 360
+            },
+            {
+              "palabra": "fascinante",
+              "inicioMs": 360,
+              "finMs": 920
+            },
+            {
+              "palabra": "coincidencia",
+              "inicioMs": 920,
+              "finMs": 1540
+            },
+            {
+              "palabra": "literaria",
+              "inicioMs": 1540,
+              "finMs": 2060
+            },
+            {
+              "palabra": "décadas",
+              "inicioMs": 2320,
+              "finMs": 2660
+            },
+            {
+              "palabra": "antes",
+              "inicioMs": 2660,
+              "finMs": 3060
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3060,
+              "finMs": 3220
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 3220,
+              "finMs": 3300
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 3300,
+              "finMs": 3420
+            },
+            {
+              "palabra": "oceanógrafos",
+              "inicioMs": 3420,
+              "finMs": 4000
+            },
+            {
+              "palabra": "calcularan",
+              "inicioMs": 4000,
+              "finMs": 4440
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 4580,
+              "finMs": 4760
+            },
+            {
+              "palabra": "coordenadas",
+              "inicioMs": 4760,
+              "finMs": 5140
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5140,
+              "finMs": 5320
+            },
+            {
+              "palabra": "Punto",
+              "inicioMs": 5320,
+              "finMs": 5640
+            },
+            {
+              "palabra": "Nemo",
+              "inicioMs": 5640,
+              "finMs": 5940
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 5940,
+              "finMs": 6060
+            },
+            {
+              "palabra": "ordenadores",
+              "inicioMs": 6060,
+              "finMs": 6600
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 6600,
+              "finMs": 6880
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 6880,
+              "finMs": 7103
+            },
+            {
+              "palabra": "novecientos",
+              "inicioMs": 7103,
+              "finMs": 7327
+            },
+            {
+              "palabra": "noventa",
+              "inicioMs": 7327,
+              "finMs": 7550
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 7550,
+              "finMs": 7773
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 7773,
+              "finMs": 7997
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 8220,
+              "finMs": 8280
+            },
+            {
+              "palabra": "maestro",
+              "inicioMs": 8280,
+              "finMs": 8560
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 8560,
+              "finMs": 8720
+            },
+            {
+              "palabra": "horror",
+              "inicioMs": 8840,
+              "finMs": 9040
+            },
+            {
+              "palabra": "cósmico",
+              "inicioMs": 9040,
+              "finMs": 9400
+            },
+            {
+              "palabra": "Lovecraft",
+              "inicioMs": 9400,
+              "finMs": 10020
+            },
+            {
+              "palabra": "situó",
+              "inicioMs": 10160,
+              "finMs": 10420
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 10420,
+              "finMs": 10500
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 10500,
+              "finMs": 10785
+            },
+            {
+              "palabra": "novecientos",
+              "inicioMs": 10785,
+              "finMs": 11070
+            },
+            {
+              "palabra": "veintiocho",
+              "inicioMs": 11070,
+              "finMs": 11355
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 11640,
+              "finMs": 11820
+            },
+            {
+              "palabra": "mítica",
+              "inicioMs": 11820,
+              "finMs": 12100
+            },
+            {
+              "palabra": "ciudad",
+              "inicioMs": 12100,
+              "finMs": 12360
+            },
+            {
+              "palabra": "sumergida",
+              "inicioMs": 12360,
+              "finMs": 12880
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12880,
+              "finMs": 13000
+            },
+            {
+              "palabra": "Rlié",
+              "inicioMs": 13000,
+              "finMs": 13420
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 13420,
+              "finMs": 13510
+            },
+            {
+              "palabra": "apenas",
+              "inicioMs": 13600,
+              "finMs": 13800
+            },
+            {
+              "palabra": "unos",
+              "inicioMs": 13800,
+              "finMs": 14060
+            },
+            {
+              "palabra": "cientos",
+              "inicioMs": 14060,
+              "finMs": 14400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14400,
+              "finMs": 14540
+            },
+            {
+              "palabra": "kilómetros",
+              "inicioMs": 14540,
+              "finMs": 14980
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14980,
+              "finMs": 15180
+            },
+            {
+              "palabra": "este",
+              "inicioMs": 15180,
+              "finMs": 15320
+            },
+            {
+              "palabra": "mismo",
+              "inicioMs": 15320,
+              "finMs": 15600
+            },
+            {
+              "palabra": "punto",
+              "inicioMs": 15600,
+              "finMs": 15800
+            },
+            {
+              "palabra": "exacto",
+              "inicioMs": 15800,
+              "finMs": 16440
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 16740,
+              "finMs": 16820
+            },
+            {
+              "palabra": "escritor",
+              "inicioMs": 16820,
+              "finMs": 17180
+            },
+            {
+              "palabra": "eligió",
+              "inicioMs": 17180,
+              "finMs": 17580
+            },
+            {
+              "palabra": "intuitivamente",
+              "inicioMs": 17580,
+              "finMs": 18140
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 18140,
+              "finMs": 18580
+            },
+            {
+              "palabra": "rincón",
+              "inicioMs": 18580,
+              "finMs": 18860
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 18860,
+              "finMs": 19080
+            },
+            {
+              "palabra": "aislado",
+              "inicioMs": 19080,
+              "finMs": 19460
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 19460,
+              "finMs": 19600
+            },
+            {
+              "palabra": "mapa",
+              "inicioMs": 19600,
+              "finMs": 19780
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 19780,
+              "finMs": 20140
+            },
+            {
+              "palabra": "ocultar",
+              "inicioMs": 20140,
+              "finMs": 20480
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 20480,
+              "finMs": 20600
+            },
+            {
+              "palabra": "morada",
+              "inicioMs": 20600,
+              "finMs": 20840
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 20840,
+              "finMs": 21020
+            },
+            {
+              "palabra": "criaturas",
+              "inicioMs": 21020,
+              "finMs": 21440
+            },
+            {
+              "palabra": "cósmicas",
+              "inicioMs": 21440,
+              "finMs": 21880
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 21880,
+              "finMs": 22060
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 22060,
+              "finMs": 22140
+            },
+            {
+              "palabra": "tinieblas",
+              "inicioMs": 22140,
+              "finMs": 22680
+            },
+            {
+              "palabra": "abismales",
+              "inicioMs": 23340,
+              "finMs": 23840
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "texto": "Punto Nemo es el punto de encuentro definitivo entre lo más avanzado de la conquista espacial humana y lo más primitivo e impenetrable de los océanos terrestres. Allí, bajo un manto de agua quieta donde jamás arriba barco alguno, las máquinas que tocaron las estrellas duermen su sueño eterno en la oscuridad, protegidas por una soledad que ningún ser humano en la Tierra podrá experimentar jamás.",
+          "tituloVisual": "EL SUEÑO ETERNO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "abismo_oceanico",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "conquista espacial",
+            "máquinas que tocaron estrellas",
+            "sueño eterno",
+            "oscuridad abismal"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "smile_wide",
+          "duracionSegundos": 20.722,
+          "palabras": [
+            {
+              "palabra": "Punto",
+              "inicioMs": 0,
+              "finMs": 380
+            },
+            {
+              "palabra": "Nemo",
+              "inicioMs": 380,
+              "finMs": 760
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 760,
+              "finMs": 960
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 960,
+              "finMs": 1100
+            },
+            {
+              "palabra": "punto",
+              "inicioMs": 1100,
+              "finMs": 1340
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1340,
+              "finMs": 1480
+            },
+            {
+              "palabra": "encuentro",
+              "inicioMs": 1480,
+              "finMs": 1840
+            },
+            {
+              "palabra": "definitivo",
+              "inicioMs": 1840,
+              "finMs": 2440
+            },
+            {
+              "palabra": "entre",
+              "inicioMs": 2440,
+              "finMs": 2620
+            },
+            {
+              "palabra": "lo",
+              "inicioMs": 2620,
+              "finMs": 2740
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 2740,
+              "finMs": 2940
+            },
+            {
+              "palabra": "avanzado",
+              "inicioMs": 2940,
+              "finMs": 3400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3400,
+              "finMs": 3540
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 3540,
+              "finMs": 3640
+            },
+            {
+              "palabra": "conquista",
+              "inicioMs": 3640,
+              "finMs": 4060
+            },
+            {
+              "palabra": "espacial",
+              "inicioMs": 4060,
+              "finMs": 4420
+            },
+            {
+              "palabra": "humana",
+              "inicioMs": 4420,
+              "finMs": 4880
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 4880,
+              "finMs": 5020
+            },
+            {
+              "palabra": "lo",
+              "inicioMs": 5020,
+              "finMs": 5120
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 5120,
+              "finMs": 5320
+            },
+            {
+              "palabra": "primitivo",
+              "inicioMs": 5320,
+              "finMs": 5900
+            },
+            {
+              "palabra": "e",
+              "inicioMs": 5900,
+              "finMs": 6080
+            },
+            {
+              "palabra": "impenetrable",
+              "inicioMs": 6080,
+              "finMs": 6800
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 7040,
+              "finMs": 7120
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 7120,
+              "finMs": 7280
+            },
+            {
+              "palabra": "océanos",
+              "inicioMs": 7280,
+              "finMs": 7680
+            },
+            {
+              "palabra": "terrestres",
+              "inicioMs": 7680,
+              "finMs": 8440
+            },
+            {
+              "palabra": "Allí",
+              "inicioMs": 8620,
+              "finMs": 8860
+            },
+            {
+              "palabra": "bajo",
+              "inicioMs": 9260,
+              "finMs": 9340
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 9340,
+              "finMs": 9580
+            },
+            {
+              "palabra": "manto",
+              "inicioMs": 9580,
+              "finMs": 9780
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9780,
+              "finMs": 9900
+            },
+            {
+              "palabra": "agua",
+              "inicioMs": 9900,
+              "finMs": 10080
+            },
+            {
+              "palabra": "quieta",
+              "inicioMs": 10080,
+              "finMs": 10460
+            },
+            {
+              "palabra": "donde",
+              "inicioMs": 10460,
+              "finMs": 10620
+            },
+            {
+              "palabra": "jamás",
+              "inicioMs": 10620,
+              "finMs": 11020
+            },
+            {
+              "palabra": "arriba",
+              "inicioMs": 11020,
+              "finMs": 11320
+            },
+            {
+              "palabra": "barco",
+              "inicioMs": 11320,
+              "finMs": 11640
+            },
+            {
+              "palabra": "alguno",
+              "inicioMs": 11640,
+              "finMs": 12100
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 12300,
+              "finMs": 12440
+            },
+            {
+              "palabra": "máquinas",
+              "inicioMs": 12440,
+              "finMs": 12820
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 12820,
+              "finMs": 12980
+            },
+            {
+              "palabra": "tocaron",
+              "inicioMs": 12980,
+              "finMs": 13340
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 13340,
+              "finMs": 13500
+            },
+            {
+              "palabra": "estrellas",
+              "inicioMs": 13500,
+              "finMs": 14200
+            },
+            {
+              "palabra": "duermen",
+              "inicioMs": 14420,
+              "finMs": 14680
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 14680,
+              "finMs": 14880
+            },
+            {
+              "palabra": "sueño",
+              "inicioMs": 14880,
+              "finMs": 15180
+            },
+            {
+              "palabra": "eterno",
+              "inicioMs": 15180,
+              "finMs": 15580
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 15580,
+              "finMs": 15640
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 15640,
+              "finMs": 15740
+            },
+            {
+              "palabra": "oscuridad",
+              "inicioMs": 15740,
+              "finMs": 16200
+            },
+            {
+              "palabra": "protegidas",
+              "inicioMs": 16380,
+              "finMs": 16800
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 16800,
+              "finMs": 17000
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 17000,
+              "finMs": 17160
+            },
+            {
+              "palabra": "soledad",
+              "inicioMs": 17160,
+              "finMs": 17520
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 17520,
+              "finMs": 17680
+            },
+            {
+              "palabra": "ningún",
+              "inicioMs": 17680,
+              "finMs": 17900
+            },
+            {
+              "palabra": "ser",
+              "inicioMs": 17900,
+              "finMs": 18140
+            },
+            {
+              "palabra": "humano",
+              "inicioMs": 18140,
+              "finMs": 18400
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 18400,
+              "finMs": 18560
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 18560,
+              "finMs": 18640
+            },
+            {
+              "palabra": "Tierra",
+              "inicioMs": 18640,
+              "finMs": 18880
+            },
+            {
+              "palabra": "podrá",
+              "inicioMs": 18880,
+              "finMs": 19280
+            },
+            {
+              "palabra": "experimentar",
+              "inicioMs": 19280,
+              "finMs": 19840
+            },
+            {
+              "palabra": "jamás",
+              "inicioMs": 19840,
+              "finMs": 20240
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 45.04
+    }
+  ]
+}

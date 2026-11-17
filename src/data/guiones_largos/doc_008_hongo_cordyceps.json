@@ -1,0 +1,5249 @@
+{
+  "meta": {
+    "id": "doc_008_hongo_cordyceps",
+    "slug": "hongo_zombi_cordyceps_control_biologico",
+    "titulo": "Ophiocordyceps: La Maquinaria Celular del Hongo Zombi en la Selva",
+    "premisa": "En los bosques tropicales, un hongo parásito manipula químicamente el sistema muscular de las hormigas carpinteras, convirtiéndolas en títeres biológicos para asegurar la dispersión de sus esporas letales.",
+    "gancho": "¿Existe un parásito en la naturaleza capaz de secuestrar el cuerpo de otro ser vivo sin tocar su cerebro?",
+    "categoria": "Science & Technology",
+    "duracionObjetivo": [
+      420,
+      500
+    ],
+    "fps": 30,
+    "dimensiones": {
+      "width": 1920,
+      "height": 1080
+    },
+    "idioma": "es",
+    "voz": "alex.conds.pt",
+    "musicaPrincipal": "bgm/bgm.mp3",
+    "volumenMusica": 0.12,
+    "fuentes": [
+      "Hughes, D. P., et al. (2011). Behavioral mechanisms of zombie ants. BMC Ecology.",
+      "Fredericksen, M. A., et al. (2017). 3D reconstruction of fungal networks in zombie ants. PNAS.",
+      "Mangold, C. A., et al. (2019). Host manipulation by Ophiocordyceps unilateralis. Science Advances."
+    ],
+    "tags": [
+      "biologia",
+      "cordyceps",
+      "parasitos",
+      "naturaleza",
+      "ciencia",
+      "hormigas",
+      "documental"
+    ]
+  },
+  "capitulos": [
+    {
+      "id": "cap_1",
+      "numero": 1,
+      "titulo": "La Infección Silenciosa en la Selva",
+      "resumen": "El ataque invisible de una espora sobre la hormiga carpintera.",
+      "escenas": [
+        {
+          "id": 1,
+          "texto": "En las profundidades del dosel selvático de Tailandia y la cuenca del Amazonas, miles de hormigas carpinteras caminan por senderos aéreos recolectando alimento para su colonia. Pero en el suelo del bosque acecha una amenaza invisible: millones de esporas microscópicas del hongo Ophiocordyceps unilateralis suspendidas en la humedad sofocante. Basta con que una sola de estas esporas minúsculas roce la pata o la cutícula de una hormiga para que se active un mecanismo letal. La espora no busca matar de inmediato a su hospedador, sino colonizarlo lentamente desde adentro en una macabra obra de ingeniería biológica.",
+          "tituloVisual": "LA ESPORA INVISIBLE",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "cielo_dia",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "Ophiocordyceps unilateralis",
+            "hormiga carpintera",
+            "esporas microscópicas",
+            "cuenca del Amazonas"
+          ],
+          "poseId": "walking_confidently",
+          "expresion": "analytical",
+          "duracionSegundos": 32.146,
+          "palabras": [
+            {
+              "palabra": "En",
+              "inicioMs": 0,
+              "finMs": 200
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 200,
+              "finMs": 280
+            },
+            {
+              "palabra": "profundidades",
+              "inicioMs": 280,
+              "finMs": 880
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 880,
+              "finMs": 1160
+            },
+            {
+              "palabra": "dosel",
+              "inicioMs": 1160,
+              "finMs": 1350
+            },
+            {
+              "palabra": "selvático",
+              "inicioMs": 1540,
+              "finMs": 1880
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1880,
+              "finMs": 2100
+            },
+            {
+              "palabra": "Tailandia",
+              "inicioMs": 2100,
+              "finMs": 2660
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 2660,
+              "finMs": 2820
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 2820,
+              "finMs": 2960
+            },
+            {
+              "palabra": "cuenca",
+              "inicioMs": 2960,
+              "finMs": 3220
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 3220,
+              "finMs": 3340
+            },
+            {
+              "palabra": "Amazonas",
+              "inicioMs": 3420,
+              "finMs": 3960
+            },
+            {
+              "palabra": "miles",
+              "inicioMs": 4120,
+              "finMs": 4280
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4280,
+              "finMs": 4480
+            },
+            {
+              "palabra": "hormigas",
+              "inicioMs": 4480,
+              "finMs": 4880
+            },
+            {
+              "palabra": "carpinteras",
+              "inicioMs": 4880,
+              "finMs": 5540
+            },
+            {
+              "palabra": "caminan",
+              "inicioMs": 5540,
+              "finMs": 5920
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 5920,
+              "finMs": 6080
+            },
+            {
+              "palabra": "senderos",
+              "inicioMs": 6080,
+              "finMs": 6460
+            },
+            {
+              "palabra": "aéreos",
+              "inicioMs": 6460,
+              "finMs": 6980
+            },
+            {
+              "palabra": "recolectando",
+              "inicioMs": 6980,
+              "finMs": 7600
+            },
+            {
+              "palabra": "alimento",
+              "inicioMs": 7600,
+              "finMs": 7940
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 7940,
+              "finMs": 8260
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 8260,
+              "finMs": 8420
+            },
+            {
+              "palabra": "colonia",
+              "inicioMs": 8420,
+              "finMs": 8880
+            },
+            {
+              "palabra": "Pero",
+              "inicioMs": 9080,
+              "finMs": 9260
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 9260,
+              "finMs": 9380
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 9380,
+              "finMs": 9540
+            },
+            {
+              "palabra": "suelo",
+              "inicioMs": 9540,
+              "finMs": 9720
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 9720,
+              "finMs": 9940
+            },
+            {
+              "palabra": "bosque",
+              "inicioMs": 9940,
+              "finMs": 10300
+            },
+            {
+              "palabra": "acecha",
+              "inicioMs": 10300,
+              "finMs": 10640
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 10640,
+              "finMs": 10800
+            },
+            {
+              "palabra": "amenaza",
+              "inicioMs": 10800,
+              "finMs": 11120
+            },
+            {
+              "palabra": "invisible",
+              "inicioMs": 11120,
+              "finMs": 11660
+            },
+            {
+              "palabra": "millones",
+              "inicioMs": 11920,
+              "finMs": 12120
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12120,
+              "finMs": 12400
+            },
+            {
+              "palabra": "esporas",
+              "inicioMs": 12400,
+              "finMs": 12760
+            },
+            {
+              "palabra": "microscópicas",
+              "inicioMs": 12760,
+              "finMs": 13500
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 13500,
+              "finMs": 13680
+            },
+            {
+              "palabra": "hongo",
+              "inicioMs": 13680,
+              "finMs": 13960
+            },
+            {
+              "palabra": "Ophiocordyceps",
+              "inicioMs": 13960,
+              "finMs": 14780
+            },
+            {
+              "palabra": "unilateralis",
+              "inicioMs": 14780,
+              "finMs": 15660
+            },
+            {
+              "palabra": "suspendidas",
+              "inicioMs": 15660,
+              "finMs": 16340
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 16340,
+              "finMs": 16560
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 16560,
+              "finMs": 16640
+            },
+            {
+              "palabra": "humedad",
+              "inicioMs": 16640,
+              "finMs": 17040
+            },
+            {
+              "palabra": "sofocante",
+              "inicioMs": 17040,
+              "finMs": 17640
+            },
+            {
+              "palabra": "Basta",
+              "inicioMs": 17880,
+              "finMs": 18100
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 18100,
+              "finMs": 18320
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 18320,
+              "finMs": 18440
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 18440,
+              "finMs": 18620
+            },
+            {
+              "palabra": "sola",
+              "inicioMs": 18620,
+              "finMs": 18840
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18840,
+              "finMs": 19020
+            },
+            {
+              "palabra": "estas",
+              "inicioMs": 19020,
+              "finMs": 19240
+            },
+            {
+              "palabra": "esporas",
+              "inicioMs": 19240,
+              "finMs": 19600
+            },
+            {
+              "palabra": "minúsculas",
+              "inicioMs": 19600,
+              "finMs": 20060
+            },
+            {
+              "palabra": "roce",
+              "inicioMs": 20060,
+              "finMs": 20300
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 20300,
+              "finMs": 20440
+            },
+            {
+              "palabra": "pata",
+              "inicioMs": 20440,
+              "finMs": 20700
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 20700,
+              "finMs": 20780
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 20780,
+              "finMs": 20860
+            },
+            {
+              "palabra": "cutícula",
+              "inicioMs": 20860,
+              "finMs": 21360
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 21360,
+              "finMs": 21440
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 21440,
+              "finMs": 21540
+            },
+            {
+              "palabra": "hormiga",
+              "inicioMs": 21540,
+              "finMs": 21860
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 21860,
+              "finMs": 22060
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 22060,
+              "finMs": 22160
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 22160,
+              "finMs": 22260
+            },
+            {
+              "palabra": "active",
+              "inicioMs": 22260,
+              "finMs": 22560
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 22560,
+              "finMs": 22660
+            },
+            {
+              "palabra": "mecanismo",
+              "inicioMs": 22660,
+              "finMs": 23020
+            },
+            {
+              "palabra": "letal",
+              "inicioMs": 23020,
+              "finMs": 23440
+            },
+            {
+              "palabra": "La",
+              "inicioMs": 23720,
+              "finMs": 23820
+            },
+            {
+              "palabra": "espora",
+              "inicioMs": 23820,
+              "finMs": 24160
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 24160,
+              "finMs": 24280
+            },
+            {
+              "palabra": "busca",
+              "inicioMs": 24280,
+              "finMs": 24500
+            },
+            {
+              "palabra": "matar",
+              "inicioMs": 24500,
+              "finMs": 24780
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 24780,
+              "finMs": 24980
+            },
+            {
+              "palabra": "inmediato",
+              "inicioMs": 24980,
+              "finMs": 25380
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 25380,
+              "finMs": 25460
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 25460,
+              "finMs": 25620
+            },
+            {
+              "palabra": "hospedador",
+              "inicioMs": 25620,
+              "finMs": 26080
+            },
+            {
+              "palabra": "sino",
+              "inicioMs": 26080,
+              "finMs": 27000
+            },
+            {
+              "palabra": "colonizarlo",
+              "inicioMs": 27000,
+              "finMs": 27780
+            },
+            {
+              "palabra": "lentamente",
+              "inicioMs": 27780,
+              "finMs": 28340
+            },
+            {
+              "palabra": "desde",
+              "inicioMs": 28340,
+              "finMs": 28700
+            },
+            {
+              "palabra": "adentro",
+              "inicioMs": 28700,
+              "finMs": 29320
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 29320,
+              "finMs": 29480
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 29480,
+              "finMs": 29660
+            },
+            {
+              "palabra": "macabra",
+              "inicioMs": 29660,
+              "finMs": 30140
+            },
+            {
+              "palabra": "obra",
+              "inicioMs": 30140,
+              "finMs": 30380
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 30380,
+              "finMs": 30560
+            },
+            {
+              "palabra": "ingeniería",
+              "inicioMs": 30560,
+              "finMs": 31080
+            },
+            {
+              "palabra": "biológica",
+              "inicioMs": 31080,
+              "finMs": 31680
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "texto": "Al hacer contacto, la espora secreta un cóctel de enzimas químicas que disuelven el exoesqueleto de quitina del insecto y penetra en su hemolinfa, el equivalente a la sangre en los artrópodos. Una vez en el interior, el hongo no ataca el cerebro como se creyó durante décadas: en lugar de eso, sus células proliferan exponencialmente como levaduras individuales que se comunican entre sí mediante señales químicas. El hongo comienza a tejer una red física continua que envuelve cada fibra muscular del animal, convirtiendo el cuerpo de la hormiga en una marioneta biológica controlada desde el sistema neuromuscular.",
+          "tituloVisual": "RED NEUROMUSCULAR",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "exoesqueleto de quitina",
+            "hemolinfa",
+            "fibras musculares",
+            "marioneta biológica"
+          ],
+          "poseId": "holding_presentation_board",
+          "expresion": "eureka",
+          "infografia": {
+            "tipo": "dato_clave",
+            "titulo": "Colonización Muscular",
+            "subtitulo": "Invasión Tisular del Hongo",
+            "valorPrincipal": "40%",
+            "unidad": "de biomasa fúngica",
+            "items": [
+              {
+                "etiqueta": "Cerebro de la hormiga",
+                "valor": "Intacto (Sin invadir)",
+                "porcentaje": 100,
+                "color": "#38BDF8"
+              },
+              {
+                "etiqueta": "Músculos manipulados",
+                "valor": "Rodeados por micelio",
+                "porcentaje": 80,
+                "color": "#FFE600"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 31.81,
+          "palabras": [
+            {
+              "palabra": "Al",
+              "inicioMs": 0,
+              "finMs": 287
+            },
+            {
+              "palabra": "hacer",
+              "inicioMs": 287,
+              "finMs": 573
+            },
+            {
+              "palabra": "contacto",
+              "inicioMs": 860,
+              "finMs": 1340
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 1340,
+              "finMs": 1820
+            },
+            {
+              "palabra": "espora",
+              "inicioMs": 1820,
+              "finMs": 2060
+            },
+            {
+              "palabra": "secreta",
+              "inicioMs": 2060,
+              "finMs": 2580
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 2580,
+              "finMs": 2820
+            },
+            {
+              "palabra": "cóctel",
+              "inicioMs": 2820,
+              "finMs": 2980
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3140,
+              "finMs": 3320
+            },
+            {
+              "palabra": "enzimas",
+              "inicioMs": 3320,
+              "finMs": 3600
+            },
+            {
+              "palabra": "químicas",
+              "inicioMs": 3600,
+              "finMs": 4040
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 4040,
+              "finMs": 4200
+            },
+            {
+              "palabra": "disuelven",
+              "inicioMs": 4200,
+              "finMs": 4580
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 4680,
+              "finMs": 4780
+            },
+            {
+              "palabra": "exoesqueleto",
+              "inicioMs": 4780,
+              "finMs": 5360
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5360,
+              "finMs": 5460
+            },
+            {
+              "palabra": "quitina",
+              "inicioMs": 5460,
+              "finMs": 5760
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 5760,
+              "finMs": 5940
+            },
+            {
+              "palabra": "insecto",
+              "inicioMs": 5940,
+              "finMs": 6460
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 6460,
+              "finMs": 6780
+            },
+            {
+              "palabra": "penetra",
+              "inicioMs": 6780,
+              "finMs": 7180
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 7180,
+              "finMs": 7280
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 7280,
+              "finMs": 7360
+            },
+            {
+              "palabra": "hemolinfa",
+              "inicioMs": 7360,
+              "finMs": 7880
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 8140,
+              "finMs": 8720
+            },
+            {
+              "palabra": "equivalente",
+              "inicioMs": 8720,
+              "finMs": 9220
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 9220,
+              "finMs": 9280
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 9280,
+              "finMs": 9380
+            },
+            {
+              "palabra": "sangre",
+              "inicioMs": 9380,
+              "finMs": 9640
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 9640,
+              "finMs": 9780
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 9780,
+              "finMs": 9860
+            },
+            {
+              "palabra": "artrópodos",
+              "inicioMs": 9860,
+              "finMs": 10620
+            },
+            {
+              "palabra": "Una",
+              "inicioMs": 10860,
+              "finMs": 11020
+            },
+            {
+              "palabra": "vez",
+              "inicioMs": 11020,
+              "finMs": 11180
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 11180,
+              "finMs": 11360
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 11360,
+              "finMs": 11480
+            },
+            {
+              "palabra": "interior",
+              "inicioMs": 11480,
+              "finMs": 11860
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 12140,
+              "finMs": 12220
+            },
+            {
+              "palabra": "hongo",
+              "inicioMs": 12220,
+              "finMs": 12440
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 12440,
+              "finMs": 12660
+            },
+            {
+              "palabra": "ataca",
+              "inicioMs": 12660,
+              "finMs": 12940
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 12940,
+              "finMs": 13100
+            },
+            {
+              "palabra": "cerebro",
+              "inicioMs": 13100,
+              "finMs": 13440
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 13440,
+              "finMs": 13640
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 13640,
+              "finMs": 13800
+            },
+            {
+              "palabra": "creyó",
+              "inicioMs": 13800,
+              "finMs": 14100
+            },
+            {
+              "palabra": "durante",
+              "inicioMs": 14100,
+              "finMs": 14440
+            },
+            {
+              "palabra": "décadas",
+              "inicioMs": 14440,
+              "finMs": 14940
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 15180,
+              "finMs": 15240
+            },
+            {
+              "palabra": "lugar",
+              "inicioMs": 15240,
+              "finMs": 15440
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15440,
+              "finMs": 15640
+            },
+            {
+              "palabra": "eso",
+              "inicioMs": 15640,
+              "finMs": 15960
+            },
+            {
+              "palabra": "sus",
+              "inicioMs": 15960,
+              "finMs": 16380
+            },
+            {
+              "palabra": "células",
+              "inicioMs": 16380,
+              "finMs": 16620
+            },
+            {
+              "palabra": "proliferan",
+              "inicioMs": 16620,
+              "finMs": 17260
+            },
+            {
+              "palabra": "exponencialmente",
+              "inicioMs": 17260,
+              "finMs": 18100
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 18100,
+              "finMs": 18320
+            },
+            {
+              "palabra": "levaduras",
+              "inicioMs": 18320,
+              "finMs": 18740
+            },
+            {
+              "palabra": "individuales",
+              "inicioMs": 18740,
+              "finMs": 19480
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 19480,
+              "finMs": 19560
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 19560,
+              "finMs": 19660
+            },
+            {
+              "palabra": "comunican",
+              "inicioMs": 19660,
+              "finMs": 20100
+            },
+            {
+              "palabra": "entre",
+              "inicioMs": 20100,
+              "finMs": 20340
+            },
+            {
+              "palabra": "sí",
+              "inicioMs": 20340,
+              "finMs": 20540
+            },
+            {
+              "palabra": "mediante",
+              "inicioMs": 20540,
+              "finMs": 20920
+            },
+            {
+              "palabra": "señales",
+              "inicioMs": 20920,
+              "finMs": 21300
+            },
+            {
+              "palabra": "químicas",
+              "inicioMs": 21300,
+              "finMs": 21820
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 22000,
+              "finMs": 22200
+            },
+            {
+              "palabra": "hongo",
+              "inicioMs": 22200,
+              "finMs": 22440
+            },
+            {
+              "palabra": "comienza",
+              "inicioMs": 22440,
+              "finMs": 22860
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 22860,
+              "finMs": 22980
+            },
+            {
+              "palabra": "tejer",
+              "inicioMs": 22980,
+              "finMs": 23200
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 23200,
+              "finMs": 23360
+            },
+            {
+              "palabra": "red",
+              "inicioMs": 23360,
+              "finMs": 23450
+            },
+            {
+              "palabra": "física",
+              "inicioMs": 23540,
+              "finMs": 23940
+            },
+            {
+              "palabra": "continua",
+              "inicioMs": 23940,
+              "finMs": 24480
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 24480,
+              "finMs": 24640
+            },
+            {
+              "palabra": "envuelve",
+              "inicioMs": 24640,
+              "finMs": 24960
+            },
+            {
+              "palabra": "cada",
+              "inicioMs": 24960,
+              "finMs": 25200
+            },
+            {
+              "palabra": "fibra",
+              "inicioMs": 25200,
+              "finMs": 25500
+            },
+            {
+              "palabra": "muscular",
+              "inicioMs": 25500,
+              "finMs": 25860
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 25860,
+              "finMs": 26060
+            },
+            {
+              "palabra": "animal",
+              "inicioMs": 26060,
+              "finMs": 26440
+            },
+            {
+              "palabra": "convirtiendo",
+              "inicioMs": 26500,
+              "finMs": 26960
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 26960,
+              "finMs": 27120
+            },
+            {
+              "palabra": "cuerpo",
+              "inicioMs": 27120,
+              "finMs": 27360
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 27360,
+              "finMs": 27520
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 27520,
+              "finMs": 27600
+            },
+            {
+              "palabra": "hormiga",
+              "inicioMs": 27600,
+              "finMs": 27960
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 27960,
+              "finMs": 28140
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 28140,
+              "finMs": 28320
+            },
+            {
+              "palabra": "marioneta",
+              "inicioMs": 28320,
+              "finMs": 28740
+            },
+            {
+              "palabra": "biológica",
+              "inicioMs": 28740,
+              "finMs": 29280
+            },
+            {
+              "palabra": "controlada",
+              "inicioMs": 29280,
+              "finMs": 29820
+            },
+            {
+              "palabra": "desde",
+              "inicioMs": 29820,
+              "finMs": 30020
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 30020,
+              "finMs": 30160
+            },
+            {
+              "palabra": "sistema",
+              "inicioMs": 30160,
+              "finMs": 30520
+            },
+            {
+              "palabra": "neuromuscular",
+              "inicioMs": 30520,
+              "finMs": 31360
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 63.96
+    },
+    {
+      "id": "cap_2",
+      "numero": 2,
+      "titulo": "La Marcha de la Marioneta",
+      "resumen": "La pérdida del control motriz y el abandono forzoso de la colonia.",
+      "escenas": [
+        {
+          "id": 3,
+          "texto": "A los pocos días de la infección, el comportamiento de la hormiga cambia drásticamente. Deja de comunicarse con sus hermanas, ignora las órdenes químicas de la reina y comienza a sufrir convulsiones musculares erráticas que la hacen tambalearse como un sonámbulo. Sus compañeras de nido, dotadas de un estricto instinto de higiene social, detectan la anomalía química y la expulsan de inmediato del hormiguero para evitar que contamine al resto de la comunidad. Desorientada y solitaria, la hormiga zombi emprende una marcha fúnebre hacia las copas bajas de la vegetación.",
+          "tituloVisual": "EXPULSION DEL NIDO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "cielo_dia",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "convulsiones erráticas",
+            "higiene social",
+            "marcha fúnebre",
+            "hormiga zombi"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "fear",
+          "duracionSegundos": 28.69,
+          "palabras": [
+            {
+              "palabra": "A",
+              "inicioMs": 0,
+              "finMs": 180
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 180,
+              "finMs": 240
+            },
+            {
+              "palabra": "pocos",
+              "inicioMs": 240,
+              "finMs": 500
+            },
+            {
+              "palabra": "días",
+              "inicioMs": 500,
+              "finMs": 720
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 720,
+              "finMs": 840
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 840,
+              "finMs": 920
+            },
+            {
+              "palabra": "infección",
+              "inicioMs": 920,
+              "finMs": 1360
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 1500,
+              "finMs": 1560
+            },
+            {
+              "palabra": "comportamiento",
+              "inicioMs": 1560,
+              "finMs": 2080
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2080,
+              "finMs": 2320
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 2320,
+              "finMs": 2340
+            },
+            {
+              "palabra": "hormiga",
+              "inicioMs": 2340,
+              "finMs": 2640
+            },
+            {
+              "palabra": "cambia",
+              "inicioMs": 2640,
+              "finMs": 2980
+            },
+            {
+              "palabra": "drásticamente",
+              "inicioMs": 2980,
+              "finMs": 3480
+            },
+            {
+              "palabra": "Deja",
+              "inicioMs": 3860,
+              "finMs": 4000
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4000,
+              "finMs": 4140
+            },
+            {
+              "palabra": "comunicarse",
+              "inicioMs": 4140,
+              "finMs": 4700
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 4700,
+              "finMs": 4840
+            },
+            {
+              "palabra": "sus",
+              "inicioMs": 4840,
+              "finMs": 4980
+            },
+            {
+              "palabra": "hermanas",
+              "inicioMs": 4980,
+              "finMs": 5380
+            },
+            {
+              "palabra": "ignora",
+              "inicioMs": 5820,
+              "finMs": 6700
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 6700,
+              "finMs": 6940
+            },
+            {
+              "palabra": "órdenes",
+              "inicioMs": 6940,
+              "finMs": 7300
+            },
+            {
+              "palabra": "químicas",
+              "inicioMs": 7300,
+              "finMs": 7660
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 7660,
+              "finMs": 7820
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 7820,
+              "finMs": 7940
+            },
+            {
+              "palabra": "reina",
+              "inicioMs": 7940,
+              "finMs": 8200
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 8200,
+              "finMs": 8440
+            },
+            {
+              "palabra": "comienza",
+              "inicioMs": 8440,
+              "finMs": 8820
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 8820,
+              "finMs": 8960
+            },
+            {
+              "palabra": "sufrir",
+              "inicioMs": 8960,
+              "finMs": 9200
+            },
+            {
+              "palabra": "convulsiones",
+              "inicioMs": 9200,
+              "finMs": 9740
+            },
+            {
+              "palabra": "musculares",
+              "inicioMs": 9740,
+              "finMs": 10300
+            },
+            {
+              "palabra": "erráticas",
+              "inicioMs": 10300,
+              "finMs": 10820
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 10820,
+              "finMs": 11340
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 11340,
+              "finMs": 11480
+            },
+            {
+              "palabra": "hacen",
+              "inicioMs": 11480,
+              "finMs": 11700
+            },
+            {
+              "palabra": "tambalearse",
+              "inicioMs": 11700,
+              "finMs": 12300
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 12300,
+              "finMs": 12540
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 12540,
+              "finMs": 12700
+            },
+            {
+              "palabra": "sonámbulo",
+              "inicioMs": 12700,
+              "finMs": 13280
+            },
+            {
+              "palabra": "Sus",
+              "inicioMs": 13560,
+              "finMs": 13700
+            },
+            {
+              "palabra": "compañeras",
+              "inicioMs": 13700,
+              "finMs": 14180
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14180,
+              "finMs": 14340
+            },
+            {
+              "palabra": "nido",
+              "inicioMs": 14340,
+              "finMs": 14660
+            },
+            {
+              "palabra": "dotadas",
+              "inicioMs": 14660,
+              "finMs": 15240
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15240,
+              "finMs": 15380
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 15380,
+              "finMs": 15500
+            },
+            {
+              "palabra": "estricto",
+              "inicioMs": 15500,
+              "finMs": 16020
+            },
+            {
+              "palabra": "instinto",
+              "inicioMs": 16020,
+              "finMs": 16500
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 16500,
+              "finMs": 16680
+            },
+            {
+              "palabra": "higiene",
+              "inicioMs": 16680,
+              "finMs": 16980
+            },
+            {
+              "palabra": "social",
+              "inicioMs": 16980,
+              "finMs": 17440
+            },
+            {
+              "palabra": "detectan",
+              "inicioMs": 17700,
+              "finMs": 18100
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 18100,
+              "finMs": 18220
+            },
+            {
+              "palabra": "anomalía",
+              "inicioMs": 18220,
+              "finMs": 18620
+            },
+            {
+              "palabra": "química",
+              "inicioMs": 18620,
+              "finMs": 19080
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 19080,
+              "finMs": 19220
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 19220,
+              "finMs": 19320
+            },
+            {
+              "palabra": "expulsan",
+              "inicioMs": 19320,
+              "finMs": 19760
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19760,
+              "finMs": 19880
+            },
+            {
+              "palabra": "inmediato",
+              "inicioMs": 19880,
+              "finMs": 20260
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 20260,
+              "finMs": 20440
+            },
+            {
+              "palabra": "hormiguero",
+              "inicioMs": 20440,
+              "finMs": 20840
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 20840,
+              "finMs": 21060
+            },
+            {
+              "palabra": "evitar",
+              "inicioMs": 21060,
+              "finMs": 21320
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 21320,
+              "finMs": 21520
+            },
+            {
+              "palabra": "contamine",
+              "inicioMs": 21520,
+              "finMs": 22000
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 22000,
+              "finMs": 22125
+            },
+            {
+              "palabra": "resto",
+              "inicioMs": 22000,
+              "finMs": 22520
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22520,
+              "finMs": 22600
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 22600,
+              "finMs": 22680
+            },
+            {
+              "palabra": "comunidad",
+              "inicioMs": 22680,
+              "finMs": 23060
+            },
+            {
+              "palabra": "Desorientada",
+              "inicioMs": 23240,
+              "finMs": 23820
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 23820,
+              "finMs": 23940
+            },
+            {
+              "palabra": "solitaria",
+              "inicioMs": 23940,
+              "finMs": 24440
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 24580,
+              "finMs": 24600
+            },
+            {
+              "palabra": "hormiga",
+              "inicioMs": 24600,
+              "finMs": 24900
+            },
+            {
+              "palabra": "zombi",
+              "inicioMs": 24900,
+              "finMs": 25100
+            },
+            {
+              "palabra": "emprende",
+              "inicioMs": 25300,
+              "finMs": 25640
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 25640,
+              "finMs": 25760
+            },
+            {
+              "palabra": "marcha",
+              "inicioMs": 25760,
+              "finMs": 26100
+            },
+            {
+              "palabra": "fúnebre",
+              "inicioMs": 26100,
+              "finMs": 26460
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 26460,
+              "finMs": 26780
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 26780,
+              "finMs": 26920
+            },
+            {
+              "palabra": "copas",
+              "inicioMs": 26920,
+              "finMs": 27240
+            },
+            {
+              "palabra": "bajas",
+              "inicioMs": 27240,
+              "finMs": 27540
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 27540,
+              "finMs": 27620
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 27620,
+              "finMs": 27720
+            },
+            {
+              "palabra": "vegetación",
+              "inicioMs": 27720,
+              "finMs": 28200
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "texto": "Lo más sobrecogedor revelado por el microscopio electrónico es que el cerebro de la hormiga permanece intacto y consciente durante todo el proceso. El hongo no destruye su mente; secuestra mecánicamente sus patas y mandíbulas segregando compuestos bioactivos que imitan los neurotransmisores del insecto. La hormiga es una pasajera prisionera dentro de su propio cuerpo, obligada a caminar hacia el lugar exacto que el parásito necesita para su propia reproducción.",
+          "tituloVisual": "PRISIONERA EN SU CUERPO",
+          "layout": "split_screen",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_left",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "microscopio electrónico",
+            "pasajera prisionera",
+            "secuestro mecánico",
+            "neurotransmisores"
+          ],
+          "poseId": "confused_scratch_head",
+          "expresion": "shocked",
+          "duracionSegundos": 23.626,
+          "palabras": [
+            {
+              "palabra": "Lo",
+              "inicioMs": 0,
+              "finMs": 160
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 160,
+              "finMs": 360
+            },
+            {
+              "palabra": "sobrecogedor",
+              "inicioMs": 360,
+              "finMs": 960
+            },
+            {
+              "palabra": "revelado",
+              "inicioMs": 960,
+              "finMs": 1480
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 1480,
+              "finMs": 1660
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 1660,
+              "finMs": 1780
+            },
+            {
+              "palabra": "microscopio",
+              "inicioMs": 1780,
+              "finMs": 2380
+            },
+            {
+              "palabra": "electrónico",
+              "inicioMs": 2380,
+              "finMs": 2960
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 2960,
+              "finMs": 3260
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 3260,
+              "finMs": 3400
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 3400,
+              "finMs": 3500
+            },
+            {
+              "palabra": "cerebro",
+              "inicioMs": 3500,
+              "finMs": 3840
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3840,
+              "finMs": 3980
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 3980,
+              "finMs": 4080
+            },
+            {
+              "palabra": "hormiga",
+              "inicioMs": 4080,
+              "finMs": 4420
+            },
+            {
+              "palabra": "permanece",
+              "inicioMs": 4420,
+              "finMs": 4960
+            },
+            {
+              "palabra": "intacto",
+              "inicioMs": 4960,
+              "finMs": 5440
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 5440,
+              "finMs": 5540
+            },
+            {
+              "palabra": "consciente",
+              "inicioMs": 5540,
+              "finMs": 6020
+            },
+            {
+              "palabra": "durante",
+              "inicioMs": 6020,
+              "finMs": 6280
+            },
+            {
+              "palabra": "todo",
+              "inicioMs": 6280,
+              "finMs": 6680
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 6840,
+              "finMs": 6960
+            },
+            {
+              "palabra": "proceso",
+              "inicioMs": 6960,
+              "finMs": 7320
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 7700,
+              "finMs": 7860
+            },
+            {
+              "palabra": "hongo",
+              "inicioMs": 7860,
+              "finMs": 8120
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 8120,
+              "finMs": 8320
+            },
+            {
+              "palabra": "destruye",
+              "inicioMs": 8320,
+              "finMs": 8840
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 8840,
+              "finMs": 9020
+            },
+            {
+              "palabra": "mente",
+              "inicioMs": 9020,
+              "finMs": 9200
+            },
+            {
+              "palabra": "secuestra",
+              "inicioMs": 9680,
+              "finMs": 9980
+            },
+            {
+              "palabra": "mecánicamente",
+              "inicioMs": 9980,
+              "finMs": 10520
+            },
+            {
+              "palabra": "sus",
+              "inicioMs": 10520,
+              "finMs": 10840
+            },
+            {
+              "palabra": "patas",
+              "inicioMs": 10840,
+              "finMs": 11220
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 11220,
+              "finMs": 11340
+            },
+            {
+              "palabra": "mandíbulas",
+              "inicioMs": 11340,
+              "finMs": 11900
+            },
+            {
+              "palabra": "segregando",
+              "inicioMs": 12180,
+              "finMs": 12520
+            },
+            {
+              "palabra": "compuestos",
+              "inicioMs": 12520,
+              "finMs": 12940
+            },
+            {
+              "palabra": "bioactivos",
+              "inicioMs": 12940,
+              "finMs": 13480
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 13480,
+              "finMs": 13700
+            },
+            {
+              "palabra": "imitan",
+              "inicioMs": 13700,
+              "finMs": 14020
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 14020,
+              "finMs": 14180
+            },
+            {
+              "palabra": "neurotransmisores",
+              "inicioMs": 14420,
+              "finMs": 14940
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 14940,
+              "finMs": 15080
+            },
+            {
+              "palabra": "insecto",
+              "inicioMs": 15080,
+              "finMs": 15620
+            },
+            {
+              "palabra": "La",
+              "inicioMs": 15820,
+              "finMs": 15880
+            },
+            {
+              "palabra": "hormiga",
+              "inicioMs": 15880,
+              "finMs": 16160
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 16160,
+              "finMs": 16260
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 16260,
+              "finMs": 16400
+            },
+            {
+              "palabra": "pasajera",
+              "inicioMs": 16400,
+              "finMs": 16860
+            },
+            {
+              "palabra": "prisionera",
+              "inicioMs": 16860,
+              "finMs": 17340
+            },
+            {
+              "palabra": "dentro",
+              "inicioMs": 17340,
+              "finMs": 17600
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17600,
+              "finMs": 17740
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 17740,
+              "finMs": 17860
+            },
+            {
+              "palabra": "propio",
+              "inicioMs": 17860,
+              "finMs": 18140
+            },
+            {
+              "palabra": "cuerpo",
+              "inicioMs": 18140,
+              "finMs": 18600
+            },
+            {
+              "palabra": "obligada",
+              "inicioMs": 18920,
+              "finMs": 19320
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 19320,
+              "finMs": 19460
+            },
+            {
+              "palabra": "caminar",
+              "inicioMs": 19460,
+              "finMs": 19760
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 19760,
+              "finMs": 19960
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 19960,
+              "finMs": 20080
+            },
+            {
+              "palabra": "lugar",
+              "inicioMs": 20080,
+              "finMs": 20220
+            },
+            {
+              "palabra": "exacto",
+              "inicioMs": 20220,
+              "finMs": 20780
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 20780,
+              "finMs": 20880
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 20880,
+              "finMs": 21000
+            },
+            {
+              "palabra": "parásito",
+              "inicioMs": 21000,
+              "finMs": 21380
+            },
+            {
+              "palabra": "necesita",
+              "inicioMs": 21380,
+              "finMs": 21800
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 21800,
+              "finMs": 22080
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 22080,
+              "finMs": 22240
+            },
+            {
+              "palabra": "propia",
+              "inicioMs": 22240,
+              "finMs": 22520
+            },
+            {
+              "palabra": "reproducción",
+              "inicioMs": 22520,
+              "finMs": 23180
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 52.32
+    },
+    {
+      "id": "cap_3",
+      "numero": 3,
+      "titulo": "El Mordisco Mortal a las Doce del Mediodía",
+      "resumen": "La sincronización solar milimétrica y la mordida en el nervio de la hoja.",
+      "escenas": [
+        {
+          "id": 5,
+          "texto": "El nivel de precisión geométrica que alcanza la manipulación es casi sobrenatural. El hongo obliga a la hormiga a trepar a una altura de exactamente veinticinco centímetros sobre el suelo de la selva, orientada hacia el lado norte de una planta donde la humedad relativa ronda el noventa y cinco por ciento y la temperatura es de entre veinte y veintiséis grados centígrados: las condiciones climatológicas perfectas para el crecimiento fúngico. Cualquier otra altura o inclinación significaría la muerte del hongo por desecación solar.",
+          "tituloVisual": "PRECISION GEOMETRICA",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "cielo_dia",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "veinticinco centímetros",
+            "lado norte",
+            "noventa y cinco por ciento",
+            "condiciones perfectas"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "eureka",
+          "infografia": {
+            "tipo": "dato_clave",
+            "titulo": "Microclima Óptimo",
+            "subtitulo": "Coordenadas Fúngicas Precisas",
+            "valorPrincipal": "25 cm",
+            "unidad": "sobre el suelo",
+            "items": [
+              {
+                "etiqueta": "Humedad requerida",
+                "valor": "95% constante",
+                "porcentaje": 95,
+                "color": "#38BDF8"
+              },
+              {
+                "etiqueta": "Orientación solar",
+                "valor": "Cara norte de la hoja",
+                "porcentaje": 100,
+                "color": "#FFE600"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 27.658,
+          "palabras": [
+            {
+              "palabra": "El",
+              "inicioMs": 0,
+              "finMs": 220
+            },
+            {
+              "palabra": "nivel",
+              "inicioMs": 220,
+              "finMs": 400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 400,
+              "finMs": 560
+            },
+            {
+              "palabra": "precisión",
+              "inicioMs": 560,
+              "finMs": 1000
+            },
+            {
+              "palabra": "geométrica",
+              "inicioMs": 1000,
+              "finMs": 1520
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 1520,
+              "finMs": 1700
+            },
+            {
+              "palabra": "alcanza",
+              "inicioMs": 1700,
+              "finMs": 2020
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 2020,
+              "finMs": 2140
+            },
+            {
+              "palabra": "manipulación",
+              "inicioMs": 2140,
+              "finMs": 2740
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 2740,
+              "finMs": 3060
+            },
+            {
+              "palabra": "casi",
+              "inicioMs": 3060,
+              "finMs": 3360
+            },
+            {
+              "palabra": "sobrenatural",
+              "inicioMs": 3360,
+              "finMs": 4040
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 4280,
+              "finMs": 4420
+            },
+            {
+              "palabra": "hongo",
+              "inicioMs": 4420,
+              "finMs": 4660
+            },
+            {
+              "palabra": "obliga",
+              "inicioMs": 4660,
+              "finMs": 5060
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 5060,
+              "finMs": 5200
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5200,
+              "finMs": 5240
+            },
+            {
+              "palabra": "hormiga",
+              "inicioMs": 5240,
+              "finMs": 5540
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 5540,
+              "finMs": 5820
+            },
+            {
+              "palabra": "trepar",
+              "inicioMs": 5820,
+              "finMs": 5940
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 5940,
+              "finMs": 6080
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 6080,
+              "finMs": 6200
+            },
+            {
+              "palabra": "altura",
+              "inicioMs": 6200,
+              "finMs": 6460
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6460,
+              "finMs": 6660
+            },
+            {
+              "palabra": "exactamente",
+              "inicioMs": 6660,
+              "finMs": 7060
+            },
+            {
+              "palabra": "veinticinco",
+              "inicioMs": 7060,
+              "finMs": 7430
+            },
+            {
+              "palabra": "centímetros",
+              "inicioMs": 7800,
+              "finMs": 8500
+            },
+            {
+              "palabra": "sobre",
+              "inicioMs": 8500,
+              "finMs": 8800
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 8800,
+              "finMs": 8960
+            },
+            {
+              "palabra": "suelo",
+              "inicioMs": 8960,
+              "finMs": 9140
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9140,
+              "finMs": 9280
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 9280,
+              "finMs": 9380
+            },
+            {
+              "palabra": "selva",
+              "inicioMs": 9380,
+              "finMs": 9720
+            },
+            {
+              "palabra": "orientada",
+              "inicioMs": 9860,
+              "finMs": 10280
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 10280,
+              "finMs": 10540
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 10540,
+              "finMs": 10680
+            },
+            {
+              "palabra": "lado",
+              "inicioMs": 10680,
+              "finMs": 10800
+            },
+            {
+              "palabra": "norte",
+              "inicioMs": 10800,
+              "finMs": 11100
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11100,
+              "finMs": 11280
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 11280,
+              "finMs": 11440
+            },
+            {
+              "palabra": "planta",
+              "inicioMs": 11440,
+              "finMs": 11860
+            },
+            {
+              "palabra": "donde",
+              "inicioMs": 11860,
+              "finMs": 12020
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 12020,
+              "finMs": 12160
+            },
+            {
+              "palabra": "humedad",
+              "inicioMs": 12160,
+              "finMs": 12440
+            },
+            {
+              "palabra": "relativa",
+              "inicioMs": 12440,
+              "finMs": 12860
+            },
+            {
+              "palabra": "ronda",
+              "inicioMs": 12860,
+              "finMs": 13260
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 13260,
+              "finMs": 13367
+            },
+            {
+              "palabra": "noventa",
+              "inicioMs": 13367,
+              "finMs": 13473
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 13473,
+              "finMs": 13580
+            },
+            {
+              "palabra": "cinco",
+              "inicioMs": 13580,
+              "finMs": 13687
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 13687,
+              "finMs": 13793
+            },
+            {
+              "palabra": "ciento",
+              "inicioMs": 13900,
+              "finMs": 14380
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 14380,
+              "finMs": 14600
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 14600,
+              "finMs": 14680
+            },
+            {
+              "palabra": "temperatura",
+              "inicioMs": 14680,
+              "finMs": 15220
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 15220,
+              "finMs": 15620
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15620,
+              "finMs": 15720
+            },
+            {
+              "palabra": "entre",
+              "inicioMs": 15720,
+              "finMs": 15900
+            },
+            {
+              "palabra": "veinte",
+              "inicioMs": 15900,
+              "finMs": 16035
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 16035,
+              "finMs": 16170
+            },
+            {
+              "palabra": "veintiséis",
+              "inicioMs": 16170,
+              "finMs": 16305
+            },
+            {
+              "palabra": "grados",
+              "inicioMs": 16440,
+              "finMs": 17180
+            },
+            {
+              "palabra": "centígrados",
+              "inicioMs": 17320,
+              "finMs": 17920
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 18120,
+              "finMs": 18820
+            },
+            {
+              "palabra": "condiciones",
+              "inicioMs": 18820,
+              "finMs": 19240
+            },
+            {
+              "palabra": "climatológicas",
+              "inicioMs": 19240,
+              "finMs": 20180
+            },
+            {
+              "palabra": "perfectas",
+              "inicioMs": 20180,
+              "finMs": 20840
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 20840,
+              "finMs": 21000
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 21000,
+              "finMs": 21140
+            },
+            {
+              "palabra": "crecimiento",
+              "inicioMs": 21140,
+              "finMs": 21520
+            },
+            {
+              "palabra": "fúngico",
+              "inicioMs": 21520,
+              "finMs": 22200
+            },
+            {
+              "palabra": "Cualquier",
+              "inicioMs": 22760,
+              "finMs": 23180
+            },
+            {
+              "palabra": "otra",
+              "inicioMs": 23180,
+              "finMs": 23420
+            },
+            {
+              "palabra": "altura",
+              "inicioMs": 23420,
+              "finMs": 23820
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 23820,
+              "finMs": 24040
+            },
+            {
+              "palabra": "inclinación",
+              "inicioMs": 24040,
+              "finMs": 24580
+            },
+            {
+              "palabra": "significaría",
+              "inicioMs": 24580,
+              "finMs": 25320
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 25320,
+              "finMs": 25460
+            },
+            {
+              "palabra": "muerte",
+              "inicioMs": 25460,
+              "finMs": 25700
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 25700,
+              "finMs": 25920
+            },
+            {
+              "palabra": "hongo",
+              "inicioMs": 25920,
+              "finMs": 26160
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 26160,
+              "finMs": 26380
+            },
+            {
+              "palabra": "desecación",
+              "inicioMs": 26380,
+              "finMs": 26860
+            },
+            {
+              "palabra": "solar",
+              "inicioMs": 26860,
+              "finMs": 27180
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "texto": "Cerca del mediodía solar, cuando la luz alcanza su pico, el hongo desencadena el acto final: emite una señal química masiva que provoca un espasmo incontrolable en los músculos mandibulares de la hormiga. Las mandíbulas se clavan con fuerza descomunal en la nervadura principal del envés de la hoja, rompiendo los tejidos vegetales en lo que los biólogos llaman el mordisco mortal. Inmediatamente después, el parásito disuelve las fibras de los músculos mandibulares, bloqueando las mandíbulas en un cerrojo químico irreversible. La hormiga queda anclada para siempre.",
+          "tituloVisual": "EL MORDISCO MORTAL",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "cielo_dia",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "mediodía solar",
+            "nervadura principal",
+            "mordisco mortal",
+            "cerrojo irreversible"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "talking",
+          "duracionSegundos": 28.834,
+          "palabras": [
+            {
+              "palabra": "Cerca",
+              "inicioMs": 0,
+              "finMs": 360
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 360,
+              "finMs": 520
+            },
+            {
+              "palabra": "mediodía",
+              "inicioMs": 520,
+              "finMs": 760
+            },
+            {
+              "palabra": "solar",
+              "inicioMs": 1000,
+              "finMs": 1300
+            },
+            {
+              "palabra": "cuando",
+              "inicioMs": 1700,
+              "finMs": 1860
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 1860,
+              "finMs": 2040
+            },
+            {
+              "palabra": "luz",
+              "inicioMs": 2040,
+              "finMs": 2160
+            },
+            {
+              "palabra": "alcanza",
+              "inicioMs": 2160,
+              "finMs": 2640
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 2640,
+              "finMs": 2820
+            },
+            {
+              "palabra": "pico",
+              "inicioMs": 2820,
+              "finMs": 3180
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 3300,
+              "finMs": 3400
+            },
+            {
+              "palabra": "hongo",
+              "inicioMs": 3400,
+              "finMs": 3660
+            },
+            {
+              "palabra": "desencadena",
+              "inicioMs": 3660,
+              "finMs": 4280
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 4280,
+              "finMs": 4460
+            },
+            {
+              "palabra": "acto",
+              "inicioMs": 4460,
+              "finMs": 4720
+            },
+            {
+              "palabra": "final",
+              "inicioMs": 4720,
+              "finMs": 5060
+            },
+            {
+              "palabra": "emite",
+              "inicioMs": 5380,
+              "finMs": 5640
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 5640,
+              "finMs": 5800
+            },
+            {
+              "palabra": "señal",
+              "inicioMs": 5800,
+              "finMs": 6160
+            },
+            {
+              "palabra": "química",
+              "inicioMs": 6160,
+              "finMs": 6500
+            },
+            {
+              "palabra": "masiva",
+              "inicioMs": 6500,
+              "finMs": 6900
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 6900,
+              "finMs": 7080
+            },
+            {
+              "palabra": "provoca",
+              "inicioMs": 7080,
+              "finMs": 7420
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 7420,
+              "finMs": 7580
+            },
+            {
+              "palabra": "espasmo",
+              "inicioMs": 7580,
+              "finMs": 7860
+            },
+            {
+              "palabra": "incontrolable",
+              "inicioMs": 7860,
+              "finMs": 8660
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 8660,
+              "finMs": 8880
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 8880,
+              "finMs": 9040
+            },
+            {
+              "palabra": "músculos",
+              "inicioMs": 9040,
+              "finMs": 9420
+            },
+            {
+              "palabra": "mandibulares",
+              "inicioMs": 9420,
+              "finMs": 9940
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9940,
+              "finMs": 10140
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 10140,
+              "finMs": 10240
+            },
+            {
+              "palabra": "hormiga",
+              "inicioMs": 10240,
+              "finMs": 10600
+            },
+            {
+              "palabra": "Las",
+              "inicioMs": 10900,
+              "finMs": 11020
+            },
+            {
+              "palabra": "mandíbulas",
+              "inicioMs": 11020,
+              "finMs": 11400
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 11400,
+              "finMs": 11560
+            },
+            {
+              "palabra": "clavan",
+              "inicioMs": 11560,
+              "finMs": 11820
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 11820,
+              "finMs": 12000
+            },
+            {
+              "palabra": "fuerza",
+              "inicioMs": 12000,
+              "finMs": 12260
+            },
+            {
+              "palabra": "descomunal",
+              "inicioMs": 12260,
+              "finMs": 12740
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 12740,
+              "finMs": 12940
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 12940,
+              "finMs": 13020
+            },
+            {
+              "palabra": "nervadura",
+              "inicioMs": 13020,
+              "finMs": 13300
+            },
+            {
+              "palabra": "principal",
+              "inicioMs": 13300,
+              "finMs": 13700
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 13700,
+              "finMs": 14000
+            },
+            {
+              "palabra": "envés",
+              "inicioMs": 14000,
+              "finMs": 14110
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14220,
+              "finMs": 14340
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 14340,
+              "finMs": 14460
+            },
+            {
+              "palabra": "hoja",
+              "inicioMs": 14460,
+              "finMs": 14720
+            },
+            {
+              "palabra": "rompiendo",
+              "inicioMs": 14940,
+              "finMs": 15320
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 15320,
+              "finMs": 15520
+            },
+            {
+              "palabra": "tejidos",
+              "inicioMs": 15520,
+              "finMs": 15880
+            },
+            {
+              "palabra": "vegetales",
+              "inicioMs": 15880,
+              "finMs": 16400
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 16400,
+              "finMs": 16680
+            },
+            {
+              "palabra": "lo",
+              "inicioMs": 16680,
+              "finMs": 16760
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 16760,
+              "finMs": 16900
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 16900,
+              "finMs": 17020
+            },
+            {
+              "palabra": "biólogos",
+              "inicioMs": 17020,
+              "finMs": 17360
+            },
+            {
+              "palabra": "llaman",
+              "inicioMs": 17360,
+              "finMs": 17700
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 17700,
+              "finMs": 17960
+            },
+            {
+              "palabra": "mordisco",
+              "inicioMs": 17960,
+              "finMs": 18280
+            },
+            {
+              "palabra": "mortal",
+              "inicioMs": 18280,
+              "finMs": 18740
+            },
+            {
+              "palabra": "Inmediatamente",
+              "inicioMs": 19040,
+              "finMs": 19460
+            },
+            {
+              "palabra": "después",
+              "inicioMs": 19460,
+              "finMs": 19980
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 20260,
+              "finMs": 20360
+            },
+            {
+              "palabra": "parásito",
+              "inicioMs": 20360,
+              "finMs": 20780
+            },
+            {
+              "palabra": "disuelve",
+              "inicioMs": 20780,
+              "finMs": 21220
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 21220,
+              "finMs": 21400
+            },
+            {
+              "palabra": "fibras",
+              "inicioMs": 21400,
+              "finMs": 21660
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 21660,
+              "finMs": 21760
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 21760,
+              "finMs": 21880
+            },
+            {
+              "palabra": "músculos",
+              "inicioMs": 21880,
+              "finMs": 22240
+            },
+            {
+              "palabra": "mandibulares",
+              "inicioMs": 22240,
+              "finMs": 22860
+            },
+            {
+              "palabra": "bloqueando",
+              "inicioMs": 23120,
+              "finMs": 23520
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 23520,
+              "finMs": 23680
+            },
+            {
+              "palabra": "mandíbulas",
+              "inicioMs": 23680,
+              "finMs": 24240
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 24240,
+              "finMs": 24440
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 24440,
+              "finMs": 24540
+            },
+            {
+              "palabra": "cerrojo",
+              "inicioMs": 24540,
+              "finMs": 24880
+            },
+            {
+              "palabra": "químico",
+              "inicioMs": 24880,
+              "finMs": 25320
+            },
+            {
+              "palabra": "irreversible",
+              "inicioMs": 25420,
+              "finMs": 25720
+            },
+            {
+              "palabra": "La",
+              "inicioMs": 26640,
+              "finMs": 26960
+            },
+            {
+              "palabra": "hormiga",
+              "inicioMs": 26960,
+              "finMs": 27220
+            },
+            {
+              "palabra": "queda",
+              "inicioMs": 27220,
+              "finMs": 27460
+            },
+            {
+              "palabra": "anclada",
+              "inicioMs": 27460,
+              "finMs": 27760
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 27760,
+              "finMs": 27960
+            },
+            {
+              "palabra": "siempre",
+              "inicioMs": 27960,
+              "finMs": 28340
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 56.49
+    },
+    {
+      "id": "cap_4",
+      "numero": 4,
+      "titulo": "La Erupción del Cuerno Fúngico",
+      "resumen": "La digestión interna de los órganos y el brote del estroma.",
+      "escenas": [
+        {
+          "id": 7,
+          "texto": "Una vez asegurado el anclaje físico, la hormiga muere en cuestión de horas. El hongo ya no necesita mantener con vida los órganos del insecto, así que procede a digerir metódicamente todas las vísceras, músculos y grasas internas mediante enzimas proteolíticas, dejando únicamente la armadura exterior de quitina intacta como un caparazón protector contra la intemperie y los carroñeros.",
+          "tituloVisual": "DIGESTION INTERNA",
+          "layout": "split_screen",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "enzimas proteolíticas",
+            "armadura de quitina",
+            "caparazón protector",
+            "vísceras digeridas"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "analytical",
+          "duracionSegundos": 19.978,
+          "palabras": [
+            {
+              "palabra": "Una",
+              "inicioMs": 0,
+              "finMs": 260
+            },
+            {
+              "palabra": "vez",
+              "inicioMs": 260,
+              "finMs": 420
+            },
+            {
+              "palabra": "asegurado",
+              "inicioMs": 420,
+              "finMs": 900
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 900,
+              "finMs": 980
+            },
+            {
+              "palabra": "anclaje",
+              "inicioMs": 1060,
+              "finMs": 1360
+            },
+            {
+              "palabra": "físico",
+              "inicioMs": 1360,
+              "finMs": 1820
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 1920,
+              "finMs": 1980
+            },
+            {
+              "palabra": "hormiga",
+              "inicioMs": 1980,
+              "finMs": 2280
+            },
+            {
+              "palabra": "muere",
+              "inicioMs": 2280,
+              "finMs": 2520
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 2520,
+              "finMs": 2600
+            },
+            {
+              "palabra": "cuestión",
+              "inicioMs": 2600,
+              "finMs": 2860
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2860,
+              "finMs": 3080
+            },
+            {
+              "palabra": "horas",
+              "inicioMs": 3080,
+              "finMs": 3280
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 3540,
+              "finMs": 3640
+            },
+            {
+              "palabra": "hongo",
+              "inicioMs": 3640,
+              "finMs": 3900
+            },
+            {
+              "palabra": "ya",
+              "inicioMs": 3900,
+              "finMs": 4080
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 4080,
+              "finMs": 4200
+            },
+            {
+              "palabra": "necesita",
+              "inicioMs": 4200,
+              "finMs": 4560
+            },
+            {
+              "palabra": "mantener",
+              "inicioMs": 4560,
+              "finMs": 5060
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 5060,
+              "finMs": 5300
+            },
+            {
+              "palabra": "vida",
+              "inicioMs": 5300,
+              "finMs": 5540
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 5540,
+              "finMs": 5780
+            },
+            {
+              "palabra": "órganos",
+              "inicioMs": 5780,
+              "finMs": 6160
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 6160,
+              "finMs": 6280
+            },
+            {
+              "palabra": "insecto",
+              "inicioMs": 6280,
+              "finMs": 6840
+            },
+            {
+              "palabra": "así",
+              "inicioMs": 6920,
+              "finMs": 7100
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 7100,
+              "finMs": 7240
+            },
+            {
+              "palabra": "procede",
+              "inicioMs": 7240,
+              "finMs": 7640
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 7640,
+              "finMs": 7780
+            },
+            {
+              "palabra": "digerir",
+              "inicioMs": 7780,
+              "finMs": 8060
+            },
+            {
+              "palabra": "metódicamente",
+              "inicioMs": 8060,
+              "finMs": 8680
+            },
+            {
+              "palabra": "todas",
+              "inicioMs": 8680,
+              "finMs": 9020
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 9020,
+              "finMs": 9280
+            },
+            {
+              "palabra": "vísceras",
+              "inicioMs": 9280,
+              "finMs": 9740
+            },
+            {
+              "palabra": "músculos",
+              "inicioMs": 9880,
+              "finMs": 10220
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 10220,
+              "finMs": 10420
+            },
+            {
+              "palabra": "grasas",
+              "inicioMs": 10420,
+              "finMs": 10760
+            },
+            {
+              "palabra": "internas",
+              "inicioMs": 10760,
+              "finMs": 11340
+            },
+            {
+              "palabra": "mediante",
+              "inicioMs": 11340,
+              "finMs": 11680
+            },
+            {
+              "palabra": "enzimas",
+              "inicioMs": 11880,
+              "finMs": 12080
+            },
+            {
+              "palabra": "proteolíticas",
+              "inicioMs": 12080,
+              "finMs": 12880
+            },
+            {
+              "palabra": "dejando",
+              "inicioMs": 13100,
+              "finMs": 13460
+            },
+            {
+              "palabra": "únicamente",
+              "inicioMs": 13460,
+              "finMs": 13880
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 13880,
+              "finMs": 14140
+            },
+            {
+              "palabra": "armadura",
+              "inicioMs": 14140,
+              "finMs": 14460
+            },
+            {
+              "palabra": "exterior",
+              "inicioMs": 14460,
+              "finMs": 14880
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14880,
+              "finMs": 15060
+            },
+            {
+              "palabra": "quitina",
+              "inicioMs": 15060,
+              "finMs": 15440
+            },
+            {
+              "palabra": "intacta",
+              "inicioMs": 15440,
+              "finMs": 16080
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 16080,
+              "finMs": 16460
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 16460,
+              "finMs": 16680
+            },
+            {
+              "palabra": "caparazón",
+              "inicioMs": 16680,
+              "finMs": 17120
+            },
+            {
+              "palabra": "protector",
+              "inicioMs": 17120,
+              "finMs": 17540
+            },
+            {
+              "palabra": "contra",
+              "inicioMs": 17540,
+              "finMs": 17960
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 17960,
+              "finMs": 18080
+            },
+            {
+              "palabra": "intemperie",
+              "inicioMs": 18080,
+              "finMs": 18700
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 18700,
+              "finMs": 18820
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 18820,
+              "finMs": 18960
+            },
+            {
+              "palabra": "carroñeros",
+              "inicioMs": 18960,
+              "finMs": 19500
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "texto": "Días después, una aguja carnosa de color marrón oscuro, llamada estroma, perfora la base de la cabeza de la hormiga muerta, emergiendo detrás del cuello hacia la luz del sol. El tallo crece durante varias semanas hasta desarrollar en su extremo superior una cápsula esférica repleta de esporas sexuales. Desde esa atalaya privilegiada a veinticinco centímetros de altura, justo encima de los senderos transitados por las hormigas sanas que marchan por el suelo, el hongo está listo para detonar la siguiente generación de contagio.",
+          "tituloVisual": "BROTE DEL ESTROMA",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "cielo_dia",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_sci_fi_beep.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "estroma fúngico",
+            "base de la cabeza",
+            "cápsula de esporas",
+            "atalaya privilegiada"
+          ],
+          "poseId": "holding_presentation_board",
+          "expresion": "shocked",
+          "duracionSegundos": 26.698,
+          "palabras": [
+            {
+              "palabra": "Días",
+              "inicioMs": 0,
+              "finMs": 420
+            },
+            {
+              "palabra": "después",
+              "inicioMs": 420,
+              "finMs": 720
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 800,
+              "finMs": 980
+            },
+            {
+              "palabra": "aguja",
+              "inicioMs": 980,
+              "finMs": 1105
+            },
+            {
+              "palabra": "carnosa",
+              "inicioMs": 980,
+              "finMs": 1780
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1780,
+              "finMs": 1960
+            },
+            {
+              "palabra": "color",
+              "inicioMs": 1960,
+              "finMs": 2180
+            },
+            {
+              "palabra": "marrón",
+              "inicioMs": 2180,
+              "finMs": 2580
+            },
+            {
+              "palabra": "oscuro",
+              "inicioMs": 2580,
+              "finMs": 3060
+            },
+            {
+              "palabra": "llamada",
+              "inicioMs": 3160,
+              "finMs": 3460
+            },
+            {
+              "palabra": "estroma",
+              "inicioMs": 3460,
+              "finMs": 3980
+            },
+            {
+              "palabra": "perfora",
+              "inicioMs": 4100,
+              "finMs": 4460
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 4460,
+              "finMs": 4580
+            },
+            {
+              "palabra": "base",
+              "inicioMs": 4580,
+              "finMs": 4800
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4800,
+              "finMs": 4940
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 4940,
+              "finMs": 5040
+            },
+            {
+              "palabra": "cabeza",
+              "inicioMs": 5040,
+              "finMs": 5280
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5280,
+              "finMs": 5460
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5460,
+              "finMs": 5560
+            },
+            {
+              "palabra": "hormiga",
+              "inicioMs": 5560,
+              "finMs": 5820
+            },
+            {
+              "palabra": "muerta",
+              "inicioMs": 5820,
+              "finMs": 6220
+            },
+            {
+              "palabra": "emergiendo",
+              "inicioMs": 6400,
+              "finMs": 6780
+            },
+            {
+              "palabra": "detrás",
+              "inicioMs": 6780,
+              "finMs": 7120
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 7120,
+              "finMs": 7300
+            },
+            {
+              "palabra": "cuello",
+              "inicioMs": 7300,
+              "finMs": 7580
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 7580,
+              "finMs": 7760
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 7760,
+              "finMs": 7900
+            },
+            {
+              "palabra": "luz",
+              "inicioMs": 7900,
+              "finMs": 8060
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 8060,
+              "finMs": 8260
+            },
+            {
+              "palabra": "sol",
+              "inicioMs": 8260,
+              "finMs": 8500
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 8660,
+              "finMs": 8780
+            },
+            {
+              "palabra": "tallo",
+              "inicioMs": 8780,
+              "finMs": 9060
+            },
+            {
+              "palabra": "crece",
+              "inicioMs": 9060,
+              "finMs": 9340
+            },
+            {
+              "palabra": "durante",
+              "inicioMs": 9340,
+              "finMs": 9540
+            },
+            {
+              "palabra": "varias",
+              "inicioMs": 9540,
+              "finMs": 9880
+            },
+            {
+              "palabra": "semanas",
+              "inicioMs": 9880,
+              "finMs": 10320
+            },
+            {
+              "palabra": "hasta",
+              "inicioMs": 10320,
+              "finMs": 10740
+            },
+            {
+              "palabra": "desarrollar",
+              "inicioMs": 10740,
+              "finMs": 11260
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 11260,
+              "finMs": 11360
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 11360,
+              "finMs": 11460
+            },
+            {
+              "palabra": "extremo",
+              "inicioMs": 11460,
+              "finMs": 11860
+            },
+            {
+              "palabra": "superior",
+              "inicioMs": 11860,
+              "finMs": 12220
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 12220,
+              "finMs": 12520
+            },
+            {
+              "palabra": "cápsula",
+              "inicioMs": 12520,
+              "finMs": 12920
+            },
+            {
+              "palabra": "esférica",
+              "inicioMs": 12920,
+              "finMs": 13380
+            },
+            {
+              "palabra": "repleta",
+              "inicioMs": 13380,
+              "finMs": 13800
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 13800,
+              "finMs": 13920
+            },
+            {
+              "palabra": "esporas",
+              "inicioMs": 13920,
+              "finMs": 14280
+            },
+            {
+              "palabra": "sexuales",
+              "inicioMs": 14280,
+              "finMs": 14900
+            },
+            {
+              "palabra": "Desde",
+              "inicioMs": 15080,
+              "finMs": 15260
+            },
+            {
+              "palabra": "esa",
+              "inicioMs": 15260,
+              "finMs": 15420
+            },
+            {
+              "palabra": "atalaya",
+              "inicioMs": 15420,
+              "finMs": 15780
+            },
+            {
+              "palabra": "privilegiada",
+              "inicioMs": 15780,
+              "finMs": 16380
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 16380,
+              "finMs": 16620
+            },
+            {
+              "palabra": "veinticinco",
+              "inicioMs": 16620,
+              "finMs": 16830
+            },
+            {
+              "palabra": "centímetros",
+              "inicioMs": 17040,
+              "finMs": 17620
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17620,
+              "finMs": 17800
+            },
+            {
+              "palabra": "altura",
+              "inicioMs": 17800,
+              "finMs": 18120
+            },
+            {
+              "palabra": "justo",
+              "inicioMs": 18280,
+              "finMs": 18520
+            },
+            {
+              "palabra": "encima",
+              "inicioMs": 18520,
+              "finMs": 18820
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18820,
+              "finMs": 19020
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 19020,
+              "finMs": 19140
+            },
+            {
+              "palabra": "senderos",
+              "inicioMs": 19140,
+              "finMs": 19500
+            },
+            {
+              "palabra": "transitados",
+              "inicioMs": 19700,
+              "finMs": 20100
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 20100,
+              "finMs": 20320
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 20320,
+              "finMs": 20480
+            },
+            {
+              "palabra": "hormigas",
+              "inicioMs": 20480,
+              "finMs": 20940
+            },
+            {
+              "palabra": "sanas",
+              "inicioMs": 20940,
+              "finMs": 21240
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 21240,
+              "finMs": 21360
+            },
+            {
+              "palabra": "marchan",
+              "inicioMs": 21360,
+              "finMs": 21720
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 21720,
+              "finMs": 21880
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 21880,
+              "finMs": 22020
+            },
+            {
+              "palabra": "suelo",
+              "inicioMs": 22020,
+              "finMs": 22340
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 23000,
+              "finMs": 23260
+            },
+            {
+              "palabra": "hongo",
+              "inicioMs": 23260,
+              "finMs": 23440
+            },
+            {
+              "palabra": "está",
+              "inicioMs": 23440,
+              "finMs": 23565
+            },
+            {
+              "palabra": "listo",
+              "inicioMs": 23440,
+              "finMs": 23920
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 23920,
+              "finMs": 24180
+            },
+            {
+              "palabra": "detonar",
+              "inicioMs": 24180,
+              "finMs": 24560
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 24560,
+              "finMs": 24660
+            },
+            {
+              "palabra": "siguiente",
+              "inicioMs": 24660,
+              "finMs": 24920
+            },
+            {
+              "palabra": "generación",
+              "inicioMs": 24920,
+              "finMs": 25480
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 25480,
+              "finMs": 25660
+            },
+            {
+              "palabra": "contagio",
+              "inicioMs": 25660,
+              "finMs": 26220
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 46.68
+    },
+    {
+      "id": "cap_5",
+      "numero": 5,
+      "titulo": "¿Podría Afectar a los Seres Humanos?",
+      "resumen": "La ciencia real frente a la ficción cinematográfica de The Last of Us.",
+      "escenas": [
+        {
+          "id": 9,
+          "texto": "La aterradora biología de Cordyceps saltó a la cultura popular mundial gracias al videojuego y serie The Last of Us, donde una mutación del hongo se adapta a los mamíferos y desata una plaga zombi que destruye la civilización humana. Esto despertó una pregunta inevitable entre el público: ¿podría una mutación real de este parásito infectar y controlar el cerebro de los seres humanos?",
+          "tituloVisual": "EL MITO DE THE LAST OF US",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "habitacion_noche",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "The Last of Us",
+            "plaga zombi",
+            "mamíferos",
+            "mutación real"
+          ],
+          "poseId": "standing_curious",
+          "expresion": "confused",
+          "duracionSegundos": 19.954,
+          "palabras": [
+            {
+              "palabra": "La",
+              "inicioMs": 0,
+              "finMs": 200
+            },
+            {
+              "palabra": "aterradora",
+              "inicioMs": 200,
+              "finMs": 580
+            },
+            {
+              "palabra": "biología",
+              "inicioMs": 580,
+              "finMs": 940
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 940,
+              "finMs": 1160
+            },
+            {
+              "palabra": "Cordyceps",
+              "inicioMs": 1160,
+              "finMs": 1660
+            },
+            {
+              "palabra": "saltó",
+              "inicioMs": 1660,
+              "finMs": 2080
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 2080,
+              "finMs": 2160
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 2160,
+              "finMs": 2220
+            },
+            {
+              "palabra": "cultura",
+              "inicioMs": 2220,
+              "finMs": 2480
+            },
+            {
+              "palabra": "popular",
+              "inicioMs": 2480,
+              "finMs": 2860
+            },
+            {
+              "palabra": "mundial",
+              "inicioMs": 2860,
+              "finMs": 3320
+            },
+            {
+              "palabra": "gracias",
+              "inicioMs": 3320,
+              "finMs": 3760
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 3760,
+              "finMs": 3980
+            },
+            {
+              "palabra": "videojuego",
+              "inicioMs": 3980,
+              "finMs": 4460
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 4460,
+              "finMs": 4680
+            },
+            {
+              "palabra": "serie",
+              "inicioMs": 4680,
+              "finMs": 4940
+            },
+            {
+              "palabra": "The",
+              "inicioMs": 4940,
+              "finMs": 5020
+            },
+            {
+              "palabra": "Last",
+              "inicioMs": 5100,
+              "finMs": 5260
+            },
+            {
+              "palabra": "of",
+              "inicioMs": 5260,
+              "finMs": 5440
+            },
+            {
+              "palabra": "Us",
+              "inicioMs": 5440,
+              "finMs": 5640
+            },
+            {
+              "palabra": "donde",
+              "inicioMs": 5800,
+              "finMs": 5980
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 5980,
+              "finMs": 6240
+            },
+            {
+              "palabra": "mutación",
+              "inicioMs": 6240,
+              "finMs": 6680
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 6680,
+              "finMs": 6860
+            },
+            {
+              "palabra": "hongo",
+              "inicioMs": 6860,
+              "finMs": 7160
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 7160,
+              "finMs": 7400
+            },
+            {
+              "palabra": "adapta",
+              "inicioMs": 7400,
+              "finMs": 7780
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 7780,
+              "finMs": 7860
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 7860,
+              "finMs": 7980
+            },
+            {
+              "palabra": "mamíferos",
+              "inicioMs": 7980,
+              "finMs": 8560
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 8560,
+              "finMs": 8740
+            },
+            {
+              "palabra": "desata",
+              "inicioMs": 8740,
+              "finMs": 9140
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 9240,
+              "finMs": 9360
+            },
+            {
+              "palabra": "plaga",
+              "inicioMs": 9360,
+              "finMs": 9640
+            },
+            {
+              "palabra": "zombi",
+              "inicioMs": 9640,
+              "finMs": 10000
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 10000,
+              "finMs": 10200
+            },
+            {
+              "palabra": "destruye",
+              "inicioMs": 10200,
+              "finMs": 10660
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 10660,
+              "finMs": 10780
+            },
+            {
+              "palabra": "civilización",
+              "inicioMs": 10780,
+              "finMs": 11300
+            },
+            {
+              "palabra": "humana",
+              "inicioMs": 11300,
+              "finMs": 11820
+            },
+            {
+              "palabra": "Esto",
+              "inicioMs": 12020,
+              "finMs": 12220
+            },
+            {
+              "palabra": "despertó",
+              "inicioMs": 12220,
+              "finMs": 12640
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 12640,
+              "finMs": 12800
+            },
+            {
+              "palabra": "pregunta",
+              "inicioMs": 12800,
+              "finMs": 13160
+            },
+            {
+              "palabra": "inevitable",
+              "inicioMs": 13160,
+              "finMs": 13600
+            },
+            {
+              "palabra": "entre",
+              "inicioMs": 13600,
+              "finMs": 14120
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 14120,
+              "finMs": 14260
+            },
+            {
+              "palabra": "público",
+              "inicioMs": 14260,
+              "finMs": 14640
+            },
+            {
+              "palabra": "podría",
+              "inicioMs": 15040,
+              "finMs": 15320
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 15320,
+              "finMs": 15600
+            },
+            {
+              "palabra": "mutación",
+              "inicioMs": 15600,
+              "finMs": 16060
+            },
+            {
+              "palabra": "real",
+              "inicioMs": 16060,
+              "finMs": 16360
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 16360,
+              "finMs": 16560
+            },
+            {
+              "palabra": "este",
+              "inicioMs": 16560,
+              "finMs": 16760
+            },
+            {
+              "palabra": "parásito",
+              "inicioMs": 16760,
+              "finMs": 17200
+            },
+            {
+              "palabra": "infectar",
+              "inicioMs": 17200,
+              "finMs": 17700
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 17700,
+              "finMs": 17780
+            },
+            {
+              "palabra": "controlar",
+              "inicioMs": 17780,
+              "finMs": 18140
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 18140,
+              "finMs": 18360
+            },
+            {
+              "palabra": "cerebro",
+              "inicioMs": 18360,
+              "finMs": 18680
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18680,
+              "finMs": 18780
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 18780,
+              "finMs": 18920
+            },
+            {
+              "palabra": "seres",
+              "inicioMs": 18920,
+              "finMs": 19100
+            },
+            {
+              "palabra": "humanos",
+              "inicioMs": 19100,
+              "finMs": 19460
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "texto": "Desde el punto de vista evolutivo y médico, la respuesta es un rotundo no. Ophiocordyceps ha pasado más de cuarenta y cinco millones de años de coevolución milimétrica especializándose en el sistema nervioso de especies muy concretas de insectos. Nuestro sistema inmunológico endotérmico mantiene el cuerpo a treinta y siete grados centígrados, una temperatura letal para la inmensa mayoría de los hongos microscópicos, y nuestro cerebro posee una complejidad neuronal miles de millones de veces superior al ganglio cerebral de una hormiga.",
+          "tituloVisual": "BARRERA ENDOTERMICA",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_left",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "cuarenta y cinco millones de años",
+            "sistema endotérmico",
+            "treinta y siete grados",
+            "barrera neuronal"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "smile_wide",
+          "infografia": {
+            "tipo": "comparacion",
+            "titulo": "Defensas Biológicas",
+            "subtitulo": "Hormiga Artrópoda vs Humano Endotérmico",
+            "valorPrincipal": "37°C",
+            "unidad": "escudo térmico",
+            "items": [
+              {
+                "etiqueta": "Temperatura humana",
+                "valor": "37°C (Letal para el hongo)",
+                "porcentaje": 100,
+                "color": "#38BDF8"
+              },
+              {
+                "etiqueta": "Temperatura insecto",
+                "valor": "Ambiente (20-26°C)",
+                "porcentaje": 45,
+                "color": "#FFE600"
+              }
+            ],
+            "colorAcento": "#38BDF8"
+          },
+          "duracionSegundos": 29.458,
+          "palabras": [
+            {
+              "palabra": "Desde",
+              "inicioMs": 0,
+              "finMs": 300
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 300,
+              "finMs": 460
+            },
+            {
+              "palabra": "punto",
+              "inicioMs": 460,
+              "finMs": 620
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 620,
+              "finMs": 860
+            },
+            {
+              "palabra": "vista",
+              "inicioMs": 860,
+              "finMs": 1080
+            },
+            {
+              "palabra": "evolutivo",
+              "inicioMs": 1080,
+              "finMs": 1480
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 1480,
+              "finMs": 1620
+            },
+            {
+              "palabra": "médico",
+              "inicioMs": 1620,
+              "finMs": 1960
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 2080,
+              "finMs": 2140
+            },
+            {
+              "palabra": "respuesta",
+              "inicioMs": 2140,
+              "finMs": 2480
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 2480,
+              "finMs": 2760
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 2760,
+              "finMs": 2860
+            },
+            {
+              "palabra": "rotundo",
+              "inicioMs": 2860,
+              "finMs": 3160
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 3160,
+              "finMs": 3440
+            },
+            {
+              "palabra": "Ophiocordyceps",
+              "inicioMs": 3440,
+              "finMs": 4180
+            },
+            {
+              "palabra": "ha",
+              "inicioMs": 4180,
+              "finMs": 4500
+            },
+            {
+              "palabra": "pasado",
+              "inicioMs": 4500,
+              "finMs": 4880
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 4880,
+              "finMs": 5140
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5140,
+              "finMs": 5340
+            },
+            {
+              "palabra": "cuarenta",
+              "inicioMs": 5340,
+              "finMs": 5500
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 5500,
+              "finMs": 5660
+            },
+            {
+              "palabra": "cinco",
+              "inicioMs": 5660,
+              "finMs": 5820
+            },
+            {
+              "palabra": "millones",
+              "inicioMs": 5980,
+              "finMs": 6300
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6300,
+              "finMs": 6620
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 6620,
+              "finMs": 6820
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6820,
+              "finMs": 7000
+            },
+            {
+              "palabra": "coevolución",
+              "inicioMs": 7000,
+              "finMs": 7540
+            },
+            {
+              "palabra": "milimétrica",
+              "inicioMs": 7540,
+              "finMs": 8280
+            },
+            {
+              "palabra": "especializándose",
+              "inicioMs": 8500,
+              "finMs": 9440
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 9440,
+              "finMs": 9660
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 9660,
+              "finMs": 9780
+            },
+            {
+              "palabra": "sistema",
+              "inicioMs": 9780,
+              "finMs": 10040
+            },
+            {
+              "palabra": "nervioso",
+              "inicioMs": 10040,
+              "finMs": 10540
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 10540,
+              "finMs": 10760
+            },
+            {
+              "palabra": "especies",
+              "inicioMs": 11520,
+              "finMs": 11960
+            },
+            {
+              "palabra": "muy",
+              "inicioMs": 11960,
+              "finMs": 12220
+            },
+            {
+              "palabra": "concretas",
+              "inicioMs": 12220,
+              "finMs": 12720
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12720,
+              "finMs": 12840
+            },
+            {
+              "palabra": "insectos",
+              "inicioMs": 12840,
+              "finMs": 13380
+            },
+            {
+              "palabra": "Nuestro",
+              "inicioMs": 13760,
+              "finMs": 14040
+            },
+            {
+              "palabra": "sistema",
+              "inicioMs": 14040,
+              "finMs": 14400
+            },
+            {
+              "palabra": "inmunológico",
+              "inicioMs": 14400,
+              "finMs": 15180
+            },
+            {
+              "palabra": "endotérmico",
+              "inicioMs": 15320,
+              "finMs": 15860
+            },
+            {
+              "palabra": "mantiene",
+              "inicioMs": 15860,
+              "finMs": 16240
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 16240,
+              "finMs": 16440
+            },
+            {
+              "palabra": "cuerpo",
+              "inicioMs": 16440,
+              "finMs": 16580
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 16580,
+              "finMs": 16800
+            },
+            {
+              "palabra": "treinta",
+              "inicioMs": 16800,
+              "finMs": 16965
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 16965,
+              "finMs": 17130
+            },
+            {
+              "palabra": "siete",
+              "inicioMs": 17130,
+              "finMs": 17295
+            },
+            {
+              "palabra": "grados",
+              "inicioMs": 17460,
+              "finMs": 17900
+            },
+            {
+              "palabra": "centígrados",
+              "inicioMs": 17900,
+              "finMs": 18560
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 18820,
+              "finMs": 19000
+            },
+            {
+              "palabra": "temperatura",
+              "inicioMs": 19000,
+              "finMs": 19420
+            },
+            {
+              "palabra": "letal",
+              "inicioMs": 19420,
+              "finMs": 19880
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 19880,
+              "finMs": 20120
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 20120,
+              "finMs": 20260
+            },
+            {
+              "palabra": "inmensa",
+              "inicioMs": 20260,
+              "finMs": 20580
+            },
+            {
+              "palabra": "mayoría",
+              "inicioMs": 20580,
+              "finMs": 20880
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 20880,
+              "finMs": 21120
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 21120,
+              "finMs": 21320
+            },
+            {
+              "palabra": "hongos",
+              "inicioMs": 21320,
+              "finMs": 21680
+            },
+            {
+              "palabra": "microscópicos",
+              "inicioMs": 21680,
+              "finMs": 22460
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 23120,
+              "finMs": 23300
+            },
+            {
+              "palabra": "nuestro",
+              "inicioMs": 23300,
+              "finMs": 23540
+            },
+            {
+              "palabra": "cerebro",
+              "inicioMs": 23540,
+              "finMs": 23920
+            },
+            {
+              "palabra": "posee",
+              "inicioMs": 23920,
+              "finMs": 24320
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 24320,
+              "finMs": 24520
+            },
+            {
+              "palabra": "complejidad",
+              "inicioMs": 24520,
+              "finMs": 25120
+            },
+            {
+              "palabra": "neuronal",
+              "inicioMs": 25120,
+              "finMs": 25640
+            },
+            {
+              "palabra": "miles",
+              "inicioMs": 25640,
+              "finMs": 26080
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 26080,
+              "finMs": 26300
+            },
+            {
+              "palabra": "millones",
+              "inicioMs": 26300,
+              "finMs": 26540
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 26540,
+              "finMs": 26800
+            },
+            {
+              "palabra": "veces",
+              "inicioMs": 26800,
+              "finMs": 27000
+            },
+            {
+              "palabra": "superior",
+              "inicioMs": 27000,
+              "finMs": 27400
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 27400,
+              "finMs": 27660
+            },
+            {
+              "palabra": "ganglio",
+              "inicioMs": 27660,
+              "finMs": 27900
+            },
+            {
+              "palabra": "cerebral",
+              "inicioMs": 27900,
+              "finMs": 28260
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 28260,
+              "finMs": 28520
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 28520,
+              "finMs": 28620
+            },
+            {
+              "palabra": "hormiga",
+              "inicioMs": 28620,
+              "finMs": 28980
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 49.41
+    },
+    {
+      "id": "cap_6",
+      "numero": 6,
+      "titulo": "El Guardián Invisible del Ecosistema",
+      "resumen": "La importancia ecológica del hongo para evitar plagas destructivas.",
+      "escenas": [
+        {
+          "id": 11,
+          "texto": "Aunque su ciclo vital parece una pesadilla de terror biológico, en la naturaleza Ophiocordyceps cumple una función ecológica indispensable: el control poblacional. Las hormigas son los animales más abundantes y dominantes de los trópicos; si una sola colonia creciera sin freno, devoraría toda la vegetación circundante provocando el colapso del bosque. El hongo actúa como un termostato natural que ataca preferentemente a las colonias superpobladas, garantizando la coexistencia de miles de especies vegetales y animales.",
+          "tituloVisual": "CONTROL POBLACIONAL",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "cielo_dia",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "control poblacional",
+            "termostato natural",
+            "equilibrio del bosque",
+            "colonias superpobladas"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "talking",
+          "duracionSegundos": 28.306,
+          "palabras": [
+            {
+              "palabra": "Aunque",
+              "inicioMs": 0,
+              "finMs": 260
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 260,
+              "finMs": 460
+            },
+            {
+              "palabra": "ciclo",
+              "inicioMs": 460,
+              "finMs": 780
+            },
+            {
+              "palabra": "vital",
+              "inicioMs": 780,
+              "finMs": 1020
+            },
+            {
+              "palabra": "parece",
+              "inicioMs": 1020,
+              "finMs": 1360
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 1360,
+              "finMs": 1640
+            },
+            {
+              "palabra": "pesadilla",
+              "inicioMs": 1640,
+              "finMs": 2140
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2140,
+              "finMs": 2300
+            },
+            {
+              "palabra": "terror",
+              "inicioMs": 2300,
+              "finMs": 2560
+            },
+            {
+              "palabra": "biológico",
+              "inicioMs": 2560,
+              "finMs": 3240
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 3620,
+              "finMs": 3700
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 3700,
+              "finMs": 3800
+            },
+            {
+              "palabra": "naturaleza",
+              "inicioMs": 3800,
+              "finMs": 4380
+            },
+            {
+              "palabra": "Ophiocordyceps",
+              "inicioMs": 4680,
+              "finMs": 5340
+            },
+            {
+              "palabra": "cumple",
+              "inicioMs": 5340,
+              "finMs": 5840
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 5840,
+              "finMs": 5900
+            },
+            {
+              "palabra": "función",
+              "inicioMs": 5960,
+              "finMs": 6260
+            },
+            {
+              "palabra": "ecológica",
+              "inicioMs": 6260,
+              "finMs": 6840
+            },
+            {
+              "palabra": "indispensable",
+              "inicioMs": 6840,
+              "finMs": 7440
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 7920,
+              "finMs": 8000
+            },
+            {
+              "palabra": "control",
+              "inicioMs": 8000,
+              "finMs": 8260
+            },
+            {
+              "palabra": "poblacional",
+              "inicioMs": 8260,
+              "finMs": 8820
+            },
+            {
+              "palabra": "Las",
+              "inicioMs": 9080,
+              "finMs": 9200
+            },
+            {
+              "palabra": "hormigas",
+              "inicioMs": 9200,
+              "finMs": 9620
+            },
+            {
+              "palabra": "son",
+              "inicioMs": 9620,
+              "finMs": 9800
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 9800,
+              "finMs": 9920
+            },
+            {
+              "palabra": "animales",
+              "inicioMs": 9920,
+              "finMs": 10280
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 10280,
+              "finMs": 10620
+            },
+            {
+              "palabra": "abundantes",
+              "inicioMs": 10620,
+              "finMs": 11100
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 11100,
+              "finMs": 11300
+            },
+            {
+              "palabra": "dominantes",
+              "inicioMs": 11300,
+              "finMs": 11740
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11740,
+              "finMs": 11900
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 11900,
+              "finMs": 12040
+            },
+            {
+              "palabra": "trópicos",
+              "inicioMs": 12040,
+              "finMs": 12560
+            },
+            {
+              "palabra": "si",
+              "inicioMs": 12920,
+              "finMs": 13020
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 13020,
+              "finMs": 13180
+            },
+            {
+              "palabra": "sola",
+              "inicioMs": 13180,
+              "finMs": 13420
+            },
+            {
+              "palabra": "colonia",
+              "inicioMs": 13420,
+              "finMs": 13840
+            },
+            {
+              "palabra": "creciera",
+              "inicioMs": 13840,
+              "finMs": 14240
+            },
+            {
+              "palabra": "sin",
+              "inicioMs": 14240,
+              "finMs": 14420
+            },
+            {
+              "palabra": "freno",
+              "inicioMs": 14420,
+              "finMs": 14860
+            },
+            {
+              "palabra": "devoraría",
+              "inicioMs": 15040,
+              "finMs": 15420
+            },
+            {
+              "palabra": "toda",
+              "inicioMs": 15420,
+              "finMs": 15700
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 15700,
+              "finMs": 15880
+            },
+            {
+              "palabra": "vegetación",
+              "inicioMs": 15880,
+              "finMs": 16320
+            },
+            {
+              "palabra": "circundante",
+              "inicioMs": 16320,
+              "finMs": 16960
+            },
+            {
+              "palabra": "provocando",
+              "inicioMs": 16960,
+              "finMs": 17500
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 17500,
+              "finMs": 17640
+            },
+            {
+              "palabra": "colapso",
+              "inicioMs": 17640,
+              "finMs": 17960
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 17960,
+              "finMs": 18120
+            },
+            {
+              "palabra": "bosque",
+              "inicioMs": 18120,
+              "finMs": 18480
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 18780,
+              "finMs": 18920
+            },
+            {
+              "palabra": "hongo",
+              "inicioMs": 18920,
+              "finMs": 19160
+            },
+            {
+              "palabra": "actúa",
+              "inicioMs": 19160,
+              "finMs": 19440
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 19440,
+              "finMs": 19700
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 19700,
+              "finMs": 19880
+            },
+            {
+              "palabra": "termostato",
+              "inicioMs": 19880,
+              "finMs": 20300
+            },
+            {
+              "palabra": "natural",
+              "inicioMs": 20300,
+              "finMs": 20740
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 20740,
+              "finMs": 20980
+            },
+            {
+              "palabra": "ataca",
+              "inicioMs": 20980,
+              "finMs": 21300
+            },
+            {
+              "palabra": "preferentemente",
+              "inicioMs": 21300,
+              "finMs": 22020
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 22020,
+              "finMs": 22300
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 22300,
+              "finMs": 22440
+            },
+            {
+              "palabra": "colonias",
+              "inicioMs": 22440,
+              "finMs": 22800
+            },
+            {
+              "palabra": "superpobladas",
+              "inicioMs": 22800,
+              "finMs": 23580
+            },
+            {
+              "palabra": "garantizando",
+              "inicioMs": 24300,
+              "finMs": 24900
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 24900,
+              "finMs": 25040
+            },
+            {
+              "palabra": "coexistencia",
+              "inicioMs": 25040,
+              "finMs": 25700
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 25700,
+              "finMs": 25860
+            },
+            {
+              "palabra": "miles",
+              "inicioMs": 25860,
+              "finMs": 26120
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 26120,
+              "finMs": 26380
+            },
+            {
+              "palabra": "especies",
+              "inicioMs": 26380,
+              "finMs": 26840
+            },
+            {
+              "palabra": "vegetales",
+              "inicioMs": 26840,
+              "finMs": 27320
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 27320,
+              "finMs": 27500
+            },
+            {
+              "palabra": "animales",
+              "inicioMs": 27500,
+              "finMs": 27800
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "texto": "Además, la medicina moderna estudia hoy los metabolitos secundarios de estos hongos en la búsqueda de nuevos fármacos inmunosupresores, antivirales y antitumorales para curar enfermedades humanas. En el misterioso equilibrio de la vida, el mismo organismo capaz de convertir a un insecto en una marioneta sin voluntad nos recuerda la asombrosa sofisticación de la evolución y cómo la muerte de un individuo sostiene la vida eterna del ecosistema entero.",
+          "tituloVisual": "EL EQUILIBRIO PERFECTO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "laboratorio",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "metabolitos secundarios",
+            "fármacos antitumorales",
+            "equilibrio de la vida",
+            "sofisticación evolutiva"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "smile_wide",
+          "duracionSegundos": 23.05,
+          "palabras": [
+            {
+              "palabra": "Además",
+              "inicioMs": 0,
+              "finMs": 420
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 580,
+              "finMs": 660
+            },
+            {
+              "palabra": "medicina",
+              "inicioMs": 660,
+              "finMs": 1080
+            },
+            {
+              "palabra": "moderna",
+              "inicioMs": 1080,
+              "finMs": 1540
+            },
+            {
+              "palabra": "estudia",
+              "inicioMs": 1540,
+              "finMs": 1940
+            },
+            {
+              "palabra": "hoy",
+              "inicioMs": 1940,
+              "finMs": 2120
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 2120,
+              "finMs": 2190
+            },
+            {
+              "palabra": "metabolitos",
+              "inicioMs": 2260,
+              "finMs": 2840
+            },
+            {
+              "palabra": "secundarios",
+              "inicioMs": 2840,
+              "finMs": 3400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3400,
+              "finMs": 3580
+            },
+            {
+              "palabra": "estos",
+              "inicioMs": 3580,
+              "finMs": 3780
+            },
+            {
+              "palabra": "hongos",
+              "inicioMs": 3780,
+              "finMs": 4160
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 4160,
+              "finMs": 4300
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 4300,
+              "finMs": 4420
+            },
+            {
+              "palabra": "búsqueda",
+              "inicioMs": 4420,
+              "finMs": 4800
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4800,
+              "finMs": 4940
+            },
+            {
+              "palabra": "nuevos",
+              "inicioMs": 4940,
+              "finMs": 5120
+            },
+            {
+              "palabra": "fármacos",
+              "inicioMs": 5280,
+              "finMs": 5700
+            },
+            {
+              "palabra": "inmunosupresores",
+              "inicioMs": 6080,
+              "finMs": 6600
+            },
+            {
+              "palabra": "antivirales",
+              "inicioMs": 6780,
+              "finMs": 7260
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 7260,
+              "finMs": 7440
+            },
+            {
+              "palabra": "antitumorales",
+              "inicioMs": 7440,
+              "finMs": 8060
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 8060,
+              "finMs": 8260
+            },
+            {
+              "palabra": "curar",
+              "inicioMs": 8260,
+              "finMs": 8540
+            },
+            {
+              "palabra": "enfermedades",
+              "inicioMs": 8540,
+              "finMs": 9040
+            },
+            {
+              "palabra": "humanas",
+              "inicioMs": 9040,
+              "finMs": 9560
+            },
+            {
+              "palabra": "En",
+              "inicioMs": 9720,
+              "finMs": 9800
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 9800,
+              "finMs": 9940
+            },
+            {
+              "palabra": "misterioso",
+              "inicioMs": 9940,
+              "finMs": 10500
+            },
+            {
+              "palabra": "equilibrio",
+              "inicioMs": 10500,
+              "finMs": 11020
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11020,
+              "finMs": 11120
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 11120,
+              "finMs": 11220
+            },
+            {
+              "palabra": "vida",
+              "inicioMs": 11220,
+              "finMs": 11500
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 11760,
+              "finMs": 12500
+            },
+            {
+              "palabra": "mismo",
+              "inicioMs": 12500,
+              "finMs": 12740
+            },
+            {
+              "palabra": "organismo",
+              "inicioMs": 12740,
+              "finMs": 13180
+            },
+            {
+              "palabra": "capaz",
+              "inicioMs": 13180,
+              "finMs": 13440
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 13440,
+              "finMs": 13620
+            },
+            {
+              "palabra": "convertir",
+              "inicioMs": 13620,
+              "finMs": 14040
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 14040,
+              "finMs": 14140
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 14140,
+              "finMs": 14260
+            },
+            {
+              "palabra": "insecto",
+              "inicioMs": 14260,
+              "finMs": 14660
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 14660,
+              "finMs": 14740
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 14740,
+              "finMs": 14880
+            },
+            {
+              "palabra": "marioneta",
+              "inicioMs": 14880,
+              "finMs": 15300
+            },
+            {
+              "palabra": "sin",
+              "inicioMs": 15300,
+              "finMs": 15500
+            },
+            {
+              "palabra": "voluntad",
+              "inicioMs": 15500,
+              "finMs": 16000
+            },
+            {
+              "palabra": "nos",
+              "inicioMs": 16000,
+              "finMs": 16380
+            },
+            {
+              "palabra": "recuerda",
+              "inicioMs": 16380,
+              "finMs": 16800
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 16800,
+              "finMs": 16920
+            },
+            {
+              "palabra": "asombrosa",
+              "inicioMs": 16920,
+              "finMs": 17420
+            },
+            {
+              "palabra": "sofisticación",
+              "inicioMs": 17420,
+              "finMs": 18120
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18120,
+              "finMs": 18240
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 18240,
+              "finMs": 18340
+            },
+            {
+              "palabra": "evolución",
+              "inicioMs": 18340,
+              "finMs": 18800
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 18920,
+              "finMs": 18980
+            },
+            {
+              "palabra": "cómo",
+              "inicioMs": 18980,
+              "finMs": 19200
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 19200,
+              "finMs": 19320
+            },
+            {
+              "palabra": "muerte",
+              "inicioMs": 19320,
+              "finMs": 19620
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19620,
+              "finMs": 19760
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 19760,
+              "finMs": 19860
+            },
+            {
+              "palabra": "individuo",
+              "inicioMs": 19860,
+              "finMs": 20320
+            },
+            {
+              "palabra": "sostiene",
+              "inicioMs": 20320,
+              "finMs": 20760
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 20760,
+              "finMs": 20900
+            },
+            {
+              "palabra": "vida",
+              "inicioMs": 20900,
+              "finMs": 21100
+            },
+            {
+              "palabra": "eterna",
+              "inicioMs": 21100,
+              "finMs": 21460
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 21460,
+              "finMs": 21640
+            },
+            {
+              "palabra": "ecosistema",
+              "inicioMs": 21640,
+              "finMs": 22160
+            },
+            {
+              "palabra": "entero",
+              "inicioMs": 22160,
+              "finMs": 22580
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 51.36
+    }
+  ]
+}

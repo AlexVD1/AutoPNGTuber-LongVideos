@@ -1,0 +1,5641 @@
+{
+  "meta": {
+    "id": "doc_005_paradoja_fermi",
+    "slug": "paradoja_fermi_gran_filtro_documental",
+    "titulo": "La Paradoja de Fermi y el Gran Filtro: La Aterradora Razón del Silencio Cósmico",
+    "premisa": "Si el universo tiene miles de millones de años y billones de planetas habitables, las civilizaciones tecnológicas deberían haber colonizado la galaxia entera hace eones. ¿Dónde están todos?",
+    "gancho": "¿Por qué el cielo nocturno está en un silencio tan sobrecogedor?",
+    "categoria": "Science & Technology",
+    "duracionObjetivo": [
+      420,
+      500
+    ],
+    "fps": 30,
+    "dimensiones": {
+      "width": 1920,
+      "height": 1080
+    },
+    "idioma": "es",
+    "voz": "alex.conds.pt",
+    "musicaPrincipal": "bgm/bgm.mp3",
+    "volumenMusica": 0.12,
+    "fuentes": [
+      "Fermi, E. (1950). Where is everybody? Los Alamos Laboratory.",
+      "Hanson, R. (1998). The Great Filter - Are We Almost Past It?",
+      "Bostrom, N. (2008). Where Are They? Why I Hope the Search for Extraterrestrial Life Finds Nothing."
+    ],
+    "tags": [
+      "paradoja de fermi",
+      "gran filtro",
+      "astronomia",
+      "seti",
+      "universo",
+      "ciencia",
+      "documental"
+    ]
+  },
+  "capitulos": [
+    {
+      "id": "cap_1",
+      "numero": 1,
+      "titulo": "El Almuerzo de Los Álamos",
+      "resumen": "El verano de 1950 y la pregunta desconcertante de Enrico Fermi.",
+      "escenas": [
+        {
+          "id": 1,
+          "texto": "En el verano de mil novecientos cincuenta, cuatro de las mentes científicas más brillantes del siglo veinte caminaban hacia el comedor del laboratorio nuclear de Los Álamos. Enrico Fermi, Edward Teller, Herbert York y Emil Konopinski charlaban animadamente sobre ovnis y una caricatura del New Yorker que culpaba a los extraterrestres por la misteriosa desaparición de botes de basura en Nueva York. Tras sentarse a comer y cambiar de tema durante varios minutos, Fermi exclamó de pronto con voz atronadora: Pero, ¿dónde están todos? Sus colegas rompieron a reír, pero comprendieron de inmediato la profunda paradoja matemática que el físico de origen italiano acababa de plantear.",
+          "tituloVisual": "LOS ALAMOS, 1950",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "laboratorio",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "mil novecientos cincuenta",
+            "Enrico Fermi",
+            "Los Álamos",
+            "dónde están todos"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "eureka",
+          "duracionSegundos": 33.826,
+          "palabras": [
+            {
+              "palabra": "En",
+              "inicioMs": 0,
+              "finMs": 220
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 220,
+              "finMs": 340
+            },
+            {
+              "palabra": "verano",
+              "inicioMs": 340,
+              "finMs": 620
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 620,
+              "finMs": 760
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 760,
+              "finMs": 1045
+            },
+            {
+              "palabra": "novecientos",
+              "inicioMs": 1045,
+              "finMs": 1330
+            },
+            {
+              "palabra": "cincuenta",
+              "inicioMs": 1330,
+              "finMs": 1615
+            },
+            {
+              "palabra": "cuatro",
+              "inicioMs": 1900,
+              "finMs": 2200
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2200,
+              "finMs": 2320
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 2320,
+              "finMs": 2440
+            },
+            {
+              "palabra": "mentes",
+              "inicioMs": 2440,
+              "finMs": 2660
+            },
+            {
+              "palabra": "científicas",
+              "inicioMs": 2660,
+              "finMs": 3400
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 3400,
+              "finMs": 3600
+            },
+            {
+              "palabra": "brillantes",
+              "inicioMs": 3600,
+              "finMs": 4020
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 4020,
+              "finMs": 4200
+            },
+            {
+              "palabra": "siglo",
+              "inicioMs": 4200,
+              "finMs": 4420
+            },
+            {
+              "palabra": "veinte",
+              "inicioMs": 4420,
+              "finMs": 4580
+            },
+            {
+              "palabra": "caminaban",
+              "inicioMs": 4740,
+              "finMs": 5220
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 5220,
+              "finMs": 5313
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 5313,
+              "finMs": 5407
+            },
+            {
+              "palabra": "comedor",
+              "inicioMs": 5500,
+              "finMs": 5960
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 5960,
+              "finMs": 6120
+            },
+            {
+              "palabra": "laboratorio",
+              "inicioMs": 6120,
+              "finMs": 6580
+            },
+            {
+              "palabra": "nuclear",
+              "inicioMs": 6580,
+              "finMs": 6940
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6940,
+              "finMs": 7140
+            },
+            {
+              "palabra": "Los",
+              "inicioMs": 7140,
+              "finMs": 7300
+            },
+            {
+              "palabra": "Álamos",
+              "inicioMs": 7300,
+              "finMs": 7640
+            },
+            {
+              "palabra": "Enrico",
+              "inicioMs": 7780,
+              "finMs": 8100
+            },
+            {
+              "palabra": "Fermi",
+              "inicioMs": 8100,
+              "finMs": 8540
+            },
+            {
+              "palabra": "Edward",
+              "inicioMs": 8720,
+              "finMs": 9000
+            },
+            {
+              "palabra": "Teller",
+              "inicioMs": 9000,
+              "finMs": 9480
+            },
+            {
+              "palabra": "Herbert",
+              "inicioMs": 9700,
+              "finMs": 9920
+            },
+            {
+              "palabra": "York",
+              "inicioMs": 9920,
+              "finMs": 10050
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 10180,
+              "finMs": 10480
+            },
+            {
+              "palabra": "Emil",
+              "inicioMs": 10480,
+              "finMs": 10820
+            },
+            {
+              "palabra": "Konopinski",
+              "inicioMs": 10820,
+              "finMs": 11100
+            },
+            {
+              "palabra": "charlaban",
+              "inicioMs": 11100,
+              "finMs": 11760
+            },
+            {
+              "palabra": "animadamente",
+              "inicioMs": 11760,
+              "finMs": 12340
+            },
+            {
+              "palabra": "sobre",
+              "inicioMs": 12340,
+              "finMs": 12660
+            },
+            {
+              "palabra": "ovnis",
+              "inicioMs": 12660,
+              "finMs": 13040
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 13040,
+              "finMs": 13260
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 13260,
+              "finMs": 13400
+            },
+            {
+              "palabra": "caricatura",
+              "inicioMs": 13400,
+              "finMs": 13880
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 13880,
+              "finMs": 14040
+            },
+            {
+              "palabra": "New",
+              "inicioMs": 14040,
+              "finMs": 14220
+            },
+            {
+              "palabra": "Yorker",
+              "inicioMs": 14220,
+              "finMs": 14640
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 14640,
+              "finMs": 14760
+            },
+            {
+              "palabra": "culpaba",
+              "inicioMs": 14760,
+              "finMs": 15180
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 15180,
+              "finMs": 15360
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 15360,
+              "finMs": 15500
+            },
+            {
+              "palabra": "extraterrestres",
+              "inicioMs": 15500,
+              "finMs": 16320
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 16320,
+              "finMs": 16500
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 16500,
+              "finMs": 16600
+            },
+            {
+              "palabra": "misteriosa",
+              "inicioMs": 16600,
+              "finMs": 17000
+            },
+            {
+              "palabra": "desaparición",
+              "inicioMs": 17000,
+              "finMs": 17520
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17520,
+              "finMs": 17720
+            },
+            {
+              "palabra": "botes",
+              "inicioMs": 17720,
+              "finMs": 18000
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18000,
+              "finMs": 18080
+            },
+            {
+              "palabra": "basura",
+              "inicioMs": 18080,
+              "finMs": 18420
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 18420,
+              "finMs": 18620
+            },
+            {
+              "palabra": "Nueva",
+              "inicioMs": 18620,
+              "finMs": 18840
+            },
+            {
+              "palabra": "York",
+              "inicioMs": 18840,
+              "finMs": 19040
+            },
+            {
+              "palabra": "Tras",
+              "inicioMs": 19040,
+              "finMs": 19200
+            },
+            {
+              "palabra": "sentarse",
+              "inicioMs": 19360,
+              "finMs": 19800
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 19800,
+              "finMs": 19920
+            },
+            {
+              "palabra": "comer",
+              "inicioMs": 19920,
+              "finMs": 20120
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 20120,
+              "finMs": 20300
+            },
+            {
+              "palabra": "cambiar",
+              "inicioMs": 20300,
+              "finMs": 20500
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 20500,
+              "finMs": 20700
+            },
+            {
+              "palabra": "tema",
+              "inicioMs": 20700,
+              "finMs": 20940
+            },
+            {
+              "palabra": "durante",
+              "inicioMs": 20940,
+              "finMs": 21120
+            },
+            {
+              "palabra": "varios",
+              "inicioMs": 21120,
+              "finMs": 21500
+            },
+            {
+              "palabra": "minutos",
+              "inicioMs": 21500,
+              "finMs": 21900
+            },
+            {
+              "palabra": "Fermi",
+              "inicioMs": 22020,
+              "finMs": 22260
+            },
+            {
+              "palabra": "exclamó",
+              "inicioMs": 22260,
+              "finMs": 22760
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22760,
+              "finMs": 22900
+            },
+            {
+              "palabra": "pronto",
+              "inicioMs": 22900,
+              "finMs": 23220
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 23220,
+              "finMs": 23480
+            },
+            {
+              "palabra": "voz",
+              "inicioMs": 23480,
+              "finMs": 23680
+            },
+            {
+              "palabra": "atronadora",
+              "inicioMs": 23680,
+              "finMs": 24220
+            },
+            {
+              "palabra": "Pero",
+              "inicioMs": 24340,
+              "finMs": 24480
+            },
+            {
+              "palabra": "dónde",
+              "inicioMs": 24480,
+              "finMs": 24860
+            },
+            {
+              "palabra": "están",
+              "inicioMs": 24860,
+              "finMs": 25080
+            },
+            {
+              "palabra": "todos",
+              "inicioMs": 25080,
+              "finMs": 25440
+            },
+            {
+              "palabra": "Sus",
+              "inicioMs": 25440,
+              "finMs": 26340
+            },
+            {
+              "palabra": "colegas",
+              "inicioMs": 26340,
+              "finMs": 26880
+            },
+            {
+              "palabra": "rompieron",
+              "inicioMs": 26880,
+              "finMs": 27520
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 27520,
+              "finMs": 27680
+            },
+            {
+              "palabra": "reír",
+              "inicioMs": 27680,
+              "finMs": 28080
+            },
+            {
+              "palabra": "pero",
+              "inicioMs": 28320,
+              "finMs": 28440
+            },
+            {
+              "palabra": "comprendieron",
+              "inicioMs": 28440,
+              "finMs": 28940
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 28940,
+              "finMs": 29080
+            },
+            {
+              "palabra": "inmediato",
+              "inicioMs": 29080,
+              "finMs": 29460
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 29460,
+              "finMs": 29600
+            },
+            {
+              "palabra": "profunda",
+              "inicioMs": 29600,
+              "finMs": 29960
+            },
+            {
+              "palabra": "paradoja",
+              "inicioMs": 29960,
+              "finMs": 30400
+            },
+            {
+              "palabra": "matemática",
+              "inicioMs": 30400,
+              "finMs": 30920
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 30920,
+              "finMs": 31120
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 31120,
+              "finMs": 31240
+            },
+            {
+              "palabra": "físico",
+              "inicioMs": 31240,
+              "finMs": 31600
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 31600,
+              "finMs": 31700
+            },
+            {
+              "palabra": "origen",
+              "inicioMs": 31700,
+              "finMs": 31980
+            },
+            {
+              "palabra": "italiano",
+              "inicioMs": 31980,
+              "finMs": 32280
+            },
+            {
+              "palabra": "acababa",
+              "inicioMs": 32280,
+              "finMs": 32740
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 32740,
+              "finMs": 32840
+            },
+            {
+              "palabra": "plantear",
+              "inicioMs": 32840,
+              "finMs": 33340
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "texto": "El razonamiento de Fermi era implacable: nuestra galaxia tiene más de cien mil millones de estrellas y alrededor de trece mil millones de años de antigüedad. El Sol es una estrella relativamente joven en comparación. Si solo una fracción ínfima de esos planetas albergara vida y desarrollara viajes espaciales a velocidades sublumínicas modestas, una sola civilización podría colonizar toda la Vía Láctea en apenas unos pocos millones de años. La paradoja radica en la aterradora contradicción entre la altísima probabilidad matemática de vida inteligente en el cosmos y la absoluta falta de evidencia física.",
+          "tituloVisual": "LA PARADOJA MATEMATICA",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "espacio_profundo",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "cien mil millones de estrellas",
+            "trece mil millones de años",
+            "colonización galáctica",
+            "probabilidad matemática"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "analytical",
+          "infografia": {
+            "tipo": "dato_clave",
+            "titulo": "Escala Temporal Galáctica",
+            "subtitulo": "Tiempo para Colonizar la Galaxia",
+            "valorPrincipal": "10M",
+            "unidad": "años",
+            "items": [
+              {
+                "etiqueta": "Edad de la Galaxia",
+                "valor": "13.600 millones de años",
+                "porcentaje": 100,
+                "color": "#38BDF8"
+              },
+              {
+                "etiqueta": "Expansión estelar lenta",
+                "valor": "10 a 50 millones de años",
+                "porcentaje": 5,
+                "color": "#FFE600"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 32.314,
+          "palabras": [
+            {
+              "palabra": "El",
+              "inicioMs": 0,
+              "finMs": 60
+            },
+            {
+              "palabra": "razonamiento",
+              "inicioMs": 120,
+              "finMs": 460
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 460,
+              "finMs": 740
+            },
+            {
+              "palabra": "Fermi",
+              "inicioMs": 740,
+              "finMs": 1060
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 1060,
+              "finMs": 1260
+            },
+            {
+              "palabra": "implacable",
+              "inicioMs": 1260,
+              "finMs": 1860
+            },
+            {
+              "palabra": "nuestra",
+              "inicioMs": 2120,
+              "finMs": 2420
+            },
+            {
+              "palabra": "galaxia",
+              "inicioMs": 2420,
+              "finMs": 2840
+            },
+            {
+              "palabra": "tiene",
+              "inicioMs": 2840,
+              "finMs": 3060
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 3060,
+              "finMs": 3300
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3300,
+              "finMs": 3460
+            },
+            {
+              "palabra": "cien",
+              "inicioMs": 3460,
+              "finMs": 3640
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 3640,
+              "finMs": 3850
+            },
+            {
+              "palabra": "millones",
+              "inicioMs": 4060,
+              "finMs": 4240
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4240,
+              "finMs": 4480
+            },
+            {
+              "palabra": "estrellas",
+              "inicioMs": 4480,
+              "finMs": 4660
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 4900,
+              "finMs": 5140
+            },
+            {
+              "palabra": "alrededor",
+              "inicioMs": 5140,
+              "finMs": 5440
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5440,
+              "finMs": 5800
+            },
+            {
+              "palabra": "trece",
+              "inicioMs": 5800,
+              "finMs": 6007
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 6007,
+              "finMs": 6213
+            },
+            {
+              "palabra": "millones",
+              "inicioMs": 6420,
+              "finMs": 6680
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6680,
+              "finMs": 6860
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 6860,
+              "finMs": 7040
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 7040,
+              "finMs": 7220
+            },
+            {
+              "palabra": "antigüedad",
+              "inicioMs": 7220,
+              "finMs": 7700
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 7940,
+              "finMs": 8040
+            },
+            {
+              "palabra": "Sol",
+              "inicioMs": 8040,
+              "finMs": 8240
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 8240,
+              "finMs": 8440
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 8440,
+              "finMs": 8580
+            },
+            {
+              "palabra": "estrella",
+              "inicioMs": 8580,
+              "finMs": 8980
+            },
+            {
+              "palabra": "relativamente",
+              "inicioMs": 8980,
+              "finMs": 9700
+            },
+            {
+              "palabra": "joven",
+              "inicioMs": 9700,
+              "finMs": 10100
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 10100,
+              "finMs": 10240
+            },
+            {
+              "palabra": "comparación",
+              "inicioMs": 10240,
+              "finMs": 10920
+            },
+            {
+              "palabra": "Si",
+              "inicioMs": 11160,
+              "finMs": 11240
+            },
+            {
+              "palabra": "solo",
+              "inicioMs": 11240,
+              "finMs": 11440
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 11440,
+              "finMs": 11660
+            },
+            {
+              "palabra": "fracción",
+              "inicioMs": 11660,
+              "finMs": 12020
+            },
+            {
+              "palabra": "ínfima",
+              "inicioMs": 12020,
+              "finMs": 12440
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12440,
+              "finMs": 12580
+            },
+            {
+              "palabra": "esos",
+              "inicioMs": 12580,
+              "finMs": 12740
+            },
+            {
+              "palabra": "planetas",
+              "inicioMs": 12740,
+              "finMs": 13260
+            },
+            {
+              "palabra": "albergara",
+              "inicioMs": 13420,
+              "finMs": 13640
+            },
+            {
+              "palabra": "vida",
+              "inicioMs": 13780,
+              "finMs": 13940
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 13940,
+              "finMs": 14080
+            },
+            {
+              "palabra": "desarrollara",
+              "inicioMs": 14080,
+              "finMs": 14540
+            },
+            {
+              "palabra": "viajes",
+              "inicioMs": 14540,
+              "finMs": 14860
+            },
+            {
+              "palabra": "espaciales",
+              "inicioMs": 14860,
+              "finMs": 15480
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 15480,
+              "finMs": 15580
+            },
+            {
+              "palabra": "velocidades",
+              "inicioMs": 15580,
+              "finMs": 16040
+            },
+            {
+              "palabra": "sublumínicas",
+              "inicioMs": 16040,
+              "finMs": 16680
+            },
+            {
+              "palabra": "modestas",
+              "inicioMs": 16680,
+              "finMs": 17300
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 17540,
+              "finMs": 17700
+            },
+            {
+              "palabra": "sola",
+              "inicioMs": 17700,
+              "finMs": 17960
+            },
+            {
+              "palabra": "civilización",
+              "inicioMs": 17960,
+              "finMs": 18540
+            },
+            {
+              "palabra": "podría",
+              "inicioMs": 18540,
+              "finMs": 18980
+            },
+            {
+              "palabra": "colonizar",
+              "inicioMs": 18980,
+              "finMs": 19480
+            },
+            {
+              "palabra": "toda",
+              "inicioMs": 19480,
+              "finMs": 19800
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 19800,
+              "finMs": 20020
+            },
+            {
+              "palabra": "Vía",
+              "inicioMs": 20020,
+              "finMs": 20180
+            },
+            {
+              "palabra": "Láctea",
+              "inicioMs": 20180,
+              "finMs": 20620
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 20620,
+              "finMs": 20820
+            },
+            {
+              "palabra": "apenas",
+              "inicioMs": 20820,
+              "finMs": 21160
+            },
+            {
+              "palabra": "unos",
+              "inicioMs": 21160,
+              "finMs": 21420
+            },
+            {
+              "palabra": "pocos",
+              "inicioMs": 21420,
+              "finMs": 21760
+            },
+            {
+              "palabra": "millones",
+              "inicioMs": 21760,
+              "finMs": 22020
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22020,
+              "finMs": 22280
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 22280,
+              "finMs": 22540
+            },
+            {
+              "palabra": "La",
+              "inicioMs": 23360,
+              "finMs": 23520
+            },
+            {
+              "palabra": "paradoja",
+              "inicioMs": 23520,
+              "finMs": 24000
+            },
+            {
+              "palabra": "radica",
+              "inicioMs": 24000,
+              "finMs": 24380
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 24380,
+              "finMs": 24620
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 24620,
+              "finMs": 24740
+            },
+            {
+              "palabra": "aterradora",
+              "inicioMs": 24740,
+              "finMs": 25120
+            },
+            {
+              "palabra": "contradicción",
+              "inicioMs": 25120,
+              "finMs": 25860
+            },
+            {
+              "palabra": "entre",
+              "inicioMs": 25860,
+              "finMs": 26240
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 26240,
+              "finMs": 26380
+            },
+            {
+              "palabra": "altísima",
+              "inicioMs": 26380,
+              "finMs": 26840
+            },
+            {
+              "palabra": "probabilidad",
+              "inicioMs": 26840,
+              "finMs": 27400
+            },
+            {
+              "palabra": "matemática",
+              "inicioMs": 27400,
+              "finMs": 27940
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 27940,
+              "finMs": 28160
+            },
+            {
+              "palabra": "vida",
+              "inicioMs": 28160,
+              "finMs": 28340
+            },
+            {
+              "palabra": "inteligente",
+              "inicioMs": 28340,
+              "finMs": 28920
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 28920,
+              "finMs": 29060
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 29060,
+              "finMs": 29160
+            },
+            {
+              "palabra": "cosmos",
+              "inicioMs": 29160,
+              "finMs": 29480
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 29480,
+              "finMs": 29740
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 29740,
+              "finMs": 29880
+            },
+            {
+              "palabra": "absoluta",
+              "inicioMs": 29880,
+              "finMs": 30600
+            },
+            {
+              "palabra": "falta",
+              "inicioMs": 30600,
+              "finMs": 30840
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 30840,
+              "finMs": 31020
+            },
+            {
+              "palabra": "evidencia",
+              "inicioMs": 31020,
+              "finMs": 31500
+            },
+            {
+              "palabra": "física",
+              "inicioMs": 31500,
+              "finMs": 31800
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 66.14
+    },
+    {
+      "id": "cap_2",
+      "numero": 2,
+      "titulo": "La Ecuación de Frank Drake",
+      "resumen": "El intento de cuantificar civilizaciones comunicativas en la galaxia.",
+      "escenas": [
+        {
+          "id": 3,
+          "texto": "Once años después del almuerzo de Fermi, el astrónomo Frank Drake formuló una ecuación probabilística para estimar el número de civilizaciones en la Vía Láctea capaces de emitir señales de radio. Multiplicando la tasa de formación de estrellas, la fracción de astros con planetas, los mundos habitables, y la probabilidad de que surja vida, inteligencia y tecnología, los cálculos más conservadores arrojaban decenas de miles de civilizaciones activas en este preciso momento. Si la galaxia es un hervidero cósmico con miles de millones de años de ventaja sobre nosotros, los cielos deberían estar saturados de transmisiones, faros térmicos y megaconstrucciones.",
+          "tituloVisual": "ECUACION DE DRAKE",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_sci_fi_beep.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "Frank Drake",
+            "ecuación probabilística",
+            "civilizaciones activas",
+            "megaconstrucciones"
+          ],
+          "poseId": "holding_presentation_board",
+          "expresion": "analytical",
+          "infografia": {
+            "tipo": "tarjeta_concepto",
+            "titulo": "Variables de Drake",
+            "subtitulo": "Factores de Supervivencia Tecnológica",
+            "valorPrincipal": "N",
+            "unidad": "civilizaciones",
+            "items": [
+              {
+                "etiqueta": "Planetas habitables",
+                "valor": "Miles de millones",
+                "porcentaje": 90,
+                "color": "#38BDF8"
+              },
+              {
+                "etiqueta": "Vida tecnológica",
+                "valor": "Factor L (Duración)",
+                "porcentaje": 30,
+                "color": "#FFE600"
+              }
+            ],
+            "colorAcento": "#38BDF8"
+          },
+          "duracionSegundos": 34.81,
+          "palabras": [
+            {
+              "palabra": "Once",
+              "inicioMs": 0,
+              "finMs": 40
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 80,
+              "finMs": 280
+            },
+            {
+              "palabra": "después",
+              "inicioMs": 280,
+              "finMs": 600
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 600,
+              "finMs": 820
+            },
+            {
+              "palabra": "almuerzo",
+              "inicioMs": 820,
+              "finMs": 1180
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1180,
+              "finMs": 1300
+            },
+            {
+              "palabra": "Fermi",
+              "inicioMs": 1300,
+              "finMs": 1700
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 2220,
+              "finMs": 2320
+            },
+            {
+              "palabra": "astrónomo",
+              "inicioMs": 2320,
+              "finMs": 2780
+            },
+            {
+              "palabra": "Frank",
+              "inicioMs": 2780,
+              "finMs": 3040
+            },
+            {
+              "palabra": "Drake",
+              "inicioMs": 3040,
+              "finMs": 3360
+            },
+            {
+              "palabra": "formuló",
+              "inicioMs": 3360,
+              "finMs": 4160
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 4160,
+              "finMs": 4360
+            },
+            {
+              "palabra": "ecuación",
+              "inicioMs": 4360,
+              "finMs": 4720
+            },
+            {
+              "palabra": "probabilística",
+              "inicioMs": 4720,
+              "finMs": 5500
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 5500,
+              "finMs": 5700
+            },
+            {
+              "palabra": "estimar",
+              "inicioMs": 5700,
+              "finMs": 6040
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 6040,
+              "finMs": 6180
+            },
+            {
+              "palabra": "número",
+              "inicioMs": 6180,
+              "finMs": 6400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6400,
+              "finMs": 6620
+            },
+            {
+              "palabra": "civilizaciones",
+              "inicioMs": 6620,
+              "finMs": 7260
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 7260,
+              "finMs": 7600
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 7600,
+              "finMs": 7700
+            },
+            {
+              "palabra": "Vía",
+              "inicioMs": 7700,
+              "finMs": 7900
+            },
+            {
+              "palabra": "Láctea",
+              "inicioMs": 7900,
+              "finMs": 8280
+            },
+            {
+              "palabra": "capaces",
+              "inicioMs": 8280,
+              "finMs": 8560
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8560,
+              "finMs": 8900
+            },
+            {
+              "palabra": "emitir",
+              "inicioMs": 8900,
+              "finMs": 9280
+            },
+            {
+              "palabra": "señales",
+              "inicioMs": 9280,
+              "finMs": 9660
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9660,
+              "finMs": 9785
+            },
+            {
+              "palabra": "radio",
+              "inicioMs": 9660,
+              "finMs": 10200
+            },
+            {
+              "palabra": "Multiplicando",
+              "inicioMs": 10440,
+              "finMs": 11060
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 11060,
+              "finMs": 11200
+            },
+            {
+              "palabra": "tasa",
+              "inicioMs": 11200,
+              "finMs": 11480
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11480,
+              "finMs": 11560
+            },
+            {
+              "palabra": "formación",
+              "inicioMs": 11560,
+              "finMs": 11980
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11980,
+              "finMs": 12140
+            },
+            {
+              "palabra": "estrellas",
+              "inicioMs": 12140,
+              "finMs": 12620
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 12740,
+              "finMs": 12780
+            },
+            {
+              "palabra": "fracción",
+              "inicioMs": 12780,
+              "finMs": 13100
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 13100,
+              "finMs": 13320
+            },
+            {
+              "palabra": "astros",
+              "inicioMs": 13320,
+              "finMs": 13487
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 13487,
+              "finMs": 13653
+            },
+            {
+              "palabra": "planetas",
+              "inicioMs": 13487,
+              "finMs": 14220
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 14360,
+              "finMs": 14420
+            },
+            {
+              "palabra": "mundos",
+              "inicioMs": 14420,
+              "finMs": 14800
+            },
+            {
+              "palabra": "habitables",
+              "inicioMs": 14800,
+              "finMs": 15320
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 15720,
+              "finMs": 15920
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 15920,
+              "finMs": 16020
+            },
+            {
+              "palabra": "probabilidad",
+              "inicioMs": 16020,
+              "finMs": 16500
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 16500,
+              "finMs": 16640
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 16640,
+              "finMs": 16740
+            },
+            {
+              "palabra": "surja",
+              "inicioMs": 16740,
+              "finMs": 17040
+            },
+            {
+              "palabra": "vida",
+              "inicioMs": 17040,
+              "finMs": 17340
+            },
+            {
+              "palabra": "inteligencia",
+              "inicioMs": 17480,
+              "finMs": 18020
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 18020,
+              "finMs": 18140
+            },
+            {
+              "palabra": "tecnología",
+              "inicioMs": 18140,
+              "finMs": 18440
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 18920,
+              "finMs": 19060
+            },
+            {
+              "palabra": "cálculos",
+              "inicioMs": 19060,
+              "finMs": 19340
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 19340,
+              "finMs": 19640
+            },
+            {
+              "palabra": "conservadores",
+              "inicioMs": 19640,
+              "finMs": 20260
+            },
+            {
+              "palabra": "arrojaban",
+              "inicioMs": 20260,
+              "finMs": 20800
+            },
+            {
+              "palabra": "decenas",
+              "inicioMs": 20800,
+              "finMs": 21200
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 21200,
+              "finMs": 21420
+            },
+            {
+              "palabra": "miles",
+              "inicioMs": 21420,
+              "finMs": 21700
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 21700,
+              "finMs": 21920
+            },
+            {
+              "palabra": "civilizaciones",
+              "inicioMs": 21920,
+              "finMs": 22540
+            },
+            {
+              "palabra": "activas",
+              "inicioMs": 22540,
+              "finMs": 23140
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 23140,
+              "finMs": 23280
+            },
+            {
+              "palabra": "este",
+              "inicioMs": 23280,
+              "finMs": 23500
+            },
+            {
+              "palabra": "preciso",
+              "inicioMs": 23500,
+              "finMs": 23840
+            },
+            {
+              "palabra": "momento",
+              "inicioMs": 23840,
+              "finMs": 24280
+            },
+            {
+              "palabra": "Si",
+              "inicioMs": 24280,
+              "finMs": 25200
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 25200,
+              "finMs": 25340
+            },
+            {
+              "palabra": "galaxia",
+              "inicioMs": 25340,
+              "finMs": 25780
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 25780,
+              "finMs": 25920
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 25920,
+              "finMs": 26020
+            },
+            {
+              "palabra": "hervidero",
+              "inicioMs": 26020,
+              "finMs": 26460
+            },
+            {
+              "palabra": "cósmico",
+              "inicioMs": 26460,
+              "finMs": 26920
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 26920,
+              "finMs": 27120
+            },
+            {
+              "palabra": "miles",
+              "inicioMs": 27120,
+              "finMs": 27420
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 27420,
+              "finMs": 27600
+            },
+            {
+              "palabra": "millones",
+              "inicioMs": 27600,
+              "finMs": 27820
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 27820,
+              "finMs": 28120
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 28120,
+              "finMs": 28320
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 28320,
+              "finMs": 28480
+            },
+            {
+              "palabra": "ventaja",
+              "inicioMs": 28480,
+              "finMs": 28880
+            },
+            {
+              "palabra": "sobre",
+              "inicioMs": 28880,
+              "finMs": 29160
+            },
+            {
+              "palabra": "nosotros",
+              "inicioMs": 29160,
+              "finMs": 29720
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 30040,
+              "finMs": 30120
+            },
+            {
+              "palabra": "cielos",
+              "inicioMs": 30120,
+              "finMs": 30460
+            },
+            {
+              "palabra": "deberían",
+              "inicioMs": 30460,
+              "finMs": 30820
+            },
+            {
+              "palabra": "estar",
+              "inicioMs": 30820,
+              "finMs": 31100
+            },
+            {
+              "palabra": "saturados",
+              "inicioMs": 31100,
+              "finMs": 31580
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 31580,
+              "finMs": 31720
+            },
+            {
+              "palabra": "transmisiones",
+              "inicioMs": 31720,
+              "finMs": 32460
+            },
+            {
+              "palabra": "faros",
+              "inicioMs": 32600,
+              "finMs": 32840
+            },
+            {
+              "palabra": "térmicos",
+              "inicioMs": 32840,
+              "finMs": 33280
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 33280,
+              "finMs": 33480
+            },
+            {
+              "palabra": "megaconstrucciones",
+              "inicioMs": 33480,
+              "finMs": 34320
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "texto": "Sin embargo, cada vez que miramos hacia el abismo con nuestros radiotelescopios más avanzados, solo encontramos el siseo monótono de la radiación cósmica de fondo. Este abrumador mutismo se conoce en astrofísica como el Gran Silencio. No detectamos señales de radio extraterrestres, no vemos naves exploradoras autorreplicantes, ni encontramos esferas de Dyson recolectando la energía de soles lejanos. El universo observable se comporta como un desierto biológico donde la Tierra parece ser el único faro encendido.",
+          "tituloVisual": "EL GRAN SILENCIO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "espacio_profundo",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "Gran Silencio",
+            "radiación de fondo",
+            "esferas de Dyson",
+            "desierto biológico"
+          ],
+          "poseId": "astronomy_telescope",
+          "expresion": "confused",
+          "duracionSegundos": 27.13,
+          "palabras": [
+            {
+              "palabra": "Sin",
+              "inicioMs": 0,
+              "finMs": 260
+            },
+            {
+              "palabra": "embargo",
+              "inicioMs": 260,
+              "finMs": 480
+            },
+            {
+              "palabra": "cada",
+              "inicioMs": 600,
+              "finMs": 800
+            },
+            {
+              "palabra": "vez",
+              "inicioMs": 800,
+              "finMs": 940
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 940,
+              "finMs": 1060
+            },
+            {
+              "palabra": "miramos",
+              "inicioMs": 1060,
+              "finMs": 1360
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 1360,
+              "finMs": 1660
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 1660,
+              "finMs": 1820
+            },
+            {
+              "palabra": "abismo",
+              "inicioMs": 1820,
+              "finMs": 2080
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 2080,
+              "finMs": 2360
+            },
+            {
+              "palabra": "nuestros",
+              "inicioMs": 2360,
+              "finMs": 2740
+            },
+            {
+              "palabra": "radiotelescopios",
+              "inicioMs": 3000,
+              "finMs": 3720
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 3720,
+              "finMs": 3960
+            },
+            {
+              "palabra": "avanzados",
+              "inicioMs": 3960,
+              "finMs": 4760
+            },
+            {
+              "palabra": "solo",
+              "inicioMs": 5020,
+              "finMs": 5100
+            },
+            {
+              "palabra": "encontramos",
+              "inicioMs": 5100,
+              "finMs": 5680
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 5680,
+              "finMs": 5960
+            },
+            {
+              "palabra": "siseo",
+              "inicioMs": 5960,
+              "finMs": 6160
+            },
+            {
+              "palabra": "monótono",
+              "inicioMs": 6360,
+              "finMs": 6880
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6880,
+              "finMs": 7000
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 7000,
+              "finMs": 7120
+            },
+            {
+              "palabra": "radiación",
+              "inicioMs": 7120,
+              "finMs": 7580
+            },
+            {
+              "palabra": "cósmica",
+              "inicioMs": 7580,
+              "finMs": 8080
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8080,
+              "finMs": 8240
+            },
+            {
+              "palabra": "fondo",
+              "inicioMs": 8240,
+              "finMs": 8580
+            },
+            {
+              "palabra": "Este",
+              "inicioMs": 8740,
+              "finMs": 8940
+            },
+            {
+              "palabra": "abrumador",
+              "inicioMs": 8940,
+              "finMs": 9340
+            },
+            {
+              "palabra": "mutismo",
+              "inicioMs": 9340,
+              "finMs": 9820
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 9820,
+              "finMs": 10000
+            },
+            {
+              "palabra": "conoce",
+              "inicioMs": 10000,
+              "finMs": 10380
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 10380,
+              "finMs": 10440
+            },
+            {
+              "palabra": "astrofísica",
+              "inicioMs": 10440,
+              "finMs": 11100
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 11100,
+              "finMs": 11300
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 11300,
+              "finMs": 11420
+            },
+            {
+              "palabra": "Gran",
+              "inicioMs": 11420,
+              "finMs": 11580
+            },
+            {
+              "palabra": "Silencio",
+              "inicioMs": 11580,
+              "finMs": 12140
+            },
+            {
+              "palabra": "No",
+              "inicioMs": 12400,
+              "finMs": 12480
+            },
+            {
+              "palabra": "detectamos",
+              "inicioMs": 12480,
+              "finMs": 12960
+            },
+            {
+              "palabra": "señales",
+              "inicioMs": 12960,
+              "finMs": 13360
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 13360,
+              "finMs": 13500
+            },
+            {
+              "palabra": "radio",
+              "inicioMs": 13500,
+              "finMs": 13720
+            },
+            {
+              "palabra": "extraterrestres",
+              "inicioMs": 13720,
+              "finMs": 14540
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 14640,
+              "finMs": 14700
+            },
+            {
+              "palabra": "vemos",
+              "inicioMs": 14700,
+              "finMs": 14880
+            },
+            {
+              "palabra": "naves",
+              "inicioMs": 14880,
+              "finMs": 15220
+            },
+            {
+              "palabra": "exploradoras",
+              "inicioMs": 15220,
+              "finMs": 16040
+            },
+            {
+              "palabra": "autorreplicantes",
+              "inicioMs": 16120,
+              "finMs": 16920
+            },
+            {
+              "palabra": "ni",
+              "inicioMs": 17140,
+              "finMs": 17220
+            },
+            {
+              "palabra": "encontramos",
+              "inicioMs": 17220,
+              "finMs": 17680
+            },
+            {
+              "palabra": "esferas",
+              "inicioMs": 17680,
+              "finMs": 18220
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18220,
+              "finMs": 18340
+            },
+            {
+              "palabra": "Dyson",
+              "inicioMs": 18340,
+              "finMs": 18620
+            },
+            {
+              "palabra": "recolectando",
+              "inicioMs": 18620,
+              "finMs": 19300
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 19300,
+              "finMs": 19440
+            },
+            {
+              "palabra": "energía",
+              "inicioMs": 19440,
+              "finMs": 19700
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19700,
+              "finMs": 19880
+            },
+            {
+              "palabra": "soles",
+              "inicioMs": 19880,
+              "finMs": 20140
+            },
+            {
+              "palabra": "lejanos",
+              "inicioMs": 20140,
+              "finMs": 20680
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 20900,
+              "finMs": 20980
+            },
+            {
+              "palabra": "universo",
+              "inicioMs": 20980,
+              "finMs": 21260
+            },
+            {
+              "palabra": "observable",
+              "inicioMs": 21260,
+              "finMs": 21900
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 21900,
+              "finMs": 22060
+            },
+            {
+              "palabra": "comporta",
+              "inicioMs": 22060,
+              "finMs": 22580
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 22580,
+              "finMs": 22740
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 22740,
+              "finMs": 22880
+            },
+            {
+              "palabra": "desierto",
+              "inicioMs": 22880,
+              "finMs": 23220
+            },
+            {
+              "palabra": "biológico",
+              "inicioMs": 23220,
+              "finMs": 23940
+            },
+            {
+              "palabra": "donde",
+              "inicioMs": 23940,
+              "finMs": 24120
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 24120,
+              "finMs": 24320
+            },
+            {
+              "palabra": "Tierra",
+              "inicioMs": 24320,
+              "finMs": 24540
+            },
+            {
+              "palabra": "parece",
+              "inicioMs": 24540,
+              "finMs": 24880
+            },
+            {
+              "palabra": "ser",
+              "inicioMs": 24880,
+              "finMs": 25180
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 25180,
+              "finMs": 25400
+            },
+            {
+              "palabra": "único",
+              "inicioMs": 25400,
+              "finMs": 25680
+            },
+            {
+              "palabra": "faro",
+              "inicioMs": 25680,
+              "finMs": 26080
+            },
+            {
+              "palabra": "encendido",
+              "inicioMs": 26080,
+              "finMs": 26660
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 61.94
+    },
+    {
+      "id": "cap_3",
+      "numero": 3,
+      "titulo": "El Gran Filtro: La Barrera Mortal",
+      "resumen": "La hipótesis evolutiva de Robin Hanson y el dilema de nuestra supervivencia.",
+      "escenas": [
+        {
+          "id": 5,
+          "texto": "En mil novecientos noventa y seis, el economista y filósofo Robin Hanson propuso una respuesta aterradora para reconciliar la paradoja: la teoría del Gran Filtro. Hanson argumentó que en el largo camino evolutivo que va desde la química prebiótica elemental hasta una especie interestelar capaz de colonizar la galaxia, existe al menos una barrera casi insuperable, un cuello de botella evolutivo o tecnológico tan brutal que extermina a casi la totalidad de las especies antes de que puedan dejar una huella visible en el cosmos.",
+          "tituloVisual": "EL GRAN FILTRO",
+          "layout": "split_screen",
+          "composicionVisual": "plano_general",
+          "escenario": "espacio_profundo",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "Robin Hanson",
+            "Gran Filtro",
+            "barrera insuperable",
+            "cuello de botella"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "analytical",
+          "duracionSegundos": 25.402,
+          "palabras": [
+            {
+              "palabra": "En",
+              "inicioMs": 0,
+              "finMs": 220
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 220,
+              "finMs": 383
+            },
+            {
+              "palabra": "novecientos",
+              "inicioMs": 383,
+              "finMs": 547
+            },
+            {
+              "palabra": "noventa",
+              "inicioMs": 547,
+              "finMs": 710
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 710,
+              "finMs": 873
+            },
+            {
+              "palabra": "seis",
+              "inicioMs": 873,
+              "finMs": 1037
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 1200,
+              "finMs": 1260
+            },
+            {
+              "palabra": "economista",
+              "inicioMs": 1260,
+              "finMs": 1780
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 1780,
+              "finMs": 1860
+            },
+            {
+              "palabra": "filósofo",
+              "inicioMs": 1860,
+              "finMs": 2320
+            },
+            {
+              "palabra": "Robin",
+              "inicioMs": 2320,
+              "finMs": 2560
+            },
+            {
+              "palabra": "Hanson",
+              "inicioMs": 2560,
+              "finMs": 2940
+            },
+            {
+              "palabra": "propuso",
+              "inicioMs": 2940,
+              "finMs": 3380
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 3380,
+              "finMs": 3560
+            },
+            {
+              "palabra": "respuesta",
+              "inicioMs": 3560,
+              "finMs": 3840
+            },
+            {
+              "palabra": "aterradora",
+              "inicioMs": 3840,
+              "finMs": 4480
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 4480,
+              "finMs": 4680
+            },
+            {
+              "palabra": "reconciliar",
+              "inicioMs": 4680,
+              "finMs": 5220
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5220,
+              "finMs": 5380
+            },
+            {
+              "palabra": "paradoja",
+              "inicioMs": 5380,
+              "finMs": 5840
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5980,
+              "finMs": 6060
+            },
+            {
+              "palabra": "teoría",
+              "inicioMs": 6060,
+              "finMs": 6440
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 6440,
+              "finMs": 6560
+            },
+            {
+              "palabra": "Gran",
+              "inicioMs": 6560,
+              "finMs": 6780
+            },
+            {
+              "palabra": "Filtro",
+              "inicioMs": 6780,
+              "finMs": 7320
+            },
+            {
+              "palabra": "Hanson",
+              "inicioMs": 7540,
+              "finMs": 7760
+            },
+            {
+              "palabra": "argumentó",
+              "inicioMs": 7760,
+              "finMs": 8300
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 8300,
+              "finMs": 8460
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 8460,
+              "finMs": 8580
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 8580,
+              "finMs": 8680
+            },
+            {
+              "palabra": "largo",
+              "inicioMs": 8680,
+              "finMs": 8900
+            },
+            {
+              "palabra": "camino",
+              "inicioMs": 8900,
+              "finMs": 9200
+            },
+            {
+              "palabra": "evolutivo",
+              "inicioMs": 9200,
+              "finMs": 9760
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 9760,
+              "finMs": 9940
+            },
+            {
+              "palabra": "va",
+              "inicioMs": 9940,
+              "finMs": 10060
+            },
+            {
+              "palabra": "desde",
+              "inicioMs": 10060,
+              "finMs": 10240
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 10240,
+              "finMs": 10380
+            },
+            {
+              "palabra": "química",
+              "inicioMs": 10380,
+              "finMs": 10720
+            },
+            {
+              "palabra": "prebiótica",
+              "inicioMs": 10720,
+              "finMs": 10980
+            },
+            {
+              "palabra": "elemental",
+              "inicioMs": 11180,
+              "finMs": 11560
+            },
+            {
+              "palabra": "hasta",
+              "inicioMs": 11560,
+              "finMs": 11940
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 11940,
+              "finMs": 12080
+            },
+            {
+              "palabra": "especie",
+              "inicioMs": 12080,
+              "finMs": 12280
+            },
+            {
+              "palabra": "interestelar",
+              "inicioMs": 12280,
+              "finMs": 12980
+            },
+            {
+              "palabra": "capaz",
+              "inicioMs": 12980,
+              "finMs": 13220
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 13220,
+              "finMs": 13440
+            },
+            {
+              "palabra": "colonizar",
+              "inicioMs": 13440,
+              "finMs": 13820
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 13820,
+              "finMs": 14020
+            },
+            {
+              "palabra": "galaxia",
+              "inicioMs": 14020,
+              "finMs": 14460
+            },
+            {
+              "palabra": "existe",
+              "inicioMs": 14720,
+              "finMs": 14940
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 14940,
+              "finMs": 15140
+            },
+            {
+              "palabra": "menos",
+              "inicioMs": 15140,
+              "finMs": 15280
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 15280,
+              "finMs": 15540
+            },
+            {
+              "palabra": "barrera",
+              "inicioMs": 15540,
+              "finMs": 15860
+            },
+            {
+              "palabra": "casi",
+              "inicioMs": 15860,
+              "finMs": 16120
+            },
+            {
+              "palabra": "insuperable",
+              "inicioMs": 16120,
+              "finMs": 16780
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 17120,
+              "finMs": 17340
+            },
+            {
+              "palabra": "cuello",
+              "inicioMs": 17340,
+              "finMs": 17660
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17660,
+              "finMs": 17780
+            },
+            {
+              "palabra": "botella",
+              "inicioMs": 17780,
+              "finMs": 18120
+            },
+            {
+              "palabra": "evolutivo",
+              "inicioMs": 18120,
+              "finMs": 18740
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 18740,
+              "finMs": 18920
+            },
+            {
+              "palabra": "tecnológico",
+              "inicioMs": 18920,
+              "finMs": 19560
+            },
+            {
+              "palabra": "tan",
+              "inicioMs": 19560,
+              "finMs": 19780
+            },
+            {
+              "palabra": "brutal",
+              "inicioMs": 19780,
+              "finMs": 20060
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 20060,
+              "finMs": 20320
+            },
+            {
+              "palabra": "extermina",
+              "inicioMs": 20320,
+              "finMs": 20860
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 20860,
+              "finMs": 20985
+            },
+            {
+              "palabra": "casi",
+              "inicioMs": 20860,
+              "finMs": 21120
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 21120,
+              "finMs": 21300
+            },
+            {
+              "palabra": "totalidad",
+              "inicioMs": 21300,
+              "finMs": 21780
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 21780,
+              "finMs": 21880
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 21880,
+              "finMs": 22020
+            },
+            {
+              "palabra": "especies",
+              "inicioMs": 22020,
+              "finMs": 22540
+            },
+            {
+              "palabra": "antes",
+              "inicioMs": 22540,
+              "finMs": 22840
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22840,
+              "finMs": 22980
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 22980,
+              "finMs": 23080
+            },
+            {
+              "palabra": "puedan",
+              "inicioMs": 23080,
+              "finMs": 23300
+            },
+            {
+              "palabra": "dejar",
+              "inicioMs": 23300,
+              "finMs": 23540
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 23540,
+              "finMs": 23760
+            },
+            {
+              "palabra": "huella",
+              "inicioMs": 23760,
+              "finMs": 24040
+            },
+            {
+              "palabra": "visible",
+              "inicioMs": 24040,
+              "finMs": 24320
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 24320,
+              "finMs": 24500
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 24500,
+              "finMs": 24540
+            },
+            {
+              "palabra": "cosmos",
+              "inicioMs": 24540,
+              "finMs": 24920
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "texto": "La cuestión existencial decisiva es: ¿dónde se encuentra ese filtro? Si el Gran Filtro está detrás de nosotros, significa que el paso más improbable ya ocurrió: tal vez el origen de la vida celular, la invención de la fotosíntesis o la aparición de la inteligencia reflexiva son anomalías astronómicas irrepetibles, lo que nos convertiría en la primera o única especie inteligente de la galaxia. Pero si el Gran Filtro está por delante de nosotros, aguardándonos en el futuro, significa que casi todas las especies se autodestruyen al alcanzar el poder tecnológico.",
+          "tituloVisual": "¿DETRAS O DELANTE?",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "detrás de nosotros",
+            "delante en el futuro",
+            "origen de la vida",
+            "autodestrucción"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "shocked",
+          "infografia": {
+            "tipo": "comparacion",
+            "titulo": "Ubicación del Filtro",
+            "subtitulo": "Implicaciones para la Humanidad",
+            "valorPrincipal": "Destino",
+            "unidad": "evolutivo",
+            "items": [
+              {
+                "etiqueta": "Filtro en el pasado",
+                "valor": "Somos únicos y afortunados",
+                "porcentaje": 100,
+                "color": "#38BDF8"
+              },
+              {
+                "etiqueta": "Filtro en el futuro",
+                "valor": "Extinción casi segura",
+                "porcentaje": 10,
+                "color": "#FFE600"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 28.234,
+          "palabras": [
+            {
+              "palabra": "La",
+              "inicioMs": 0,
+              "finMs": 180
+            },
+            {
+              "palabra": "cuestión",
+              "inicioMs": 180,
+              "finMs": 480
+            },
+            {
+              "palabra": "existencial",
+              "inicioMs": 480,
+              "finMs": 1140
+            },
+            {
+              "palabra": "decisiva",
+              "inicioMs": 1140,
+              "finMs": 1680
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 1680,
+              "finMs": 1940
+            },
+            {
+              "palabra": "dónde",
+              "inicioMs": 1940,
+              "finMs": 2200
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 2200,
+              "finMs": 2380
+            },
+            {
+              "palabra": "encuentra",
+              "inicioMs": 2380,
+              "finMs": 2740
+            },
+            {
+              "palabra": "ese",
+              "inicioMs": 2740,
+              "finMs": 2980
+            },
+            {
+              "palabra": "filtro",
+              "inicioMs": 2980,
+              "finMs": 3420
+            },
+            {
+              "palabra": "Si",
+              "inicioMs": 3600,
+              "finMs": 3660
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 3660,
+              "finMs": 3780
+            },
+            {
+              "palabra": "Gran",
+              "inicioMs": 3780,
+              "finMs": 3920
+            },
+            {
+              "palabra": "Filtro",
+              "inicioMs": 3920,
+              "finMs": 4380
+            },
+            {
+              "palabra": "está",
+              "inicioMs": 4380,
+              "finMs": 4560
+            },
+            {
+              "palabra": "detrás",
+              "inicioMs": 4560,
+              "finMs": 4860
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4860,
+              "finMs": 5020
+            },
+            {
+              "palabra": "nosotros",
+              "inicioMs": 5020,
+              "finMs": 5420
+            },
+            {
+              "palabra": "significa",
+              "inicioMs": 5560,
+              "finMs": 5780
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 5780,
+              "finMs": 6080
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 6080,
+              "finMs": 6200
+            },
+            {
+              "palabra": "paso",
+              "inicioMs": 6200,
+              "finMs": 6400
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 6400,
+              "finMs": 6620
+            },
+            {
+              "palabra": "improbable",
+              "inicioMs": 6620,
+              "finMs": 7220
+            },
+            {
+              "palabra": "ya",
+              "inicioMs": 7220,
+              "finMs": 7420
+            },
+            {
+              "palabra": "ocurrió",
+              "inicioMs": 7420,
+              "finMs": 7860
+            },
+            {
+              "palabra": "tal",
+              "inicioMs": 8000,
+              "finMs": 8120
+            },
+            {
+              "palabra": "vez",
+              "inicioMs": 8120,
+              "finMs": 8240
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 8240,
+              "finMs": 8440
+            },
+            {
+              "palabra": "origen",
+              "inicioMs": 8440,
+              "finMs": 8720
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8720,
+              "finMs": 8840
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 8840,
+              "finMs": 8920
+            },
+            {
+              "palabra": "vida",
+              "inicioMs": 8920,
+              "finMs": 9120
+            },
+            {
+              "palabra": "celular",
+              "inicioMs": 9120,
+              "finMs": 9460
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 9680,
+              "finMs": 9760
+            },
+            {
+              "palabra": "invención",
+              "inicioMs": 9760,
+              "finMs": 10100
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 10100,
+              "finMs": 10240
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 10240,
+              "finMs": 10320
+            },
+            {
+              "palabra": "fotosíntesis",
+              "inicioMs": 10320,
+              "finMs": 11020
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 11020,
+              "finMs": 11280
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 11280,
+              "finMs": 11420
+            },
+            {
+              "palabra": "aparición",
+              "inicioMs": 11420,
+              "finMs": 11780
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11780,
+              "finMs": 11940
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 11940,
+              "finMs": 12000
+            },
+            {
+              "palabra": "inteligencia",
+              "inicioMs": 12000,
+              "finMs": 12480
+            },
+            {
+              "palabra": "reflexiva",
+              "inicioMs": 12480,
+              "finMs": 13060
+            },
+            {
+              "palabra": "son",
+              "inicioMs": 13060,
+              "finMs": 13320
+            },
+            {
+              "palabra": "anomalías",
+              "inicioMs": 13320,
+              "finMs": 13880
+            },
+            {
+              "palabra": "astronómicas",
+              "inicioMs": 13880,
+              "finMs": 14600
+            },
+            {
+              "palabra": "irrepetibles",
+              "inicioMs": 14800,
+              "finMs": 15360
+            },
+            {
+              "palabra": "lo",
+              "inicioMs": 15600,
+              "finMs": 15740
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 15740,
+              "finMs": 15880
+            },
+            {
+              "palabra": "nos",
+              "inicioMs": 15880,
+              "finMs": 16000
+            },
+            {
+              "palabra": "convertiría",
+              "inicioMs": 16000,
+              "finMs": 16700
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 16700,
+              "finMs": 16860
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 16860,
+              "finMs": 16980
+            },
+            {
+              "palabra": "primera",
+              "inicioMs": 16980,
+              "finMs": 17240
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 17240,
+              "finMs": 17520
+            },
+            {
+              "palabra": "única",
+              "inicioMs": 17520,
+              "finMs": 17820
+            },
+            {
+              "palabra": "especie",
+              "inicioMs": 17820,
+              "finMs": 18040
+            },
+            {
+              "palabra": "inteligente",
+              "inicioMs": 18040,
+              "finMs": 18600
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18600,
+              "finMs": 18760
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 18760,
+              "finMs": 18880
+            },
+            {
+              "palabra": "galaxia",
+              "inicioMs": 18880,
+              "finMs": 19380
+            },
+            {
+              "palabra": "Pero",
+              "inicioMs": 19780,
+              "finMs": 19960
+            },
+            {
+              "palabra": "si",
+              "inicioMs": 19960,
+              "finMs": 20120
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 20120,
+              "finMs": 20220
+            },
+            {
+              "palabra": "Gran",
+              "inicioMs": 20220,
+              "finMs": 20380
+            },
+            {
+              "palabra": "Filtro",
+              "inicioMs": 20380,
+              "finMs": 20880
+            },
+            {
+              "palabra": "está",
+              "inicioMs": 20880,
+              "finMs": 21060
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 21060,
+              "finMs": 21260
+            },
+            {
+              "palabra": "delante",
+              "inicioMs": 21260,
+              "finMs": 21640
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 21640,
+              "finMs": 21760
+            },
+            {
+              "palabra": "nosotros",
+              "inicioMs": 21760,
+              "finMs": 22080
+            },
+            {
+              "palabra": "aguardándonos",
+              "inicioMs": 22280,
+              "finMs": 22780
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 22780,
+              "finMs": 23000
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 23000,
+              "finMs": 23120
+            },
+            {
+              "palabra": "futuro",
+              "inicioMs": 23120,
+              "finMs": 23500
+            },
+            {
+              "palabra": "significa",
+              "inicioMs": 23880,
+              "finMs": 24160
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 24160,
+              "finMs": 24420
+            },
+            {
+              "palabra": "casi",
+              "inicioMs": 24420,
+              "finMs": 24660
+            },
+            {
+              "palabra": "todas",
+              "inicioMs": 24660,
+              "finMs": 24880
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 24880,
+              "finMs": 25080
+            },
+            {
+              "palabra": "especies",
+              "inicioMs": 25080,
+              "finMs": 25440
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 25440,
+              "finMs": 25560
+            },
+            {
+              "palabra": "autodestruyen",
+              "inicioMs": 25700,
+              "finMs": 26160
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 26160,
+              "finMs": 26380
+            },
+            {
+              "palabra": "alcanzar",
+              "inicioMs": 26380,
+              "finMs": 26760
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 26760,
+              "finMs": 26880
+            },
+            {
+              "palabra": "poder",
+              "inicioMs": 26880,
+              "finMs": 27060
+            },
+            {
+              "palabra": "tecnológico",
+              "inicioMs": 27060,
+              "finMs": 27740
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 53.64
+    },
+    {
+      "id": "cap_4",
+      "numero": 4,
+      "titulo": "La Hipótesis del Bosque Oscuro",
+      "resumen": "El silencio cósmico como estrategia militar de supervivencia.",
+      "escenas": [
+        {
+          "id": 7,
+          "texto": "Existe una interpretación aún más escalofriante popularizada por el escritor de ciencia ficción Liu Cixin: la teoría del Bosque Oscuro. Imagina el universo como un bosque cerrado durante la noche, donde innumerables cazadores armados caminan en silencio entre los árboles. Cada civilización es un cazador que no sabe si los demás son pacíficos o letales. La velocidad de la luz impone una brecha de comunicación insalvable y el crecimiento tecnológico exponencial hace que cualquier vecino atrasado pueda convertirse mañana en una amenaza mortal.",
+          "tituloVisual": "EL BOSQUE OSCURO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "habitacion_noche",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "Liu Cixin",
+            "Bosque Oscuro",
+            "cazadores armados",
+            "brecha de comunicación"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "fear",
+          "duracionSegundos": 28.522,
+          "palabras": [
+            {
+              "palabra": "Existe",
+              "inicioMs": 0,
+              "finMs": 400
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 400,
+              "finMs": 560
+            },
+            {
+              "palabra": "interpretación",
+              "inicioMs": 560,
+              "finMs": 1140
+            },
+            {
+              "palabra": "aún",
+              "inicioMs": 1140,
+              "finMs": 1320
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 1320,
+              "finMs": 1520
+            },
+            {
+              "palabra": "escalofriante",
+              "inicioMs": 1520,
+              "finMs": 2140
+            },
+            {
+              "palabra": "popularizada",
+              "inicioMs": 2140,
+              "finMs": 2760
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 2760,
+              "finMs": 2960
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 2960,
+              "finMs": 3060
+            },
+            {
+              "palabra": "escritor",
+              "inicioMs": 3060,
+              "finMs": 3380
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3380,
+              "finMs": 3540
+            },
+            {
+              "palabra": "ciencia",
+              "inicioMs": 3540,
+              "finMs": 3780
+            },
+            {
+              "palabra": "ficción",
+              "inicioMs": 3780,
+              "finMs": 4220
+            },
+            {
+              "palabra": "Liu",
+              "inicioMs": 4220,
+              "finMs": 4380
+            },
+            {
+              "palabra": "Cixin",
+              "inicioMs": 4380,
+              "finMs": 4920
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5060,
+              "finMs": 5120
+            },
+            {
+              "palabra": "teoría",
+              "inicioMs": 5120,
+              "finMs": 5420
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 5420,
+              "finMs": 5540
+            },
+            {
+              "palabra": "Bosque",
+              "inicioMs": 5540,
+              "finMs": 5800
+            },
+            {
+              "palabra": "Oscuro",
+              "inicioMs": 5800,
+              "finMs": 6200
+            },
+            {
+              "palabra": "Imagina",
+              "inicioMs": 6480,
+              "finMs": 6800
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 6800,
+              "finMs": 6880
+            },
+            {
+              "palabra": "universo",
+              "inicioMs": 6880,
+              "finMs": 7180
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 7180,
+              "finMs": 7460
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 7460,
+              "finMs": 7600
+            },
+            {
+              "palabra": "bosque",
+              "inicioMs": 7600,
+              "finMs": 7860
+            },
+            {
+              "palabra": "cerrado",
+              "inicioMs": 7860,
+              "finMs": 8000
+            },
+            {
+              "palabra": "durante",
+              "inicioMs": 8140,
+              "finMs": 8480
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 8480,
+              "finMs": 8640
+            },
+            {
+              "palabra": "noche",
+              "inicioMs": 8640,
+              "finMs": 8960
+            },
+            {
+              "palabra": "donde",
+              "inicioMs": 9200,
+              "finMs": 9440
+            },
+            {
+              "palabra": "innumerables",
+              "inicioMs": 9440,
+              "finMs": 10080
+            },
+            {
+              "palabra": "cazadores",
+              "inicioMs": 10080,
+              "finMs": 10560
+            },
+            {
+              "palabra": "armados",
+              "inicioMs": 10560,
+              "finMs": 11080
+            },
+            {
+              "palabra": "caminan",
+              "inicioMs": 11080,
+              "finMs": 11480
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 11480,
+              "finMs": 11640
+            },
+            {
+              "palabra": "silencio",
+              "inicioMs": 11640,
+              "finMs": 12060
+            },
+            {
+              "palabra": "entre",
+              "inicioMs": 12060,
+              "finMs": 12260
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 12260,
+              "finMs": 12440
+            },
+            {
+              "palabra": "árboles",
+              "inicioMs": 12440,
+              "finMs": 12840
+            },
+            {
+              "palabra": "Cada",
+              "inicioMs": 13120,
+              "finMs": 13280
+            },
+            {
+              "palabra": "civilización",
+              "inicioMs": 13280,
+              "finMs": 13960
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 13960,
+              "finMs": 14300
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 14300,
+              "finMs": 14440
+            },
+            {
+              "palabra": "cazador",
+              "inicioMs": 14440,
+              "finMs": 14840
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 14840,
+              "finMs": 15020
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 15020,
+              "finMs": 15140
+            },
+            {
+              "palabra": "sabe",
+              "inicioMs": 15140,
+              "finMs": 15420
+            },
+            {
+              "palabra": "si",
+              "inicioMs": 15420,
+              "finMs": 15560
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 15560,
+              "finMs": 15720
+            },
+            {
+              "palabra": "demás",
+              "inicioMs": 15720,
+              "finMs": 15940
+            },
+            {
+              "palabra": "son",
+              "inicioMs": 15940,
+              "finMs": 16160
+            },
+            {
+              "palabra": "pacíficos",
+              "inicioMs": 16160,
+              "finMs": 16800
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 16800,
+              "finMs": 16920
+            },
+            {
+              "palabra": "letales",
+              "inicioMs": 16920,
+              "finMs": 17360
+            },
+            {
+              "palabra": "La",
+              "inicioMs": 17640,
+              "finMs": 17720
+            },
+            {
+              "palabra": "velocidad",
+              "inicioMs": 17720,
+              "finMs": 18020
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18020,
+              "finMs": 18300
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 18300,
+              "finMs": 18420
+            },
+            {
+              "palabra": "luz",
+              "inicioMs": 18420,
+              "finMs": 18580
+            },
+            {
+              "palabra": "impone",
+              "inicioMs": 18580,
+              "finMs": 19000
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 19000,
+              "finMs": 19220
+            },
+            {
+              "palabra": "brecha",
+              "inicioMs": 19220,
+              "finMs": 19480
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19480,
+              "finMs": 19600
+            },
+            {
+              "palabra": "comunicación",
+              "inicioMs": 19600,
+              "finMs": 20120
+            },
+            {
+              "palabra": "insalvable",
+              "inicioMs": 20120,
+              "finMs": 20680
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 20680,
+              "finMs": 20860
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 20860,
+              "finMs": 20980
+            },
+            {
+              "palabra": "crecimiento",
+              "inicioMs": 20980,
+              "finMs": 21360
+            },
+            {
+              "palabra": "tecnológico",
+              "inicioMs": 21360,
+              "finMs": 22040
+            },
+            {
+              "palabra": "exponencial",
+              "inicioMs": 22040,
+              "finMs": 22640
+            },
+            {
+              "palabra": "hace",
+              "inicioMs": 22640,
+              "finMs": 23180
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 23180,
+              "finMs": 23320
+            },
+            {
+              "palabra": "cualquier",
+              "inicioMs": 23320,
+              "finMs": 23600
+            },
+            {
+              "palabra": "vecino",
+              "inicioMs": 23600,
+              "finMs": 24100
+            },
+            {
+              "palabra": "atrasado",
+              "inicioMs": 24780,
+              "finMs": 25440
+            },
+            {
+              "palabra": "pueda",
+              "inicioMs": 25500,
+              "finMs": 25720
+            },
+            {
+              "palabra": "convertirse",
+              "inicioMs": 25720,
+              "finMs": 26420
+            },
+            {
+              "palabra": "mañana",
+              "inicioMs": 26420,
+              "finMs": 26740
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 26740,
+              "finMs": 27120
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 27120,
+              "finMs": 27300
+            },
+            {
+              "palabra": "amenaza",
+              "inicioMs": 27300,
+              "finMs": 27700
+            },
+            {
+              "palabra": "mortal",
+              "inicioMs": 27700,
+              "finMs": 28040
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "texto": "Bajo las reglas implacables de la teoría de juegos del Bosque Oscuro, la conducta más racional para cualquier sociedad avanzada no es emitir saludos al cosmos, sino mantener el silencio radiofónico más absoluto. Revelar tu posición en el cielo equivale a encender una antorcha en medio de la niebla: el primer cazador que te detecte disparará por precaución para garantizar su propia supervivencia. Desde esta perspectiva, la razón por la que el cielo está mudo no es que esté vacío, sino que todas las civilizaciones adultas se esconden aterradas.",
+          "tituloVisual": "SILENCIO COMO ESCUDO",
+          "layout": "split_screen",
+          "composicionVisual": "plano_medio",
+          "escenario": "espacio_profundo",
+          "transicion": "whip_left",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "teoría de juegos",
+            "silencio radiofónico",
+            "antorcha en la niebla",
+            "supervivencia"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "analytical",
+          "duracionSegundos": 27.826,
+          "palabras": [
+            {
+              "palabra": "Bajo",
+              "inicioMs": 0,
+              "finMs": 300
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 300,
+              "finMs": 500
+            },
+            {
+              "palabra": "reglas",
+              "inicioMs": 500,
+              "finMs": 800
+            },
+            {
+              "palabra": "implacables",
+              "inicioMs": 800,
+              "finMs": 1360
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1360,
+              "finMs": 1540
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 1540,
+              "finMs": 1620
+            },
+            {
+              "palabra": "teoría",
+              "inicioMs": 1620,
+              "finMs": 1940
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 1940,
+              "finMs": 2040
+            },
+            {
+              "palabra": "juegos",
+              "inicioMs": 2040,
+              "finMs": 2280
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 2280,
+              "finMs": 2480
+            },
+            {
+              "palabra": "Bosque",
+              "inicioMs": 2480,
+              "finMs": 2760
+            },
+            {
+              "palabra": "Oscuro",
+              "inicioMs": 2760,
+              "finMs": 3160
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 3420,
+              "finMs": 3500
+            },
+            {
+              "palabra": "conducta",
+              "inicioMs": 3500,
+              "finMs": 3940
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 3940,
+              "finMs": 4080
+            },
+            {
+              "palabra": "racional",
+              "inicioMs": 4080,
+              "finMs": 4440
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 4440,
+              "finMs": 4680
+            },
+            {
+              "palabra": "cualquier",
+              "inicioMs": 4680,
+              "finMs": 4980
+            },
+            {
+              "palabra": "sociedad",
+              "inicioMs": 4980,
+              "finMs": 5340
+            },
+            {
+              "palabra": "avanzada",
+              "inicioMs": 5340,
+              "finMs": 6000
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 6000,
+              "finMs": 6220
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 6220,
+              "finMs": 6360
+            },
+            {
+              "palabra": "emitir",
+              "inicioMs": 6360,
+              "finMs": 6720
+            },
+            {
+              "palabra": "saludos",
+              "inicioMs": 6720,
+              "finMs": 7120
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 7120,
+              "finMs": 7220
+            },
+            {
+              "palabra": "cosmos",
+              "inicioMs": 7220,
+              "finMs": 7560
+            },
+            {
+              "palabra": "sino",
+              "inicioMs": 7760,
+              "finMs": 7960
+            },
+            {
+              "palabra": "mantener",
+              "inicioMs": 7960,
+              "finMs": 8400
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 8400,
+              "finMs": 8600
+            },
+            {
+              "palabra": "silencio",
+              "inicioMs": 8600,
+              "finMs": 8980
+            },
+            {
+              "palabra": "radiofónico",
+              "inicioMs": 8980,
+              "finMs": 9680
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 9680,
+              "finMs": 9920
+            },
+            {
+              "palabra": "absoluto",
+              "inicioMs": 9920,
+              "finMs": 10580
+            },
+            {
+              "palabra": "Revelar",
+              "inicioMs": 10840,
+              "finMs": 11220
+            },
+            {
+              "palabra": "tu",
+              "inicioMs": 11220,
+              "finMs": 11360
+            },
+            {
+              "palabra": "posición",
+              "inicioMs": 11360,
+              "finMs": 11700
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 11700,
+              "finMs": 11940
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 11940,
+              "finMs": 12080
+            },
+            {
+              "palabra": "cielo",
+              "inicioMs": 12080,
+              "finMs": 12320
+            },
+            {
+              "palabra": "equivale",
+              "inicioMs": 12320,
+              "finMs": 12840
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 12840,
+              "finMs": 12860
+            },
+            {
+              "palabra": "encender",
+              "inicioMs": 12860,
+              "finMs": 13200
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 13200,
+              "finMs": 13400
+            },
+            {
+              "palabra": "antorcha",
+              "inicioMs": 13400,
+              "finMs": 13840
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 13840,
+              "finMs": 13940
+            },
+            {
+              "palabra": "medio",
+              "inicioMs": 13940,
+              "finMs": 14120
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14120,
+              "finMs": 14280
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 14280,
+              "finMs": 14380
+            },
+            {
+              "palabra": "niebla",
+              "inicioMs": 14380,
+              "finMs": 14720
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 14920,
+              "finMs": 15020
+            },
+            {
+              "palabra": "primer",
+              "inicioMs": 15020,
+              "finMs": 15260
+            },
+            {
+              "palabra": "cazador",
+              "inicioMs": 15260,
+              "finMs": 15700
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 15700,
+              "finMs": 15880
+            },
+            {
+              "palabra": "te",
+              "inicioMs": 15880,
+              "finMs": 15980
+            },
+            {
+              "palabra": "detecte",
+              "inicioMs": 15980,
+              "finMs": 16460
+            },
+            {
+              "palabra": "disparará",
+              "inicioMs": 16460,
+              "finMs": 16980
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 16980,
+              "finMs": 17160
+            },
+            {
+              "palabra": "precaución",
+              "inicioMs": 17160,
+              "finMs": 17660
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 17660,
+              "finMs": 17860
+            },
+            {
+              "palabra": "garantizar",
+              "inicioMs": 17860,
+              "finMs": 18320
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 18320,
+              "finMs": 18520
+            },
+            {
+              "palabra": "propia",
+              "inicioMs": 18520,
+              "finMs": 18800
+            },
+            {
+              "palabra": "supervivencia",
+              "inicioMs": 18800,
+              "finMs": 19520
+            },
+            {
+              "palabra": "Desde",
+              "inicioMs": 19660,
+              "finMs": 19800
+            },
+            {
+              "palabra": "esta",
+              "inicioMs": 19800,
+              "finMs": 20080
+            },
+            {
+              "palabra": "perspectiva",
+              "inicioMs": 20080,
+              "finMs": 20720
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 20820,
+              "finMs": 20880
+            },
+            {
+              "palabra": "razón",
+              "inicioMs": 20880,
+              "finMs": 21160
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 21160,
+              "finMs": 21360
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 21360,
+              "finMs": 21480
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 21480,
+              "finMs": 21580
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 21580,
+              "finMs": 21720
+            },
+            {
+              "palabra": "cielo",
+              "inicioMs": 21720,
+              "finMs": 21860
+            },
+            {
+              "palabra": "está",
+              "inicioMs": 21860,
+              "finMs": 22080
+            },
+            {
+              "palabra": "mudo",
+              "inicioMs": 22080,
+              "finMs": 22420
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 22420,
+              "finMs": 22760
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 22760,
+              "finMs": 22880
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 22880,
+              "finMs": 22960
+            },
+            {
+              "palabra": "esté",
+              "inicioMs": 22960,
+              "finMs": 23140
+            },
+            {
+              "palabra": "vacío",
+              "inicioMs": 23140,
+              "finMs": 23580
+            },
+            {
+              "palabra": "sino",
+              "inicioMs": 24100,
+              "finMs": 24580
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 24580,
+              "finMs": 24760
+            },
+            {
+              "palabra": "todas",
+              "inicioMs": 24760,
+              "finMs": 24980
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 24980,
+              "finMs": 25240
+            },
+            {
+              "palabra": "civilizaciones",
+              "inicioMs": 25240,
+              "finMs": 25820
+            },
+            {
+              "palabra": "adultas",
+              "inicioMs": 25820,
+              "finMs": 26320
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 26320,
+              "finMs": 26445
+            },
+            {
+              "palabra": "esconden",
+              "inicioMs": 26320,
+              "finMs": 26840
+            },
+            {
+              "palabra": "aterradas",
+              "inicioMs": 26840,
+              "finMs": 27320
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 56.35
+    },
+    {
+      "id": "cap_5",
+      "numero": 5,
+      "titulo": "El Zoológico Cósmico y la Brecha Temporal",
+      "resumen": "Aislamiento deliberado o desajuste de civilizaciones en el tiempo.",
+      "escenas": [
+        {
+          "id": 9,
+          "texto": "Otras hipótesis plantean escenarios menos bélicos pero igualmente intrigantes. La Hipótesis del Zoológico, propuesta por John Ball en mil novecientos setenta y tres, sugiere que entidades alienígenas inmensamente superiores nos observan desde la distancia sin intervenir, tratándonos como una reserva natural protegida para permitir nuestro desarrollo cultural orgánico, tal como los humanos observamos a las tribus no contactadas en las profundidades del Amazonas.",
+          "tituloVisual": "LA RESERVA NATURAL",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "espacio_profundo",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_sci_fi_beep.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "John Ball",
+            "Hipótesis del Zoológico",
+            "reserva natural",
+            "tribus no contactadas"
+          ],
+          "poseId": "standing_curious",
+          "expresion": "talking",
+          "duracionSegundos": 23.458,
+          "palabras": [
+            {
+              "palabra": "Otras",
+              "inicioMs": 0,
+              "finMs": 320
+            },
+            {
+              "palabra": "hipótesis",
+              "inicioMs": 320,
+              "finMs": 800
+            },
+            {
+              "palabra": "plantean",
+              "inicioMs": 800,
+              "finMs": 1220
+            },
+            {
+              "palabra": "escenarios",
+              "inicioMs": 1220,
+              "finMs": 1560
+            },
+            {
+              "palabra": "menos",
+              "inicioMs": 1560,
+              "finMs": 1840
+            },
+            {
+              "palabra": "bélicos",
+              "inicioMs": 1840,
+              "finMs": 2300
+            },
+            {
+              "palabra": "pero",
+              "inicioMs": 2360,
+              "finMs": 2440
+            },
+            {
+              "palabra": "igualmente",
+              "inicioMs": 2440,
+              "finMs": 2800
+            },
+            {
+              "palabra": "intrigantes",
+              "inicioMs": 2800,
+              "finMs": 3400
+            },
+            {
+              "palabra": "La",
+              "inicioMs": 3620,
+              "finMs": 3680
+            },
+            {
+              "palabra": "Hipótesis",
+              "inicioMs": 3680,
+              "finMs": 4200
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 4200,
+              "finMs": 4400
+            },
+            {
+              "palabra": "Zoológico",
+              "inicioMs": 4400,
+              "finMs": 5120
+            },
+            {
+              "palabra": "propuesta",
+              "inicioMs": 5120,
+              "finMs": 5800
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 5800,
+              "finMs": 6020
+            },
+            {
+              "palabra": "John",
+              "inicioMs": 6020,
+              "finMs": 6240
+            },
+            {
+              "palabra": "Ball",
+              "inicioMs": 6240,
+              "finMs": 6460
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 6700,
+              "finMs": 6760
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 6760,
+              "finMs": 7003
+            },
+            {
+              "palabra": "novecientos",
+              "inicioMs": 7003,
+              "finMs": 7247
+            },
+            {
+              "palabra": "setenta",
+              "inicioMs": 7247,
+              "finMs": 7490
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 7490,
+              "finMs": 7733
+            },
+            {
+              "palabra": "tres",
+              "inicioMs": 7733,
+              "finMs": 7977
+            },
+            {
+              "palabra": "sugiere",
+              "inicioMs": 8220,
+              "finMs": 8580
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 8580,
+              "finMs": 8720
+            },
+            {
+              "palabra": "entidades",
+              "inicioMs": 8720,
+              "finMs": 9040
+            },
+            {
+              "palabra": "alienígenas",
+              "inicioMs": 9040,
+              "finMs": 9740
+            },
+            {
+              "palabra": "inmensamente",
+              "inicioMs": 9740,
+              "finMs": 10380
+            },
+            {
+              "palabra": "superiores",
+              "inicioMs": 10380,
+              "finMs": 11040
+            },
+            {
+              "palabra": "nos",
+              "inicioMs": 11040,
+              "finMs": 11360
+            },
+            {
+              "palabra": "observan",
+              "inicioMs": 11360,
+              "finMs": 11820
+            },
+            {
+              "palabra": "desde",
+              "inicioMs": 11820,
+              "finMs": 12000
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 12000,
+              "finMs": 12140
+            },
+            {
+              "palabra": "distancia",
+              "inicioMs": 12140,
+              "finMs": 12560
+            },
+            {
+              "palabra": "sin",
+              "inicioMs": 12560,
+              "finMs": 12800
+            },
+            {
+              "palabra": "intervenir",
+              "inicioMs": 12800,
+              "finMs": 13420
+            },
+            {
+              "palabra": "tratándonos",
+              "inicioMs": 13600,
+              "finMs": 14180
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 14180,
+              "finMs": 14420
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 14420,
+              "finMs": 14620
+            },
+            {
+              "palabra": "reserva",
+              "inicioMs": 14620,
+              "finMs": 15060
+            },
+            {
+              "palabra": "natural",
+              "inicioMs": 15060,
+              "finMs": 15360
+            },
+            {
+              "palabra": "protegida",
+              "inicioMs": 15360,
+              "finMs": 16040
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 16040,
+              "finMs": 16280
+            },
+            {
+              "palabra": "permitir",
+              "inicioMs": 16280,
+              "finMs": 16660
+            },
+            {
+              "palabra": "nuestro",
+              "inicioMs": 16660,
+              "finMs": 17040
+            },
+            {
+              "palabra": "desarrollo",
+              "inicioMs": 17040,
+              "finMs": 17540
+            },
+            {
+              "palabra": "cultural",
+              "inicioMs": 17540,
+              "finMs": 18000
+            },
+            {
+              "palabra": "orgánico",
+              "inicioMs": 18000,
+              "finMs": 18640
+            },
+            {
+              "palabra": "tal",
+              "inicioMs": 18800,
+              "finMs": 18900
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 18900,
+              "finMs": 19140
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 19140,
+              "finMs": 19300
+            },
+            {
+              "palabra": "humanos",
+              "inicioMs": 19300,
+              "finMs": 19520
+            },
+            {
+              "palabra": "observamos",
+              "inicioMs": 19520,
+              "finMs": 20140
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 20140,
+              "finMs": 20260
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 20260,
+              "finMs": 20400
+            },
+            {
+              "palabra": "tribus",
+              "inicioMs": 20400,
+              "finMs": 20760
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 20760,
+              "finMs": 20960
+            },
+            {
+              "palabra": "contactadas",
+              "inicioMs": 20960,
+              "finMs": 21500
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 21500,
+              "finMs": 21640
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 21640,
+              "finMs": 21720
+            },
+            {
+              "palabra": "profundidades",
+              "inicioMs": 21720,
+              "finMs": 22220
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 22220,
+              "finMs": 22400
+            },
+            {
+              "palabra": "Amazonas",
+              "inicioMs": 22460,
+              "finMs": 22980
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "texto": "A esto se suma la abrumadora brecha temporal. Nuestra especie apenas lleva un siglo emitiendo señales electromagnéticas al espacio, una cáscara esférica de solo cien años luz en una galaxia de cien mil años luz de diámetro. En términos cósmicos, somos una chispa efímera de milisegundos. Dos civilizaciones podrían haber florecido, construido imperios majestuosos y desaparecido en el mismo sector galáctico, separadas simplemente por una ventana temporal de cincuenta millones de años sin llegar a coincidir jamás.",
+          "tituloVisual": "DESAJUSTE TEMPORAL",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "un siglo de radio",
+            "cien años luz",
+            "chispa efímera",
+            "desajuste temporal"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "analytical",
+          "infografia": {
+            "tipo": "dato_clave",
+            "titulo": "La Burbuja Humana",
+            "subtitulo": "Alcance de Nuestras Señales de Radio",
+            "valorPrincipal": "100",
+            "unidad": "años luz",
+            "items": [
+              {
+                "etiqueta": "Burbuja de radio humana",
+                "valor": "100 años luz",
+                "porcentaje": 0.1,
+                "color": "#FFE600"
+              },
+              {
+                "etiqueta": "Diámetro de la Vía Láctea",
+                "valor": "100.000 años luz",
+                "porcentaje": 100,
+                "color": "#38BDF8"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 27.106,
+          "palabras": [
+            {
+              "palabra": "A",
+              "inicioMs": 0,
+              "finMs": 200
+            },
+            {
+              "palabra": "esto",
+              "inicioMs": 200,
+              "finMs": 400
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 400,
+              "finMs": 540
+            },
+            {
+              "palabra": "suma",
+              "inicioMs": 540,
+              "finMs": 760
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 760,
+              "finMs": 900
+            },
+            {
+              "palabra": "abrumadora",
+              "inicioMs": 900,
+              "finMs": 1320
+            },
+            {
+              "palabra": "brecha",
+              "inicioMs": 1320,
+              "finMs": 1760
+            },
+            {
+              "palabra": "temporal",
+              "inicioMs": 1760,
+              "finMs": 2260
+            },
+            {
+              "palabra": "Nuestra",
+              "inicioMs": 2500,
+              "finMs": 2740
+            },
+            {
+              "palabra": "especie",
+              "inicioMs": 2740,
+              "finMs": 2980
+            },
+            {
+              "palabra": "apenas",
+              "inicioMs": 2980,
+              "finMs": 3340
+            },
+            {
+              "palabra": "lleva",
+              "inicioMs": 3340,
+              "finMs": 3560
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 3560,
+              "finMs": 3720
+            },
+            {
+              "palabra": "siglo",
+              "inicioMs": 3720,
+              "finMs": 3940
+            },
+            {
+              "palabra": "emitiendo",
+              "inicioMs": 3940,
+              "finMs": 4360
+            },
+            {
+              "palabra": "señales",
+              "inicioMs": 4360,
+              "finMs": 4780
+            },
+            {
+              "palabra": "electromagnéticas",
+              "inicioMs": 4780,
+              "finMs": 5660
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 5660,
+              "finMs": 5820
+            },
+            {
+              "palabra": "espacio",
+              "inicioMs": 5820,
+              "finMs": 6260
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 6440,
+              "finMs": 6600
+            },
+            {
+              "palabra": "cáscara",
+              "inicioMs": 6600,
+              "finMs": 6980
+            },
+            {
+              "palabra": "esférica",
+              "inicioMs": 6980,
+              "finMs": 7420
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 7420,
+              "finMs": 7580
+            },
+            {
+              "palabra": "solo",
+              "inicioMs": 7580,
+              "finMs": 7760
+            },
+            {
+              "palabra": "cien",
+              "inicioMs": 7760,
+              "finMs": 8040
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 8040,
+              "finMs": 8300
+            },
+            {
+              "palabra": "luz",
+              "inicioMs": 8300,
+              "finMs": 8540
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 8540,
+              "finMs": 8780
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 8780,
+              "finMs": 8940
+            },
+            {
+              "palabra": "galaxia",
+              "inicioMs": 8940,
+              "finMs": 9380
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9380,
+              "finMs": 9480
+            },
+            {
+              "palabra": "cien",
+              "inicioMs": 9480,
+              "finMs": 9620
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 9620,
+              "finMs": 9760
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 9900,
+              "finMs": 10100
+            },
+            {
+              "palabra": "luz",
+              "inicioMs": 10100,
+              "finMs": 10360
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 10360,
+              "finMs": 10500
+            },
+            {
+              "palabra": "diámetro",
+              "inicioMs": 10500,
+              "finMs": 10900
+            },
+            {
+              "palabra": "En",
+              "inicioMs": 11220,
+              "finMs": 11320
+            },
+            {
+              "palabra": "términos",
+              "inicioMs": 11320,
+              "finMs": 11720
+            },
+            {
+              "palabra": "cósmicos",
+              "inicioMs": 11720,
+              "finMs": 12140
+            },
+            {
+              "palabra": "somos",
+              "inicioMs": 12140,
+              "finMs": 12420
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 12420,
+              "finMs": 12660
+            },
+            {
+              "palabra": "chispa",
+              "inicioMs": 12660,
+              "finMs": 13020
+            },
+            {
+              "palabra": "efímera",
+              "inicioMs": 13140,
+              "finMs": 13460
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 13460,
+              "finMs": 13580
+            },
+            {
+              "palabra": "milisegundos",
+              "inicioMs": 13580,
+              "finMs": 14160
+            },
+            {
+              "palabra": "Dos",
+              "inicioMs": 14380,
+              "finMs": 14500
+            },
+            {
+              "palabra": "civilizaciones",
+              "inicioMs": 14500,
+              "finMs": 15140
+            },
+            {
+              "palabra": "podrían",
+              "inicioMs": 15140,
+              "finMs": 15600
+            },
+            {
+              "palabra": "haber",
+              "inicioMs": 15600,
+              "finMs": 15780
+            },
+            {
+              "palabra": "florecido",
+              "inicioMs": 15780,
+              "finMs": 16400
+            },
+            {
+              "palabra": "construido",
+              "inicioMs": 16500,
+              "finMs": 16920
+            },
+            {
+              "palabra": "imperios",
+              "inicioMs": 17020,
+              "finMs": 17340
+            },
+            {
+              "palabra": "majestuosos",
+              "inicioMs": 17340,
+              "finMs": 17940
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 17940,
+              "finMs": 18280
+            },
+            {
+              "palabra": "desaparecido",
+              "inicioMs": 18280,
+              "finMs": 18980
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 18980,
+              "finMs": 19200
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 19200,
+              "finMs": 19320
+            },
+            {
+              "palabra": "mismo",
+              "inicioMs": 19320,
+              "finMs": 19580
+            },
+            {
+              "palabra": "sector",
+              "inicioMs": 19580,
+              "finMs": 19940
+            },
+            {
+              "palabra": "galáctico",
+              "inicioMs": 19940,
+              "finMs": 20600
+            },
+            {
+              "palabra": "separadas",
+              "inicioMs": 21220,
+              "finMs": 21680
+            },
+            {
+              "palabra": "simplemente",
+              "inicioMs": 21680,
+              "finMs": 22140
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 22140,
+              "finMs": 22440
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 22440,
+              "finMs": 22600
+            },
+            {
+              "palabra": "ventana",
+              "inicioMs": 22600,
+              "finMs": 22940
+            },
+            {
+              "palabra": "temporal",
+              "inicioMs": 22940,
+              "finMs": 23400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 23400,
+              "finMs": 23660
+            },
+            {
+              "palabra": "cincuenta",
+              "inicioMs": 23660,
+              "finMs": 23850
+            },
+            {
+              "palabra": "millones",
+              "inicioMs": 24040,
+              "finMs": 24360
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 24360,
+              "finMs": 24640
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 24640,
+              "finMs": 24880
+            },
+            {
+              "palabra": "sin",
+              "inicioMs": 24880,
+              "finMs": 25360
+            },
+            {
+              "palabra": "llegar",
+              "inicioMs": 25360,
+              "finMs": 25640
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 25640,
+              "finMs": 25760
+            },
+            {
+              "palabra": "coincidir",
+              "inicioMs": 25760,
+              "finMs": 26140
+            },
+            {
+              "palabra": "jamás",
+              "inicioMs": 26140,
+              "finMs": 26560
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 50.56
+    },
+    {
+      "id": "cap_6",
+      "numero": 6,
+      "titulo": "La Soledad como Responsabilidad",
+      "resumen": "El valor supremo de la conciencia humana en un universo silencioso.",
+      "escenas": [
+        {
+          "id": 11,
+          "texto": "El filósofo Nick Bostrom advertía que el mayor temor que deberíamos tener al explorar Marte o las lunas heladas de Júpiter es encontrar fósiles de vida compleja. Si descubrimos que la vida compleja surge con facilidad en cualquier charco cósmico, la conclusión lógica e implacable sería que el Gran Filtro no está en el pasado, sino en nuestro futuro inmediato: nos aguarda a la vuelta de la esquina con el colapso ecológico, la inteligencia artificial descontrolada o el armamento de destrucción masiva.",
+          "tituloVisual": "LA ADVERTENCIA DE BOSTROM",
+          "layout": "split_screen",
+          "composicionVisual": "plano_general",
+          "escenario": "superficie_marte",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "Nick Bostrom",
+            "fósiles en Marte",
+            "vida compleja",
+            "armas de destrucción"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "sad",
+          "duracionSegundos": 25.45,
+          "palabras": [
+            {
+              "palabra": "El",
+              "inicioMs": 0,
+              "finMs": 200
+            },
+            {
+              "palabra": "filósofo",
+              "inicioMs": 200,
+              "finMs": 640
+            },
+            {
+              "palabra": "Nick",
+              "inicioMs": 640,
+              "finMs": 800
+            },
+            {
+              "palabra": "Bostrom",
+              "inicioMs": 800,
+              "finMs": 1200
+            },
+            {
+              "palabra": "advertía",
+              "inicioMs": 1200,
+              "finMs": 1820
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 1820,
+              "finMs": 1960
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 1960,
+              "finMs": 2080
+            },
+            {
+              "palabra": "mayor",
+              "inicioMs": 2080,
+              "finMs": 2300
+            },
+            {
+              "palabra": "temor",
+              "inicioMs": 2300,
+              "finMs": 2680
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 2680,
+              "finMs": 2840
+            },
+            {
+              "palabra": "deberíamos",
+              "inicioMs": 2840,
+              "finMs": 3300
+            },
+            {
+              "palabra": "tener",
+              "inicioMs": 3300,
+              "finMs": 3600
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 3600,
+              "finMs": 3820
+            },
+            {
+              "palabra": "explorar",
+              "inicioMs": 3820,
+              "finMs": 4240
+            },
+            {
+              "palabra": "Marte",
+              "inicioMs": 4240,
+              "finMs": 4660
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 4660,
+              "finMs": 4780
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 4780,
+              "finMs": 4920
+            },
+            {
+              "palabra": "lunas",
+              "inicioMs": 4920,
+              "finMs": 5240
+            },
+            {
+              "palabra": "heladas",
+              "inicioMs": 5240,
+              "finMs": 5500
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5500,
+              "finMs": 5700
+            },
+            {
+              "palabra": "Júpiter",
+              "inicioMs": 5700,
+              "finMs": 6100
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 6100,
+              "finMs": 6340
+            },
+            {
+              "palabra": "encontrar",
+              "inicioMs": 6340,
+              "finMs": 6740
+            },
+            {
+              "palabra": "fósiles",
+              "inicioMs": 6920,
+              "finMs": 7260
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 7260,
+              "finMs": 7420
+            },
+            {
+              "palabra": "vida",
+              "inicioMs": 7420,
+              "finMs": 7580
+            },
+            {
+              "palabra": "compleja",
+              "inicioMs": 7580,
+              "finMs": 8220
+            },
+            {
+              "palabra": "Si",
+              "inicioMs": 8460,
+              "finMs": 8540
+            },
+            {
+              "palabra": "descubrimos",
+              "inicioMs": 8540,
+              "finMs": 9180
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 9180,
+              "finMs": 9300
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 9300,
+              "finMs": 9400
+            },
+            {
+              "palabra": "vida",
+              "inicioMs": 9400,
+              "finMs": 9600
+            },
+            {
+              "palabra": "compleja",
+              "inicioMs": 9600,
+              "finMs": 10200
+            },
+            {
+              "palabra": "surge",
+              "inicioMs": 10200,
+              "finMs": 10520
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 10520,
+              "finMs": 10760
+            },
+            {
+              "palabra": "facilidad",
+              "inicioMs": 10760,
+              "finMs": 11280
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 11280,
+              "finMs": 11540
+            },
+            {
+              "palabra": "cualquier",
+              "inicioMs": 11540,
+              "finMs": 11860
+            },
+            {
+              "palabra": "charco",
+              "inicioMs": 11860,
+              "finMs": 12320
+            },
+            {
+              "palabra": "cósmico",
+              "inicioMs": 12320,
+              "finMs": 12920
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 13140,
+              "finMs": 13220
+            },
+            {
+              "palabra": "conclusión",
+              "inicioMs": 13220,
+              "finMs": 13680
+            },
+            {
+              "palabra": "lógica",
+              "inicioMs": 13680,
+              "finMs": 14120
+            },
+            {
+              "palabra": "e",
+              "inicioMs": 14120,
+              "finMs": 14160
+            },
+            {
+              "palabra": "implacable",
+              "inicioMs": 14200,
+              "finMs": 14680
+            },
+            {
+              "palabra": "sería",
+              "inicioMs": 14680,
+              "finMs": 15000
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 15000,
+              "finMs": 15180
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 15180,
+              "finMs": 15280
+            },
+            {
+              "palabra": "Gran",
+              "inicioMs": 15280,
+              "finMs": 15420
+            },
+            {
+              "palabra": "Filtro",
+              "inicioMs": 15420,
+              "finMs": 15760
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 15760,
+              "finMs": 15940
+            },
+            {
+              "palabra": "está",
+              "inicioMs": 15940,
+              "finMs": 16100
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 16100,
+              "finMs": 16180
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 16180,
+              "finMs": 16260
+            },
+            {
+              "palabra": "pasado",
+              "inicioMs": 16260,
+              "finMs": 16660
+            },
+            {
+              "palabra": "sino",
+              "inicioMs": 16740,
+              "finMs": 16860
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 16860,
+              "finMs": 17000
+            },
+            {
+              "palabra": "nuestro",
+              "inicioMs": 17000,
+              "finMs": 17200
+            },
+            {
+              "palabra": "futuro",
+              "inicioMs": 17200,
+              "finMs": 17480
+            },
+            {
+              "palabra": "inmediato",
+              "inicioMs": 17480,
+              "finMs": 18040
+            },
+            {
+              "palabra": "nos",
+              "inicioMs": 18200,
+              "finMs": 18300
+            },
+            {
+              "palabra": "aguarda",
+              "inicioMs": 18300,
+              "finMs": 18720
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 18720,
+              "finMs": 18845
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 18720,
+              "finMs": 18820
+            },
+            {
+              "palabra": "vuelta",
+              "inicioMs": 18820,
+              "finMs": 19040
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19040,
+              "finMs": 19240
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 19240,
+              "finMs": 19320
+            },
+            {
+              "palabra": "esquina",
+              "inicioMs": 19320,
+              "finMs": 19640
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 19640,
+              "finMs": 19820
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 19820,
+              "finMs": 19920
+            },
+            {
+              "palabra": "colapso",
+              "inicioMs": 19920,
+              "finMs": 20300
+            },
+            {
+              "palabra": "ecológico",
+              "inicioMs": 20300,
+              "finMs": 20880
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 21140,
+              "finMs": 21260
+            },
+            {
+              "palabra": "inteligencia",
+              "inicioMs": 21260,
+              "finMs": 21820
+            },
+            {
+              "palabra": "artificial",
+              "inicioMs": 21820,
+              "finMs": 22340
+            },
+            {
+              "palabra": "descontrolada",
+              "inicioMs": 22340,
+              "finMs": 23160
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 23160,
+              "finMs": 23400
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 23400,
+              "finMs": 23520
+            },
+            {
+              "palabra": "armamento",
+              "inicioMs": 23520,
+              "finMs": 23960
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 23960,
+              "finMs": 24120
+            },
+            {
+              "palabra": "destrucción",
+              "inicioMs": 24120,
+              "finMs": 24540
+            },
+            {
+              "palabra": "masiva",
+              "inicioMs": 24540,
+              "finMs": 24960
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "texto": "Como decía Arthur C. Clarke, solo existen dos posibilidades: o estamos solos en el universo, o no lo estamos; ambas son igualmente aterradoras. Si estamos solos, la Tierra no es un planeta más, sino el único santuario donde la materia inerte logró abrir los ojos y comprenderse a sí misma. La ausencia de respuestas en el firmamento no debe sumirnos en la desesperanza, sino inspirarnos una reverencia infinita: la llama de la conciencia es extraordinariamente frágil, y cuidarla es la única misión sagrada de nuestra especie.",
+          "tituloVisual": "EL SANTUARIO CONSCIENTE",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "espacio_profundo",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "Arthur C. Clarke",
+            "materia inerte",
+            "llama de la conciencia",
+            "misión sagrada"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "smile_wide",
+          "duracionSegundos": 26.914,
+          "palabras": [
+            {
+              "palabra": "Como",
+              "inicioMs": 0,
+              "finMs": 240
+            },
+            {
+              "palabra": "decía",
+              "inicioMs": 240,
+              "finMs": 560
+            },
+            {
+              "palabra": "Arthur",
+              "inicioMs": 560,
+              "finMs": 1100
+            },
+            {
+              "palabra": "C",
+              "inicioMs": 1100,
+              "finMs": 1500
+            },
+            {
+              "palabra": "Clarke",
+              "inicioMs": 1660,
+              "finMs": 1960
+            },
+            {
+              "palabra": "solo",
+              "inicioMs": 2180,
+              "finMs": 2340
+            },
+            {
+              "palabra": "existen",
+              "inicioMs": 2340,
+              "finMs": 2780
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 2780,
+              "finMs": 2960
+            },
+            {
+              "palabra": "posibilidades",
+              "inicioMs": 2960,
+              "finMs": 3740
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 3880,
+              "finMs": 3920
+            },
+            {
+              "palabra": "estamos",
+              "inicioMs": 3920,
+              "finMs": 4140
+            },
+            {
+              "palabra": "solos",
+              "inicioMs": 4140,
+              "finMs": 4520
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 4520,
+              "finMs": 4680
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 4680,
+              "finMs": 4800
+            },
+            {
+              "palabra": "universo",
+              "inicioMs": 4800,
+              "finMs": 5060
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 5060,
+              "finMs": 5480
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 5480,
+              "finMs": 5620
+            },
+            {
+              "palabra": "lo",
+              "inicioMs": 5620,
+              "finMs": 5720
+            },
+            {
+              "palabra": "estamos",
+              "inicioMs": 5720,
+              "finMs": 5980
+            },
+            {
+              "palabra": "ambas",
+              "inicioMs": 6240,
+              "finMs": 6500
+            },
+            {
+              "palabra": "son",
+              "inicioMs": 6500,
+              "finMs": 6640
+            },
+            {
+              "palabra": "igualmente",
+              "inicioMs": 6640,
+              "finMs": 7120
+            },
+            {
+              "palabra": "aterradoras",
+              "inicioMs": 7120,
+              "finMs": 7660
+            },
+            {
+              "palabra": "Si",
+              "inicioMs": 7900,
+              "finMs": 7980
+            },
+            {
+              "palabra": "estamos",
+              "inicioMs": 7980,
+              "finMs": 8220
+            },
+            {
+              "palabra": "solos",
+              "inicioMs": 8220,
+              "finMs": 8800
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 8960,
+              "finMs": 9020
+            },
+            {
+              "palabra": "Tierra",
+              "inicioMs": 9020,
+              "finMs": 9300
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 9300,
+              "finMs": 9520
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 9520,
+              "finMs": 9640
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 9640,
+              "finMs": 9740
+            },
+            {
+              "palabra": "planeta",
+              "inicioMs": 9740,
+              "finMs": 9960
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 9960,
+              "finMs": 10360
+            },
+            {
+              "palabra": "sino",
+              "inicioMs": 10560,
+              "finMs": 10700
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 10700,
+              "finMs": 10860
+            },
+            {
+              "palabra": "único",
+              "inicioMs": 10860,
+              "finMs": 11080
+            },
+            {
+              "palabra": "santuario",
+              "inicioMs": 11080,
+              "finMs": 11600
+            },
+            {
+              "palabra": "donde",
+              "inicioMs": 11600,
+              "finMs": 11860
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 11860,
+              "finMs": 12000
+            },
+            {
+              "palabra": "materia",
+              "inicioMs": 12000,
+              "finMs": 12240
+            },
+            {
+              "palabra": "inerte",
+              "inicioMs": 12460,
+              "finMs": 12700
+            },
+            {
+              "palabra": "logró",
+              "inicioMs": 12700,
+              "finMs": 13000
+            },
+            {
+              "palabra": "abrir",
+              "inicioMs": 13000,
+              "finMs": 13180
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 13180,
+              "finMs": 13360
+            },
+            {
+              "palabra": "ojos",
+              "inicioMs": 13360,
+              "finMs": 13620
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 13620,
+              "finMs": 13800
+            },
+            {
+              "palabra": "comprenderse",
+              "inicioMs": 13800,
+              "finMs": 14480
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 14480,
+              "finMs": 14680
+            },
+            {
+              "palabra": "sí",
+              "inicioMs": 14680,
+              "finMs": 14840
+            },
+            {
+              "palabra": "misma",
+              "inicioMs": 14840,
+              "finMs": 15160
+            },
+            {
+              "palabra": "La",
+              "inicioMs": 15320,
+              "finMs": 15400
+            },
+            {
+              "palabra": "ausencia",
+              "inicioMs": 15400,
+              "finMs": 15700
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15700,
+              "finMs": 15940
+            },
+            {
+              "palabra": "respuestas",
+              "inicioMs": 16000,
+              "finMs": 16300
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 16300,
+              "finMs": 16540
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 16540,
+              "finMs": 16660
+            },
+            {
+              "palabra": "firmamento",
+              "inicioMs": 16660,
+              "finMs": 17100
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 17100,
+              "finMs": 17340
+            },
+            {
+              "palabra": "debe",
+              "inicioMs": 17340,
+              "finMs": 17540
+            },
+            {
+              "palabra": "sumirnos",
+              "inicioMs": 17540,
+              "finMs": 18060
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 18060,
+              "finMs": 18220
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 18220,
+              "finMs": 18320
+            },
+            {
+              "palabra": "desesperanza",
+              "inicioMs": 18320,
+              "finMs": 18980
+            },
+            {
+              "palabra": "sino",
+              "inicioMs": 19120,
+              "finMs": 19260
+            },
+            {
+              "palabra": "inspirarnos",
+              "inicioMs": 19260,
+              "finMs": 19760
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 19760,
+              "finMs": 20020
+            },
+            {
+              "palabra": "reverencia",
+              "inicioMs": 20020,
+              "finMs": 20500
+            },
+            {
+              "palabra": "infinita",
+              "inicioMs": 20500,
+              "finMs": 21060
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 21240,
+              "finMs": 21320
+            },
+            {
+              "palabra": "llama",
+              "inicioMs": 21320,
+              "finMs": 21520
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 21520,
+              "finMs": 21660
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 21660,
+              "finMs": 21740
+            },
+            {
+              "palabra": "conciencia",
+              "inicioMs": 21740,
+              "finMs": 22240
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 22240,
+              "finMs": 22500
+            },
+            {
+              "palabra": "extraordinariamente",
+              "inicioMs": 22500,
+              "finMs": 23360
+            },
+            {
+              "palabra": "frágil",
+              "inicioMs": 23480,
+              "finMs": 23900
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 23900,
+              "finMs": 24060
+            },
+            {
+              "palabra": "cuidarla",
+              "inicioMs": 24060,
+              "finMs": 24480
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 24480,
+              "finMs": 24720
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 24720,
+              "finMs": 24800
+            },
+            {
+              "palabra": "única",
+              "inicioMs": 24800,
+              "finMs": 25040
+            },
+            {
+              "palabra": "misión",
+              "inicioMs": 25040,
+              "finMs": 25360
+            },
+            {
+              "palabra": "sagrada",
+              "inicioMs": 25360,
+              "finMs": 25680
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 25680,
+              "finMs": 25860
+            },
+            {
+              "palabra": "nuestra",
+              "inicioMs": 25860,
+              "finMs": 26100
+            },
+            {
+              "palabra": "especie",
+              "inicioMs": 26100,
+              "finMs": 26380
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 52.36
+    }
+  ]
+}

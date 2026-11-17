@@ -1,0 +1,4772 @@
+{
+  "meta": {
+    "id": "doc_013_efecto_placebo",
+    "slug": "efecto_placebo_farmacia_secreta_cerebro",
+    "titulo": "El Efecto Placebo: Cómo tu Sistema Nervioso Fabrica Fármacos Reales por Creencia",
+    "premisa": "Cuando crees firmemente que una pastilla inerte de azúcar o una inyección de agua salina es un fármaco potente, tu cerebro activa la producción bioquímica real de endorfinas, dopamina y opioides endógenos que alteran tu fisiología.",
+    "gancho": "¿Cómo puede una simple pastilla de harina calmar el dolor físico y engañar a la química del cuerpo?",
+    "categoria": "Science & Technology",
+    "duracionObjetivo": [
+      420,
+      500
+    ],
+    "fps": 30,
+    "dimensiones": {
+      "width": 1920,
+      "height": 1080
+    },
+    "idioma": "es",
+    "voz": "alex.conds.pt",
+    "musicaPrincipal": "bgm/bgm.mp3",
+    "volumenMusica": 0.12,
+    "fuentes": [
+      "Beecher, H. K. (1955). The Powerful Placebo. JAMA.",
+      "Benedetti, F. (2014). Placebo Effects: Understanding the Mechanisms in Health and Disease. Oxford.",
+      "Wager, T. D., & Atlas, L. Y. (2015). The neuroscience of placebo effects. Nature Reviews Neuroscience."
+    ],
+    "tags": [
+      "neurociencia",
+      "medicina",
+      "cerebro",
+      "placebo",
+      "psicologia",
+      "mente",
+      "documental"
+    ]
+  },
+  "capitulos": [
+    {
+      "id": "cap_1",
+      "numero": 1,
+      "titulo": "El Cirujano sin Morfina en Anzio",
+      "resumen": "Henry Beecher en 1944 y el nacimiento accidental del placebo moderno.",
+      "escenas": [
+        {
+          "id": 1,
+          "texto": "Durante la Segunda Guerra Mundial, en el sangriento desembarco aliado de Anzio en mil novecientos cuarenta y cuatro, el médico anestesiólogo estadounidense Henry Beecher se enfrentaba a una pesadilla médica: las camillas desbordaban de soldados gravemente heridos con fracturas expuestas y miembros amputados, y las reservas de morfina para calmar los dolores agónicos se habían agotado por completo. En medio de la desesperación, una enfermera militar decidió tomar una jeringa, llenarla con agua salina esterilizada e inyectársela a un soldado desgarrado, asegurándole solemnemente que se trataba de una potente dosis de morfina pura.",
+          "tituloVisual": "ANZIO, 1944",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "habitacion_noche",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "Segunda Guerra Mundial",
+            "Henry Beecher",
+            "desembarco de Anzio",
+            "agua salina"
+          ],
+          "poseId": "reading_clipboard",
+          "expresion": "shocked",
+          "duracionSegundos": 32.842,
+          "palabras": [
+            {
+              "palabra": "Durante",
+              "inicioMs": 0,
+              "finMs": 360
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 360,
+              "finMs": 520
+            },
+            {
+              "palabra": "Segunda",
+              "inicioMs": 520,
+              "finMs": 880
+            },
+            {
+              "palabra": "Guerra",
+              "inicioMs": 880,
+              "finMs": 1040
+            },
+            {
+              "palabra": "Mundial",
+              "inicioMs": 1040,
+              "finMs": 1520
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 1680,
+              "finMs": 1700
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 1700,
+              "finMs": 1820
+            },
+            {
+              "palabra": "sangriento",
+              "inicioMs": 1920,
+              "finMs": 2240
+            },
+            {
+              "palabra": "desembarco",
+              "inicioMs": 2400,
+              "finMs": 2880
+            },
+            {
+              "palabra": "aliado",
+              "inicioMs": 2880,
+              "finMs": 3180
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3180,
+              "finMs": 3360
+            },
+            {
+              "palabra": "Anzio",
+              "inicioMs": 3360,
+              "finMs": 3640
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 3640,
+              "finMs": 3800
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 3800,
+              "finMs": 4033
+            },
+            {
+              "palabra": "novecientos",
+              "inicioMs": 4033,
+              "finMs": 4267
+            },
+            {
+              "palabra": "cuarenta",
+              "inicioMs": 4267,
+              "finMs": 4500
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 4500,
+              "finMs": 4733
+            },
+            {
+              "palabra": "cuatro",
+              "inicioMs": 4733,
+              "finMs": 4967
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 5200,
+              "finMs": 5260
+            },
+            {
+              "palabra": "médico",
+              "inicioMs": 5260,
+              "finMs": 5520
+            },
+            {
+              "palabra": "anestesiólogo",
+              "inicioMs": 5520,
+              "finMs": 6160
+            },
+            {
+              "palabra": "estadounidense",
+              "inicioMs": 6640,
+              "finMs": 7140
+            },
+            {
+              "palabra": "Henry",
+              "inicioMs": 7140,
+              "finMs": 7520
+            },
+            {
+              "palabra": "Beecher",
+              "inicioMs": 7520,
+              "finMs": 7940
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 7940,
+              "finMs": 8220
+            },
+            {
+              "palabra": "enfrentaba",
+              "inicioMs": 8220,
+              "finMs": 8780
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 8780,
+              "finMs": 8900
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 8900,
+              "finMs": 9060
+            },
+            {
+              "palabra": "pesadilla",
+              "inicioMs": 9060,
+              "finMs": 9500
+            },
+            {
+              "palabra": "médica",
+              "inicioMs": 9500,
+              "finMs": 9900
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 10140,
+              "finMs": 10280
+            },
+            {
+              "palabra": "camillas",
+              "inicioMs": 10280,
+              "finMs": 10620
+            },
+            {
+              "palabra": "desbordaban",
+              "inicioMs": 10620,
+              "finMs": 11260
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11260,
+              "finMs": 11385
+            },
+            {
+              "palabra": "soldados",
+              "inicioMs": 11260,
+              "finMs": 11860
+            },
+            {
+              "palabra": "gravemente",
+              "inicioMs": 11860,
+              "finMs": 12420
+            },
+            {
+              "palabra": "heridos",
+              "inicioMs": 12420,
+              "finMs": 12740
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 12740,
+              "finMs": 12980
+            },
+            {
+              "palabra": "fracturas",
+              "inicioMs": 12980,
+              "finMs": 13400
+            },
+            {
+              "palabra": "expuestas",
+              "inicioMs": 13400,
+              "finMs": 13980
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 13980,
+              "finMs": 14200
+            },
+            {
+              "palabra": "miembros",
+              "inicioMs": 14200,
+              "finMs": 14500
+            },
+            {
+              "palabra": "amputados",
+              "inicioMs": 14500,
+              "finMs": 15200
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 15440,
+              "finMs": 15520
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 15520,
+              "finMs": 15660
+            },
+            {
+              "palabra": "reservas",
+              "inicioMs": 15660,
+              "finMs": 16100
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 16100,
+              "finMs": 16200
+            },
+            {
+              "palabra": "morfina",
+              "inicioMs": 16200,
+              "finMs": 16580
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 16580,
+              "finMs": 16800
+            },
+            {
+              "palabra": "calmar",
+              "inicioMs": 16800,
+              "finMs": 17100
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 17100,
+              "finMs": 17340
+            },
+            {
+              "palabra": "dolores",
+              "inicioMs": 17340,
+              "finMs": 17620
+            },
+            {
+              "palabra": "agónicos",
+              "inicioMs": 17620,
+              "finMs": 18040
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 18040,
+              "finMs": 18200
+            },
+            {
+              "palabra": "habían",
+              "inicioMs": 18200,
+              "finMs": 18360
+            },
+            {
+              "palabra": "agotado",
+              "inicioMs": 18360,
+              "finMs": 18780
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 18780,
+              "finMs": 18960
+            },
+            {
+              "palabra": "completo",
+              "inicioMs": 18960,
+              "finMs": 19440
+            },
+            {
+              "palabra": "En",
+              "inicioMs": 19620,
+              "finMs": 19720
+            },
+            {
+              "palabra": "medio",
+              "inicioMs": 19720,
+              "finMs": 19980
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19980,
+              "finMs": 20140
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 20140,
+              "finMs": 20260
+            },
+            {
+              "palabra": "desesperación",
+              "inicioMs": 20260,
+              "finMs": 20960
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 21180,
+              "finMs": 21280
+            },
+            {
+              "palabra": "enfermera",
+              "inicioMs": 21280,
+              "finMs": 21700
+            },
+            {
+              "palabra": "militar",
+              "inicioMs": 21700,
+              "finMs": 22120
+            },
+            {
+              "palabra": "decidió",
+              "inicioMs": 22120,
+              "finMs": 22700
+            },
+            {
+              "palabra": "tomar",
+              "inicioMs": 22700,
+              "finMs": 22940
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 22940,
+              "finMs": 23160
+            },
+            {
+              "palabra": "jeringa",
+              "inicioMs": 23160,
+              "finMs": 23700
+            },
+            {
+              "palabra": "llenarla",
+              "inicioMs": 24280,
+              "finMs": 24680
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 24680,
+              "finMs": 24880
+            },
+            {
+              "palabra": "agua",
+              "inicioMs": 24880,
+              "finMs": 25120
+            },
+            {
+              "palabra": "salina",
+              "inicioMs": 25120,
+              "finMs": 25500
+            },
+            {
+              "palabra": "esterilizada",
+              "inicioMs": 25500,
+              "finMs": 26100
+            },
+            {
+              "palabra": "e",
+              "inicioMs": 26100,
+              "finMs": 26400
+            },
+            {
+              "palabra": "inyectársela",
+              "inicioMs": 26400,
+              "finMs": 26900
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 26900,
+              "finMs": 27120
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 27120,
+              "finMs": 27260
+            },
+            {
+              "palabra": "soldado",
+              "inicioMs": 27260,
+              "finMs": 27620
+            },
+            {
+              "palabra": "desgarrado",
+              "inicioMs": 27620,
+              "finMs": 28320
+            },
+            {
+              "palabra": "asegurándole",
+              "inicioMs": 28800,
+              "finMs": 29320
+            },
+            {
+              "palabra": "solemnemente",
+              "inicioMs": 29320,
+              "finMs": 29920
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 29920,
+              "finMs": 30100
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 30100,
+              "finMs": 30220
+            },
+            {
+              "palabra": "trataba",
+              "inicioMs": 30220,
+              "finMs": 30560
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 30560,
+              "finMs": 30660
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 30660,
+              "finMs": 30800
+            },
+            {
+              "palabra": "potente",
+              "inicioMs": 30800,
+              "finMs": 31180
+            },
+            {
+              "palabra": "dosis",
+              "inicioMs": 31180,
+              "finMs": 31540
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 31540,
+              "finMs": 31620
+            },
+            {
+              "palabra": "morfina",
+              "inicioMs": 31620,
+              "finMs": 32000
+            },
+            {
+              "palabra": "pura",
+              "inicioMs": 32000,
+              "finMs": 32380
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "texto": "Para estupefacción de Beecher, el milagro ocurrió: el soldado se calmó en cuestión de segundos, su respiración agitada se normalizó, el dolor desapareció de su rostro y pudo ser operado sin caer en shock quirúrgico. Aquella jeringa sin fármaco activo salvó docenas de vidas en el frente. Al regresar a los Estados Unidos, Beecher publicó en mil novecientos cincuenta y cinco un célebre artículo titulado The Powerful Placebo, dando inicio al estudio científico riguroso de una de las capacidades más enigmáticas del cerebro humano.",
+          "tituloVisual": "THE POWERFUL PLACEBO",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "shock quirúrgico",
+            "The Powerful Placebo",
+            "mil novecientos cincuenta y cinco",
+            "dolor desaparecido"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "eureka",
+          "infografia": {
+            "tipo": "dato_clave",
+            "titulo": "Eficacia Documentada",
+            "subtitulo": "Respuesta al Placebo de Beecher (1955)",
+            "valorPrincipal": "35%",
+            "unidad": "de pacientes con alivio real",
+            "items": [
+              {
+                "etiqueta": "Alivio clínico significativo",
+                "valor": "35% en 15 estudios",
+                "porcentaje": 35,
+                "color": "#FFE600"
+              },
+              {
+                "etiqueta": "Principio farmacológico activo",
+                "valor": "0% (Agua con sal / azúcar)",
+                "porcentaje": 0,
+                "color": "#38BDF8"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 26.866,
+          "palabras": [
+            {
+              "palabra": "Para",
+              "inicioMs": 0,
+              "finMs": 240
+            },
+            {
+              "palabra": "estupefacción",
+              "inicioMs": 240,
+              "finMs": 840
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 840,
+              "finMs": 1060
+            },
+            {
+              "palabra": "Beecher",
+              "inicioMs": 1060,
+              "finMs": 1380
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 1540,
+              "finMs": 1640
+            },
+            {
+              "palabra": "milagro",
+              "inicioMs": 1640,
+              "finMs": 1980
+            },
+            {
+              "palabra": "ocurrió",
+              "inicioMs": 1980,
+              "finMs": 2340
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 2460,
+              "finMs": 2560
+            },
+            {
+              "palabra": "soldado",
+              "inicioMs": 2560,
+              "finMs": 2860
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 2860,
+              "finMs": 3060
+            },
+            {
+              "palabra": "calmó",
+              "inicioMs": 3060,
+              "finMs": 3340
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 3340,
+              "finMs": 3420
+            },
+            {
+              "palabra": "cuestión",
+              "inicioMs": 3420,
+              "finMs": 3680
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3680,
+              "finMs": 3840
+            },
+            {
+              "palabra": "segundos",
+              "inicioMs": 3840,
+              "finMs": 4240
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 4360,
+              "finMs": 4440
+            },
+            {
+              "palabra": "respiración",
+              "inicioMs": 4440,
+              "finMs": 4940
+            },
+            {
+              "palabra": "agitada",
+              "inicioMs": 4940,
+              "finMs": 5340
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 5340,
+              "finMs": 5520
+            },
+            {
+              "palabra": "normalizó",
+              "inicioMs": 5520,
+              "finMs": 6040
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 6220,
+              "finMs": 6340
+            },
+            {
+              "palabra": "dolor",
+              "inicioMs": 6340,
+              "finMs": 6540
+            },
+            {
+              "palabra": "desapareció",
+              "inicioMs": 6540,
+              "finMs": 7200
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 7200,
+              "finMs": 7320
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 7320,
+              "finMs": 7460
+            },
+            {
+              "palabra": "rostro",
+              "inicioMs": 7460,
+              "finMs": 7760
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 7760,
+              "finMs": 7880
+            },
+            {
+              "palabra": "pudo",
+              "inicioMs": 7880,
+              "finMs": 8080
+            },
+            {
+              "palabra": "ser",
+              "inicioMs": 8080,
+              "finMs": 8220
+            },
+            {
+              "palabra": "operado",
+              "inicioMs": 8220,
+              "finMs": 8620
+            },
+            {
+              "palabra": "sin",
+              "inicioMs": 8620,
+              "finMs": 8840
+            },
+            {
+              "palabra": "caer",
+              "inicioMs": 8840,
+              "finMs": 9040
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 9040,
+              "finMs": 9160
+            },
+            {
+              "palabra": "shock",
+              "inicioMs": 9160,
+              "finMs": 9360
+            },
+            {
+              "palabra": "quirúrgico",
+              "inicioMs": 9360,
+              "finMs": 9940
+            },
+            {
+              "palabra": "Aquella",
+              "inicioMs": 10100,
+              "finMs": 10380
+            },
+            {
+              "palabra": "jeringa",
+              "inicioMs": 10380,
+              "finMs": 10780
+            },
+            {
+              "palabra": "sin",
+              "inicioMs": 10780,
+              "finMs": 10940
+            },
+            {
+              "palabra": "fármaco",
+              "inicioMs": 10940,
+              "finMs": 11380
+            },
+            {
+              "palabra": "activo",
+              "inicioMs": 11380,
+              "finMs": 11800
+            },
+            {
+              "palabra": "salvó",
+              "inicioMs": 11800,
+              "finMs": 11890
+            },
+            {
+              "palabra": "docenas",
+              "inicioMs": 11980,
+              "finMs": 12400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12400,
+              "finMs": 12600
+            },
+            {
+              "palabra": "vidas",
+              "inicioMs": 12600,
+              "finMs": 12840
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 12840,
+              "finMs": 12980
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 12980,
+              "finMs": 13080
+            },
+            {
+              "palabra": "frente",
+              "inicioMs": 13080,
+              "finMs": 13420
+            },
+            {
+              "palabra": "Al",
+              "inicioMs": 13580,
+              "finMs": 13660
+            },
+            {
+              "palabra": "regresar",
+              "inicioMs": 13660,
+              "finMs": 14120
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 14120,
+              "finMs": 14200
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 14200,
+              "finMs": 14320
+            },
+            {
+              "palabra": "Estados",
+              "inicioMs": 14320,
+              "finMs": 14560
+            },
+            {
+              "palabra": "Unidos",
+              "inicioMs": 14560,
+              "finMs": 15000
+            },
+            {
+              "palabra": "Beecher",
+              "inicioMs": 15280,
+              "finMs": 15540
+            },
+            {
+              "palabra": "publicó",
+              "inicioMs": 15540,
+              "finMs": 16020
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 16020,
+              "finMs": 16140
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 16140,
+              "finMs": 16317
+            },
+            {
+              "palabra": "novecientos",
+              "inicioMs": 16317,
+              "finMs": 16493
+            },
+            {
+              "palabra": "cincuenta",
+              "inicioMs": 16493,
+              "finMs": 16670
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 16670,
+              "finMs": 16847
+            },
+            {
+              "palabra": "cinco",
+              "inicioMs": 16847,
+              "finMs": 17023
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 17200,
+              "finMs": 17980
+            },
+            {
+              "palabra": "célebre",
+              "inicioMs": 17980,
+              "finMs": 18360
+            },
+            {
+              "palabra": "artículo",
+              "inicioMs": 18360,
+              "finMs": 18940
+            },
+            {
+              "palabra": "titulado",
+              "inicioMs": 18940,
+              "finMs": 19540
+            },
+            {
+              "palabra": "The",
+              "inicioMs": 19540,
+              "finMs": 19640
+            },
+            {
+              "palabra": "Powerful",
+              "inicioMs": 19740,
+              "finMs": 20220
+            },
+            {
+              "palabra": "Placebo",
+              "inicioMs": 20220,
+              "finMs": 20740
+            },
+            {
+              "palabra": "dando",
+              "inicioMs": 21220,
+              "finMs": 21700
+            },
+            {
+              "palabra": "inicio",
+              "inicioMs": 21700,
+              "finMs": 22080
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 22080,
+              "finMs": 22200
+            },
+            {
+              "palabra": "estudio",
+              "inicioMs": 22200,
+              "finMs": 22440
+            },
+            {
+              "palabra": "científico",
+              "inicioMs": 22440,
+              "finMs": 23100
+            },
+            {
+              "palabra": "riguroso",
+              "inicioMs": 23100,
+              "finMs": 23680
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 23680,
+              "finMs": 23860
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 23860,
+              "finMs": 24020
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 24020,
+              "finMs": 24100
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 24100,
+              "finMs": 24240
+            },
+            {
+              "palabra": "capacidades",
+              "inicioMs": 24240,
+              "finMs": 24780
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 24780,
+              "finMs": 25040
+            },
+            {
+              "palabra": "enigmáticas",
+              "inicioMs": 25040,
+              "finMs": 25600
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 25600,
+              "finMs": 25780
+            },
+            {
+              "palabra": "cerebro",
+              "inicioMs": 25780,
+              "finMs": 26060
+            },
+            {
+              "palabra": "humano",
+              "inicioMs": 26060,
+              "finMs": 26380
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 59.71
+    },
+    {
+      "id": "cap_2",
+      "numero": 2,
+      "titulo": "No es Sugestión Psicológica: Es Neuroquímica Pura",
+      "resumen": "La producción real de endorfinas y dopamina demostrada con naloxona.",
+      "escenas": [
+        {
+          "id": 3,
+          "texto": "Durante décadas se consideró despectivamente que el efecto placebo era una simple debilidad psicológica de pacientes crédulos o imaginativos. Pero en mil novecientos setenta y ocho, un experimento histórico dirigido por Jon Levine en la Universidad de California demostró que el placebo es un proceso biológico real y medible. Levine administró un placebo analgésico a pacientes tras una extracción dental dolorosa, logrando un alivio notable del dolor.",
+          "tituloVisual": "EXPERIMENTO DE LEVINE",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "laboratorio",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "Jon Levine",
+            "Universidad de California",
+            "proceso biológico real",
+            "extracción dental"
+          ],
+          "poseId": "walking_confidently",
+          "expresion": "analytical",
+          "duracionSegundos": 23.578,
+          "palabras": [
+            {
+              "palabra": "Durante",
+              "inicioMs": 0,
+              "finMs": 380
+            },
+            {
+              "palabra": "décadas",
+              "inicioMs": 380,
+              "finMs": 800
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 980,
+              "finMs": 1000
+            },
+            {
+              "palabra": "consideró",
+              "inicioMs": 1000,
+              "finMs": 1500
+            },
+            {
+              "palabra": "despectivamente",
+              "inicioMs": 1500,
+              "finMs": 2100
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 2100,
+              "finMs": 2440
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 2440,
+              "finMs": 2540
+            },
+            {
+              "palabra": "efecto",
+              "inicioMs": 2540,
+              "finMs": 2760
+            },
+            {
+              "palabra": "placebo",
+              "inicioMs": 2760,
+              "finMs": 3220
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 3220,
+              "finMs": 3520
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 3520,
+              "finMs": 3660
+            },
+            {
+              "palabra": "simple",
+              "inicioMs": 3660,
+              "finMs": 4020
+            },
+            {
+              "palabra": "debilidad",
+              "inicioMs": 4020,
+              "finMs": 4480
+            },
+            {
+              "palabra": "psicológica",
+              "inicioMs": 4480,
+              "finMs": 5060
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5060,
+              "finMs": 5220
+            },
+            {
+              "palabra": "pacientes",
+              "inicioMs": 5220,
+              "finMs": 5600
+            },
+            {
+              "palabra": "crédulos",
+              "inicioMs": 5600,
+              "finMs": 6140
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 6360,
+              "finMs": 6460
+            },
+            {
+              "palabra": "imaginativos",
+              "inicioMs": 6460,
+              "finMs": 7580
+            },
+            {
+              "palabra": "Pero",
+              "inicioMs": 7800,
+              "finMs": 7940
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 7940,
+              "finMs": 8100
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 8100,
+              "finMs": 8397
+            },
+            {
+              "palabra": "novecientos",
+              "inicioMs": 8397,
+              "finMs": 8693
+            },
+            {
+              "palabra": "setenta",
+              "inicioMs": 8693,
+              "finMs": 8990
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 8990,
+              "finMs": 9287
+            },
+            {
+              "palabra": "ocho",
+              "inicioMs": 9287,
+              "finMs": 9583
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 9880,
+              "finMs": 10180
+            },
+            {
+              "palabra": "experimento",
+              "inicioMs": 10180,
+              "finMs": 10760
+            },
+            {
+              "palabra": "histórico",
+              "inicioMs": 10760,
+              "finMs": 11160
+            },
+            {
+              "palabra": "dirigido",
+              "inicioMs": 11160,
+              "finMs": 11600
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 11600,
+              "finMs": 11780
+            },
+            {
+              "palabra": "Jon",
+              "inicioMs": 11780,
+              "finMs": 12000
+            },
+            {
+              "palabra": "Levine",
+              "inicioMs": 12000,
+              "finMs": 12280
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 12280,
+              "finMs": 12520
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 12520,
+              "finMs": 12620
+            },
+            {
+              "palabra": "Universidad",
+              "inicioMs": 12620,
+              "finMs": 13020
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 13020,
+              "finMs": 13160
+            },
+            {
+              "palabra": "California",
+              "inicioMs": 13160,
+              "finMs": 13620
+            },
+            {
+              "palabra": "demostró",
+              "inicioMs": 13620,
+              "finMs": 14320
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 14320,
+              "finMs": 14460
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 14460,
+              "finMs": 14520
+            },
+            {
+              "palabra": "placebo",
+              "inicioMs": 14520,
+              "finMs": 14740
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 14740,
+              "finMs": 15020
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 15020,
+              "finMs": 15140
+            },
+            {
+              "palabra": "proceso",
+              "inicioMs": 15140,
+              "finMs": 15440
+            },
+            {
+              "palabra": "biológico",
+              "inicioMs": 15440,
+              "finMs": 16060
+            },
+            {
+              "palabra": "real",
+              "inicioMs": 16060,
+              "finMs": 16420
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 16420,
+              "finMs": 16640
+            },
+            {
+              "palabra": "medible",
+              "inicioMs": 16640,
+              "finMs": 17040
+            },
+            {
+              "palabra": "Levine",
+              "inicioMs": 17260,
+              "finMs": 17480
+            },
+            {
+              "palabra": "administró",
+              "inicioMs": 17480,
+              "finMs": 17980
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 17980,
+              "finMs": 18080
+            },
+            {
+              "palabra": "placebo",
+              "inicioMs": 18080,
+              "finMs": 18340
+            },
+            {
+              "palabra": "analgésico",
+              "inicioMs": 18340,
+              "finMs": 18980
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 18980,
+              "finMs": 19080
+            },
+            {
+              "palabra": "pacientes",
+              "inicioMs": 19080,
+              "finMs": 19560
+            },
+            {
+              "palabra": "tras",
+              "inicioMs": 19560,
+              "finMs": 19760
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 19760,
+              "finMs": 19980
+            },
+            {
+              "palabra": "extracción",
+              "inicioMs": 19980,
+              "finMs": 20440
+            },
+            {
+              "palabra": "dental",
+              "inicioMs": 20440,
+              "finMs": 20760
+            },
+            {
+              "palabra": "dolorosa",
+              "inicioMs": 20760,
+              "finMs": 21340
+            },
+            {
+              "palabra": "logrando",
+              "inicioMs": 21340,
+              "finMs": 21780
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 21780,
+              "finMs": 21960
+            },
+            {
+              "palabra": "alivio",
+              "inicioMs": 21960,
+              "finMs": 22280
+            },
+            {
+              "palabra": "notable",
+              "inicioMs": 22280,
+              "finMs": 22520
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 22520,
+              "finMs": 22840
+            },
+            {
+              "palabra": "dolor",
+              "inicioMs": 22840,
+              "finMs": 23100
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "texto": "Inmediatamente después, inyectó secretamente a los pacientes naloxona, un fármaco bloqueador que anula la acción de los opiáceos en el cerebro. Al entrar la naloxona en el torrente sanguíneo, el dolor regresó de golpe con toda su violencia. Esto demostró que cuando una persona cree firmemente que está recibiendo un analgésico, el cerebro no finge el alivio: abre sus propias compuertas neuroquímicas y sintetiza endorfinas y encefalinas reales, su propia morfina endógena.",
+          "tituloVisual": "BLOQUEO CON NALOXONA",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_left",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "naloxona",
+            "bloqueador de opiáceos",
+            "endorfinas y encefalinas",
+            "morfina endógena"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "eureka",
+          "infografia": {
+            "tipo": "tarjeta_concepto",
+            "titulo": "Prueba Farmacológica",
+            "subtitulo": "El Experimento de la Naloxona",
+            "valorPrincipal": "Endorfinas",
+            "unidad": "reales en sangre",
+            "items": [
+              {
+                "etiqueta": "Inyección Salina",
+                "valor": "Cerebro secreta endorfinas",
+                "porcentaje": 100,
+                "color": "#38BDF8"
+              },
+              {
+                "etiqueta": "+ Naloxona",
+                "valor": "Bloquea endorfinas (Regresa el dolor)",
+                "porcentaje": 0,
+                "color": "#EF4444"
+              }
+            ],
+            "colorAcento": "#EF4444"
+          },
+          "duracionSegundos": 23.818,
+          "palabras": [
+            {
+              "palabra": "Inmediatamente",
+              "inicioMs": 0,
+              "finMs": 540
+            },
+            {
+              "palabra": "después",
+              "inicioMs": 540,
+              "finMs": 1020
+            },
+            {
+              "palabra": "inyectó",
+              "inicioMs": 1260,
+              "finMs": 1660
+            },
+            {
+              "palabra": "secretamente",
+              "inicioMs": 1660,
+              "finMs": 2140
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 2140,
+              "finMs": 2300
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 2300,
+              "finMs": 2360
+            },
+            {
+              "palabra": "pacientes",
+              "inicioMs": 2360,
+              "finMs": 2700
+            },
+            {
+              "palabra": "naloxona",
+              "inicioMs": 2700,
+              "finMs": 3300
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 3800,
+              "finMs": 4000
+            },
+            {
+              "palabra": "fármaco",
+              "inicioMs": 4000,
+              "finMs": 4540
+            },
+            {
+              "palabra": "bloqueador",
+              "inicioMs": 4540,
+              "finMs": 5060
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 5060,
+              "finMs": 5240
+            },
+            {
+              "palabra": "anula",
+              "inicioMs": 5240,
+              "finMs": 5460
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5460,
+              "finMs": 5680
+            },
+            {
+              "palabra": "acción",
+              "inicioMs": 5680,
+              "finMs": 6020
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6020,
+              "finMs": 6200
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 6200,
+              "finMs": 6360
+            },
+            {
+              "palabra": "opiáceos",
+              "inicioMs": 6360,
+              "finMs": 6840
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 6840,
+              "finMs": 7020
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 7020,
+              "finMs": 7140
+            },
+            {
+              "palabra": "cerebro",
+              "inicioMs": 7140,
+              "finMs": 7520
+            },
+            {
+              "palabra": "Al",
+              "inicioMs": 7760,
+              "finMs": 7860
+            },
+            {
+              "palabra": "entrar",
+              "inicioMs": 7860,
+              "finMs": 8080
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 8080,
+              "finMs": 8280
+            },
+            {
+              "palabra": "naloxona",
+              "inicioMs": 8280,
+              "finMs": 8760
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 8760,
+              "finMs": 8900
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 8900,
+              "finMs": 8960
+            },
+            {
+              "palabra": "torrente",
+              "inicioMs": 8960,
+              "finMs": 9280
+            },
+            {
+              "palabra": "sanguíneo",
+              "inicioMs": 9280,
+              "finMs": 9780
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 9920,
+              "finMs": 10040
+            },
+            {
+              "palabra": "dolor",
+              "inicioMs": 10040,
+              "finMs": 10160
+            },
+            {
+              "palabra": "regresó",
+              "inicioMs": 10160,
+              "finMs": 10720
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 10720,
+              "finMs": 10840
+            },
+            {
+              "palabra": "golpe",
+              "inicioMs": 10840,
+              "finMs": 11020
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 11020,
+              "finMs": 11280
+            },
+            {
+              "palabra": "toda",
+              "inicioMs": 11280,
+              "finMs": 11460
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 11460,
+              "finMs": 11660
+            },
+            {
+              "palabra": "violencia",
+              "inicioMs": 11660,
+              "finMs": 12120
+            },
+            {
+              "palabra": "Esto",
+              "inicioMs": 12320,
+              "finMs": 12520
+            },
+            {
+              "palabra": "demostró",
+              "inicioMs": 12520,
+              "finMs": 12920
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 12920,
+              "finMs": 13040
+            },
+            {
+              "palabra": "cuando",
+              "inicioMs": 13040,
+              "finMs": 13260
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 13260,
+              "finMs": 13520
+            },
+            {
+              "palabra": "persona",
+              "inicioMs": 13520,
+              "finMs": 13860
+            },
+            {
+              "palabra": "cree",
+              "inicioMs": 13860,
+              "finMs": 14120
+            },
+            {
+              "palabra": "firmemente",
+              "inicioMs": 14120,
+              "finMs": 14620
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 14620,
+              "finMs": 14820
+            },
+            {
+              "palabra": "está",
+              "inicioMs": 14820,
+              "finMs": 15000
+            },
+            {
+              "palabra": "recibiendo",
+              "inicioMs": 15000,
+              "finMs": 15400
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 15400,
+              "finMs": 15560
+            },
+            {
+              "palabra": "analgésico",
+              "inicioMs": 15560,
+              "finMs": 16160
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 16300,
+              "finMs": 16380
+            },
+            {
+              "palabra": "cerebro",
+              "inicioMs": 16380,
+              "finMs": 16700
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 16700,
+              "finMs": 16860
+            },
+            {
+              "palabra": "finge",
+              "inicioMs": 16860,
+              "finMs": 17200
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 17200,
+              "finMs": 17270
+            },
+            {
+              "palabra": "alivio",
+              "inicioMs": 17340,
+              "finMs": 17720
+            },
+            {
+              "palabra": "abre",
+              "inicioMs": 17880,
+              "finMs": 18060
+            },
+            {
+              "palabra": "sus",
+              "inicioMs": 18060,
+              "finMs": 18200
+            },
+            {
+              "palabra": "propias",
+              "inicioMs": 18200,
+              "finMs": 18520
+            },
+            {
+              "palabra": "compuertas",
+              "inicioMs": 18520,
+              "finMs": 19020
+            },
+            {
+              "palabra": "neuroquímicas",
+              "inicioMs": 19020,
+              "finMs": 19720
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 19720,
+              "finMs": 19860
+            },
+            {
+              "palabra": "sintetiza",
+              "inicioMs": 19860,
+              "finMs": 20400
+            },
+            {
+              "palabra": "endorfinas",
+              "inicioMs": 20400,
+              "finMs": 20800
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 20800,
+              "finMs": 20960
+            },
+            {
+              "palabra": "encefalinas",
+              "inicioMs": 20960,
+              "finMs": 21420
+            },
+            {
+              "palabra": "reales",
+              "inicioMs": 21420,
+              "finMs": 21920
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 22060,
+              "finMs": 22160
+            },
+            {
+              "palabra": "propia",
+              "inicioMs": 22160,
+              "finMs": 22420
+            },
+            {
+              "palabra": "morfina",
+              "inicioMs": 22420,
+              "finMs": 22780
+            },
+            {
+              "palabra": "endógena",
+              "inicioMs": 22780,
+              "finMs": 23340
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 47.4
+    },
+    {
+      "id": "cap_3",
+      "numero": 3,
+      "titulo": "La Psicología del Color, el Precio y la Forma",
+      "resumen": "Por qué las pastillas rojas, caras o inyectadas curan más.",
+      "escenas": [
+        {
+          "id": 5,
+          "texto": "El poder del placebo está íntimamente ligado a la puesta en escena y las expectativas inconscientes del paciente. Numerosos ensayos clínicos han demostrado que el color de una pastilla de azúcar modifica su efecto fisiológico: las píldoras de color rojo o amarillo funcionan mucho mejor como estimulantes o antidepresivos, mientras que las píldoras azules o verdes son dos veces más efectivas como sedantes y relajantes musculares.",
+          "tituloVisual": "EL COLOR DE LA CURA",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "laboratorio",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "expectativas inconscientes",
+            "color de la pastilla",
+            "sedantes azules",
+            "estimulantes rojos"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "talking",
+          "duracionSegundos": 23.098,
+          "palabras": [
+            {
+              "palabra": "El",
+              "inicioMs": 0,
+              "finMs": 180
+            },
+            {
+              "palabra": "poder",
+              "inicioMs": 180,
+              "finMs": 440
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 440,
+              "finMs": 700
+            },
+            {
+              "palabra": "placebo",
+              "inicioMs": 700,
+              "finMs": 1000
+            },
+            {
+              "palabra": "está",
+              "inicioMs": 1000,
+              "finMs": 1460
+            },
+            {
+              "palabra": "íntimamente",
+              "inicioMs": 1460,
+              "finMs": 2160
+            },
+            {
+              "palabra": "ligado",
+              "inicioMs": 2160,
+              "finMs": 2560
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 2560,
+              "finMs": 2720
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 2720,
+              "finMs": 2800
+            },
+            {
+              "palabra": "puesta",
+              "inicioMs": 2800,
+              "finMs": 3120
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 3120,
+              "finMs": 3300
+            },
+            {
+              "palabra": "escena",
+              "inicioMs": 3300,
+              "finMs": 3720
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 3720,
+              "finMs": 4080
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 4080,
+              "finMs": 4220
+            },
+            {
+              "palabra": "expectativas",
+              "inicioMs": 4220,
+              "finMs": 4900
+            },
+            {
+              "palabra": "inconscientes",
+              "inicioMs": 4900,
+              "finMs": 5640
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 5640,
+              "finMs": 5780
+            },
+            {
+              "palabra": "paciente",
+              "inicioMs": 5780,
+              "finMs": 6280
+            },
+            {
+              "palabra": "Numerosos",
+              "inicioMs": 6440,
+              "finMs": 6820
+            },
+            {
+              "palabra": "ensayos",
+              "inicioMs": 6820,
+              "finMs": 7380
+            },
+            {
+              "palabra": "clínicos",
+              "inicioMs": 7380,
+              "finMs": 7840
+            },
+            {
+              "palabra": "han",
+              "inicioMs": 7840,
+              "finMs": 8140
+            },
+            {
+              "palabra": "demostrado",
+              "inicioMs": 8140,
+              "finMs": 8640
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 8640,
+              "finMs": 8880
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 8880,
+              "finMs": 8980
+            },
+            {
+              "palabra": "color",
+              "inicioMs": 8980,
+              "finMs": 9200
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9200,
+              "finMs": 9360
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 9360,
+              "finMs": 9480
+            },
+            {
+              "palabra": "pastilla",
+              "inicioMs": 9480,
+              "finMs": 9900
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9900,
+              "finMs": 10020
+            },
+            {
+              "palabra": "azúcar",
+              "inicioMs": 10020,
+              "finMs": 10360
+            },
+            {
+              "palabra": "modifica",
+              "inicioMs": 10360,
+              "finMs": 11080
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 11080,
+              "finMs": 11300
+            },
+            {
+              "palabra": "efecto",
+              "inicioMs": 11300,
+              "finMs": 11600
+            },
+            {
+              "palabra": "fisiológico",
+              "inicioMs": 11600,
+              "finMs": 12360
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 12520,
+              "finMs": 12660
+            },
+            {
+              "palabra": "píldoras",
+              "inicioMs": 12660,
+              "finMs": 13060
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 13060,
+              "finMs": 13200
+            },
+            {
+              "palabra": "color",
+              "inicioMs": 13200,
+              "finMs": 13380
+            },
+            {
+              "palabra": "rojo",
+              "inicioMs": 13380,
+              "finMs": 13760
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 13760,
+              "finMs": 13900
+            },
+            {
+              "palabra": "amarillo",
+              "inicioMs": 13900,
+              "finMs": 14200
+            },
+            {
+              "palabra": "funcionan",
+              "inicioMs": 14200,
+              "finMs": 14680
+            },
+            {
+              "palabra": "mucho",
+              "inicioMs": 14680,
+              "finMs": 14920
+            },
+            {
+              "palabra": "mejor",
+              "inicioMs": 14920,
+              "finMs": 15260
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 15260,
+              "finMs": 15480
+            },
+            {
+              "palabra": "estimulantes",
+              "inicioMs": 15480,
+              "finMs": 16080
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 16080,
+              "finMs": 16260
+            },
+            {
+              "palabra": "antidepresivos",
+              "inicioMs": 16260,
+              "finMs": 17000
+            },
+            {
+              "palabra": "mientras",
+              "inicioMs": 17220,
+              "finMs": 17400
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 17400,
+              "finMs": 17580
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 17580,
+              "finMs": 17700
+            },
+            {
+              "palabra": "píldoras",
+              "inicioMs": 17700,
+              "finMs": 18100
+            },
+            {
+              "palabra": "azules",
+              "inicioMs": 18100,
+              "finMs": 18440
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 18440,
+              "finMs": 18660
+            },
+            {
+              "palabra": "verdes",
+              "inicioMs": 18660,
+              "finMs": 19060
+            },
+            {
+              "palabra": "son",
+              "inicioMs": 19060,
+              "finMs": 19420
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 19420,
+              "finMs": 19620
+            },
+            {
+              "palabra": "veces",
+              "inicioMs": 19620,
+              "finMs": 19880
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 19880,
+              "finMs": 20140
+            },
+            {
+              "palabra": "efectivas",
+              "inicioMs": 20140,
+              "finMs": 20720
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 20720,
+              "finMs": 20940
+            },
+            {
+              "palabra": "sedantes",
+              "inicioMs": 20940,
+              "finMs": 21400
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 21400,
+              "finMs": 21560
+            },
+            {
+              "palabra": "relajantes",
+              "inicioMs": 21560,
+              "finMs": 22020
+            },
+            {
+              "palabra": "musculares",
+              "inicioMs": 22020,
+              "finMs": 22640
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "texto": "Y la jerarquía no se detiene allí: dos pastillas de azúcar funcionan mejor que una sola; una cápsula grande es más potente que una pequeña; una inyección salina falsa supera ampliamente a una pastilla; y el simulacro de una cirugía compleja bajo anestesia supera a todo lo anterior. Incluso el precio influye: un placebo comercializado a dos dólares y medio calma el dolor significativamente más que la misma pastilla idéntica etiquetada con un descuento de diez centavos.",
+          "tituloVisual": "JERARQUIA DE LA EXPECTATIVA",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "inyección falsa",
+            "cirugía simulada",
+            "precio comercial",
+            "diez centavos"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "shocked",
+          "infografia": {
+            "tipo": "grafico_barras",
+            "titulo": "Potencia del Ritual",
+            "subtitulo": "Eficacia según Método de Administración",
+            "valorPrincipal": "Ritual",
+            "unidad": "Impacto mental",
+            "items": [
+              {
+                "etiqueta": "Píldora blanca simple",
+                "valor": "Efecto basal",
+                "porcentaje": 30,
+                "color": "#94A3B8"
+              },
+              {
+                "etiqueta": "Inyección con bata médica",
+                "valor": "Efecto elevado",
+                "porcentaje": 70,
+                "color": "#38BDF8"
+              },
+              {
+                "etiqueta": "Cirugía simulada (Sham)",
+                "valor": "Máxima respuesta",
+                "porcentaje": 100,
+                "color": "#FFE600"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 24.322,
+          "palabras": [
+            {
+              "palabra": "Y",
+              "inicioMs": 0,
+              "finMs": 160
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 160,
+              "finMs": 260
+            },
+            {
+              "palabra": "jerarquía",
+              "inicioMs": 260,
+              "finMs": 680
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 680,
+              "finMs": 820
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 820,
+              "finMs": 960
+            },
+            {
+              "palabra": "detiene",
+              "inicioMs": 960,
+              "finMs": 1300
+            },
+            {
+              "palabra": "allí",
+              "inicioMs": 1300,
+              "finMs": 1540
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 1660,
+              "finMs": 1780
+            },
+            {
+              "palabra": "pastillas",
+              "inicioMs": 1780,
+              "finMs": 2160
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2160,
+              "finMs": 2320
+            },
+            {
+              "palabra": "azúcar",
+              "inicioMs": 2320,
+              "finMs": 2560
+            },
+            {
+              "palabra": "funcionan",
+              "inicioMs": 2560,
+              "finMs": 3060
+            },
+            {
+              "palabra": "mejor",
+              "inicioMs": 3060,
+              "finMs": 3320
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 3320,
+              "finMs": 3540
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 3540,
+              "finMs": 3720
+            },
+            {
+              "palabra": "sola",
+              "inicioMs": 3720,
+              "finMs": 3960
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 4180,
+              "finMs": 4340
+            },
+            {
+              "palabra": "cápsula",
+              "inicioMs": 4340,
+              "finMs": 4720
+            },
+            {
+              "palabra": "grande",
+              "inicioMs": 4720,
+              "finMs": 5000
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 5000,
+              "finMs": 5340
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 5340,
+              "finMs": 5480
+            },
+            {
+              "palabra": "potente",
+              "inicioMs": 5480,
+              "finMs": 5880
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 5880,
+              "finMs": 6060
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 6060,
+              "finMs": 6200
+            },
+            {
+              "palabra": "pequeña",
+              "inicioMs": 6200,
+              "finMs": 6560
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 6920,
+              "finMs": 7040
+            },
+            {
+              "palabra": "inyección",
+              "inicioMs": 7040,
+              "finMs": 7480
+            },
+            {
+              "palabra": "salina",
+              "inicioMs": 7480,
+              "finMs": 7880
+            },
+            {
+              "palabra": "falsa",
+              "inicioMs": 7880,
+              "finMs": 8320
+            },
+            {
+              "palabra": "supera",
+              "inicioMs": 8320,
+              "finMs": 8740
+            },
+            {
+              "palabra": "ampliamente",
+              "inicioMs": 8740,
+              "finMs": 9260
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 9260,
+              "finMs": 9380
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 9380,
+              "finMs": 9480
+            },
+            {
+              "palabra": "pastilla",
+              "inicioMs": 9480,
+              "finMs": 9980
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 10180,
+              "finMs": 10260
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 10260,
+              "finMs": 10360
+            },
+            {
+              "palabra": "simulacro",
+              "inicioMs": 10360,
+              "finMs": 10920
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 10920,
+              "finMs": 11040
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 11040,
+              "finMs": 11200
+            },
+            {
+              "palabra": "cirugía",
+              "inicioMs": 11200,
+              "finMs": 11640
+            },
+            {
+              "palabra": "compleja",
+              "inicioMs": 11640,
+              "finMs": 12200
+            },
+            {
+              "palabra": "bajo",
+              "inicioMs": 12200,
+              "finMs": 12380
+            },
+            {
+              "palabra": "anestesia",
+              "inicioMs": 12480,
+              "finMs": 13020
+            },
+            {
+              "palabra": "supera",
+              "inicioMs": 13020,
+              "finMs": 13520
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 13520,
+              "finMs": 13700
+            },
+            {
+              "palabra": "todo",
+              "inicioMs": 13700,
+              "finMs": 13900
+            },
+            {
+              "palabra": "lo",
+              "inicioMs": 13900,
+              "finMs": 14100
+            },
+            {
+              "palabra": "anterior",
+              "inicioMs": 14100,
+              "finMs": 14500
+            },
+            {
+              "palabra": "Incluso",
+              "inicioMs": 14660,
+              "finMs": 14940
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 14940,
+              "finMs": 15180
+            },
+            {
+              "palabra": "precio",
+              "inicioMs": 15180,
+              "finMs": 15420
+            },
+            {
+              "palabra": "influye",
+              "inicioMs": 15420,
+              "finMs": 15940
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 16160,
+              "finMs": 16280
+            },
+            {
+              "palabra": "placebo",
+              "inicioMs": 16280,
+              "finMs": 16660
+            },
+            {
+              "palabra": "comercializado",
+              "inicioMs": 16660,
+              "finMs": 17260
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 17260,
+              "finMs": 17420
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 17420,
+              "finMs": 17510
+            },
+            {
+              "palabra": "dólares",
+              "inicioMs": 17600,
+              "finMs": 17920
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 17920,
+              "finMs": 18220
+            },
+            {
+              "palabra": "medio",
+              "inicioMs": 18220,
+              "finMs": 18400
+            },
+            {
+              "palabra": "calma",
+              "inicioMs": 18400,
+              "finMs": 18780
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 18780,
+              "finMs": 18880
+            },
+            {
+              "palabra": "dolor",
+              "inicioMs": 18880,
+              "finMs": 19080
+            },
+            {
+              "palabra": "significativamente",
+              "inicioMs": 19080,
+              "finMs": 19920
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 19920,
+              "finMs": 20240
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 20240,
+              "finMs": 20420
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 20420,
+              "finMs": 20520
+            },
+            {
+              "palabra": "misma",
+              "inicioMs": 20520,
+              "finMs": 20740
+            },
+            {
+              "palabra": "pastilla",
+              "inicioMs": 20740,
+              "finMs": 21180
+            },
+            {
+              "palabra": "idéntica",
+              "inicioMs": 21180,
+              "finMs": 21720
+            },
+            {
+              "palabra": "etiquetada",
+              "inicioMs": 21720,
+              "finMs": 22220
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 22220,
+              "finMs": 22420
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 22420,
+              "finMs": 22540
+            },
+            {
+              "palabra": "descuento",
+              "inicioMs": 22540,
+              "finMs": 22980
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22980,
+              "finMs": 23140
+            },
+            {
+              "palabra": "diez",
+              "inicioMs": 23140,
+              "finMs": 23240
+            },
+            {
+              "palabra": "centavos",
+              "inicioMs": 23340,
+              "finMs": 23880
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 47.42
+    },
+    {
+      "id": "cap_4",
+      "numero": 4,
+      "titulo": "El Gemelo Oscuro: El Efecto Nocebo",
+      "resumen": "Cómo la expectativa del daño puede provocar síntomas físicos reales.",
+      "escenas": [
+        {
+          "id": 7,
+          "texto": "La capacidad del cerebro para alterar la fisiología tiene una vertiente oscura y peligrosa: el efecto nocebo. Si un médico o el prospecto de un medicamento advierten al paciente de posibles efectos secundarios como náuseas, migrañas o mareos, hasta un tercio de las personas que reciben una pastilla de almidón inofensiva desarrollarán esos mismos síntomas físicos con una intensidad demoledora, provocada exclusivamente por el miedo anticipatorio.",
+          "tituloVisual": "EL EFECTO NOCEBO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "laboratorio",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "efecto nocebo",
+            "prospecto de medicamento",
+            "miedo anticipatorio",
+            "síntomas reales"
+          ],
+          "poseId": "confused_scratch_head",
+          "expresion": "fear",
+          "duracionSegundos": 23.674,
+          "palabras": [
+            {
+              "palabra": "La",
+              "inicioMs": 0,
+              "finMs": 180
+            },
+            {
+              "palabra": "capacidad",
+              "inicioMs": 180,
+              "finMs": 540
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 540,
+              "finMs": 820
+            },
+            {
+              "palabra": "cerebro",
+              "inicioMs": 820,
+              "finMs": 1180
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 1180,
+              "finMs": 1380
+            },
+            {
+              "palabra": "alterar",
+              "inicioMs": 1380,
+              "finMs": 1700
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 1700,
+              "finMs": 1820
+            },
+            {
+              "palabra": "fisiología",
+              "inicioMs": 1820,
+              "finMs": 2300
+            },
+            {
+              "palabra": "tiene",
+              "inicioMs": 2300,
+              "finMs": 2660
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 2660,
+              "finMs": 2880
+            },
+            {
+              "palabra": "vertiente",
+              "inicioMs": 2880,
+              "finMs": 3180
+            },
+            {
+              "palabra": "oscura",
+              "inicioMs": 3180,
+              "finMs": 3680
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 3680,
+              "finMs": 3800
+            },
+            {
+              "palabra": "peligrosa",
+              "inicioMs": 3800,
+              "finMs": 4400
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 4400,
+              "finMs": 4720
+            },
+            {
+              "palabra": "efecto",
+              "inicioMs": 4720,
+              "finMs": 5040
+            },
+            {
+              "palabra": "nocebo",
+              "inicioMs": 5040,
+              "finMs": 5500
+            },
+            {
+              "palabra": "Si",
+              "inicioMs": 5720,
+              "finMs": 5800
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 5800,
+              "finMs": 5900
+            },
+            {
+              "palabra": "médico",
+              "inicioMs": 5900,
+              "finMs": 6200
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 6200,
+              "finMs": 6560
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 6560,
+              "finMs": 6660
+            },
+            {
+              "palabra": "prospecto",
+              "inicioMs": 6660,
+              "finMs": 7120
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 7120,
+              "finMs": 7200
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 7200,
+              "finMs": 7260
+            },
+            {
+              "palabra": "medicamento",
+              "inicioMs": 7260,
+              "finMs": 7820
+            },
+            {
+              "palabra": "advierten",
+              "inicioMs": 8040,
+              "finMs": 8340
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 8340,
+              "finMs": 8500
+            },
+            {
+              "palabra": "paciente",
+              "inicioMs": 8500,
+              "finMs": 8820
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8820,
+              "finMs": 8960
+            },
+            {
+              "palabra": "posibles",
+              "inicioMs": 8960,
+              "finMs": 9340
+            },
+            {
+              "palabra": "efectos",
+              "inicioMs": 9340,
+              "finMs": 9780
+            },
+            {
+              "palabra": "secundarios",
+              "inicioMs": 9780,
+              "finMs": 10280
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 10400,
+              "finMs": 10480
+            },
+            {
+              "palabra": "náuseas",
+              "inicioMs": 10480,
+              "finMs": 11040
+            },
+            {
+              "palabra": "migrañas",
+              "inicioMs": 11320,
+              "finMs": 11740
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 11740,
+              "finMs": 12040
+            },
+            {
+              "palabra": "mareos",
+              "inicioMs": 12040,
+              "finMs": 12520
+            },
+            {
+              "palabra": "hasta",
+              "inicioMs": 12740,
+              "finMs": 13000
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 13000,
+              "finMs": 13160
+            },
+            {
+              "palabra": "tercio",
+              "inicioMs": 13160,
+              "finMs": 13520
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 13520,
+              "finMs": 13620
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 13620,
+              "finMs": 13760
+            },
+            {
+              "palabra": "personas",
+              "inicioMs": 13760,
+              "finMs": 14160
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 14160,
+              "finMs": 14400
+            },
+            {
+              "palabra": "reciben",
+              "inicioMs": 14400,
+              "finMs": 14780
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 14780,
+              "finMs": 14960
+            },
+            {
+              "palabra": "pastilla",
+              "inicioMs": 14960,
+              "finMs": 15400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15400,
+              "finMs": 15560
+            },
+            {
+              "palabra": "almidón",
+              "inicioMs": 15560,
+              "finMs": 15860
+            },
+            {
+              "palabra": "inofensiva",
+              "inicioMs": 15960,
+              "finMs": 16540
+            },
+            {
+              "palabra": "desarrollarán",
+              "inicioMs": 16540,
+              "finMs": 17340
+            },
+            {
+              "palabra": "esos",
+              "inicioMs": 17340,
+              "finMs": 17580
+            },
+            {
+              "palabra": "mismos",
+              "inicioMs": 17580,
+              "finMs": 17960
+            },
+            {
+              "palabra": "síntomas",
+              "inicioMs": 17960,
+              "finMs": 18400
+            },
+            {
+              "palabra": "físicos",
+              "inicioMs": 18400,
+              "finMs": 18960
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 18960,
+              "finMs": 19180
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 19180,
+              "finMs": 19360
+            },
+            {
+              "palabra": "intensidad",
+              "inicioMs": 19360,
+              "finMs": 19880
+            },
+            {
+              "palabra": "demoledora",
+              "inicioMs": 20060,
+              "finMs": 20520
+            },
+            {
+              "palabra": "provocada",
+              "inicioMs": 20720,
+              "finMs": 21120
+            },
+            {
+              "palabra": "exclusivamente",
+              "inicioMs": 21120,
+              "finMs": 21820
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 21820,
+              "finMs": 22140
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 22140,
+              "finMs": 22280
+            },
+            {
+              "palabra": "miedo",
+              "inicioMs": 22280,
+              "finMs": 22440
+            },
+            {
+              "palabra": "anticipatorio",
+              "inicioMs": 22440,
+              "finMs": 23200
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "texto": "En la neurobiología del nocebo, la ansiedad y la expectativa del dolor disparan la liberación masiva de una molécula llamada colecistoquinina en el sistema nervioso central, la cual amplifica las señales nerviosas de dolor que viajan hacia la médula espinal. El cerebro puede enfermar físicamente al cuerpo si está convencido de que ha sido envenenado o perjudicado.",
+          "tituloVisual": "COLECISTOQUININA",
+          "layout": "split_screen",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_left",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "ansiedad patológica",
+            "colecistoquinina",
+            "médula espinal",
+            "amplificación del dolor"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "sad",
+          "duracionSegundos": 18.25,
+          "palabras": [
+            {
+              "palabra": "En",
+              "inicioMs": 0,
+              "finMs": 200
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 200,
+              "finMs": 300
+            },
+            {
+              "palabra": "neurobiología",
+              "inicioMs": 300,
+              "finMs": 1000
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 1000,
+              "finMs": 1300
+            },
+            {
+              "palabra": "nocebo",
+              "inicioMs": 1300,
+              "finMs": 1840
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 2020,
+              "finMs": 2080
+            },
+            {
+              "palabra": "ansiedad",
+              "inicioMs": 2080,
+              "finMs": 2420
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 2420,
+              "finMs": 2540
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 2540,
+              "finMs": 2600
+            },
+            {
+              "palabra": "expectativa",
+              "inicioMs": 2600,
+              "finMs": 3100
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 3100,
+              "finMs": 3300
+            },
+            {
+              "palabra": "dolor",
+              "inicioMs": 3300,
+              "finMs": 3520
+            },
+            {
+              "palabra": "disparan",
+              "inicioMs": 3520,
+              "finMs": 3980
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 3980,
+              "finMs": 4100
+            },
+            {
+              "palabra": "liberación",
+              "inicioMs": 4100,
+              "finMs": 4480
+            },
+            {
+              "palabra": "masiva",
+              "inicioMs": 4480,
+              "finMs": 4920
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4920,
+              "finMs": 5060
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 5060,
+              "finMs": 5180
+            },
+            {
+              "palabra": "molécula",
+              "inicioMs": 5180,
+              "finMs": 5640
+            },
+            {
+              "palabra": "llamada",
+              "inicioMs": 5640,
+              "finMs": 5980
+            },
+            {
+              "palabra": "colecistoquinina",
+              "inicioMs": 5980,
+              "finMs": 6980
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 6980,
+              "finMs": 7100
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 7100,
+              "finMs": 7180
+            },
+            {
+              "palabra": "sistema",
+              "inicioMs": 7180,
+              "finMs": 7480
+            },
+            {
+              "palabra": "nervioso",
+              "inicioMs": 7480,
+              "finMs": 7920
+            },
+            {
+              "palabra": "central",
+              "inicioMs": 7920,
+              "finMs": 8400
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 8640,
+              "finMs": 8720
+            },
+            {
+              "palabra": "cual",
+              "inicioMs": 8720,
+              "finMs": 8880
+            },
+            {
+              "palabra": "amplifica",
+              "inicioMs": 8880,
+              "finMs": 9360
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 9360,
+              "finMs": 9540
+            },
+            {
+              "palabra": "señales",
+              "inicioMs": 9540,
+              "finMs": 9840
+            },
+            {
+              "palabra": "nerviosas",
+              "inicioMs": 9840,
+              "finMs": 10360
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 10360,
+              "finMs": 10480
+            },
+            {
+              "palabra": "dolor",
+              "inicioMs": 10480,
+              "finMs": 10740
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 10740,
+              "finMs": 10960
+            },
+            {
+              "palabra": "viajan",
+              "inicioMs": 10960,
+              "finMs": 11260
+            },
+            {
+              "palabra": "hacia",
+              "inicioMs": 11260,
+              "finMs": 11500
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 11500,
+              "finMs": 11620
+            },
+            {
+              "palabra": "médula",
+              "inicioMs": 11620,
+              "finMs": 11900
+            },
+            {
+              "palabra": "espinal",
+              "inicioMs": 11900,
+              "finMs": 12320
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 12580,
+              "finMs": 12660
+            },
+            {
+              "palabra": "cerebro",
+              "inicioMs": 12660,
+              "finMs": 13040
+            },
+            {
+              "palabra": "puede",
+              "inicioMs": 13040,
+              "finMs": 13260
+            },
+            {
+              "palabra": "enfermar",
+              "inicioMs": 13260,
+              "finMs": 13660
+            },
+            {
+              "palabra": "físicamente",
+              "inicioMs": 13660,
+              "finMs": 14180
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 14180,
+              "finMs": 14500
+            },
+            {
+              "palabra": "cuerpo",
+              "inicioMs": 14500,
+              "finMs": 14680
+            },
+            {
+              "palabra": "si",
+              "inicioMs": 14680,
+              "finMs": 14980
+            },
+            {
+              "palabra": "está",
+              "inicioMs": 14980,
+              "finMs": 15140
+            },
+            {
+              "palabra": "convencido",
+              "inicioMs": 15140,
+              "finMs": 15720
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15720,
+              "finMs": 15900
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 15900,
+              "finMs": 16020
+            },
+            {
+              "palabra": "ha",
+              "inicioMs": 16020,
+              "finMs": 16100
+            },
+            {
+              "palabra": "sido",
+              "inicioMs": 16100,
+              "finMs": 16320
+            },
+            {
+              "palabra": "envenenado",
+              "inicioMs": 16320,
+              "finMs": 16860
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 16860,
+              "finMs": 17060
+            },
+            {
+              "palabra": "perjudicado",
+              "inicioMs": 17060,
+              "finMs": 17780
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 41.92
+    },
+    {
+      "id": "cap_5",
+      "numero": 5,
+      "titulo": "Placebos que Funcionan Incluso Cuando Sabes la Verdad",
+      "resumen": "Los revolucionarios ensayos de Ted Kaptchuk con placebos abiertos.",
+      "escenas": [
+        {
+          "id": 9,
+          "texto": "Uno de los hallazgos más asombrosos del siglo veintiuno fue descubierto por el investigador Ted Kaptchuk de la Escuela de Medicina de Harvard: los llamados placebos de etiqueta abierta. Durante décadas se pensó que para que el placebo funcionara era indispensable engañar al paciente haciéndole creer que recibía un medicamento real. Kaptchuk decidió probar lo impensable: administró frascos de pastillas a pacientes con colon irritable que decían claramente en la etiqueta píldoras placebo de azúcar sin principio activo.",
+          "tituloVisual": "PLACEBO DE ETIQUETA ABIERTA",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "laboratorio",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_sci_fi_beep.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "Ted Kaptchuk",
+            "Harvard",
+            "placebo de etiqueta abierta",
+            "sin engaño"
+          ],
+          "poseId": "standing_curious",
+          "expresion": "talking",
+          "duracionSegundos": 26.65,
+          "palabras": [
+            {
+              "palabra": "Uno",
+              "inicioMs": 0,
+              "finMs": 280
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 280,
+              "finMs": 360
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 360,
+              "finMs": 520
+            },
+            {
+              "palabra": "hallazgos",
+              "inicioMs": 520,
+              "finMs": 900
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 900,
+              "finMs": 1080
+            },
+            {
+              "palabra": "asombrosos",
+              "inicioMs": 1080,
+              "finMs": 1680
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 1680,
+              "finMs": 1840
+            },
+            {
+              "palabra": "siglo",
+              "inicioMs": 1840,
+              "finMs": 1980
+            },
+            {
+              "palabra": "veintiuno",
+              "inicioMs": 1980,
+              "finMs": 2220
+            },
+            {
+              "palabra": "fue",
+              "inicioMs": 2460,
+              "finMs": 2700
+            },
+            {
+              "palabra": "descubierto",
+              "inicioMs": 2700,
+              "finMs": 3220
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 3220,
+              "finMs": 3440
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 3440,
+              "finMs": 3600
+            },
+            {
+              "palabra": "investigador",
+              "inicioMs": 3600,
+              "finMs": 4180
+            },
+            {
+              "palabra": "Ted",
+              "inicioMs": 4180,
+              "finMs": 4460
+            },
+            {
+              "palabra": "Kaptchuk",
+              "inicioMs": 4460,
+              "finMs": 4900
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4900,
+              "finMs": 5180
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5180,
+              "finMs": 5260
+            },
+            {
+              "palabra": "Escuela",
+              "inicioMs": 5260,
+              "finMs": 5500
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5500,
+              "finMs": 5700
+            },
+            {
+              "palabra": "Medicina",
+              "inicioMs": 5700,
+              "finMs": 6100
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6100,
+              "finMs": 6260
+            },
+            {
+              "palabra": "Harvard",
+              "inicioMs": 6260,
+              "finMs": 6580
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 6920,
+              "finMs": 7000
+            },
+            {
+              "palabra": "llamados",
+              "inicioMs": 7000,
+              "finMs": 7460
+            },
+            {
+              "palabra": "placebos",
+              "inicioMs": 7460,
+              "finMs": 8000
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8000,
+              "finMs": 8200
+            },
+            {
+              "palabra": "etiqueta",
+              "inicioMs": 8200,
+              "finMs": 8680
+            },
+            {
+              "palabra": "abierta",
+              "inicioMs": 8680,
+              "finMs": 9160
+            },
+            {
+              "palabra": "Durante",
+              "inicioMs": 9280,
+              "finMs": 9520
+            },
+            {
+              "palabra": "décadas",
+              "inicioMs": 9520,
+              "finMs": 9920
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 10060,
+              "finMs": 10080
+            },
+            {
+              "palabra": "pensó",
+              "inicioMs": 10080,
+              "finMs": 10420
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 10420,
+              "finMs": 10560
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 10560,
+              "finMs": 10720
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 10720,
+              "finMs": 10840
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 10840,
+              "finMs": 10940
+            },
+            {
+              "palabra": "placebo",
+              "inicioMs": 10940,
+              "finMs": 11280
+            },
+            {
+              "palabra": "funcionara",
+              "inicioMs": 11280,
+              "finMs": 11860
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 11860,
+              "finMs": 12100
+            },
+            {
+              "palabra": "indispensable",
+              "inicioMs": 12100,
+              "finMs": 12380
+            },
+            {
+              "palabra": "engañar",
+              "inicioMs": 12380,
+              "finMs": 13160
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 13160,
+              "finMs": 13260
+            },
+            {
+              "palabra": "paciente",
+              "inicioMs": 13260,
+              "finMs": 13600
+            },
+            {
+              "palabra": "haciéndole",
+              "inicioMs": 13800,
+              "finMs": 14120
+            },
+            {
+              "palabra": "creer",
+              "inicioMs": 14120,
+              "finMs": 14440
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 14440,
+              "finMs": 14580
+            },
+            {
+              "palabra": "recibía",
+              "inicioMs": 14580,
+              "finMs": 15020
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 15020,
+              "finMs": 15240
+            },
+            {
+              "palabra": "medicamento",
+              "inicioMs": 15240,
+              "finMs": 16440
+            },
+            {
+              "palabra": "real",
+              "inicioMs": 16440,
+              "finMs": 16780
+            },
+            {
+              "palabra": "Kaptchuk",
+              "inicioMs": 16880,
+              "finMs": 17160
+            },
+            {
+              "palabra": "decidió",
+              "inicioMs": 17160,
+              "finMs": 17620
+            },
+            {
+              "palabra": "probar",
+              "inicioMs": 17620,
+              "finMs": 18040
+            },
+            {
+              "palabra": "lo",
+              "inicioMs": 18040,
+              "finMs": 18165
+            },
+            {
+              "palabra": "impensable",
+              "inicioMs": 18040,
+              "finMs": 18720
+            },
+            {
+              "palabra": "administró",
+              "inicioMs": 18980,
+              "finMs": 19460
+            },
+            {
+              "palabra": "frascos",
+              "inicioMs": 19460,
+              "finMs": 19860
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19860,
+              "finMs": 20020
+            },
+            {
+              "palabra": "pastillas",
+              "inicioMs": 20020,
+              "finMs": 20460
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 20460,
+              "finMs": 20585
+            },
+            {
+              "palabra": "pacientes",
+              "inicioMs": 20460,
+              "finMs": 20980
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 20980,
+              "finMs": 21220
+            },
+            {
+              "palabra": "colon",
+              "inicioMs": 21220,
+              "finMs": 21520
+            },
+            {
+              "palabra": "irritable",
+              "inicioMs": 21600,
+              "finMs": 21980
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 21980,
+              "finMs": 22160
+            },
+            {
+              "palabra": "decían",
+              "inicioMs": 22160,
+              "finMs": 22460
+            },
+            {
+              "palabra": "claramente",
+              "inicioMs": 22460,
+              "finMs": 22920
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 22920,
+              "finMs": 23045
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 22920,
+              "finMs": 23200
+            },
+            {
+              "palabra": "etiqueta",
+              "inicioMs": 23200,
+              "finMs": 23640
+            },
+            {
+              "palabra": "píldoras",
+              "inicioMs": 23640,
+              "finMs": 24080
+            },
+            {
+              "palabra": "placebo",
+              "inicioMs": 24080,
+              "finMs": 24600
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 24600,
+              "finMs": 24740
+            },
+            {
+              "palabra": "azúcar",
+              "inicioMs": 24740,
+              "finMs": 25060
+            },
+            {
+              "palabra": "sin",
+              "inicioMs": 25060,
+              "finMs": 25260
+            },
+            {
+              "palabra": "principio",
+              "inicioMs": 25260,
+              "finMs": 25700
+            },
+            {
+              "palabra": "activo",
+              "inicioMs": 25700,
+              "finMs": 26160
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "texto": "Contra toda lógica intuitiva, los pacientes que tomaron las pastillas sabiendo perfectamente que eran de azúcar experimentaron una mejoría clínica casi idéntica a los que recibieron fármacos tradicionales. El simple ritual de levantarse por la mañana, tomar un vaso de agua e ingerir una pastilla con la atención atenta de un médico empático activa circuitos biológicos de curación condicionados a lo largo de toda nuestra vida.",
+          "tituloVisual": "EL RITUAL CURATIVO",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "ritual curativo",
+            "condicionamiento pavloviano",
+            "médico empático",
+            "colon irritable"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "eureka",
+          "infografia": {
+            "tipo": "dato_clave",
+            "titulo": "Ensayo de Harvard (Kaptchuk)",
+            "subtitulo": "Mejora con Placebo Conocido",
+            "valorPrincipal": "59%",
+            "unidad": "de mejoría clínica",
+            "items": [
+              {
+                "etiqueta": "Placebo con engaño",
+                "valor": "62% de mejoría",
+                "porcentaje": 100,
+                "color": "#38BDF8"
+              },
+              {
+                "etiqueta": "Placebo honesto (Declarado)",
+                "valor": "59% de mejoría",
+                "porcentaje": 95,
+                "color": "#FFE600"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 22.738,
+          "palabras": [
+            {
+              "palabra": "Contra",
+              "inicioMs": 0,
+              "finMs": 380
+            },
+            {
+              "palabra": "toda",
+              "inicioMs": 380,
+              "finMs": 620
+            },
+            {
+              "palabra": "lógica",
+              "inicioMs": 620,
+              "finMs": 1040
+            },
+            {
+              "palabra": "intuitiva",
+              "inicioMs": 1040,
+              "finMs": 1660
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 1900,
+              "finMs": 2020
+            },
+            {
+              "palabra": "pacientes",
+              "inicioMs": 2020,
+              "finMs": 2380
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 2380,
+              "finMs": 2580
+            },
+            {
+              "palabra": "tomaron",
+              "inicioMs": 2580,
+              "finMs": 2900
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 2900,
+              "finMs": 3060
+            },
+            {
+              "palabra": "pastillas",
+              "inicioMs": 3060,
+              "finMs": 3520
+            },
+            {
+              "palabra": "sabiendo",
+              "inicioMs": 3660,
+              "finMs": 3860
+            },
+            {
+              "palabra": "perfectamente",
+              "inicioMs": 3860,
+              "finMs": 4480
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 4480,
+              "finMs": 4760
+            },
+            {
+              "palabra": "eran",
+              "inicioMs": 4760,
+              "finMs": 4920
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4920,
+              "finMs": 5060
+            },
+            {
+              "palabra": "azúcar",
+              "inicioMs": 5060,
+              "finMs": 5360
+            },
+            {
+              "palabra": "experimentaron",
+              "inicioMs": 5500,
+              "finMs": 6140
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 6140,
+              "finMs": 6360
+            },
+            {
+              "palabra": "mejoría",
+              "inicioMs": 6360,
+              "finMs": 6760
+            },
+            {
+              "palabra": "clínica",
+              "inicioMs": 6760,
+              "finMs": 7260
+            },
+            {
+              "palabra": "casi",
+              "inicioMs": 7260,
+              "finMs": 7540
+            },
+            {
+              "palabra": "idéntica",
+              "inicioMs": 7540,
+              "finMs": 8100
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 8100,
+              "finMs": 8400
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 8400,
+              "finMs": 8520
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 8520,
+              "finMs": 8640
+            },
+            {
+              "palabra": "recibieron",
+              "inicioMs": 8640,
+              "finMs": 9080
+            },
+            {
+              "palabra": "fármacos",
+              "inicioMs": 9080,
+              "finMs": 9580
+            },
+            {
+              "palabra": "tradicionales",
+              "inicioMs": 9580,
+              "finMs": 10720
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 10840,
+              "finMs": 11000
+            },
+            {
+              "palabra": "simple",
+              "inicioMs": 11000,
+              "finMs": 11200
+            },
+            {
+              "palabra": "ritual",
+              "inicioMs": 11200,
+              "finMs": 11520
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11520,
+              "finMs": 11660
+            },
+            {
+              "palabra": "levantarse",
+              "inicioMs": 11660,
+              "finMs": 12060
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 12060,
+              "finMs": 12260
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 12260,
+              "finMs": 12360
+            },
+            {
+              "palabra": "mañana",
+              "inicioMs": 12360,
+              "finMs": 12700
+            },
+            {
+              "palabra": "tomar",
+              "inicioMs": 12880,
+              "finMs": 13100
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 13100,
+              "finMs": 13280
+            },
+            {
+              "palabra": "vaso",
+              "inicioMs": 13280,
+              "finMs": 13580
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 13580,
+              "finMs": 13720
+            },
+            {
+              "palabra": "agua",
+              "inicioMs": 13720,
+              "finMs": 14020
+            },
+            {
+              "palabra": "e",
+              "inicioMs": 14020,
+              "finMs": 14260
+            },
+            {
+              "palabra": "ingerir",
+              "inicioMs": 14260,
+              "finMs": 14660
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 14660,
+              "finMs": 14840
+            },
+            {
+              "palabra": "pastilla",
+              "inicioMs": 14840,
+              "finMs": 15340
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 15340,
+              "finMs": 15500
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 15500,
+              "finMs": 15640
+            },
+            {
+              "palabra": "atención",
+              "inicioMs": 15640,
+              "finMs": 16000
+            },
+            {
+              "palabra": "atenta",
+              "inicioMs": 16000,
+              "finMs": 16480
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 16480,
+              "finMs": 16620
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 16620,
+              "finMs": 16720
+            },
+            {
+              "palabra": "médico",
+              "inicioMs": 16720,
+              "finMs": 16960
+            },
+            {
+              "palabra": "empático",
+              "inicioMs": 16960,
+              "finMs": 17540
+            },
+            {
+              "palabra": "activa",
+              "inicioMs": 17540,
+              "finMs": 18160
+            },
+            {
+              "palabra": "circuitos",
+              "inicioMs": 18420,
+              "finMs": 18900
+            },
+            {
+              "palabra": "biológicos",
+              "inicioMs": 18900,
+              "finMs": 19440
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19440,
+              "finMs": 19580
+            },
+            {
+              "palabra": "curación",
+              "inicioMs": 19580,
+              "finMs": 20120
+            },
+            {
+              "palabra": "condicionados",
+              "inicioMs": 20300,
+              "finMs": 20820
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 20820,
+              "finMs": 20960
+            },
+            {
+              "palabra": "lo",
+              "inicioMs": 20960,
+              "finMs": 21060
+            },
+            {
+              "palabra": "largo",
+              "inicioMs": 21060,
+              "finMs": 21320
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 21320,
+              "finMs": 21460
+            },
+            {
+              "palabra": "toda",
+              "inicioMs": 21460,
+              "finMs": 21620
+            },
+            {
+              "palabra": "nuestra",
+              "inicioMs": 21620,
+              "finMs": 21920
+            },
+            {
+              "palabra": "vida",
+              "inicioMs": 21920,
+              "finMs": 22260
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 49.39
+    },
+    {
+      "id": "cap_6",
+      "numero": 6,
+      "titulo": "Los Límites de la Mente y la Farmacia Interior",
+      "resumen": "La diferencia entre modular síntomas y curar patologías infecciosas.",
+      "escenas": [
+        {
+          "id": 11,
+          "texto": "Es fundamental trazar una frontera médica estricta: el efecto placebo es formidable para modular el dolor, la fatiga, la depresión, la ansiedad o las náuseas, porque todos estos síntomas son regulados directamente por el sistema nervioso central. Pero un placebo jamás reducirá el tamaño de un tumor maligno ni eliminará una bacteria virulenta de la sangre sin antibióticos reales. No reemplaza a la medicina científica; es el copiloto biológico de la curación.",
+          "tituloVisual": "LIMITES MEDICOS",
+          "layout": "split_screen",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "frontera médica",
+            "síntomas subjetivos",
+            "tumores y bacterias",
+            "copiloto biológico"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "analytical",
+          "duracionSegundos": 23.986,
+          "palabras": [
+            {
+              "palabra": "Es",
+              "inicioMs": 0,
+              "finMs": 240
+            },
+            {
+              "palabra": "fundamental",
+              "inicioMs": 240,
+              "finMs": 540
+            },
+            {
+              "palabra": "trazar",
+              "inicioMs": 540,
+              "finMs": 1120
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 1120,
+              "finMs": 1320
+            },
+            {
+              "palabra": "frontera",
+              "inicioMs": 1320,
+              "finMs": 1660
+            },
+            {
+              "palabra": "médica",
+              "inicioMs": 1660,
+              "finMs": 2020
+            },
+            {
+              "palabra": "estricta",
+              "inicioMs": 2020,
+              "finMs": 2620
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 2960,
+              "finMs": 3060
+            },
+            {
+              "palabra": "efecto",
+              "inicioMs": 3060,
+              "finMs": 3320
+            },
+            {
+              "palabra": "placebo",
+              "inicioMs": 3320,
+              "finMs": 3620
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 3620,
+              "finMs": 3880
+            },
+            {
+              "palabra": "formidable",
+              "inicioMs": 3880,
+              "finMs": 4260
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 4260,
+              "finMs": 4560
+            },
+            {
+              "palabra": "modular",
+              "inicioMs": 4560,
+              "finMs": 4880
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 4880,
+              "finMs": 5040
+            },
+            {
+              "palabra": "dolor",
+              "inicioMs": 5040,
+              "finMs": 5260
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5360,
+              "finMs": 5420
+            },
+            {
+              "palabra": "fatiga",
+              "inicioMs": 5420,
+              "finMs": 5820
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5980,
+              "finMs": 6060
+            },
+            {
+              "palabra": "depresión",
+              "inicioMs": 6060,
+              "finMs": 6520
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 6840,
+              "finMs": 6900
+            },
+            {
+              "palabra": "ansiedad",
+              "inicioMs": 6900,
+              "finMs": 7320
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 7320,
+              "finMs": 7540
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 7540,
+              "finMs": 7740
+            },
+            {
+              "palabra": "náuseas",
+              "inicioMs": 7740,
+              "finMs": 8280
+            },
+            {
+              "palabra": "porque",
+              "inicioMs": 8380,
+              "finMs": 8640
+            },
+            {
+              "palabra": "todos",
+              "inicioMs": 8640,
+              "finMs": 8960
+            },
+            {
+              "palabra": "estos",
+              "inicioMs": 8960,
+              "finMs": 9240
+            },
+            {
+              "palabra": "síntomas",
+              "inicioMs": 9240,
+              "finMs": 9660
+            },
+            {
+              "palabra": "son",
+              "inicioMs": 9660,
+              "finMs": 9880
+            },
+            {
+              "palabra": "regulados",
+              "inicioMs": 9880,
+              "finMs": 10380
+            },
+            {
+              "palabra": "directamente",
+              "inicioMs": 10380,
+              "finMs": 10700
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 10700,
+              "finMs": 11220
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 11220,
+              "finMs": 11320
+            },
+            {
+              "palabra": "sistema",
+              "inicioMs": 11320,
+              "finMs": 11560
+            },
+            {
+              "palabra": "nervioso",
+              "inicioMs": 11560,
+              "finMs": 11960
+            },
+            {
+              "palabra": "central",
+              "inicioMs": 11960,
+              "finMs": 12400
+            },
+            {
+              "palabra": "Pero",
+              "inicioMs": 12620,
+              "finMs": 12760
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 12760,
+              "finMs": 12880
+            },
+            {
+              "palabra": "placebo",
+              "inicioMs": 12880,
+              "finMs": 13180
+            },
+            {
+              "palabra": "jamás",
+              "inicioMs": 13180,
+              "finMs": 13620
+            },
+            {
+              "palabra": "reducirá",
+              "inicioMs": 13620,
+              "finMs": 14160
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 14160,
+              "finMs": 14280
+            },
+            {
+              "palabra": "tamaño",
+              "inicioMs": 14280,
+              "finMs": 14660
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14660,
+              "finMs": 14740
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 14740,
+              "finMs": 14840
+            },
+            {
+              "palabra": "tumor",
+              "inicioMs": 14840,
+              "finMs": 15080
+            },
+            {
+              "palabra": "maligno",
+              "inicioMs": 15080,
+              "finMs": 15860
+            },
+            {
+              "palabra": "ni",
+              "inicioMs": 15860,
+              "finMs": 16080
+            },
+            {
+              "palabra": "eliminará",
+              "inicioMs": 16080,
+              "finMs": 16540
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 16540,
+              "finMs": 16740
+            },
+            {
+              "palabra": "bacteria",
+              "inicioMs": 16740,
+              "finMs": 17180
+            },
+            {
+              "palabra": "virulenta",
+              "inicioMs": 17180,
+              "finMs": 17640
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17640,
+              "finMs": 17780
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 17780,
+              "finMs": 17920
+            },
+            {
+              "palabra": "sangre",
+              "inicioMs": 17920,
+              "finMs": 18220
+            },
+            {
+              "palabra": "sin",
+              "inicioMs": 18220,
+              "finMs": 18345
+            },
+            {
+              "palabra": "antibióticos",
+              "inicioMs": 18220,
+              "finMs": 18960
+            },
+            {
+              "palabra": "reales",
+              "inicioMs": 18960,
+              "finMs": 19500
+            },
+            {
+              "palabra": "No",
+              "inicioMs": 19720,
+              "finMs": 19900
+            },
+            {
+              "palabra": "reemplaza",
+              "inicioMs": 19900,
+              "finMs": 20360
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 20360,
+              "finMs": 20485
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 20360,
+              "finMs": 20500
+            },
+            {
+              "palabra": "medicina",
+              "inicioMs": 20500,
+              "finMs": 20900
+            },
+            {
+              "palabra": "científica",
+              "inicioMs": 20900,
+              "finMs": 21600
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 21700,
+              "finMs": 21780
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 21780,
+              "finMs": 21920
+            },
+            {
+              "palabra": "copiloto",
+              "inicioMs": 21920,
+              "finMs": 22320
+            },
+            {
+              "palabra": "biológico",
+              "inicioMs": 22320,
+              "finMs": 22880
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22880,
+              "finMs": 23020
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 23020,
+              "finMs": 23100
+            },
+            {
+              "palabra": "curación",
+              "inicioMs": 23100,
+              "finMs": 23520
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "texto": "El efecto placebo nos demuestra que el cuerpo humano no es una máquina mecánica aislada de la mente, sino una farmacia interior extraordinariamente compleja donde la esperanza, la empatía y la confianza tienen una firma molecular tangible. Cuando creemos en nuestra propia recuperación, desatamos una química ancestral que lleva millones de años esperando la señal para comenzar a sanar.",
+          "tituloVisual": "LA FARMACIA INTERIOR",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "laboratorio",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "farmacia interior",
+            "firma molecular tangible",
+            "química ancestral",
+            "confianza y salud"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "smile_wide",
+          "duracionSegundos": 19.402,
+          "palabras": [
+            {
+              "palabra": "El",
+              "inicioMs": 0,
+              "finMs": 180
+            },
+            {
+              "palabra": "efecto",
+              "inicioMs": 180,
+              "finMs": 460
+            },
+            {
+              "palabra": "placebo",
+              "inicioMs": 460,
+              "finMs": 860
+            },
+            {
+              "palabra": "nos",
+              "inicioMs": 860,
+              "finMs": 1080
+            },
+            {
+              "palabra": "demuestra",
+              "inicioMs": 1080,
+              "finMs": 1480
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 1480,
+              "finMs": 1600
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 1600,
+              "finMs": 1700
+            },
+            {
+              "palabra": "cuerpo",
+              "inicioMs": 1700,
+              "finMs": 1820
+            },
+            {
+              "palabra": "humano",
+              "inicioMs": 1820,
+              "finMs": 2140
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 2140,
+              "finMs": 2360
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 2360,
+              "finMs": 2500
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 2500,
+              "finMs": 2660
+            },
+            {
+              "palabra": "máquina",
+              "inicioMs": 2660,
+              "finMs": 2940
+            },
+            {
+              "palabra": "mecánica",
+              "inicioMs": 2940,
+              "finMs": 3520
+            },
+            {
+              "palabra": "aislada",
+              "inicioMs": 3520,
+              "finMs": 3900
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3900,
+              "finMs": 4040
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 4040,
+              "finMs": 4140
+            },
+            {
+              "palabra": "mente",
+              "inicioMs": 4140,
+              "finMs": 4460
+            },
+            {
+              "palabra": "sino",
+              "inicioMs": 4660,
+              "finMs": 4880
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 4880,
+              "finMs": 5120
+            },
+            {
+              "palabra": "farmacia",
+              "inicioMs": 5120,
+              "finMs": 5540
+            },
+            {
+              "palabra": "interior",
+              "inicioMs": 5540,
+              "finMs": 5900
+            },
+            {
+              "palabra": "extraordinariamente",
+              "inicioMs": 5900,
+              "finMs": 6880
+            },
+            {
+              "palabra": "compleja",
+              "inicioMs": 6880,
+              "finMs": 7460
+            },
+            {
+              "palabra": "donde",
+              "inicioMs": 7460,
+              "finMs": 7660
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 7660,
+              "finMs": 7840
+            },
+            {
+              "palabra": "esperanza",
+              "inicioMs": 7840,
+              "finMs": 8420
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 8660,
+              "finMs": 8760
+            },
+            {
+              "palabra": "empatía",
+              "inicioMs": 8760,
+              "finMs": 9260
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 9260,
+              "finMs": 9440
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 9440,
+              "finMs": 9540
+            },
+            {
+              "palabra": "confianza",
+              "inicioMs": 9540,
+              "finMs": 10200
+            },
+            {
+              "palabra": "tienen",
+              "inicioMs": 10200,
+              "finMs": 10480
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 10480,
+              "finMs": 10720
+            },
+            {
+              "palabra": "firma",
+              "inicioMs": 10720,
+              "finMs": 11060
+            },
+            {
+              "palabra": "molecular",
+              "inicioMs": 11060,
+              "finMs": 11460
+            },
+            {
+              "palabra": "tangible",
+              "inicioMs": 11460,
+              "finMs": 12060
+            },
+            {
+              "palabra": "Cuando",
+              "inicioMs": 12060,
+              "finMs": 12400
+            },
+            {
+              "palabra": "creemos",
+              "inicioMs": 12400,
+              "finMs": 12800
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 12800,
+              "finMs": 12980
+            },
+            {
+              "palabra": "nuestra",
+              "inicioMs": 12980,
+              "finMs": 13240
+            },
+            {
+              "palabra": "propia",
+              "inicioMs": 13240,
+              "finMs": 13540
+            },
+            {
+              "palabra": "recuperación",
+              "inicioMs": 13540,
+              "finMs": 14260
+            },
+            {
+              "palabra": "desatamos",
+              "inicioMs": 14360,
+              "finMs": 14740
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 14740,
+              "finMs": 14960
+            },
+            {
+              "palabra": "química",
+              "inicioMs": 14960,
+              "finMs": 15320
+            },
+            {
+              "palabra": "ancestral",
+              "inicioMs": 15320,
+              "finMs": 15700
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 15700,
+              "finMs": 15940
+            },
+            {
+              "palabra": "lleva",
+              "inicioMs": 15940,
+              "finMs": 16140
+            },
+            {
+              "palabra": "millones",
+              "inicioMs": 16140,
+              "finMs": 16320
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 16320,
+              "finMs": 16700
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 16700,
+              "finMs": 16900
+            },
+            {
+              "palabra": "esperando",
+              "inicioMs": 16900,
+              "finMs": 17300
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 17300,
+              "finMs": 17540
+            },
+            {
+              "palabra": "señal",
+              "inicioMs": 17540,
+              "finMs": 17900
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 17900,
+              "finMs": 18080
+            },
+            {
+              "palabra": "comenzar",
+              "inicioMs": 18080,
+              "finMs": 18520
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 18520,
+              "finMs": 18580
+            },
+            {
+              "palabra": "sanar",
+              "inicioMs": 18580,
+              "finMs": 18920
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 43.39
+    }
+  ]
+}

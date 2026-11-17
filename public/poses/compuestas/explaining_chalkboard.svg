@@ -1,0 +1,35 @@
+<svg width="500" height="620" viewBox="-35 -40 470 545" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Efectos festivos de ambiente opcionales -->
+  
+  <!-- Sombra base -->
+  <ellipse cx="200" cy="472" rx="85" ry="14" fill="#E5E7EB" />
+  <!-- Capa trasera si aplica -->
+  
+  <!-- Piernas -->
+  <path d="M 175 330 L 130 460 M 175 330 L 220 460" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Torso -->
+  <path d="M 175 183 L 175 330" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Accesorios de cintura -->
+  
+  <!-- Brazos -->
+  <path d="M 175 215 L 130 275" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 175 215 L 245 215 L 285 200" stroke="#111827" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Accesorios de cuello delanteros -->
+  
+  <!-- Accesorios de postura -->
+  
+  <!-- Cabeza, expresion facial y accesorios de cabeza/cara -->
+  <g transform="translate(-25, 0) rotate(0, 200, 115)">
+    <circle cx="200" cy="115" r="68" fill="#FFFFFF" stroke="#111827" stroke-width="12" />
+    <path d="M 162 79 Q 176 69 190 79 M 210 79 Q 224 69 238 79" stroke="#111827" stroke-width="6" stroke-linecap="round" fill="none" />
+<circle cx="176" cy="104" r="7" fill="#111827" />
+<circle cx="224" cy="104" r="7" fill="#111827" />
+<path d="M 174 130 Q 200 165 226 130 Z" fill="#111827" stroke="#111827" stroke-width="5" stroke-linejoin="round" />
+    
+    
+  </g>
+  <!-- Props integrados en manos y cabeza -->
+  <g transform="translate(130, 275) rotate(0)"><g transform="rotate(-30)"><rect x="-9" y="-32" width="18" height="48" rx="3" fill="#FFFFFF" stroke="#111827" stroke-width="5"/><rect x="-9" y="-14" width="18" height="20" fill="#EF4444"/><polygon points="-6,16 6,16 3,28 -3,28" fill="#EF4444" stroke="#111827" stroke-width="4"/></g></g>
+  <g transform="translate(295, 195) rotate(0)"><rect x="-52" y="-38" width="104" height="76" rx="6" fill="#065F46" stroke="#92400E" stroke-width="8"/><text x="-34" y="8" fill="#FFFFFF" font-size="26" font-weight="900" font-family="sans-serif">E=mc²</text></g>
+  
+</svg>

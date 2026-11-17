@@ -1,0 +1,19 @@
+<svg width="200" height="200" viewBox="-65 -65 130 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="scale(1.15)">
+    <circle cx="0" cy="0" r="32" fill="#0284C7" fill-opacity="0.25" stroke="#111827" stroke-width="5" />
+    <rect x="-10" y="-46" width="20" height="18" fill="#38BDF8" fill-opacity="0.25" stroke="#111827" stroke-width="4" />
+    <line x1="-12" y1="-46" x2="12" y2="-46" stroke="#111827" stroke-width="4.5" />
+    <rect x="-46" y="-12" width="16" height="24" rx="3" fill="#64748B" stroke="#111827" stroke-width="3.5" />
+    <line x1="-54" y1="0" x2="-46" y2="0" stroke="#EF4444" stroke-width="4" />
+    <rect x="30" y="-12" width="16" height="24" rx="3" fill="#64748B" stroke="#111827" stroke-width="3.5" />
+    <line x1="46" y1="0" x2="54" y2="0" stroke="#38BDF8" stroke-width="4" />
+    <path d="M -24 -16 Q -12 0 -24 16" fill="none" stroke="#2DD4BF" stroke-width="3" opacity="0.8" />
+    <path d="M -14 -12 Q -4 0 -14 12" fill="none" stroke="#2DD4BF" stroke-width="3" opacity="0.9" />
+    <path d="M 24 -16 Q 12 0 24 16" fill="none" stroke="#2DD4BF" stroke-width="3" opacity="0.8" />
+    <path d="M 14 -12 Q 4 0 14 12" fill="none" stroke="#2DD4BF" stroke-width="3" opacity="0.9" />
+    <circle cx="0" cy="0" r="7" fill="#E0F2FE" stroke="#111827" stroke-width="2.5" />
+    <circle cx="0" cy="0" r="3" fill="#38BDF8" />
+    <rect x="-44" y="38" width="88" height="12" rx="3" fill="#0D9488" stroke="#111827" stroke-width="2"/>
+    <text x="0" y="46.5" font-family="'Arial Black', sans-serif" font-size="5" font-weight="900" fill="#FFFFFF" text-anchor="middle">TRAMPA ULTRASÓNICA: 28 kHz</text>
+  </g>
+</svg>

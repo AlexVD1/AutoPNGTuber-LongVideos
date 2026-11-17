@@ -1,0 +1,4970 @@
+{
+  "meta": {
+    "id": "doc_015_reactor_oklo",
+    "slug": "reactor_nuclear_natural_oklo_gabon",
+    "titulo": "El Reactor Nuclear Natural de Oklo: Fisión Atómica Espontánea Hace Dos Mil Millones de Años",
+    "premisa": "En 1972, científicos franceses descubrieron que una mina de uranio en Gabón tenía un déficit de isótopo doscientos treinta y cinco. La Tierra había encendido por sí misma reactores nucleares de fisión natural dos mil millones de años antes de que existieran los humanos.",
+    "gancho": "¿Construyó la humanidad el primer reactor atómico o la Tierra ya fabricaba energía nuclear hace eones?",
+    "categoria": "Science & Technology",
+    "duracionObjetivo": [
+      420,
+      500
+    ],
+    "fps": 30,
+    "dimensiones": {
+      "width": 1920,
+      "height": 1080
+    },
+    "idioma": "es",
+    "voz": "alex.conds.pt",
+    "musicaPrincipal": "bgm/bgm.mp3",
+    "volumenMusica": 0.12,
+    "fuentes": [
+      "Bodu, R., et al. (1972). Sur l'existence d'anomalies isotopiques dans l'uranium d'Oklo. C. R. Acad. Sci. Paris.",
+      "Meshik, A. P. (2005). The Workings of an Ancient Nuclear Reactor. Scientific American.",
+      "Kuroda, P. K. (1956). On the Nuclear Physical Stability of the Uranium Minerals. J. Chem. Phys."
+    ],
+    "tags": [
+      "geologia",
+      "nuclear",
+      "oklo",
+      "ciencia",
+      "historia",
+      "energia",
+      "documental"
+    ]
+  },
+  "capitulos": [
+    {
+      "id": "cap_1",
+      "numero": 1,
+      "titulo": "La Anomalía del Uranio en Pierrelatte",
+      "resumen": "Mayo de 1972 y el misterio del uranio empobrecido en Francia.",
+      "escenas": [
+        {
+          "id": 1,
+          "texto": "En mayo de mil novecientos setenta y dos, en la planta de enriquecimiento de combustible nuclear de Pierrelatte en Francia, un analista de laboratorio realizaba una espectrometría de masas rutinaria sobre una muestra de mineral de uranio cuando se topó con un resultado que desató todas las alarmas de seguridad atómica internacional. En cualquier roca de la corteza terrestre, en la Luna y en los meteoritos que caen del espacio, el isótopo fisionable uranio doscientos treinta y cinco existe siempre en una proporción fija y universal: exactamente el cero punto setecientos veinte por ciento.",
+          "tituloVisual": "PIERRELATTE, MAYO DE 1972",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "laboratorio",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "Pierrelatte",
+            "espectrometría de masas",
+            "uranio doscientos treinta y cinco",
+            "cero punto setecientos veinte"
+          ],
+          "poseId": "reading_clipboard",
+          "expresion": "shocked",
+          "duracionSegundos": 29.914,
+          "palabras": [
+            {
+              "palabra": "En",
+              "inicioMs": 0,
+              "finMs": 240
+            },
+            {
+              "palabra": "mayo",
+              "inicioMs": 240,
+              "finMs": 540
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 540,
+              "finMs": 720
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 720,
+              "finMs": 937
+            },
+            {
+              "palabra": "novecientos",
+              "inicioMs": 937,
+              "finMs": 1153
+            },
+            {
+              "palabra": "setenta",
+              "inicioMs": 1153,
+              "finMs": 1370
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 1370,
+              "finMs": 1587
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 1587,
+              "finMs": 1803
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 2020,
+              "finMs": 2060
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 2060,
+              "finMs": 2140
+            },
+            {
+              "palabra": "planta",
+              "inicioMs": 2140,
+              "finMs": 2460
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2460,
+              "finMs": 2560
+            },
+            {
+              "palabra": "enriquecimiento",
+              "inicioMs": 2560,
+              "finMs": 3120
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3120,
+              "finMs": 3380
+            },
+            {
+              "palabra": "combustible",
+              "inicioMs": 3380,
+              "finMs": 3860
+            },
+            {
+              "palabra": "nuclear",
+              "inicioMs": 3860,
+              "finMs": 4220
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4220,
+              "finMs": 4420
+            },
+            {
+              "palabra": "Pierrelatte",
+              "inicioMs": 4420,
+              "finMs": 4560
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 4880,
+              "finMs": 5160
+            },
+            {
+              "palabra": "Francia",
+              "inicioMs": 5160,
+              "finMs": 5640
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 5780,
+              "finMs": 6200
+            },
+            {
+              "palabra": "analista",
+              "inicioMs": 6200,
+              "finMs": 6600
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6600,
+              "finMs": 6720
+            },
+            {
+              "palabra": "laboratorio",
+              "inicioMs": 6720,
+              "finMs": 7280
+            },
+            {
+              "palabra": "realizaba",
+              "inicioMs": 7280,
+              "finMs": 7800
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 7800,
+              "finMs": 7860
+            },
+            {
+              "palabra": "espectrometría",
+              "inicioMs": 7920,
+              "finMs": 8340
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8680,
+              "finMs": 8840
+            },
+            {
+              "palabra": "masas",
+              "inicioMs": 8840,
+              "finMs": 9040
+            },
+            {
+              "palabra": "rutinaria",
+              "inicioMs": 9320,
+              "finMs": 9680
+            },
+            {
+              "palabra": "sobre",
+              "inicioMs": 9680,
+              "finMs": 9940
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 9940,
+              "finMs": 10160
+            },
+            {
+              "palabra": "muestra",
+              "inicioMs": 10160,
+              "finMs": 10520
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 10520,
+              "finMs": 10660
+            },
+            {
+              "palabra": "mineral",
+              "inicioMs": 10660,
+              "finMs": 10880
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 10880,
+              "finMs": 11120
+            },
+            {
+              "palabra": "uranio",
+              "inicioMs": 11120,
+              "finMs": 11460
+            },
+            {
+              "palabra": "cuando",
+              "inicioMs": 11460,
+              "finMs": 11920
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 11920,
+              "finMs": 12140
+            },
+            {
+              "palabra": "topó",
+              "inicioMs": 12140,
+              "finMs": 12360
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 12360,
+              "finMs": 12540
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 12540,
+              "finMs": 12640
+            },
+            {
+              "palabra": "resultado",
+              "inicioMs": 12640,
+              "finMs": 13040
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 13040,
+              "finMs": 13300
+            },
+            {
+              "palabra": "desató",
+              "inicioMs": 13300,
+              "finMs": 13700
+            },
+            {
+              "palabra": "todas",
+              "inicioMs": 13700,
+              "finMs": 14020
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 14020,
+              "finMs": 14220
+            },
+            {
+              "palabra": "alarmas",
+              "inicioMs": 14220,
+              "finMs": 14560
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 14560,
+              "finMs": 14700
+            },
+            {
+              "palabra": "seguridad",
+              "inicioMs": 14700,
+              "finMs": 15080
+            },
+            {
+              "palabra": "atómica",
+              "inicioMs": 15080,
+              "finMs": 15520
+            },
+            {
+              "palabra": "internacional",
+              "inicioMs": 15520,
+              "finMs": 16100
+            },
+            {
+              "palabra": "En",
+              "inicioMs": 16440,
+              "finMs": 16560
+            },
+            {
+              "palabra": "cualquier",
+              "inicioMs": 16560,
+              "finMs": 16860
+            },
+            {
+              "palabra": "roca",
+              "inicioMs": 16860,
+              "finMs": 17200
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17200,
+              "finMs": 17300
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 17300,
+              "finMs": 17400
+            },
+            {
+              "palabra": "corteza",
+              "inicioMs": 17400,
+              "finMs": 17780
+            },
+            {
+              "palabra": "terrestre",
+              "inicioMs": 17780,
+              "finMs": 18380
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 18500,
+              "finMs": 18580
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 18580,
+              "finMs": 18680
+            },
+            {
+              "palabra": "Luna",
+              "inicioMs": 18680,
+              "finMs": 19000
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 19000,
+              "finMs": 19320
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 19320,
+              "finMs": 19400
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 19400,
+              "finMs": 19500
+            },
+            {
+              "palabra": "meteoritos",
+              "inicioMs": 19500,
+              "finMs": 19980
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 19980,
+              "finMs": 20120
+            },
+            {
+              "palabra": "caen",
+              "inicioMs": 20120,
+              "finMs": 20340
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 20340,
+              "finMs": 20460
+            },
+            {
+              "palabra": "espacio",
+              "inicioMs": 20460,
+              "finMs": 20940
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 21220,
+              "finMs": 21320
+            },
+            {
+              "palabra": "isótopo",
+              "inicioMs": 21320,
+              "finMs": 21700
+            },
+            {
+              "palabra": "fisionable",
+              "inicioMs": 21700,
+              "finMs": 22240
+            },
+            {
+              "palabra": "uranio",
+              "inicioMs": 22240,
+              "finMs": 22760
+            },
+            {
+              "palabra": "doscientos",
+              "inicioMs": 22760,
+              "finMs": 23016
+            },
+            {
+              "palabra": "treinta",
+              "inicioMs": 23016,
+              "finMs": 23272
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 23272,
+              "finMs": 23528
+            },
+            {
+              "palabra": "cinco",
+              "inicioMs": 23528,
+              "finMs": 23784
+            },
+            {
+              "palabra": "existe",
+              "inicioMs": 24040,
+              "finMs": 24360
+            },
+            {
+              "palabra": "siempre",
+              "inicioMs": 24360,
+              "finMs": 24780
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 24780,
+              "finMs": 24940
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 24940,
+              "finMs": 25080
+            },
+            {
+              "palabra": "proporción",
+              "inicioMs": 25080,
+              "finMs": 25520
+            },
+            {
+              "palabra": "fija",
+              "inicioMs": 25520,
+              "finMs": 25880
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 25880,
+              "finMs": 26000
+            },
+            {
+              "palabra": "universal",
+              "inicioMs": 26000,
+              "finMs": 26300
+            },
+            {
+              "palabra": "exactamente",
+              "inicioMs": 26520,
+              "finMs": 26960
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 26960,
+              "finMs": 27300
+            },
+            {
+              "palabra": "cero",
+              "inicioMs": 27300,
+              "finMs": 27638
+            },
+            {
+              "palabra": "punto",
+              "inicioMs": 27638,
+              "finMs": 27975
+            },
+            {
+              "palabra": "setecientos",
+              "inicioMs": 27975,
+              "finMs": 28313
+            },
+            {
+              "palabra": "veinte",
+              "inicioMs": 28313,
+              "finMs": 28651
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 28651,
+              "finMs": 28989
+            },
+            {
+              "palabra": "ciento",
+              "inicioMs": 28989,
+              "finMs": 29326
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "texto": "Sin embargo, el cargamento examinado en Pierrelatte, procedente de la mina a cielo abierto de Oklo en la república africana de Gabón, mostraba una cifra anómala e inexplicable: apenas un cero punto setecientos diecisiete por ciento, y en algunas capas posteriores caía a un alarmante cero punto cuatro por ciento. Faltaban cientos de kilogramos de uranio doscientos treinta y cinco. El Comisariado de Energía Atómica francés temió de inmediato un robo de material nuclear o el desvío clandestino de combustible enriquecido para la fabricación de una bomba atómica secreta.",
+          "tituloVisual": "FALTAN 200 KILOS DE U-235",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "mina de Oklo",
+            "Gabón",
+            "bomba atómica secreta",
+            "cero punto setecientos diecisiete"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "analytical",
+          "infografia": {
+            "tipo": "comparacion",
+            "titulo": "Anomalía Isotópica U-235",
+            "subtitulo": "Concentración Natural vs Oklo",
+            "valorPrincipal": "0.720%",
+            "unidad": "estándar universal",
+            "items": [
+              {
+                "etiqueta": "Estándar terrestre y cósmico",
+                "valor": "0.7202% constante",
+                "porcentaje": 100,
+                "color": "#38BDF8"
+              },
+              {
+                "etiqueta": "Mina de Oklo (Gabón)",
+                "valor": "0.7171% (Agotado)",
+                "porcentaje": 99.5,
+                "color": "#FFE600"
+              },
+              {
+                "etiqueta": "Núcleos del reactor",
+                "valor": "Hasta 0.440% (Quemado)",
+                "porcentaje": 61,
+                "color": "#EF4444"
+              }
+            ],
+            "colorAcento": "#EF4444"
+          },
+          "duracionSegundos": 29.338,
+          "palabras": [
+            {
+              "palabra": "Sin",
+              "inicioMs": 0,
+              "finMs": 180
+            },
+            {
+              "palabra": "embargo",
+              "inicioMs": 180,
+              "finMs": 400
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 540,
+              "finMs": 640
+            },
+            {
+              "palabra": "cargamento",
+              "inicioMs": 640,
+              "finMs": 980
+            },
+            {
+              "palabra": "examinado",
+              "inicioMs": 980,
+              "finMs": 1560
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 1560,
+              "finMs": 1760
+            },
+            {
+              "palabra": "Pierrelatte",
+              "inicioMs": 1760,
+              "finMs": 2300
+            },
+            {
+              "palabra": "procedente",
+              "inicioMs": 2680,
+              "finMs": 3040
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3040,
+              "finMs": 3160
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 3160,
+              "finMs": 3285
+            },
+            {
+              "palabra": "mina",
+              "inicioMs": 3160,
+              "finMs": 3540
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 3540,
+              "finMs": 3700
+            },
+            {
+              "palabra": "cielo",
+              "inicioMs": 3700,
+              "finMs": 3860
+            },
+            {
+              "palabra": "abierto",
+              "inicioMs": 4020,
+              "finMs": 4220
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 4220,
+              "finMs": 4520
+            },
+            {
+              "palabra": "Oklo",
+              "inicioMs": 4520,
+              "finMs": 4660
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 4800,
+              "finMs": 4980
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 4980,
+              "finMs": 5100
+            },
+            {
+              "palabra": "república",
+              "inicioMs": 5100,
+              "finMs": 5520
+            },
+            {
+              "palabra": "africana",
+              "inicioMs": 5520,
+              "finMs": 5940
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5940,
+              "finMs": 6100
+            },
+            {
+              "palabra": "Gabón",
+              "inicioMs": 6100,
+              "finMs": 6400
+            },
+            {
+              "palabra": "mostraba",
+              "inicioMs": 6640,
+              "finMs": 6960
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 6960,
+              "finMs": 7080
+            },
+            {
+              "palabra": "cifra",
+              "inicioMs": 7080,
+              "finMs": 7400
+            },
+            {
+              "palabra": "anómala",
+              "inicioMs": 7400,
+              "finMs": 7800
+            },
+            {
+              "palabra": "e",
+              "inicioMs": 7800,
+              "finMs": 7960
+            },
+            {
+              "palabra": "inexplicable",
+              "inicioMs": 7960,
+              "finMs": 8660
+            },
+            {
+              "palabra": "apenas",
+              "inicioMs": 8820,
+              "finMs": 9020
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 9020,
+              "finMs": 9307
+            },
+            {
+              "palabra": "cero",
+              "inicioMs": 9307,
+              "finMs": 9593
+            },
+            {
+              "palabra": "punto",
+              "inicioMs": 9593,
+              "finMs": 9880
+            },
+            {
+              "palabra": "setecientos",
+              "inicioMs": 9880,
+              "finMs": 10167
+            },
+            {
+              "palabra": "diecisiete",
+              "inicioMs": 10167,
+              "finMs": 10453
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 10740,
+              "finMs": 11020
+            },
+            {
+              "palabra": "ciento",
+              "inicioMs": 11020,
+              "finMs": 11420
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 11420,
+              "finMs": 12260
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 12260,
+              "finMs": 12340
+            },
+            {
+              "palabra": "algunas",
+              "inicioMs": 12340,
+              "finMs": 12640
+            },
+            {
+              "palabra": "capas",
+              "inicioMs": 12640,
+              "finMs": 13000
+            },
+            {
+              "palabra": "posteriores",
+              "inicioMs": 13000,
+              "finMs": 13520
+            },
+            {
+              "palabra": "caía",
+              "inicioMs": 13520,
+              "finMs": 13940
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 13940,
+              "finMs": 14160
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 14160,
+              "finMs": 14240
+            },
+            {
+              "palabra": "alarmante",
+              "inicioMs": 14320,
+              "finMs": 14800
+            },
+            {
+              "palabra": "cero",
+              "inicioMs": 14800,
+              "finMs": 15177
+            },
+            {
+              "palabra": "punto",
+              "inicioMs": 15177,
+              "finMs": 15553
+            },
+            {
+              "palabra": "cuatro",
+              "inicioMs": 15553,
+              "finMs": 15930
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 15930,
+              "finMs": 16307
+            },
+            {
+              "palabra": "ciento",
+              "inicioMs": 16307,
+              "finMs": 16683
+            },
+            {
+              "palabra": "Faltaban",
+              "inicioMs": 17060,
+              "finMs": 17340
+            },
+            {
+              "palabra": "cientos",
+              "inicioMs": 17340,
+              "finMs": 17700
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17700,
+              "finMs": 17840
+            },
+            {
+              "palabra": "kilogramos",
+              "inicioMs": 17840,
+              "finMs": 18280
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18280,
+              "finMs": 18480
+            },
+            {
+              "palabra": "uranio",
+              "inicioMs": 18480,
+              "finMs": 18820
+            },
+            {
+              "palabra": "doscientos",
+              "inicioMs": 18820,
+              "finMs": 19100
+            },
+            {
+              "palabra": "treinta",
+              "inicioMs": 19100,
+              "finMs": 19380
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 19380,
+              "finMs": 19660
+            },
+            {
+              "palabra": "cinco",
+              "inicioMs": 19660,
+              "finMs": 19940
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 20220,
+              "finMs": 20320
+            },
+            {
+              "palabra": "Comisariado",
+              "inicioMs": 20320,
+              "finMs": 20880
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 20880,
+              "finMs": 20980
+            },
+            {
+              "palabra": "Energía",
+              "inicioMs": 20980,
+              "finMs": 21260
+            },
+            {
+              "palabra": "Atómica",
+              "inicioMs": 21260,
+              "finMs": 21680
+            },
+            {
+              "palabra": "francés",
+              "inicioMs": 21680,
+              "finMs": 22100
+            },
+            {
+              "palabra": "temió",
+              "inicioMs": 22100,
+              "finMs": 22440
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22440,
+              "finMs": 22560
+            },
+            {
+              "palabra": "inmediato",
+              "inicioMs": 22560,
+              "finMs": 22980
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 22980,
+              "finMs": 23100
+            },
+            {
+              "palabra": "robo",
+              "inicioMs": 23100,
+              "finMs": 23320
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 23320,
+              "finMs": 23420
+            },
+            {
+              "palabra": "material",
+              "inicioMs": 23420,
+              "finMs": 23720
+            },
+            {
+              "palabra": "nuclear",
+              "inicioMs": 23720,
+              "finMs": 24060
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 24060,
+              "finMs": 24360
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 24360,
+              "finMs": 24460
+            },
+            {
+              "palabra": "desvío",
+              "inicioMs": 24460,
+              "finMs": 24700
+            },
+            {
+              "palabra": "clandestino",
+              "inicioMs": 24920,
+              "finMs": 25260
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 25260,
+              "finMs": 25360
+            },
+            {
+              "palabra": "combustible",
+              "inicioMs": 25360,
+              "finMs": 25980
+            },
+            {
+              "palabra": "enriquecido",
+              "inicioMs": 25980,
+              "finMs": 26680
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 26680,
+              "finMs": 26860
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 26860,
+              "finMs": 27000
+            },
+            {
+              "palabra": "fabricación",
+              "inicioMs": 27000,
+              "finMs": 27480
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 27480,
+              "finMs": 27640
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 27640,
+              "finMs": 27740
+            },
+            {
+              "palabra": "bomba",
+              "inicioMs": 27740,
+              "finMs": 28040
+            },
+            {
+              "palabra": "atómica",
+              "inicioMs": 28040,
+              "finMs": 28360
+            },
+            {
+              "palabra": "secreta",
+              "inicioMs": 28360,
+              "finMs": 28840
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 59.25
+    },
+    {
+      "id": "cap_2",
+      "numero": 2,
+      "titulo": "La Investigación Geológica en Gabón",
+      "resumen": "La expedición a África y el descarte de sabotajes modernos.",
+      "escenas": [
+        {
+          "id": 3,
+          "texto": "Un equipo de físicos y geólogos franceses fue enviado de urgencia a las selvas de Gabón para investigar el yacimiento in situ. Rastrearon cada lote de roca y descartaron rápidamente cualquier intervención humana moderna o fraude industrial: el mineral provenía de estratos geológicos profundos que habían permanecido completamente sellados e intactos durante cientos de millones de años. La única explicación física concebible era inconcebible para la época: aquel uranio ya había sido consumido en una reacción de fisión nuclear.",
+          "tituloVisual": "EXPEDICION A OKLO",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "cielo_dia",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "selvas de Gabón",
+            "estratos sellados",
+            "fraude descartado",
+            "reacción de fisión nuclear"
+          ],
+          "poseId": "walking_confidently",
+          "expresion": "analytical",
+          "duracionSegundos": 27.538,
+          "palabras": [
+            {
+              "palabra": "Un",
+              "inicioMs": 0,
+              "finMs": 200
+            },
+            {
+              "palabra": "equipo",
+              "inicioMs": 200,
+              "finMs": 400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 400,
+              "finMs": 600
+            },
+            {
+              "palabra": "físicos",
+              "inicioMs": 600,
+              "finMs": 980
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 980,
+              "finMs": 1140
+            },
+            {
+              "palabra": "geólogos",
+              "inicioMs": 1140,
+              "finMs": 1440
+            },
+            {
+              "palabra": "franceses",
+              "inicioMs": 1440,
+              "finMs": 2080
+            },
+            {
+              "palabra": "fue",
+              "inicioMs": 2080,
+              "finMs": 2320
+            },
+            {
+              "palabra": "enviado",
+              "inicioMs": 2320,
+              "finMs": 2620
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2620,
+              "finMs": 2700
+            },
+            {
+              "palabra": "urgencia",
+              "inicioMs": 2700,
+              "finMs": 3160
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 3160,
+              "finMs": 3280
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 3280,
+              "finMs": 3340
+            },
+            {
+              "palabra": "selvas",
+              "inicioMs": 3340,
+              "finMs": 3660
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3660,
+              "finMs": 3800
+            },
+            {
+              "palabra": "Gabón",
+              "inicioMs": 3800,
+              "finMs": 4140
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 4140,
+              "finMs": 4520
+            },
+            {
+              "palabra": "investigar",
+              "inicioMs": 4520,
+              "finMs": 4920
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 4920,
+              "finMs": 5080
+            },
+            {
+              "palabra": "yacimiento",
+              "inicioMs": 5080,
+              "finMs": 5400
+            },
+            {
+              "palabra": "in",
+              "inicioMs": 5400,
+              "finMs": 5660
+            },
+            {
+              "palabra": "situ",
+              "inicioMs": 5660,
+              "finMs": 5940
+            },
+            {
+              "palabra": "Rastrearon",
+              "inicioMs": 6240,
+              "finMs": 6560
+            },
+            {
+              "palabra": "cada",
+              "inicioMs": 6560,
+              "finMs": 6820
+            },
+            {
+              "palabra": "lote",
+              "inicioMs": 6820,
+              "finMs": 7140
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 7140,
+              "finMs": 7260
+            },
+            {
+              "palabra": "roca",
+              "inicioMs": 7260,
+              "finMs": 7500
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 7500,
+              "finMs": 7640
+            },
+            {
+              "palabra": "descartaron",
+              "inicioMs": 7640,
+              "finMs": 8120
+            },
+            {
+              "palabra": "rápidamente",
+              "inicioMs": 8120,
+              "finMs": 8660
+            },
+            {
+              "palabra": "cualquier",
+              "inicioMs": 8660,
+              "finMs": 9060
+            },
+            {
+              "palabra": "intervención",
+              "inicioMs": 9060,
+              "finMs": 9760
+            },
+            {
+              "palabra": "humana",
+              "inicioMs": 9760,
+              "finMs": 10180
+            },
+            {
+              "palabra": "moderna",
+              "inicioMs": 10180,
+              "finMs": 10660
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 10660,
+              "finMs": 10780
+            },
+            {
+              "palabra": "fraude",
+              "inicioMs": 10780,
+              "finMs": 11040
+            },
+            {
+              "palabra": "industrial",
+              "inicioMs": 11040,
+              "finMs": 11580
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 11740,
+              "finMs": 11820
+            },
+            {
+              "palabra": "mineral",
+              "inicioMs": 11820,
+              "finMs": 12120
+            },
+            {
+              "palabra": "provenía",
+              "inicioMs": 12120,
+              "finMs": 12660
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12660,
+              "finMs": 12820
+            },
+            {
+              "palabra": "estratos",
+              "inicioMs": 12820,
+              "finMs": 13180
+            },
+            {
+              "palabra": "geológicos",
+              "inicioMs": 13180,
+              "finMs": 13820
+            },
+            {
+              "palabra": "profundos",
+              "inicioMs": 13820,
+              "finMs": 14420
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 14420,
+              "finMs": 14880
+            },
+            {
+              "palabra": "habían",
+              "inicioMs": 14880,
+              "finMs": 15100
+            },
+            {
+              "palabra": "permanecido",
+              "inicioMs": 15100,
+              "finMs": 15720
+            },
+            {
+              "palabra": "completamente",
+              "inicioMs": 15720,
+              "finMs": 16320
+            },
+            {
+              "palabra": "sellados",
+              "inicioMs": 16320,
+              "finMs": 16980
+            },
+            {
+              "palabra": "e",
+              "inicioMs": 16980,
+              "finMs": 17180
+            },
+            {
+              "palabra": "intactos",
+              "inicioMs": 17180,
+              "finMs": 17720
+            },
+            {
+              "palabra": "durante",
+              "inicioMs": 17720,
+              "finMs": 18160
+            },
+            {
+              "palabra": "cientos",
+              "inicioMs": 18160,
+              "finMs": 18600
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18600,
+              "finMs": 18780
+            },
+            {
+              "palabra": "millones",
+              "inicioMs": 18780,
+              "finMs": 18960
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18960,
+              "finMs": 19260
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 19260,
+              "finMs": 19500
+            },
+            {
+              "palabra": "La",
+              "inicioMs": 19740,
+              "finMs": 19820
+            },
+            {
+              "palabra": "única",
+              "inicioMs": 19820,
+              "finMs": 20080
+            },
+            {
+              "palabra": "explicación",
+              "inicioMs": 20080,
+              "finMs": 20720
+            },
+            {
+              "palabra": "física",
+              "inicioMs": 20720,
+              "finMs": 21040
+            },
+            {
+              "palabra": "concebible",
+              "inicioMs": 21040,
+              "finMs": 21760
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 21760,
+              "finMs": 22080
+            },
+            {
+              "palabra": "inconcebible",
+              "inicioMs": 22080,
+              "finMs": 22760
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 22760,
+              "finMs": 22980
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 22980,
+              "finMs": 23120
+            },
+            {
+              "palabra": "época",
+              "inicioMs": 23120,
+              "finMs": 23380
+            },
+            {
+              "palabra": "aquel",
+              "inicioMs": 23920,
+              "finMs": 24180
+            },
+            {
+              "palabra": "uranio",
+              "inicioMs": 24180,
+              "finMs": 24400
+            },
+            {
+              "palabra": "ya",
+              "inicioMs": 24400,
+              "finMs": 24680
+            },
+            {
+              "palabra": "había",
+              "inicioMs": 24680,
+              "finMs": 24800
+            },
+            {
+              "palabra": "sido",
+              "inicioMs": 24800,
+              "finMs": 25040
+            },
+            {
+              "palabra": "consumido",
+              "inicioMs": 25040,
+              "finMs": 25580
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 25580,
+              "finMs": 25700
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 25700,
+              "finMs": 25860
+            },
+            {
+              "palabra": "reacción",
+              "inicioMs": 25860,
+              "finMs": 26220
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 26220,
+              "finMs": 26400
+            },
+            {
+              "palabra": "fisión",
+              "inicioMs": 26400,
+              "finMs": 26720
+            },
+            {
+              "palabra": "nuclear",
+              "inicioMs": 26720,
+              "finMs": 27080
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "texto": "La confirmación irrefutable llegó al analizar los subproductos de la roca: los geólogos encontraron concentraciones anómalas de isótopos de neodimio, samario, rutenio y cesio con patrones de descomposición idénticos a las cenizas radiactivas que se producen dentro de un reactor nuclear moderno. Alguien o algo había encendido una reacción en cadena de fisión nuclear en África... hace dos mil millones de años.",
+          "tituloVisual": "CENIZAS RADIACTIVAS",
+          "layout": "split_screen",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_left",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "neodimio y samario",
+            "cenizas radiactivas",
+            "hace dos mil millones de años",
+            "patrones de fisión"
+          ],
+          "poseId": "holding_presentation_board",
+          "expresion": "shocked",
+          "duracionSegundos": 20.554,
+          "palabras": [
+            {
+              "palabra": "La",
+              "inicioMs": 0,
+              "finMs": 180
+            },
+            {
+              "palabra": "confirmación",
+              "inicioMs": 180,
+              "finMs": 720
+            },
+            {
+              "palabra": "irrefutable",
+              "inicioMs": 720,
+              "finMs": 1340
+            },
+            {
+              "palabra": "llegó",
+              "inicioMs": 1340,
+              "finMs": 1600
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 1600,
+              "finMs": 1740
+            },
+            {
+              "palabra": "analizar",
+              "inicioMs": 1740,
+              "finMs": 2100
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 2100,
+              "finMs": 2300
+            },
+            {
+              "palabra": "subproductos",
+              "inicioMs": 2300,
+              "finMs": 2840
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2840,
+              "finMs": 2920
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 2920,
+              "finMs": 3020
+            },
+            {
+              "palabra": "roca",
+              "inicioMs": 3020,
+              "finMs": 3340
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 3600,
+              "finMs": 3680
+            },
+            {
+              "palabra": "geólogos",
+              "inicioMs": 3680,
+              "finMs": 4200
+            },
+            {
+              "palabra": "encontraron",
+              "inicioMs": 4200,
+              "finMs": 4740
+            },
+            {
+              "palabra": "concentraciones",
+              "inicioMs": 4740,
+              "finMs": 5380
+            },
+            {
+              "palabra": "anómalas",
+              "inicioMs": 5380,
+              "finMs": 5920
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5920,
+              "finMs": 6000
+            },
+            {
+              "palabra": "isótopos",
+              "inicioMs": 6000,
+              "finMs": 6500
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6500,
+              "finMs": 6600
+            },
+            {
+              "palabra": "neodimio",
+              "inicioMs": 6600,
+              "finMs": 7080
+            },
+            {
+              "palabra": "samario",
+              "inicioMs": 7300,
+              "finMs": 7660
+            },
+            {
+              "palabra": "rutenio",
+              "inicioMs": 7840,
+              "finMs": 8340
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 8340,
+              "finMs": 8380
+            },
+            {
+              "palabra": "cesio",
+              "inicioMs": 8367,
+              "finMs": 8407
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 8420,
+              "finMs": 8500
+            },
+            {
+              "palabra": "patrones",
+              "inicioMs": 8500,
+              "finMs": 8880
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8880,
+              "finMs": 9000
+            },
+            {
+              "palabra": "descomposición",
+              "inicioMs": 9000,
+              "finMs": 9600
+            },
+            {
+              "palabra": "idénticos",
+              "inicioMs": 9600,
+              "finMs": 10100
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 10100,
+              "finMs": 10280
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 10280,
+              "finMs": 10380
+            },
+            {
+              "palabra": "cenizas",
+              "inicioMs": 10380,
+              "finMs": 10720
+            },
+            {
+              "palabra": "radiactivas",
+              "inicioMs": 10720,
+              "finMs": 11240
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 11240,
+              "finMs": 11420
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 11420,
+              "finMs": 11540
+            },
+            {
+              "palabra": "producen",
+              "inicioMs": 11540,
+              "finMs": 11920
+            },
+            {
+              "palabra": "dentro",
+              "inicioMs": 11920,
+              "finMs": 12180
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12180,
+              "finMs": 12320
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 12320,
+              "finMs": 12420
+            },
+            {
+              "palabra": "reactor",
+              "inicioMs": 12420,
+              "finMs": 12700
+            },
+            {
+              "palabra": "nuclear",
+              "inicioMs": 12700,
+              "finMs": 13040
+            },
+            {
+              "palabra": "moderno",
+              "inicioMs": 13040,
+              "finMs": 14060
+            },
+            {
+              "palabra": "Alguien",
+              "inicioMs": 14080,
+              "finMs": 14620
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 14620,
+              "finMs": 14800
+            },
+            {
+              "palabra": "algo",
+              "inicioMs": 14800,
+              "finMs": 15100
+            },
+            {
+              "palabra": "había",
+              "inicioMs": 15100,
+              "finMs": 15220
+            },
+            {
+              "palabra": "encendido",
+              "inicioMs": 15220,
+              "finMs": 15720
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 15720,
+              "finMs": 15900
+            },
+            {
+              "palabra": "reacción",
+              "inicioMs": 15900,
+              "finMs": 16240
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 16240,
+              "finMs": 16420
+            },
+            {
+              "palabra": "cadena",
+              "inicioMs": 16420,
+              "finMs": 16720
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 16720,
+              "finMs": 16860
+            },
+            {
+              "palabra": "fisión",
+              "inicioMs": 16860,
+              "finMs": 17260
+            },
+            {
+              "palabra": "nuclear",
+              "inicioMs": 17260,
+              "finMs": 17460
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 17460,
+              "finMs": 17700
+            },
+            {
+              "palabra": "África",
+              "inicioMs": 17700,
+              "finMs": 18040
+            },
+            {
+              "palabra": "hace",
+              "inicioMs": 18520,
+              "finMs": 18760
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 18760,
+              "finMs": 18913
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 18913,
+              "finMs": 19067
+            },
+            {
+              "palabra": "millones",
+              "inicioMs": 19220,
+              "finMs": 19520
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19520,
+              "finMs": 19820
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 19820,
+              "finMs": 20060
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 48.09
+    },
+    {
+      "id": "cap_3",
+      "numero": 3,
+      "titulo": "Las Condiciones Milagrosas de hace Dos Mil Millones de Años",
+      "resumen": "Por qué la física del pasado permitió lo que hoy es imposible.",
+      "escenas": [
+        {
+          "id": 5,
+          "texto": "¿Cómo fue posible que la naturaleza ensamblara un reactor nuclear sin ingenieros ni computadoras? La respuesta reside en el reloj de desintegración radiactiva. El isótopo fisionable uranio doscientos treinta y cinco se desintegra mucho más rápido que el uranio doscientos treinta y ocho, con una vida media de setecientos millones de años. Esto significa que hace dos mil millones de años, la abundancia natural de uranio fisionable en el planeta no era del raquítico cero punto siete por ciento actual, sino de más del tres por ciento: exactamente la misma proporción a la que hoy enriquecemos el combustible artificial en las centrales nucleares.",
+          "tituloVisual": "EL RELOJ RADIACTIVO",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "vida media",
+            "setecientos millones de años",
+            "tres por ciento natural",
+            "centrales nucleares modernas"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "eureka",
+          "infografia": {
+            "tipo": "dato_clave",
+            "titulo": "Enriquecimiento Natural",
+            "subtitulo": "Concentración de U-235 hace 2.000 Millones de Años",
+            "valorPrincipal": "3.1%",
+            "unidad": "enriquecimiento fósil",
+            "items": [
+              {
+                "etiqueta": "Hace 2.000M de años",
+                "valor": "3.1% (Grado reactor comercial)",
+                "porcentaje": 100,
+                "color": "#FFE600"
+              },
+              {
+                "etiqueta": "Hoy en día",
+                "valor": "0.72% (Fisión natural imposible)",
+                "porcentaje": 23,
+                "color": "#38BDF8"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 34.426,
+          "palabras": [
+            {
+              "palabra": "Cómo",
+              "inicioMs": 0,
+              "finMs": 220
+            },
+            {
+              "palabra": "fue",
+              "inicioMs": 220,
+              "finMs": 400
+            },
+            {
+              "palabra": "posible",
+              "inicioMs": 400,
+              "finMs": 720
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 720,
+              "finMs": 920
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 920,
+              "finMs": 1020
+            },
+            {
+              "palabra": "naturaleza",
+              "inicioMs": 1020,
+              "finMs": 1580
+            },
+            {
+              "palabra": "ensamblara",
+              "inicioMs": 1580,
+              "finMs": 1980
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 1980,
+              "finMs": 2160
+            },
+            {
+              "palabra": "reactor",
+              "inicioMs": 2160,
+              "finMs": 2440
+            },
+            {
+              "palabra": "nuclear",
+              "inicioMs": 2440,
+              "finMs": 2820
+            },
+            {
+              "palabra": "sin",
+              "inicioMs": 2820,
+              "finMs": 3100
+            },
+            {
+              "palabra": "ingenieros",
+              "inicioMs": 3100,
+              "finMs": 3640
+            },
+            {
+              "palabra": "ni",
+              "inicioMs": 3640,
+              "finMs": 3820
+            },
+            {
+              "palabra": "computadoras",
+              "inicioMs": 3820,
+              "finMs": 4640
+            },
+            {
+              "palabra": "La",
+              "inicioMs": 4860,
+              "finMs": 4940
+            },
+            {
+              "palabra": "respuesta",
+              "inicioMs": 4940,
+              "finMs": 5280
+            },
+            {
+              "palabra": "reside",
+              "inicioMs": 5280,
+              "finMs": 5840
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 5840,
+              "finMs": 6120
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 6120,
+              "finMs": 6240
+            },
+            {
+              "palabra": "reloj",
+              "inicioMs": 6240,
+              "finMs": 6580
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6580,
+              "finMs": 6720
+            },
+            {
+              "palabra": "desintegración",
+              "inicioMs": 6720,
+              "finMs": 7320
+            },
+            {
+              "palabra": "radiactiva",
+              "inicioMs": 7320,
+              "finMs": 7960
+            },
+            {
+              "palabra": "El",
+              "inicioMs": 8100,
+              "finMs": 8240
+            },
+            {
+              "palabra": "isótopo",
+              "inicioMs": 8240,
+              "finMs": 8500
+            },
+            {
+              "palabra": "fisionable",
+              "inicioMs": 8500,
+              "finMs": 9160
+            },
+            {
+              "palabra": "uranio",
+              "inicioMs": 9160,
+              "finMs": 9413
+            },
+            {
+              "palabra": "doscientos",
+              "inicioMs": 9413,
+              "finMs": 9667
+            },
+            {
+              "palabra": "treinta",
+              "inicioMs": 9667,
+              "finMs": 9920
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 9920,
+              "finMs": 10173
+            },
+            {
+              "palabra": "cinco",
+              "inicioMs": 10173,
+              "finMs": 10427
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 10680,
+              "finMs": 10920
+            },
+            {
+              "palabra": "desintegra",
+              "inicioMs": 10920,
+              "finMs": 11460
+            },
+            {
+              "palabra": "mucho",
+              "inicioMs": 11460,
+              "finMs": 11720
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 11720,
+              "finMs": 11880
+            },
+            {
+              "palabra": "rápido",
+              "inicioMs": 11880,
+              "finMs": 12180
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 12180,
+              "finMs": 12380
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 12380,
+              "finMs": 12440
+            },
+            {
+              "palabra": "uranio",
+              "inicioMs": 12440,
+              "finMs": 12740
+            },
+            {
+              "palabra": "doscientos",
+              "inicioMs": 12740,
+              "finMs": 13040
+            },
+            {
+              "palabra": "treinta",
+              "inicioMs": 13040,
+              "finMs": 13340
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 13340,
+              "finMs": 13640
+            },
+            {
+              "palabra": "ocho",
+              "inicioMs": 13640,
+              "finMs": 13940
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 14240,
+              "finMs": 14340
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 14340,
+              "finMs": 14580
+            },
+            {
+              "palabra": "vida",
+              "inicioMs": 14580,
+              "finMs": 14780
+            },
+            {
+              "palabra": "media",
+              "inicioMs": 14780,
+              "finMs": 15100
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15100,
+              "finMs": 15280
+            },
+            {
+              "palabra": "setecientos",
+              "inicioMs": 15280,
+              "finMs": 15500
+            },
+            {
+              "palabra": "millones",
+              "inicioMs": 15720,
+              "finMs": 16140
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 16140,
+              "finMs": 16440
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 16440,
+              "finMs": 16700
+            },
+            {
+              "palabra": "Esto",
+              "inicioMs": 16840,
+              "finMs": 17020
+            },
+            {
+              "palabra": "significa",
+              "inicioMs": 17020,
+              "finMs": 17400
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 17400,
+              "finMs": 17620
+            },
+            {
+              "palabra": "hace",
+              "inicioMs": 17620,
+              "finMs": 17760
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 17760,
+              "finMs": 17900
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 17900,
+              "finMs": 18040
+            },
+            {
+              "palabra": "millones",
+              "inicioMs": 18180,
+              "finMs": 18460
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18460,
+              "finMs": 18680
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 18680,
+              "finMs": 18940
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 19120,
+              "finMs": 19180
+            },
+            {
+              "palabra": "abundancia",
+              "inicioMs": 19180,
+              "finMs": 19580
+            },
+            {
+              "palabra": "natural",
+              "inicioMs": 19580,
+              "finMs": 19940
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 19940,
+              "finMs": 20180
+            },
+            {
+              "palabra": "uranio",
+              "inicioMs": 20180,
+              "finMs": 20320
+            },
+            {
+              "palabra": "fisionable",
+              "inicioMs": 20460,
+              "finMs": 21060
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 21060,
+              "finMs": 21220
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 21220,
+              "finMs": 21320
+            },
+            {
+              "palabra": "planeta",
+              "inicioMs": 21320,
+              "finMs": 21600
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 21600,
+              "finMs": 22120
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 22120,
+              "finMs": 22360
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 22360,
+              "finMs": 22540
+            },
+            {
+              "palabra": "raquítico",
+              "inicioMs": 22540,
+              "finMs": 23080
+            },
+            {
+              "palabra": "cero",
+              "inicioMs": 23080,
+              "finMs": 23187
+            },
+            {
+              "palabra": "punto",
+              "inicioMs": 23187,
+              "finMs": 23293
+            },
+            {
+              "palabra": "siete",
+              "inicioMs": 23400,
+              "finMs": 24080
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 24080,
+              "finMs": 24205
+            },
+            {
+              "palabra": "ciento",
+              "inicioMs": 24080,
+              "finMs": 24600
+            },
+            {
+              "palabra": "actual",
+              "inicioMs": 24600,
+              "finMs": 25140
+            },
+            {
+              "palabra": "sino",
+              "inicioMs": 25680,
+              "finMs": 26000
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 26000,
+              "finMs": 26180
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 26180,
+              "finMs": 26360
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 26360,
+              "finMs": 26600
+            },
+            {
+              "palabra": "tres",
+              "inicioMs": 26600,
+              "finMs": 27065
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 27065,
+              "finMs": 27530
+            },
+            {
+              "palabra": "ciento",
+              "inicioMs": 27530,
+              "finMs": 27995
+            },
+            {
+              "palabra": "exactamente",
+              "inicioMs": 28460,
+              "finMs": 28980
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 28980,
+              "finMs": 29240
+            },
+            {
+              "palabra": "misma",
+              "inicioMs": 29240,
+              "finMs": 29540
+            },
+            {
+              "palabra": "proporción",
+              "inicioMs": 29540,
+              "finMs": 30160
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 30160,
+              "finMs": 30400
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 30400,
+              "finMs": 30460
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 30460,
+              "finMs": 30620
+            },
+            {
+              "palabra": "hoy",
+              "inicioMs": 30620,
+              "finMs": 30800
+            },
+            {
+              "palabra": "enriquecemos",
+              "inicioMs": 30800,
+              "finMs": 31400
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 31400,
+              "finMs": 31660
+            },
+            {
+              "palabra": "combustible",
+              "inicioMs": 31660,
+              "finMs": 32200
+            },
+            {
+              "palabra": "artificial",
+              "inicioMs": 32200,
+              "finMs": 32700
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 32700,
+              "finMs": 32900
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 32900,
+              "finMs": 33020
+            },
+            {
+              "palabra": "centrales",
+              "inicioMs": 33020,
+              "finMs": 33500
+            },
+            {
+              "palabra": "nucleares",
+              "inicioMs": 33500,
+              "finMs": 33980
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "texto": "A esto se sumó un factor geológico providencial: el drenaje de aguas subterráneas ricas en oxígeno formadas tras la Gran Oxidación arrastró y concentró masivas vetas de óxido de uranio en areniscas porosas en Oklo, creando capas de más de un metro de espesor con la masa crítica necesaria para iniciar la fisión espontánea.",
+          "tituloVisual": "LA MASA CRITICA",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "red_subterranea",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "areniscas porosas",
+            "masa crítica",
+            "fisión espontánea",
+            "vetas de óxido de uranio"
+          ],
+          "poseId": "thinking_chin_hand",
+          "expresion": "analytical",
+          "duracionSegundos": 15.898,
+          "palabras": [
+            {
+              "palabra": "A",
+              "inicioMs": 0,
+              "finMs": 200
+            },
+            {
+              "palabra": "esto",
+              "inicioMs": 200,
+              "finMs": 400
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 400,
+              "finMs": 580
+            },
+            {
+              "palabra": "sumó",
+              "inicioMs": 580,
+              "finMs": 860
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 860,
+              "finMs": 1000
+            },
+            {
+              "palabra": "factor",
+              "inicioMs": 1000,
+              "finMs": 1300
+            },
+            {
+              "palabra": "geológico",
+              "inicioMs": 1300,
+              "finMs": 1900
+            },
+            {
+              "palabra": "providencial",
+              "inicioMs": 1900,
+              "finMs": 2580
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 2920,
+              "finMs": 3040
+            },
+            {
+              "palabra": "drenaje",
+              "inicioMs": 3040,
+              "finMs": 3380
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 3380,
+              "finMs": 3520
+            },
+            {
+              "palabra": "aguas",
+              "inicioMs": 3520,
+              "finMs": 3660
+            },
+            {
+              "palabra": "subterráneas",
+              "inicioMs": 3660,
+              "finMs": 4260
+            },
+            {
+              "palabra": "ricas",
+              "inicioMs": 4260,
+              "finMs": 4480
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 4480,
+              "finMs": 4640
+            },
+            {
+              "palabra": "oxígeno",
+              "inicioMs": 4640,
+              "finMs": 5100
+            },
+            {
+              "palabra": "formadas",
+              "inicioMs": 5100,
+              "finMs": 5420
+            },
+            {
+              "palabra": "tras",
+              "inicioMs": 5420,
+              "finMs": 5580
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5580,
+              "finMs": 5720
+            },
+            {
+              "palabra": "Gran",
+              "inicioMs": 5720,
+              "finMs": 5860
+            },
+            {
+              "palabra": "Oxidación",
+              "inicioMs": 5860,
+              "finMs": 6420
+            },
+            {
+              "palabra": "arrastró",
+              "inicioMs": 6540,
+              "finMs": 6960
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 6960,
+              "finMs": 7120
+            },
+            {
+              "palabra": "concentró",
+              "inicioMs": 7120,
+              "finMs": 7540
+            },
+            {
+              "palabra": "masivas",
+              "inicioMs": 7540,
+              "finMs": 7940
+            },
+            {
+              "palabra": "vetas",
+              "inicioMs": 7940,
+              "finMs": 8300
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8300,
+              "finMs": 8420
+            },
+            {
+              "palabra": "óxido",
+              "inicioMs": 8420,
+              "finMs": 8740
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8740,
+              "finMs": 8840
+            },
+            {
+              "palabra": "uranio",
+              "inicioMs": 8840,
+              "finMs": 9140
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 9140,
+              "finMs": 9280
+            },
+            {
+              "palabra": "areniscas",
+              "inicioMs": 9280,
+              "finMs": 9740
+            },
+            {
+              "palabra": "porosas",
+              "inicioMs": 9740,
+              "finMs": 10140
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 10140,
+              "finMs": 10320
+            },
+            {
+              "palabra": "Oklo",
+              "inicioMs": 10320,
+              "finMs": 10570
+            },
+            {
+              "palabra": "creando",
+              "inicioMs": 10820,
+              "finMs": 11080
+            },
+            {
+              "palabra": "capas",
+              "inicioMs": 11080,
+              "finMs": 11480
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11480,
+              "finMs": 11560
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 11560,
+              "finMs": 11740
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11740,
+              "finMs": 11900
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 11900,
+              "finMs": 12000
+            },
+            {
+              "palabra": "metro",
+              "inicioMs": 12000,
+              "finMs": 12120
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12240,
+              "finMs": 12400
+            },
+            {
+              "palabra": "espesor",
+              "inicioMs": 12400,
+              "finMs": 12720
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 12720,
+              "finMs": 12820
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 12820,
+              "finMs": 12960
+            },
+            {
+              "palabra": "masa",
+              "inicioMs": 12960,
+              "finMs": 13120
+            },
+            {
+              "palabra": "crítica",
+              "inicioMs": 13120,
+              "finMs": 13600
+            },
+            {
+              "palabra": "necesaria",
+              "inicioMs": 13600,
+              "finMs": 14040
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 14040,
+              "finMs": 14200
+            },
+            {
+              "palabra": "iniciar",
+              "inicioMs": 14200,
+              "finMs": 14520
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 14520,
+              "finMs": 14620
+            },
+            {
+              "palabra": "fisión",
+              "inicioMs": 14620,
+              "finMs": 15000
+            },
+            {
+              "palabra": "espontánea",
+              "inicioMs": 15000,
+              "finMs": 15420
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 50.32
+    },
+    {
+      "id": "cap_4",
+      "numero": 4,
+      "titulo": "El Moderador de Agua y el Ciclo de Tres Horas",
+      "resumen": "El termostato natural autorregulable que evitó una explosión nuclear.",
+      "escenas": [
+        {
+          "id": 7,
+          "texto": "Pero para sostener una reacción nuclear controlada y evitar que el uranio estalle como una bomba o se apague de inmediato se requiere un moderador de neutrones: una sustancia que frene la velocidad de los neutrones rápidos para que puedan partir otros núcleos atómicos. En Oklo, ese moderador fue simplemente el agua de lluvia subterránea que se filtraba a través de las fracturas de la roca arenisca.",
+          "tituloVisual": "EL MODERADOR DE AGUA",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "red_subterranea",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "moderador de neutrones",
+            "agua de lluvia subterránea",
+            "neutrones rápidos",
+            "reacción controlada"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "talking",
+          "duracionSegundos": 20.29,
+          "palabras": [
+            {
+              "palabra": "Pero",
+              "inicioMs": 0,
+              "finMs": 220
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 220,
+              "finMs": 400
+            },
+            {
+              "palabra": "sostener",
+              "inicioMs": 400,
+              "finMs": 800
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 800,
+              "finMs": 1040
+            },
+            {
+              "palabra": "reacción",
+              "inicioMs": 1040,
+              "finMs": 1380
+            },
+            {
+              "palabra": "nuclear",
+              "inicioMs": 1380,
+              "finMs": 1660
+            },
+            {
+              "palabra": "controlada",
+              "inicioMs": 1660,
+              "finMs": 2460
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 2460,
+              "finMs": 2660
+            },
+            {
+              "palabra": "evitar",
+              "inicioMs": 2660,
+              "finMs": 2920
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 2920,
+              "finMs": 3160
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 3160,
+              "finMs": 3240
+            },
+            {
+              "palabra": "uranio",
+              "inicioMs": 3240,
+              "finMs": 3420
+            },
+            {
+              "palabra": "estalle",
+              "inicioMs": 3420,
+              "finMs": 3880
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 3880,
+              "finMs": 4160
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 4160,
+              "finMs": 4360
+            },
+            {
+              "palabra": "bomba",
+              "inicioMs": 4360,
+              "finMs": 4740
+            },
+            {
+              "palabra": "o",
+              "inicioMs": 4740,
+              "finMs": 4880
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 4880,
+              "finMs": 5000
+            },
+            {
+              "palabra": "apague",
+              "inicioMs": 5000,
+              "finMs": 5280
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5280,
+              "finMs": 5420
+            },
+            {
+              "palabra": "inmediato",
+              "inicioMs": 5420,
+              "finMs": 5920
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 6040,
+              "finMs": 6120
+            },
+            {
+              "palabra": "requiere",
+              "inicioMs": 6120,
+              "finMs": 6440
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 6440,
+              "finMs": 6560
+            },
+            {
+              "palabra": "moderador",
+              "inicioMs": 6560,
+              "finMs": 6980
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6980,
+              "finMs": 7140
+            },
+            {
+              "palabra": "neutrones",
+              "inicioMs": 7140,
+              "finMs": 7620
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 7900,
+              "finMs": 8040
+            },
+            {
+              "palabra": "sustancia",
+              "inicioMs": 8040,
+              "finMs": 8520
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 8520,
+              "finMs": 8720
+            },
+            {
+              "palabra": "frene",
+              "inicioMs": 8720,
+              "finMs": 9020
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 9020,
+              "finMs": 9180
+            },
+            {
+              "palabra": "velocidad",
+              "inicioMs": 9180,
+              "finMs": 9440
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9440,
+              "finMs": 9700
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 9700,
+              "finMs": 9820
+            },
+            {
+              "palabra": "neutrones",
+              "inicioMs": 9820,
+              "finMs": 10260
+            },
+            {
+              "palabra": "rápidos",
+              "inicioMs": 10260,
+              "finMs": 10760
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 10760,
+              "finMs": 10980
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 10980,
+              "finMs": 11120
+            },
+            {
+              "palabra": "puedan",
+              "inicioMs": 11120,
+              "finMs": 11380
+            },
+            {
+              "palabra": "partir",
+              "inicioMs": 11380,
+              "finMs": 11680
+            },
+            {
+              "palabra": "otros",
+              "inicioMs": 11680,
+              "finMs": 12000
+            },
+            {
+              "palabra": "núcleos",
+              "inicioMs": 12000,
+              "finMs": 12420
+            },
+            {
+              "palabra": "atómicos",
+              "inicioMs": 12420,
+              "finMs": 12880
+            },
+            {
+              "palabra": "En",
+              "inicioMs": 13100,
+              "finMs": 13220
+            },
+            {
+              "palabra": "Oklo",
+              "inicioMs": 13220,
+              "finMs": 13520
+            },
+            {
+              "palabra": "ese",
+              "inicioMs": 13820,
+              "finMs": 13960
+            },
+            {
+              "palabra": "moderador",
+              "inicioMs": 13960,
+              "finMs": 14460
+            },
+            {
+              "palabra": "fue",
+              "inicioMs": 14460,
+              "finMs": 14680
+            },
+            {
+              "palabra": "simplemente",
+              "inicioMs": 14680,
+              "finMs": 15200
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 15200,
+              "finMs": 15520
+            },
+            {
+              "palabra": "agua",
+              "inicioMs": 15520,
+              "finMs": 15680
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15680,
+              "finMs": 15860
+            },
+            {
+              "palabra": "lluvia",
+              "inicioMs": 15860,
+              "finMs": 16140
+            },
+            {
+              "palabra": "subterránea",
+              "inicioMs": 16140,
+              "finMs": 16780
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 16780,
+              "finMs": 16960
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 16960,
+              "finMs": 17120
+            },
+            {
+              "palabra": "filtraba",
+              "inicioMs": 17120,
+              "finMs": 17600
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 17600,
+              "finMs": 17700
+            },
+            {
+              "palabra": "través",
+              "inicioMs": 17700,
+              "finMs": 17960
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17960,
+              "finMs": 18140
+            },
+            {
+              "palabra": "las",
+              "inicioMs": 18140,
+              "finMs": 18280
+            },
+            {
+              "palabra": "fracturas",
+              "inicioMs": 18280,
+              "finMs": 18740
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18740,
+              "finMs": 18900
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 18900,
+              "finMs": 19020
+            },
+            {
+              "palabra": "roca",
+              "inicioMs": 19020,
+              "finMs": 19300
+            },
+            {
+              "palabra": "arenisca",
+              "inicioMs": 19300,
+              "finMs": 19820
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "texto": "El reactor natural funcionaba con un ciclo pulsante fascinante de tres horas idéntico a un géiser: el agua fría entraba en la veta de uranio, frenaba los neutrones e iniciaba la fisión nuclear. A medida que el calor atómico elevaba la temperatura a más de cuatrocientos grados centígrados, el agua comenzaba a hervir y se evaporaba en vapor a alta presión. Sin agua líquida como moderador, los neutrones viajaban demasiado rápido y la reacción se detenía sola de forma segura. Al enfriarse el lecho mineral horas después, el agua volvía a condensarse y el ciclo arrancaba de nuevo.",
+          "tituloVisual": "CICLO GEISER DE TRES HORAS",
+          "layout": "infografia_derecha",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_right",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "ciclo pulsante de tres horas",
+            "cuatrocientos grados",
+            "vapor a alta presión",
+            "termostato natural"
+          ],
+          "poseId": "explaining_pointing_up",
+          "expresion": "eureka",
+          "infografia": {
+            "tipo": "grafico_barras",
+            "titulo": "Ciclo Térmico de Oklo",
+            "subtitulo": "Pulsos de Fisión Autorregulados",
+            "valorPrincipal": "3 Horas",
+            "unidad": "periodo del ciclo",
+            "items": [
+              {
+                "etiqueta": "Fase de Fisión Activa",
+                "valor": "30 minutos (Agua líquida modera)",
+                "porcentaje": 17,
+                "color": "#FFE600"
+              },
+              {
+                "etiqueta": "Fase de Enfriamiento",
+                "valor": "150 minutos (Vapor detiene fisión)",
+                "porcentaje": 83,
+                "color": "#38BDF8"
+              }
+            ],
+            "colorAcento": "#FFE600"
+          },
+          "duracionSegundos": 29.602,
+          "palabras": [
+            {
+              "palabra": "El",
+              "inicioMs": 0,
+              "finMs": 200
+            },
+            {
+              "palabra": "reactor",
+              "inicioMs": 200,
+              "finMs": 340
+            },
+            {
+              "palabra": "natural",
+              "inicioMs": 480,
+              "finMs": 720
+            },
+            {
+              "palabra": "funcionaba",
+              "inicioMs": 720,
+              "finMs": 1280
+            },
+            {
+              "palabra": "con",
+              "inicioMs": 1280,
+              "finMs": 1460
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 1460,
+              "finMs": 1600
+            },
+            {
+              "palabra": "ciclo",
+              "inicioMs": 1600,
+              "finMs": 1840
+            },
+            {
+              "palabra": "pulsante",
+              "inicioMs": 1840,
+              "finMs": 2300
+            },
+            {
+              "palabra": "fascinante",
+              "inicioMs": 2300,
+              "finMs": 2880
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2880,
+              "finMs": 2960
+            },
+            {
+              "palabra": "tres",
+              "inicioMs": 2960,
+              "finMs": 3160
+            },
+            {
+              "palabra": "horas",
+              "inicioMs": 3160,
+              "finMs": 3280
+            },
+            {
+              "palabra": "idéntico",
+              "inicioMs": 3280,
+              "finMs": 3840
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 3840,
+              "finMs": 4020
+            },
+            {
+              "palabra": "un",
+              "inicioMs": 4020,
+              "finMs": 4160
+            },
+            {
+              "palabra": "géiser",
+              "inicioMs": 4160,
+              "finMs": 4550
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 4940,
+              "finMs": 5040
+            },
+            {
+              "palabra": "agua",
+              "inicioMs": 5040,
+              "finMs": 5220
+            },
+            {
+              "palabra": "fría",
+              "inicioMs": 5220,
+              "finMs": 5620
+            },
+            {
+              "palabra": "entraba",
+              "inicioMs": 5640,
+              "finMs": 5980
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 5980,
+              "finMs": 6060
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 6060,
+              "finMs": 6160
+            },
+            {
+              "palabra": "veta",
+              "inicioMs": 6160,
+              "finMs": 6340
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6340,
+              "finMs": 6500
+            },
+            {
+              "palabra": "uranio",
+              "inicioMs": 6500,
+              "finMs": 6720
+            },
+            {
+              "palabra": "frenaba",
+              "inicioMs": 7100,
+              "finMs": 7400
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 7500,
+              "finMs": 7580
+            },
+            {
+              "palabra": "neutrones",
+              "inicioMs": 7580,
+              "finMs": 7960
+            },
+            {
+              "palabra": "e",
+              "inicioMs": 7960,
+              "finMs": 8140
+            },
+            {
+              "palabra": "iniciaba",
+              "inicioMs": 8320,
+              "finMs": 8700
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 8700,
+              "finMs": 8820
+            },
+            {
+              "palabra": "fisión",
+              "inicioMs": 8820,
+              "finMs": 9140
+            },
+            {
+              "palabra": "nuclear",
+              "inicioMs": 9140,
+              "finMs": 9480
+            },
+            {
+              "palabra": "A",
+              "inicioMs": 9700,
+              "finMs": 9760
+            },
+            {
+              "palabra": "medida",
+              "inicioMs": 9760,
+              "finMs": 9920
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 9920,
+              "finMs": 10180
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 10180,
+              "finMs": 10300
+            },
+            {
+              "palabra": "calor",
+              "inicioMs": 10300,
+              "finMs": 10400
+            },
+            {
+              "palabra": "atómico",
+              "inicioMs": 10400,
+              "finMs": 10860
+            },
+            {
+              "palabra": "elevaba",
+              "inicioMs": 10860,
+              "finMs": 11180
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 11180,
+              "finMs": 11320
+            },
+            {
+              "palabra": "temperatura",
+              "inicioMs": 11320,
+              "finMs": 11660
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 11660,
+              "finMs": 11785
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 11660,
+              "finMs": 12020
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12020,
+              "finMs": 12160
+            },
+            {
+              "palabra": "cuatrocientos",
+              "inicioMs": 12160,
+              "finMs": 12350
+            },
+            {
+              "palabra": "grados",
+              "inicioMs": 12540,
+              "finMs": 13000
+            },
+            {
+              "palabra": "centígrados",
+              "inicioMs": 13000,
+              "finMs": 13600
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 13960,
+              "finMs": 14080
+            },
+            {
+              "palabra": "agua",
+              "inicioMs": 14080,
+              "finMs": 14260
+            },
+            {
+              "palabra": "comenzaba",
+              "inicioMs": 14260,
+              "finMs": 14800
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 14800,
+              "finMs": 14880
+            },
+            {
+              "palabra": "hervir",
+              "inicioMs": 14880,
+              "finMs": 15060
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 15060,
+              "finMs": 15300
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 15300,
+              "finMs": 15440
+            },
+            {
+              "palabra": "evaporaba",
+              "inicioMs": 15440,
+              "finMs": 15920
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 15920,
+              "finMs": 16020
+            },
+            {
+              "palabra": "vapor",
+              "inicioMs": 16020,
+              "finMs": 16200
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 16200,
+              "finMs": 16520
+            },
+            {
+              "palabra": "alta",
+              "inicioMs": 16520,
+              "finMs": 16740
+            },
+            {
+              "palabra": "presión",
+              "inicioMs": 16740,
+              "finMs": 17160
+            },
+            {
+              "palabra": "Sin",
+              "inicioMs": 17380,
+              "finMs": 17480
+            },
+            {
+              "palabra": "agua",
+              "inicioMs": 17480,
+              "finMs": 17720
+            },
+            {
+              "palabra": "líquida",
+              "inicioMs": 17720,
+              "finMs": 18140
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 18140,
+              "finMs": 18380
+            },
+            {
+              "palabra": "moderador",
+              "inicioMs": 18380,
+              "finMs": 18940
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 19060,
+              "finMs": 19120
+            },
+            {
+              "palabra": "neutrones",
+              "inicioMs": 19120,
+              "finMs": 19540
+            },
+            {
+              "palabra": "viajaban",
+              "inicioMs": 19540,
+              "finMs": 20000
+            },
+            {
+              "palabra": "demasiado",
+              "inicioMs": 20000,
+              "finMs": 20420
+            },
+            {
+              "palabra": "rápido",
+              "inicioMs": 20420,
+              "finMs": 20860
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 20860,
+              "finMs": 21140
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 21140,
+              "finMs": 21240
+            },
+            {
+              "palabra": "reacción",
+              "inicioMs": 21240,
+              "finMs": 21560
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 21560,
+              "finMs": 21780
+            },
+            {
+              "palabra": "detenía",
+              "inicioMs": 21780,
+              "finMs": 22180
+            },
+            {
+              "palabra": "sola",
+              "inicioMs": 22180,
+              "finMs": 22480
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 22480,
+              "finMs": 22640
+            },
+            {
+              "palabra": "forma",
+              "inicioMs": 22640,
+              "finMs": 22900
+            },
+            {
+              "palabra": "segura",
+              "inicioMs": 22900,
+              "finMs": 23340
+            },
+            {
+              "palabra": "Al",
+              "inicioMs": 23980,
+              "finMs": 24140
+            },
+            {
+              "palabra": "enfriarse",
+              "inicioMs": 24140,
+              "finMs": 24600
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 24600,
+              "finMs": 24820
+            },
+            {
+              "palabra": "lecho",
+              "inicioMs": 24820,
+              "finMs": 25000
+            },
+            {
+              "palabra": "mineral",
+              "inicioMs": 25000,
+              "finMs": 25220
+            },
+            {
+              "palabra": "horas",
+              "inicioMs": 25220,
+              "finMs": 25560
+            },
+            {
+              "palabra": "después",
+              "inicioMs": 25560,
+              "finMs": 25880
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 25980,
+              "finMs": 26080
+            },
+            {
+              "palabra": "agua",
+              "inicioMs": 26080,
+              "finMs": 26260
+            },
+            {
+              "palabra": "volvía",
+              "inicioMs": 26260,
+              "finMs": 26660
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 26660,
+              "finMs": 26800
+            },
+            {
+              "palabra": "condensarse",
+              "inicioMs": 26800,
+              "finMs": 27400
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 27400,
+              "finMs": 27720
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 27720,
+              "finMs": 27840
+            },
+            {
+              "palabra": "ciclo",
+              "inicioMs": 27840,
+              "finMs": 28160
+            },
+            {
+              "palabra": "arrancaba",
+              "inicioMs": 28160,
+              "finMs": 28740
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 28740,
+              "finMs": 28860
+            },
+            {
+              "palabra": "nuevo",
+              "inicioMs": 28860,
+              "finMs": 29120
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 49.89
+    },
+    {
+      "id": "cap_5",
+      "numero": 5,
+      "titulo": "Cien Mil Años de Energía Atómica Silenciosa",
+      "resumen": "La potencia promedio de 100 kilovatios y la contención de residuos.",
+      "escenas": [
+        {
+          "id": 9,
+          "texto": "Los cálculos físicos demostraron que en la región de Oklo operaron al menos dieciséis reactores nucleares naturales independientes. Juntos funcionaron de forma ininterrumpida durante cientos de miles de años, produciendo una potencia térmica continua de aproximadamente cien kilovatios, suficiente para abastecer de electricidad a una docena de hogares modernos. A lo largo de su vida útil consumieron más de cinco toneladas de uranio doscientos treinta y cinco y generaron toneladas de plutonio y residuos radiactivos altamente peligrosos.",
+          "tituloVisual": "16 REACTORES NATURALES",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "red_subterranea",
+          "transicion": "zoom_in",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "dieciséis reactores",
+            "cien kilovatios",
+            "cinco toneladas de uranio",
+            "cientos de miles de años"
+          ],
+          "poseId": "standing_curious",
+          "expresion": "analytical",
+          "duracionSegundos": 29.962,
+          "palabras": [
+            {
+              "palabra": "Los",
+              "inicioMs": 0,
+              "finMs": 220
+            },
+            {
+              "palabra": "cálculos",
+              "inicioMs": 220,
+              "finMs": 560
+            },
+            {
+              "palabra": "físicos",
+              "inicioMs": 560,
+              "finMs": 1060
+            },
+            {
+              "palabra": "demostraron",
+              "inicioMs": 1060,
+              "finMs": 1640
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 1640,
+              "finMs": 1820
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 1820,
+              "finMs": 1980
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 1980,
+              "finMs": 2060
+            },
+            {
+              "palabra": "región",
+              "inicioMs": 2060,
+              "finMs": 2320
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2320,
+              "finMs": 2560
+            },
+            {
+              "palabra": "Oklo",
+              "inicioMs": 2560,
+              "finMs": 2820
+            },
+            {
+              "palabra": "operaron",
+              "inicioMs": 2820,
+              "finMs": 3360
+            },
+            {
+              "palabra": "al",
+              "inicioMs": 3360,
+              "finMs": 3540
+            },
+            {
+              "palabra": "menos",
+              "inicioMs": 3540,
+              "finMs": 3680
+            },
+            {
+              "palabra": "dieciséis",
+              "inicioMs": 3680,
+              "finMs": 3920
+            },
+            {
+              "palabra": "reactores",
+              "inicioMs": 4160,
+              "finMs": 4680
+            },
+            {
+              "palabra": "nucleares",
+              "inicioMs": 4680,
+              "finMs": 5200
+            },
+            {
+              "palabra": "naturales",
+              "inicioMs": 5200,
+              "finMs": 6020
+            },
+            {
+              "palabra": "independientes",
+              "inicioMs": 6020,
+              "finMs": 6780
+            },
+            {
+              "palabra": "Juntos",
+              "inicioMs": 7060,
+              "finMs": 7260
+            },
+            {
+              "palabra": "funcionaron",
+              "inicioMs": 7260,
+              "finMs": 7740
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 7740,
+              "finMs": 7900
+            },
+            {
+              "palabra": "forma",
+              "inicioMs": 7900,
+              "finMs": 8080
+            },
+            {
+              "palabra": "ininterrumpida",
+              "inicioMs": 8240,
+              "finMs": 8780
+            },
+            {
+              "palabra": "durante",
+              "inicioMs": 8780,
+              "finMs": 9040
+            },
+            {
+              "palabra": "cientos",
+              "inicioMs": 9040,
+              "finMs": 9440
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9440,
+              "finMs": 9620
+            },
+            {
+              "palabra": "miles",
+              "inicioMs": 9620,
+              "finMs": 9780
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9780,
+              "finMs": 9980
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 9980,
+              "finMs": 10260
+            },
+            {
+              "palabra": "produciendo",
+              "inicioMs": 10540,
+              "finMs": 10880
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 10880,
+              "finMs": 11080
+            },
+            {
+              "palabra": "potencia",
+              "inicioMs": 11080,
+              "finMs": 11480
+            },
+            {
+              "palabra": "térmica",
+              "inicioMs": 11480,
+              "finMs": 11880
+            },
+            {
+              "palabra": "continua",
+              "inicioMs": 11880,
+              "finMs": 12400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12400,
+              "finMs": 12540
+            },
+            {
+              "palabra": "aproximadamente",
+              "inicioMs": 12540,
+              "finMs": 13020
+            },
+            {
+              "palabra": "cien",
+              "inicioMs": 13020,
+              "finMs": 13480
+            },
+            {
+              "palabra": "kilovatios",
+              "inicioMs": 13480,
+              "finMs": 14060
+            },
+            {
+              "palabra": "suficiente",
+              "inicioMs": 14360,
+              "finMs": 14700
+            },
+            {
+              "palabra": "para",
+              "inicioMs": 14700,
+              "finMs": 15040
+            },
+            {
+              "palabra": "abastecer",
+              "inicioMs": 15040,
+              "finMs": 15520
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 15520,
+              "finMs": 15660
+            },
+            {
+              "palabra": "electricidad",
+              "inicioMs": 15660,
+              "finMs": 16220
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 16220,
+              "finMs": 16600
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 16600,
+              "finMs": 16780
+            },
+            {
+              "palabra": "docena",
+              "inicioMs": 16780,
+              "finMs": 17120
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 17120,
+              "finMs": 17280
+            },
+            {
+              "palabra": "hogares",
+              "inicioMs": 17280,
+              "finMs": 17560
+            },
+            {
+              "palabra": "modernos",
+              "inicioMs": 17560,
+              "finMs": 18220
+            },
+            {
+              "palabra": "A",
+              "inicioMs": 18420,
+              "finMs": 18500
+            },
+            {
+              "palabra": "lo",
+              "inicioMs": 18500,
+              "finMs": 18600
+            },
+            {
+              "palabra": "largo",
+              "inicioMs": 18600,
+              "finMs": 18900
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 18900,
+              "finMs": 19080
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 19080,
+              "finMs": 19200
+            },
+            {
+              "palabra": "vida",
+              "inicioMs": 19200,
+              "finMs": 19420
+            },
+            {
+              "palabra": "útil",
+              "inicioMs": 19420,
+              "finMs": 19740
+            },
+            {
+              "palabra": "consumieron",
+              "inicioMs": 19740,
+              "finMs": 20380
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 20380,
+              "finMs": 20660
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 20660,
+              "finMs": 20860
+            },
+            {
+              "palabra": "cinco",
+              "inicioMs": 20860,
+              "finMs": 21020
+            },
+            {
+              "palabra": "toneladas",
+              "inicioMs": 21180,
+              "finMs": 21620
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 21620,
+              "finMs": 21880
+            },
+            {
+              "palabra": "uranio",
+              "inicioMs": 21880,
+              "finMs": 22260
+            },
+            {
+              "palabra": "doscientos",
+              "inicioMs": 22260,
+              "finMs": 22544
+            },
+            {
+              "palabra": "treinta",
+              "inicioMs": 22544,
+              "finMs": 22828
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 22828,
+              "finMs": 23112
+            },
+            {
+              "palabra": "cinco",
+              "inicioMs": 23112,
+              "finMs": 23396
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 23680,
+              "finMs": 24000
+            },
+            {
+              "palabra": "generaron",
+              "inicioMs": 24000,
+              "finMs": 24480
+            },
+            {
+              "palabra": "toneladas",
+              "inicioMs": 24480,
+              "finMs": 24980
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 24980,
+              "finMs": 25160
+            },
+            {
+              "palabra": "plutonio",
+              "inicioMs": 25160,
+              "finMs": 25760
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 25760,
+              "finMs": 26330
+            },
+            {
+              "palabra": "residuos",
+              "inicioMs": 26900,
+              "finMs": 27440
+            },
+            {
+              "palabra": "radiactivos",
+              "inicioMs": 27440,
+              "finMs": 28040
+            },
+            {
+              "palabra": "altamente",
+              "inicioMs": 28040,
+              "finMs": 28640
+            },
+            {
+              "palabra": "peligrosos",
+              "inicioMs": 28640,
+              "finMs": 29380
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "texto": "Sin embargo, lo que verdaderamente cautiva a los ingenieros nucleares contemporáneos es cómo la naturaleza resolvió el problema del almacenamiento de residuos: a lo largo de dos mil millones de años de historia geológica, los residuos radiactivos más peligrosos, como el plutonio y los actínidos, apenas se desplazaron unos pocos centímetros de su posición original, atrapados sólidamente en la estructura mineral de arcillas de fosfato sin contaminar el agua circundante.",
+          "tituloVisual": "EL ALMACEN GEOLOGICO",
+          "layout": "split_screen",
+          "composicionVisual": "plano_medio",
+          "escenario": "laboratorio",
+          "transicion": "whip_left",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_sci_fi_beep.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "residuos radiactivos",
+            "arcillas de fosfato",
+            "dos mil millones de años",
+            "pocos centímetros"
+          ],
+          "poseId": "holding_presentation_board",
+          "expresion": "eureka",
+          "duracionSegundos": 23.554,
+          "palabras": [
+            {
+              "palabra": "Sin",
+              "inicioMs": 0,
+              "finMs": 260
+            },
+            {
+              "palabra": "embargo",
+              "inicioMs": 260,
+              "finMs": 500
+            },
+            {
+              "palabra": "lo",
+              "inicioMs": 960,
+              "finMs": 1040
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 1040,
+              "finMs": 1160
+            },
+            {
+              "palabra": "verdaderamente",
+              "inicioMs": 1160,
+              "finMs": 1680
+            },
+            {
+              "palabra": "cautiva",
+              "inicioMs": 1680,
+              "finMs": 2220
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 2220,
+              "finMs": 2345
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 2220,
+              "finMs": 2420
+            },
+            {
+              "palabra": "ingenieros",
+              "inicioMs": 2420,
+              "finMs": 2860
+            },
+            {
+              "palabra": "nucleares",
+              "inicioMs": 2860,
+              "finMs": 3260
+            },
+            {
+              "palabra": "contemporáneos",
+              "inicioMs": 3260,
+              "finMs": 4100
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 4100,
+              "finMs": 4260
+            },
+            {
+              "palabra": "cómo",
+              "inicioMs": 4260,
+              "finMs": 4540
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 4540,
+              "finMs": 4680
+            },
+            {
+              "palabra": "naturaleza",
+              "inicioMs": 4680,
+              "finMs": 5260
+            },
+            {
+              "palabra": "resolvió",
+              "inicioMs": 5260,
+              "finMs": 5700
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 5700,
+              "finMs": 5800
+            },
+            {
+              "palabra": "problema",
+              "inicioMs": 5800,
+              "finMs": 6080
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 6080,
+              "finMs": 6300
+            },
+            {
+              "palabra": "almacenamiento",
+              "inicioMs": 6300,
+              "finMs": 6880
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6880,
+              "finMs": 7080
+            },
+            {
+              "palabra": "residuos",
+              "inicioMs": 7080,
+              "finMs": 7660
+            },
+            {
+              "palabra": "a",
+              "inicioMs": 7980,
+              "finMs": 8140
+            },
+            {
+              "palabra": "lo",
+              "inicioMs": 8140,
+              "finMs": 8240
+            },
+            {
+              "palabra": "largo",
+              "inicioMs": 8240,
+              "finMs": 8500
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 8500,
+              "finMs": 8680
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 8680,
+              "finMs": 8793
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 8793,
+              "finMs": 8907
+            },
+            {
+              "palabra": "millones",
+              "inicioMs": 9020,
+              "finMs": 9400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9400,
+              "finMs": 9620
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 9620,
+              "finMs": 9820
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9820,
+              "finMs": 9960
+            },
+            {
+              "palabra": "historia",
+              "inicioMs": 9960,
+              "finMs": 10240
+            },
+            {
+              "palabra": "geológica",
+              "inicioMs": 10240,
+              "finMs": 10900
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 11060,
+              "finMs": 11140
+            },
+            {
+              "palabra": "residuos",
+              "inicioMs": 11140,
+              "finMs": 11620
+            },
+            {
+              "palabra": "radiactivos",
+              "inicioMs": 11620,
+              "finMs": 12140
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 12140,
+              "finMs": 12420
+            },
+            {
+              "palabra": "peligrosos",
+              "inicioMs": 12420,
+              "finMs": 13200
+            },
+            {
+              "palabra": "como",
+              "inicioMs": 13200,
+              "finMs": 13520
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 13520,
+              "finMs": 13700
+            },
+            {
+              "palabra": "plutonio",
+              "inicioMs": 13700,
+              "finMs": 14120
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 14120,
+              "finMs": 14160
+            },
+            {
+              "palabra": "los",
+              "inicioMs": 14160,
+              "finMs": 14260
+            },
+            {
+              "palabra": "actínidos",
+              "inicioMs": 14260,
+              "finMs": 14780
+            },
+            {
+              "palabra": "apenas",
+              "inicioMs": 14940,
+              "finMs": 15100
+            },
+            {
+              "palabra": "se",
+              "inicioMs": 15100,
+              "finMs": 15300
+            },
+            {
+              "palabra": "desplazaron",
+              "inicioMs": 15300,
+              "finMs": 15760
+            },
+            {
+              "palabra": "unos",
+              "inicioMs": 15760,
+              "finMs": 15920
+            },
+            {
+              "palabra": "pocos",
+              "inicioMs": 15920,
+              "finMs": 16280
+            },
+            {
+              "palabra": "centímetros",
+              "inicioMs": 16280,
+              "finMs": 16740
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 16740,
+              "finMs": 16920
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 16920,
+              "finMs": 17045
+            },
+            {
+              "palabra": "posición",
+              "inicioMs": 16920,
+              "finMs": 17380
+            },
+            {
+              "palabra": "original",
+              "inicioMs": 17380,
+              "finMs": 17840
+            },
+            {
+              "palabra": "atrapados",
+              "inicioMs": 18080,
+              "finMs": 18600
+            },
+            {
+              "palabra": "sólidamente",
+              "inicioMs": 18600,
+              "finMs": 19220
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 19220,
+              "finMs": 19460
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 19460,
+              "finMs": 19520
+            },
+            {
+              "palabra": "estructura",
+              "inicioMs": 19520,
+              "finMs": 19900
+            },
+            {
+              "palabra": "mineral",
+              "inicioMs": 19900,
+              "finMs": 20200
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 20200,
+              "finMs": 20440
+            },
+            {
+              "palabra": "arcillas",
+              "inicioMs": 20440,
+              "finMs": 20590
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 20740,
+              "finMs": 20860
+            },
+            {
+              "palabra": "fosfato",
+              "inicioMs": 20860,
+              "finMs": 21360
+            },
+            {
+              "palabra": "sin",
+              "inicioMs": 21360,
+              "finMs": 21540
+            },
+            {
+              "palabra": "contaminar",
+              "inicioMs": 21540,
+              "finMs": 22140
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 22140,
+              "finMs": 22260
+            },
+            {
+              "palabra": "agua",
+              "inicioMs": 22260,
+              "finMs": 22420
+            },
+            {
+              "palabra": "circundante",
+              "inicioMs": 22420,
+              "finMs": 23080
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 53.52
+    },
+    {
+      "id": "cap_6",
+      "numero": 6,
+      "titulo": "La Naturaleza nos Ganó por Dos Mil Millones de Años",
+      "resumen": "La humildad científica de la humanidad frente al poder del planeta.",
+      "escenas": [
+        {
+          "id": 11,
+          "texto": "Cuando Enrico Fermi y su equipo lograron la primera reacción nuclear en cadena controlada por la humanidad en la Universidad de Chicago en diciembre de mil novecientos cuarenta y dos, creyeron que habían inaugurado una hazaña tecnológica exclusiva de la inteligencia humana: la era atómica.",
+          "tituloVisual": "CHICAGO PILE-1 (1942)",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "laboratorio",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_whoosh.wav",
+          "volumenSfx": 0.2,
+          "palabrasClave": [
+            "Enrico Fermi",
+            "Chicago Pile-1",
+            "diciembre de mil novecientos cuarenta y dos",
+            "era atómica"
+          ],
+          "poseId": "walking_confidently",
+          "expresion": "talking",
+          "duracionSegundos": 13.882,
+          "palabras": [
+            {
+              "palabra": "Cuando",
+              "inicioMs": 0,
+              "finMs": 300
+            },
+            {
+              "palabra": "Enrico",
+              "inicioMs": 300,
+              "finMs": 600
+            },
+            {
+              "palabra": "Fermi",
+              "inicioMs": 600,
+              "finMs": 980
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 980,
+              "finMs": 1080
+            },
+            {
+              "palabra": "su",
+              "inicioMs": 1080,
+              "finMs": 1120
+            },
+            {
+              "palabra": "equipo",
+              "inicioMs": 1120,
+              "finMs": 1380
+            },
+            {
+              "palabra": "lograron",
+              "inicioMs": 1380,
+              "finMs": 1880
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 1880,
+              "finMs": 2040
+            },
+            {
+              "palabra": "primera",
+              "inicioMs": 2040,
+              "finMs": 2300
+            },
+            {
+              "palabra": "reacción",
+              "inicioMs": 2300,
+              "finMs": 2740
+            },
+            {
+              "palabra": "nuclear",
+              "inicioMs": 2740,
+              "finMs": 3040
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 3040,
+              "finMs": 3260
+            },
+            {
+              "palabra": "cadena",
+              "inicioMs": 3260,
+              "finMs": 3600
+            },
+            {
+              "palabra": "controlada",
+              "inicioMs": 3600,
+              "finMs": 4160
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 4160,
+              "finMs": 4360
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 4360,
+              "finMs": 4480
+            },
+            {
+              "palabra": "humanidad",
+              "inicioMs": 4480,
+              "finMs": 4880
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 4880,
+              "finMs": 5140
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 5140,
+              "finMs": 5240
+            },
+            {
+              "palabra": "Universidad",
+              "inicioMs": 5240,
+              "finMs": 5740
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 5740,
+              "finMs": 5880
+            },
+            {
+              "palabra": "Chicago",
+              "inicioMs": 5880,
+              "finMs": 6200
+            },
+            {
+              "palabra": "en",
+              "inicioMs": 6200,
+              "finMs": 6420
+            },
+            {
+              "palabra": "diciembre",
+              "inicioMs": 6420,
+              "finMs": 6820
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 6820,
+              "finMs": 7000
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 7000,
+              "finMs": 7117
+            },
+            {
+              "palabra": "novecientos",
+              "inicioMs": 7117,
+              "finMs": 7233
+            },
+            {
+              "palabra": "cuarenta",
+              "inicioMs": 7233,
+              "finMs": 7350
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 7350,
+              "finMs": 7467
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 7467,
+              "finMs": 7583
+            },
+            {
+              "palabra": "creyeron",
+              "inicioMs": 7700,
+              "finMs": 8660
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 8660,
+              "finMs": 8800
+            },
+            {
+              "palabra": "habían",
+              "inicioMs": 8800,
+              "finMs": 9000
+            },
+            {
+              "palabra": "inaugurado",
+              "inicioMs": 9000,
+              "finMs": 9560
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 9560,
+              "finMs": 9740
+            },
+            {
+              "palabra": "hazaña",
+              "inicioMs": 9740,
+              "finMs": 10000
+            },
+            {
+              "palabra": "tecnológica",
+              "inicioMs": 10000,
+              "finMs": 10620
+            },
+            {
+              "palabra": "exclusiva",
+              "inicioMs": 10620,
+              "finMs": 11160
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11160,
+              "finMs": 11280
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 11280,
+              "finMs": 11360
+            },
+            {
+              "palabra": "inteligencia",
+              "inicioMs": 11360,
+              "finMs": 11880
+            },
+            {
+              "palabra": "humana",
+              "inicioMs": 11880,
+              "finMs": 12300
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 12540,
+              "finMs": 12620
+            },
+            {
+              "palabra": "era",
+              "inicioMs": 12620,
+              "finMs": 12820
+            },
+            {
+              "palabra": "atómica",
+              "inicioMs": 12820,
+              "finMs": 13400
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "texto": "El reactor fósil de Oklo nos enseñó una lección monumental de humildad cósmica: la naturaleza ya había dominado la energía nuclear, el control por moderación hidrodinámica y el aislamiento geológico de residuos atómicos dos mil millones de años antes de que el primer ser humano encendiera una fogata. La Tierra no es solo nuestro hogar; es el laboratorio científico más asombroso del universo.",
+          "tituloVisual": "HUMILDAD COSMICA",
+          "layout": "panoramica_central",
+          "composicionVisual": "plano_general",
+          "escenario": "cielo_dia",
+          "transicion": "fundido_negro",
+          "efectosCamara": [
+            "drift"
+          ],
+          "sfx": "sfx/sfx_dramatic_hit.wav",
+          "volumenSfx": 0.25,
+          "palabrasClave": [
+            "humildad cósmica",
+            "laboratorio científico",
+            "energía nuclear natural",
+            "aislamiento geológico"
+          ],
+          "poseId": "explaining_both_hands",
+          "expresion": "smile_wide",
+          "duracionSegundos": 19.642,
+          "palabras": [
+            {
+              "palabra": "El",
+              "inicioMs": 0,
+              "finMs": 120
+            },
+            {
+              "palabra": "reactor",
+              "inicioMs": 120,
+              "finMs": 420
+            },
+            {
+              "palabra": "fósil",
+              "inicioMs": 420,
+              "finMs": 780
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 780,
+              "finMs": 920
+            },
+            {
+              "palabra": "Oklo",
+              "inicioMs": 920,
+              "finMs": 1080
+            },
+            {
+              "palabra": "nos",
+              "inicioMs": 1240,
+              "finMs": 1380
+            },
+            {
+              "palabra": "enseñó",
+              "inicioMs": 1380,
+              "finMs": 1700
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 1700,
+              "finMs": 1840
+            },
+            {
+              "palabra": "lección",
+              "inicioMs": 1840,
+              "finMs": 2160
+            },
+            {
+              "palabra": "monumental",
+              "inicioMs": 2160,
+              "finMs": 2480
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 2480,
+              "finMs": 2780
+            },
+            {
+              "palabra": "humildad",
+              "inicioMs": 2780,
+              "finMs": 3080
+            },
+            {
+              "palabra": "cósmica",
+              "inicioMs": 3080,
+              "finMs": 3600
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 3740,
+              "finMs": 3780
+            },
+            {
+              "palabra": "naturaleza",
+              "inicioMs": 3780,
+              "finMs": 4280
+            },
+            {
+              "palabra": "ya",
+              "inicioMs": 4280,
+              "finMs": 4420
+            },
+            {
+              "palabra": "había",
+              "inicioMs": 4420,
+              "finMs": 4560
+            },
+            {
+              "palabra": "dominado",
+              "inicioMs": 4560,
+              "finMs": 4960
+            },
+            {
+              "palabra": "la",
+              "inicioMs": 4960,
+              "finMs": 5080
+            },
+            {
+              "palabra": "energía",
+              "inicioMs": 5080,
+              "finMs": 5320
+            },
+            {
+              "palabra": "nuclear",
+              "inicioMs": 5320,
+              "finMs": 5680
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 5880,
+              "finMs": 5980
+            },
+            {
+              "palabra": "control",
+              "inicioMs": 5980,
+              "finMs": 6340
+            },
+            {
+              "palabra": "por",
+              "inicioMs": 6340,
+              "finMs": 6600
+            },
+            {
+              "palabra": "moderación",
+              "inicioMs": 6600,
+              "finMs": 7100
+            },
+            {
+              "palabra": "hidrodinámica",
+              "inicioMs": 7100,
+              "finMs": 7900
+            },
+            {
+              "palabra": "y",
+              "inicioMs": 7900,
+              "finMs": 8120
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 8120,
+              "finMs": 8240
+            },
+            {
+              "palabra": "aislamiento",
+              "inicioMs": 8240,
+              "finMs": 8840
+            },
+            {
+              "palabra": "geológico",
+              "inicioMs": 8840,
+              "finMs": 9400
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 9400,
+              "finMs": 9580
+            },
+            {
+              "palabra": "residuos",
+              "inicioMs": 9580,
+              "finMs": 10020
+            },
+            {
+              "palabra": "atómicos",
+              "inicioMs": 10020,
+              "finMs": 10620
+            },
+            {
+              "palabra": "dos",
+              "inicioMs": 10620,
+              "finMs": 10800
+            },
+            {
+              "palabra": "mil",
+              "inicioMs": 10800,
+              "finMs": 10980
+            },
+            {
+              "palabra": "millones",
+              "inicioMs": 11160,
+              "finMs": 11440
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 11440,
+              "finMs": 11700
+            },
+            {
+              "palabra": "años",
+              "inicioMs": 11700,
+              "finMs": 11920
+            },
+            {
+              "palabra": "antes",
+              "inicioMs": 11920,
+              "finMs": 12380
+            },
+            {
+              "palabra": "de",
+              "inicioMs": 12380,
+              "finMs": 12560
+            },
+            {
+              "palabra": "que",
+              "inicioMs": 12560,
+              "finMs": 12680
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 12680,
+              "finMs": 12800
+            },
+            {
+              "palabra": "primer",
+              "inicioMs": 12800,
+              "finMs": 13020
+            },
+            {
+              "palabra": "ser",
+              "inicioMs": 13020,
+              "finMs": 13260
+            },
+            {
+              "palabra": "humano",
+              "inicioMs": 13260,
+              "finMs": 13560
+            },
+            {
+              "palabra": "encendiera",
+              "inicioMs": 13560,
+              "finMs": 14220
+            },
+            {
+              "palabra": "una",
+              "inicioMs": 14220,
+              "finMs": 14380
+            },
+            {
+              "palabra": "fogata",
+              "inicioMs": 14380,
+              "finMs": 14840
+            },
+            {
+              "palabra": "La",
+              "inicioMs": 14980,
+              "finMs": 15060
+            },
+            {
+              "palabra": "Tierra",
+              "inicioMs": 15060,
+              "finMs": 15340
+            },
+            {
+              "palabra": "no",
+              "inicioMs": 15340,
+              "finMs": 15540
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 15540,
+              "finMs": 15660
+            },
+            {
+              "palabra": "solo",
+              "inicioMs": 15660,
+              "finMs": 15840
+            },
+            {
+              "palabra": "nuestro",
+              "inicioMs": 15840,
+              "finMs": 16160
+            },
+            {
+              "palabra": "hogar",
+              "inicioMs": 16160,
+              "finMs": 16520
+            },
+            {
+              "palabra": "es",
+              "inicioMs": 16600,
+              "finMs": 16720
+            },
+            {
+              "palabra": "el",
+              "inicioMs": 16720,
+              "finMs": 16840
+            },
+            {
+              "palabra": "laboratorio",
+              "inicioMs": 16840,
+              "finMs": 17320
+            },
+            {
+              "palabra": "científico",
+              "inicioMs": 17320,
+              "finMs": 17960
+            },
+            {
+              "palabra": "más",
+              "inicioMs": 17960,
+              "finMs": 18100
+            },
+            {
+              "palabra": "asombroso",
+              "inicioMs": 18100,
+              "finMs": 18580
+            },
+            {
+              "palabra": "del",
+              "inicioMs": 18580,
+              "finMs": 18740
+            },
+            {
+              "palabra": "universo",
+              "inicioMs": 18740,
+              "finMs": 19060
+            }
+          ]
+        }
+      ],
+      "duracionSegundos": 33.52
+    }
+  ]
+}
